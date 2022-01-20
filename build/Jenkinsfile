@@ -1,8 +1,8 @@
 String cred_git = 'GitHub'
 String cred_github = 'GitHub-Token'
 
-String github_account = 'TheDrHax'
-String github_repo = 'BlackSilverUfa'
+String github_account = 'BlackSilverUfa'
+String github_repo = 'Legacy'
 String input_branch = 'master'
 
 String repo_url = 'git@github.com:' + github_account + '/' + github_repo + '.git'
@@ -34,7 +34,9 @@ podTemplate(cloud: 'k3s', inheritFrom: 'blackufa') {
                 sh './bsu pages commit "Jenkins: Обновление статичных файлов"'
 
                 sshagent (credentials: [cred_git]) {
-                    sh './bsu pages push'
+                    // Do not push chats
+                    // Chat archives are managed by TheDrHax/BlackSilverUfa
+                    sh './bsu pages push _site'
                 }
 
                 githubNotify(
