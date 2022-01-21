@@ -8595,16 +8595,12 @@
     "abs_start": "0:00", "abs_end": "4:57:05", "duration": "0:00",
     "name": "",
     "date": "2021-12-02",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1221836695.mp4",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1221836695.torrent",
     "games": []
   },
   "1222013740": {
     "abs_start": "0:00", "abs_end": "3:29:47", "duration": "0:00",
     "name": "",
     "date": "2021-12-02",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1222013740.mp4",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1222013740.torrent",
     "games": []
   },
   "1221836695,1222013740": {
@@ -8750,10 +8746,10 @@
   },
   "1244748634": {
     "youtube": "R8Hv2HFmML4", "abs_start": "0:00", "abs_end": "6:04:11", "duration": "6:04:11",
-    "name": "Five Nights At Freddy's: Security Breach #4 / Project Zomboid",
+    "name": "Five Nights At Freddy's: Security Breach #4 / Project Zomboid #1 (с Артёмом)",
     "date": "2021-12-27",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1244748634.torrent",
-    "games": ["fnaf-sb", "co-op"]
+    "games": ["fnaf-sb", "zomboid"]
   },
   "1245734451": {
     "youtube": "_HEvBsnwhfE", "abs_start": "0:00", "abs_end": "6:20:15", "duration": "6:20:15",
@@ -8882,11 +8878,18 @@
     "games": ["first-2022"]
   },
   "1269805961": {
-    "abs_start": "0:00", "abs_end": "7:23:09", "duration": "0:00",
+    "youtube": "3yPTaUWv79E", "abs_start": "0:15", "abs_end": "7:22:52", "duration": "7:22:37",
     "name": "Metro: Last Light Redux #2 / Tom Clancy's Rainbow Six Extraction (с WLG и TanyaLOA)",
     "date": "2022-01-20",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1269805961.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1269805961.torrent",
     "games": ["metro-ll", "co-op"]
+  },
+  "1270926177": {
+    "abs_start": "0:00", "abs_end": "6:00:15", "duration": "0:00",
+    "name": "Project Zomboid #2 (16 стримеров)",
+    "date": "2022-01-21",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1270926177.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1270926177.torrent",
+    "games": ["zomboid"]
   }
 }
