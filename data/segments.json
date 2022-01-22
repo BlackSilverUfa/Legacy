@@ -8614,14 +8614,12 @@
     "youtube": "LOj_M7yUKdo", "abs_start": "0:00", "abs_end": "6:09:24", "duration": "6:09:24",
     "name": "Fall Guys #14 (с чатом) / Chorus / Invitationem / Propnight",
     "date": "2021-12-03",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1222726196.torrent",
     "games": ["fall-guys", "first-2021", "single"]
   },
   "1223700316": {
     "youtube": "VYj5uDTCXHM", "abs_start": "0:00", "abs_end": "5:52:37", "duration": "5:52:37",
     "name": "Icarus / Forewarned (с Куплиновым и Дангаром)",
     "date": "2021-12-04",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1223700316.torrent",
     "games": ["first-2021", "co-op"]
   },
   "1224807350": {
@@ -8885,11 +8883,18 @@
     "games": ["metro-ll", "co-op"]
   },
   "1270926177": {
-    "abs_start": "0:00", "abs_end": "6:00:15", "duration": "0:00",
+    "youtube": "kI-VF8BGsL8", "abs_start": "0:00", "abs_end": "6:00:09", "duration": "6:00:09",
     "name": "Project Zomboid #2 (16 стримеров)",
     "date": "2022-01-21",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1270926177.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1270926177.torrent",
     "games": ["zomboid"]
+  },
+  "1272051017": {
+    "abs_start": "0:00", "abs_end": "8:07:30", "duration": "0:00",
+    "name": "Metro: Last Light Redux #3 (финал и все DLC)",
+    "date": "2022-01-22",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1272051017.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1272051017.torrent",
+    "games": ["metro-ll"]
   }
 }
