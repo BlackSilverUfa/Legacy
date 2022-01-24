@@ -105,6 +105,21 @@ class Category:
 
 
 class Categories(dict):
+    def recents(self):
+        c = Category(name='Недавние стримы',
+                     code='recent',
+                     level=2,
+                     search=False)
+
+        last_segments = [segment
+                         for segment in streams.segments
+                         if len(segment.references) > 0][-10:]
+
+        for segment in last_segments:
+            c.games.add(segment.reference())
+        
+        return c
+
     def __init__(self, filename=CATEGORIES_JSON):
         self.filename = filename
         categories = load_json(filename)
@@ -112,21 +127,12 @@ class Categories(dict):
         if type(categories) is not list:
             raise TypeError
 
+        self['recents'] = self.recents()
+
         uncategorized = games.copy()
 
         for category in categories:
-            if category['code'] == 'recent':
-                c = Category.from_dict(category)
-                segments_with_refs = [segment
-                                      for segment in streams.segments
-                                      if len(segment.references) > 0]
-                last_segments = list(segments_with_refs)[-10:]
-
-                for segment in last_segments:
-                    c.games.add(segment.reference())
-            else:
-                c = Category.from_dict(category, games=uncategorized)
-
+            c = Category.from_dict(category, games=uncategorized)
             self[c.code] = c
 
         month_ago = datetime.now() - timedelta(days=30)
