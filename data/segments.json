@@ -8644,7 +8644,6 @@
     "youtube": "xmoCCdNwdR4", "abs_start": "0:00", "abs_end": "8:30:12", "duration": "8:30:12",
     "name": "Halo Infinite #2",
     "date": "2021-12-09",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1228484099.torrent",
     "games": ["halo-infinite"]
   },
   "1229405550": {
@@ -8908,5 +8907,13 @@
     "direct": "https://bsufiles.thedrhax.pw/streams/1274362855.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1274362855.torrent",
     "games": ["first-2022", "hidden-deep"]
+  },
+  "1279881006": {
+    "abs_start": "0:00", "abs_end": "7:38:10", "duration": "0:00",
+    "name": "Dying Light #4 / Dying Light - The Following #1",
+    "date": "2022-01-29",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1279881006.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1279881006.torrent",
+    "games": ["dying-light"]
   }
 }
