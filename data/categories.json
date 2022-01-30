@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "metro-2033", "segment": "1263236800", "name": "Metro 2033 Redux #3 / God of War #1 (заново, PC)", "start": 0},
       {"id": "metro-ll", "segment": "1264372459", "name": "Metro: Last Light Redux #1", "start": 0},
       {"id": "single", "segment": "1265545024", "name": "How Fish Is Made / Witching Hour (демо) / Halloween / Slit Mouthed / Beetlebum: Resident Weevil / SCP-847 / Everything Is For Humanity (демо) / Copperport Casefiles - Dead of Winter", "start": 0},
       {"id": "first-2022", "segment": "1268793469", "name": "Star Citizen", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "metro-ll", "segment": "1272051017", "name": "Metro: Last Light Redux #3 (финал и все DLC)", "start": 0},
       {"id": "single", "segment": "1273302913", "name": "Root of Guilt / Concluse 2 / Alternative Game: On Duty (фан-игра) / Experiment: Groceries / Dark Dreams (демо) / Within Yourself / Toy Hub Support / HorrorDriven: A story for the road (демо) / Before Dawn / Copperport Casefiles - Under the Stairs", "start": 0},
       {"id": "first-2022", "segment": "1274362855", "name": "Metro Exodus: Enhanced Edition / Hidden Deep #1 (с WLG)", "start": 0},
-      {"id": "dying-light", "segment": "1279881006", "name": "Dying Light #4 / Dying Light - The Following #1", "start": 0}
+      {"id": "dying-light", "segment": "1279881006", "name": "Dying Light #4 / Dying Light - The Following #1", "start": 0},
+      {"id": "single", "segment": "1281171085", "name": "From Next Door / Skinwalker / Paranoiac", "start": 0}
     ]
   },
   "finished": {
@@ -326,7 +326,10 @@
       {"id": "single", "segment": "1273302913", "name": "Dark Dreams (демо)", "start": 12943},
       {"id": "single", "segment": "1273302913", "name": "Within Yourself", "start": 13670},
       {"id": "single", "segment": "1273302913", "name": "Toy Hub Support", "start": 14394},
-      {"id": "single", "segment": "1273302913", "name": "Before Dawn", "start": 19180}
+      {"id": "single", "segment": "1273302913", "name": "Before Dawn", "start": 19180},
+      {"id": "single", "segment": "1281171085", "name": "From Next Door", "start": 0},
+      {"id": "single", "segment": "1281171085", "name": "Skinwalker", "start": 9018},
+      {"id": "single", "segment": "1281171085", "name": "Paranoiac", "start": 11979}
     ]
   },
   "first": {

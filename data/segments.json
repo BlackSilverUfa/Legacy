@@ -8650,7 +8650,6 @@
     "youtube": "oVlxPpyuFJM", "abs_start": "0:00", "abs_end": "6:45:05", "duration": "6:45:05",
     "name": "Halo Infinite #3 / The Matrix Awakens / The Game Awards #2021 (обзор)",
     "date": "2021-12-10",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1229405550.torrent",
     "games": ["halo-infinite", "first-2021", "tga"]
   },
   "1230440174": {
@@ -8915,5 +8914,13 @@
     "direct": "https://bsufiles.thedrhax.pw/streams/1279881006.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1279881006.torrent",
     "games": ["dying-light"]
+  },
+  "1281171085": {
+    "abs_start": "0:00", "abs_end": "6:03:18", "duration": "0:00",
+    "name": "From Next Door / Skinwalker / Paranoiac",
+    "date": "2022-01-30",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1281171085.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1281171085.torrent",
+    "games": ["single"]
   }
 }
