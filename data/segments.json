@@ -8657,7 +8657,6 @@
     "name": "Terminator: Resistance - Annihilation Line #1 / Heavenly Bodies",
     "date": "2021-12-11",
     "cuts": [[33, 38]],
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1230440174.torrent",
     "games": ["terminator-resistance", "co-op"]
   },
   "1231359432": {
@@ -8900,27 +8899,32 @@
     "games": ["single", "first-2022", "copperport"]
   },
   "1274362855": {
-    "abs_start": "0:00", "abs_end": "6:53:12", "duration": "0:00",
+    "youtube": "PH0cXp8J7w4", "abs_start": "0:00", "abs_end": "6:53:02", "duration": "6:53:02",
     "name": "Metro Exodus: Enhanced Edition / Hidden Deep #1 (с WLG)",
     "date": "2022-01-24",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1274362855.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1274362855.torrent",
     "games": ["first-2022", "hidden-deep"]
   },
   "1279881006": {
-    "abs_start": "0:00", "abs_end": "7:38:10", "duration": "0:00",
+    "youtube": "q-nBwoBYk3U", "abs_start": "0:00", "abs_end": "7:37:58", "duration": "7:37:58",
     "name": "Dying Light #4 / Dying Light - The Following #1",
     "date": "2022-01-29",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1279881006.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1279881006.torrent",
     "games": ["dying-light"]
   },
   "1281171085": {
-    "abs_start": "0:00", "abs_end": "6:03:18", "duration": "0:00",
+    "youtube": "pk79cphy_4Q", "abs_start": "0:00", "abs_end": "6:03:09", "duration": "6:03:09",
     "name": "From Next Door / Skinwalker / Paranoiac",
     "date": "2022-01-30",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1281171085.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1281171085.torrent",
     "games": ["single"]
+  },
+  "1282188188": {
+    "abs_start": "0:00", "abs_end": "8:02:49", "duration": "0:00",
+    "name": "Dying Light - The Following #2",
+    "date": "2022-01-31",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1282188188.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1282188188.torrent",
+    "games": ["dying-light"]
   }
 }

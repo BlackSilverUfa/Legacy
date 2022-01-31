@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "metro-ll", "segment": "1264372459", "name": "Metro: Last Light Redux #1", "start": 0},
       {"id": "single", "segment": "1265545024", "name": "How Fish Is Made / Witching Hour (демо) / Halloween / Slit Mouthed / Beetlebum: Resident Weevil / SCP-847 / Everything Is For Humanity (демо) / Copperport Casefiles - Dead of Winter", "start": 0},
       {"id": "first-2022", "segment": "1268793469", "name": "Star Citizen", "start": 0},
       {"id": "metro-ll", "segment": "1269805961", "name": "Metro: Last Light Redux #2 / Tom Clancy's Rainbow Six Extraction (с WLG и TanyaLOA)", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "single", "segment": "1273302913", "name": "Root of Guilt / Concluse 2 / Alternative Game: On Duty (фан-игра) / Experiment: Groceries / Dark Dreams (демо) / Within Yourself / Toy Hub Support / HorrorDriven: A story for the road (демо) / Before Dawn / Copperport Casefiles - Under the Stairs", "start": 0},
       {"id": "first-2022", "segment": "1274362855", "name": "Metro Exodus: Enhanced Edition / Hidden Deep #1 (с WLG)", "start": 0},
       {"id": "dying-light", "segment": "1279881006", "name": "Dying Light #4 / Dying Light - The Following #1", "start": 0},
-      {"id": "single", "segment": "1281171085", "name": "From Next Door / Skinwalker / Paranoiac", "start": 0}
+      {"id": "single", "segment": "1281171085", "name": "From Next Door / Skinwalker / Paranoiac", "start": 0},
+      {"id": "dying-light", "segment": "1282188188", "name": "Dying Light - The Following #2", "start": 0}
     ]
   },
   "finished": {
@@ -267,6 +267,7 @@
       {"id": "single", "segment": "1061050549", "name": "Tormented Souls", "start": 8784},
       {"id": "single", "segment": "1061050549", "name": "Ebola 2 Survival (демо)", "start": 13539},
       {"id": "single", "segment": "1062093790", "name": "Barbie in The 12 Dancing Princesses", "start": 0},
+      {"name": "Dying Light", "id": "dying-light", "segment": "1073309664"},
       {"id": "single", "segment": "1086385946,1086545283", "name": "Reminiscence", "start": 11627},
       {"id": "single", "segment": "1091562344", "name": "Game For Anna", "start": 0},
       {"name": "Fears to Fathom", "id": "fears-to-fathom", "segment": "1091562344"},
@@ -719,7 +720,6 @@
     "games": [
       {"name": "Hidden Deep", "id": "hidden-deep", "segment": "860924750"},
       {"name": "Зайчик (Tiny Bunny)", "id": "tiny-bunny", "segment": "990810001"},
-      {"name": "Dying Light", "id": "dying-light", "segment": "1073309664"},
       {"name": "LiBER", "id": "liber", "segment": "1108872519"}
     ]
   },
