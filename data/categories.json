@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "single", "segment": "1265545024", "name": "How Fish Is Made / Witching Hour (демо) / Halloween / Slit Mouthed / Beetlebum: Resident Weevil / SCP-847 / Everything Is For Humanity (демо) / Copperport Casefiles - Dead of Winter", "start": 0},
       {"id": "first-2022", "segment": "1268793469", "name": "Star Citizen", "start": 0},
       {"id": "metro-ll", "segment": "1269805961", "name": "Metro: Last Light Redux #2 / Tom Clancy's Rainbow Six Extraction (с WLG и TanyaLOA)", "start": 0},
       {"id": "zomboid", "segment": "1270926177", "name": "Project Zomboid #2 (16 стримеров)", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "first-2022", "segment": "1274362855", "name": "Metro Exodus: Enhanced Edition / Hidden Deep #1 (с WLG)", "start": 0},
       {"id": "dying-light", "segment": "1279881006", "name": "Dying Light #4 / Dying Light - The Following #1", "start": 0},
       {"id": "single", "segment": "1281171085", "name": "From Next Door / Skinwalker / Paranoiac", "start": 0},
-      {"id": "dying-light", "segment": "1282188188", "name": "Dying Light - The Following #2", "start": 0}
+      {"id": "dying-light", "segment": "1282188188", "name": "Dying Light - The Following #2", "start": 0},
+      {"id": "first-2022", "segment": "1283289423", "name": "Bloodborne PSX / Serious Sam: Siberian Mayhem", "start": 0}
     ]
   },
   "finished": {
@@ -712,7 +712,9 @@
       {"id": "first-2022", "segment": "1273302913", "name": "Concluse 2", "start": 4366},
       {"id": "first-2022", "segment": "1273302913", "name": "Experiment: Groceries", "start": 11438},
       {"id": "first-2022", "segment": "1273302913", "name": "HorrorDriven: A story for the road (демо)", "start": 16159},
-      {"id": "first-2022", "segment": "1274362855", "name": "Metro Exodus: Enhanced Edition", "start": 0}
+      {"id": "first-2022", "segment": "1274362855", "name": "Metro Exodus: Enhanced Edition", "start": 0},
+      {"id": "first-2022", "segment": "1283289423", "name": "Bloodborne PSX", "start": 0},
+      {"id": "first-2022", "segment": "1283289423", "name": "Serious Sam: Siberian Mayhem", "start": 6098}
     ]
   },
   "ongoing": {
