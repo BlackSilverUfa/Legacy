@@ -94,9 +94,9 @@
         <i class="fas fa-comments"></i> 26055
       </a>
     </span>
-    <span class="badge badge-success">
-      <a href="https://www.youtube.com/watch?v=-bwN_1GMnRE" target="_blank">
-        <i class="fab fa-youtube"></i> -bwN_1GMnRE
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.thedrhax.pw/streams/permanent//619696167.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -140,13 +140,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="0" data-hash="619696167" data-subtitles="https://bsu.drhx.ru/chats/2020/v619696167.ass" data-start="15650" data-name="1" data-youtube="-bwN_1GMnRE" />
+  <p class="stream" data-id="0" data-hash="619696167" data-subtitles="https://bsu.drhx.ru/chats/2020/v619696167.ass" data-start="15650" data-name="1" data-direct="https://bsufiles.thedrhax.pw/streams/permanent//619696167.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2020/v619696167.ass --start=15650 ytdl://-bwN_1GMnRE
+  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2020/v619696167.ass --start=15650 https://bsufiles.thedrhax.pw/streams/permanent//619696167.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://bsu.drhx.ru/chats/2020/v619696167.ass --start=15650" --player-passthrough hls twitch.tv/videos/619696167 best
 </code></pre>
 </div>
 

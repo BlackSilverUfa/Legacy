@@ -94,9 +94,9 @@
         <i class="fas fa-comments"></i> 21892
       </a>
     </span>
-    <span class="badge badge-success">
-      <a href="https://www.youtube.com/watch?v=iScIVVQgd9E" target="_blank">
-        <i class="fab fa-youtube"></i> iScIVVQgd9E
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.thedrhax.pw/streams/permanent/502940448.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -166,19 +166,31 @@
     <li><a data-value="16121">4:28:41</a> - <a data-value="16264">4:31:04</a> — Сломано</li>
   </ul>
 
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li><a data-value="9237">2:33:57</a> - <a data-value="9320">2:35:20</a> — The Andrews Sisters - Boogie Woogie Bugle Boy (Single Version)</li>
+    <li><a data-value="13121">3:38:41</a> - <a data-value="13188">3:39:48</a> — The Andrews Sisters - Rum And Coca-Cola (Single Version)</li>
+  </ul>
+
   </ul>
 
   </div>
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="0" data-hash="502940448" data-subtitles="https://bsu.drhx.ru/chats/2019/v502940448.ass" data-start="3600" data-name="Бета" data-youtube="iScIVVQgd9E" />
+  <p class="stream" data-id="0" data-hash="502940448" data-subtitles="https://bsu.drhx.ru/chats/2019/v502940448.ass" data-start="3600" data-name="Бета" data-direct="https://bsufiles.thedrhax.pw/streams/permanent/502940448.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2019/v502940448.ass --start=3600 ytdl://iScIVVQgd9E
+  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2019/v502940448.ass --start=3600 https://bsufiles.thedrhax.pw/streams/permanent/502940448.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://bsu.drhx.ru/chats/2019/v502940448.ass --start=3600" --player-passthrough hls twitch.tv/videos/502940448 best
 </code></pre>
 </div>
 

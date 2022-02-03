@@ -162,9 +162,9 @@
         <i class="fas fa-comments"></i> 15082
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=Dbk-znMbUR0" target="_blank">
-        <i class="fab fa-youtube"></i> Dbk-znMbUR0
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.thedrhax.pw/streams/permanent//547176657.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -196,6 +196,7 @@
 
       <li>Проблемы с правообладателями:</li>
   <ul>
+    <li><a data-value="6678">1:51:18</a> - <a data-value="6773">1:52:53</a> — Conway Twitty, Loretta Lynn - Louisiana Woman, Mississippi Man (Single Version)</li>
     <li>
       <a data-value="8678">2:24:38</a> - <a data-value="8692">2:24:52</a>,
       <a data-value="8699">2:24:59</a> - <a data-value="8733">2:25:33</a>,
@@ -218,13 +219,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="1" data-hash="547176657" data-subtitles="https://bsu.drhx.ru/chats/2020/v547176657.ass" data-start="10377" data-name="1 (с Triplewipe)" data-youtube="Dbk-znMbUR0" />
+  <p class="stream" data-id="1" data-hash="547176657" data-subtitles="https://bsu.drhx.ru/chats/2020/v547176657.ass" data-start="10377" data-name="1 (с Triplewipe)" data-direct="https://bsufiles.thedrhax.pw/streams/permanent//547176657.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2020/v547176657.ass --start=10377 ytdl://Dbk-znMbUR0
+  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2020/v547176657.ass --start=10377 https://bsufiles.thedrhax.pw/streams/permanent//547176657.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://bsu.drhx.ru/chats/2020/v547176657.ass --start=10377" --player-passthrough hls twitch.tv/videos/547176657 best
 </code></pre>
 </div>
 
