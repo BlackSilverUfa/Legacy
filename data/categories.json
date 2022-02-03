@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "first-2022", "segment": "1268793469", "name": "Star Citizen", "start": 0},
       {"id": "metro-ll", "segment": "1269805961", "name": "Metro: Last Light Redux #2 / Tom Clancy's Rainbow Six Extraction (с WLG и TanyaLOA)", "start": 0},
       {"id": "zomboid", "segment": "1270926177", "name": "Project Zomboid #2 (16 стримеров)", "start": 0},
       {"id": "metro-ll", "segment": "1272051017", "name": "Metro: Last Light Redux #3 (финал и все DLC)", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "dying-light", "segment": "1279881006", "name": "Dying Light #4 / Dying Light - The Following #1", "start": 0},
       {"id": "single", "segment": "1281171085", "name": "From Next Door / Skinwalker / Paranoiac", "start": 0},
       {"id": "dying-light", "segment": "1282188188", "name": "Dying Light - The Following #2", "start": 0},
-      {"id": "first-2022", "segment": "1283289423", "name": "Bloodborne PSX / Serious Sam: Siberian Mayhem", "start": 0}
+      {"id": "first-2022", "segment": "1283289423", "name": "Bloodborne PSX / Serious Sam: Siberian Mayhem", "start": 0},
+      {"id": "dying-light-2", "segment": "1285368105", "name": "Dying Light 2: Stay Human #1", "start": 0}
     ]
   },
   "finished": {
@@ -722,7 +722,8 @@
     "games": [
       {"name": "Hidden Deep", "id": "hidden-deep", "segment": "860924750"},
       {"name": "Зайчик (Tiny Bunny)", "id": "tiny-bunny", "segment": "990810001"},
-      {"name": "LiBER", "id": "liber", "segment": "1108872519"}
+      {"name": "LiBER", "id": "liber", "segment": "1108872519"},
+      {"name": "Dying Light 2: Stay Human", "id": "dying-light-2", "segment": "1285368105"}
     ]
   },
   "infinite": {
