@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "metro-ll", "segment": "1269805961", "name": "Metro: Last Light Redux #2 / Tom Clancy's Rainbow Six Extraction (с WLG и TanyaLOA)", "start": 0},
       {"id": "zomboid", "segment": "1270926177", "name": "Project Zomboid #2 (16 стримеров)", "start": 0},
       {"id": "metro-ll", "segment": "1272051017", "name": "Metro: Last Light Redux #3 (финал и все DLC)", "start": 0},
       {"id": "single", "segment": "1273302913", "name": "Root of Guilt / Concluse 2 / Alternative Game: On Duty (фан-игра) / Experiment: Groceries / Dark Dreams (демо) / Within Yourself / Toy Hub Support / HorrorDriven: A story for the road (демо) / Before Dawn / Copperport Casefiles - Under the Stairs", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "single", "segment": "1281171085", "name": "From Next Door / Skinwalker / Paranoiac", "start": 0},
       {"id": "dying-light", "segment": "1282188188", "name": "Dying Light - The Following #2", "start": 0},
       {"id": "first-2022", "segment": "1283289423", "name": "Bloodborne PSX / Serious Sam: Siberian Mayhem", "start": 0},
-      {"id": "dying-light-2", "segment": "1285368105", "name": "Dying Light 2: Stay Human #1", "start": 0}
+      {"id": "dying-light-2", "segment": "1285368105", "name": "Dying Light 2: Stay Human #1", "start": 0},
+      {"id": "dying-light-2", "segment": "1286499697", "name": "Dying Light 2: Stay Human #2", "start": 0}
     ]
   },
   "finished": {
@@ -721,7 +721,6 @@
     "name": "Активные",
     "games": [
       {"name": "Hidden Deep", "id": "hidden-deep", "segment": "860924750"},
-      {"name": "Зайчик (Tiny Bunny)", "id": "tiny-bunny", "segment": "990810001"},
       {"name": "LiBER", "id": "liber", "segment": "1108872519"},
       {"name": "Dying Light 2: Stay Human", "id": "dying-light-2", "segment": "1285368105"}
     ]
@@ -859,6 +858,7 @@
       {"name": "Outriders", "id": "outriders", "segment": "928993182"},
       {"name": "The Eternal Cylinder", "id": "eternal-cylinder", "segment": "958844668"},
       {"name": "Silent Hill 4: The Room", "id": "sh4", "segment": "987111954"},
+      {"name": "Зайчик (Tiny Bunny)", "id": "tiny-bunny", "segment": "990810001"},
       {"name": "Until We Die", "id": "until-we-die", "segment": "1021117640"},
       {"name": "Mass Effect 2: Legendary Edition", "id": "me2", "segment": "1023398734"},
       {"name": "Pathfinder: Wrath of the Righteous", "id": "pathfinder", "segment": "1033590091"},
