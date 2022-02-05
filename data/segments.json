@@ -703,10 +703,9 @@
     "games": ["nier-automata", "first-2016", "ff-xv"]
   },
   "001612290": {
-    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
+    "youtube": "sJ4evtf3PVk", "official": false, "abs_start": "0:00", "abs_end": "2:02:46", "duration": "2:02:46",
     "name": "Посылки (29.12.16)",
     "date": "2016-12-29",
-    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/001612290.mp4",
     "games": ["unboxing"]
   },
   "001701050": {
@@ -2006,10 +2005,9 @@
     "games": ["first-2018", "ds-remastered"]
   },
   "260957900": {
-    "abs_start": "0:00", "abs_end": "3:57:19", "duration": "0:00",
+    "youtube": "5h6Dqu1gGV0", "official": false, "abs_start": "0:00", "abs_end": "3:56:14", "duration": "3:56:14",
     "name": "Dark Souls 2: Scholar of the First Sin #1",
     "date": "2018-05-13",
-    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/260957900.mp4",
     "games": ["ds2-scholar"]
   },
   "262352362": {
@@ -8941,10 +8939,9 @@
     "games": ["dying-light-2"]
   },
   "1286499697": {
-    "abs_start": "0:00", "abs_end": "8:42:16", "duration": "0:00",
+    "youtube": "vjj8q21hw54", "abs_start": "0:00", "abs_end": "8:42:21", "duration": "8:42:21",
     "name": "Dying Light 2: Stay Human #2",
     "date": "2022-02-04",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1286499697.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1286499697.torrent",
     "games": ["dying-light-2"]
   }
