@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "zomboid", "segment": "1270926177", "name": "Project Zomboid #2 (16 стримеров)", "start": 0},
       {"id": "metro-ll", "segment": "1272051017", "name": "Metro: Last Light Redux #3 (финал и все DLC)", "start": 0},
       {"id": "single", "segment": "1273302913", "name": "Root of Guilt / Concluse 2 / Alternative Game: On Duty (фан-игра) / Experiment: Groceries / Dark Dreams (демо) / Within Yourself / Toy Hub Support / HorrorDriven: A story for the road (демо) / Before Dawn / Copperport Casefiles - Under the Stairs", "start": 0},
       {"id": "first-2022", "segment": "1274362855", "name": "Metro Exodus: Enhanced Edition / Hidden Deep #1 (с WLG)", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "dying-light", "segment": "1282188188", "name": "Dying Light - The Following #2", "start": 0},
       {"id": "first-2022", "segment": "1283289423", "name": "Bloodborne PSX / Serious Sam: Siberian Mayhem", "start": 0},
       {"id": "dying-light-2", "segment": "1285368105", "name": "Dying Light 2: Stay Human #1", "start": 0},
-      {"id": "dying-light-2", "segment": "1286499697", "name": "Dying Light 2: Stay Human #2", "start": 0}
+      {"id": "dying-light-2", "segment": "1286499697", "name": "Dying Light 2: Stay Human #2", "start": 0},
+      {"id": "dying-light-2", "segment": "1287739565", "name": "Dying Light 2: Stay Human #3", "start": 0}
     ]
   },
   "finished": {
