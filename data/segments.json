@@ -8702,7 +8702,6 @@
     "youtube": "RiU56AJFmAU", "abs_start": "0:00", "abs_end": "8:35:00", "duration": "8:35:00",
     "name": "Five Nights At Freddy's: Security Breach #3 / Hellcoming #2 / GTFO #6",
     "date": "2021-12-22",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1240425069.torrent",
     "games": ["fnaf-sb", "hellcoming", "gtfo"]
   },
   "1241348243": {
@@ -8950,6 +8949,14 @@
     "date": "2022-02-05",
     "direct": "https://bsufiles.thedrhax.pw/streams/1287739565.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1287739565.torrent",
+    "games": ["dying-light-2"]
+  },
+  "1288960663": {
+    "abs_start": "0:00", "abs_end": "10:35:14", "duration": "0:00",
+    "name": "Dying Light 2: Stay Human #4",
+    "date": "2022-02-06",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1288960663.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1288960663.torrent",
     "games": ["dying-light-2"]
   }
 }
