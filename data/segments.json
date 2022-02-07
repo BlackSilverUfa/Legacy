@@ -6237,10 +6237,9 @@
     "games": ["first-2020"]
   },
   "747742325": {
-    "abs_start": "0:00", "abs_end": "5:58:36", "duration": "0:00",
+    "youtube": "-EN8Eyn9Bgw", "official": false, "abs_start": "0:00", "abs_end": "5:58:08", "duration": "5:58:08",
     "name": "BPM: Bullets Per Minute / Hades #1 / Fall Guys #8 (соло) / Vampire: The Masquerade - Bloodlines #6",
     "date": "2020-09-21",
-    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/747742325.mp4",
     "games": ["first-2020", "hades", "fall-guys", "vampire-masquerade"]
   },
   "749640613": {
@@ -6449,10 +6448,9 @@
     "games": ["halloween", "little-hope"]
   },
   "791632745": {
-    "abs_start": "0:00", "abs_end": "8:00:35", "duration": "0:00",
+    "youtube": "XcYlU1YMlwI", "official": false, "abs_start": "0:00", "abs_end": "8:00:03", "duration": "8:00:03",
     "name": "Metal Gear Solid V: Ground Zeroes / Metal Gear Solid V: Phantom Pain (злое прохождение) #1",
     "date": "2020-11-04",
-    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/791632745.mp4",
     "games": ["single", "mgs-v-2020"]
   },
   "792632708": {
@@ -8682,7 +8680,7 @@
   },
   "1235847606": {
     "youtube": "oiGHVBBgR0Q", "abs_start": "0:00", "abs_end": "6:49:59", "duration": "6:49:59",
-    "name": "Sifu #2 (демо) / Final Fantasy VII Remake - PC / GTFO #4 (релиз)",
+    "name": "Sifu #2 / Final Fantasy VII Remake - PC / GTFO #4 (релиз)",
     "date": "2021-12-17",
     "games": ["sifu", "ff-vii-remake", "gtfo"]
   },
@@ -8708,7 +8706,6 @@
     "youtube": "ImhpnyjAvbA", "abs_start": "0:00", "abs_end": "6:10:00", "duration": "6:10:00",
     "name": "Planet Crafter: Prologue / CorpseOcean / Hardspace: Shipbreaker #2 / Age of Darkness: Final Stand",
     "date": "2021-12-23",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1241348243.torrent",
     "games": ["first-2021", "single", "hardspace-shipbreaker"]
   },
   "1242283203": {
@@ -8944,19 +8941,25 @@
     "games": ["dying-light-2"]
   },
   "1287739565": {
-    "abs_start": "0:00", "abs_end": "8:54:18", "duration": "0:00",
+    "youtube": "bp4vWITje-I", "abs_start": "0:00", "abs_end": "8:54:10", "duration": "8:54:10",
     "name": "Dying Light 2: Stay Human #3",
     "date": "2022-02-05",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1287739565.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1287739565.torrent",
     "games": ["dying-light-2"]
   },
   "1288960663": {
-    "abs_start": "0:00", "abs_end": "10:35:14", "duration": "0:00",
+    "youtube": "oq6AYShu61c", "abs_start": "0:00", "abs_end": "10:35:09", "duration": "10:35:09",
     "name": "Dying Light 2: Stay Human #4",
     "date": "2022-02-06",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1288960663.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1288960663.torrent",
     "games": ["dying-light-2"]
+  },
+  "1290138739": {
+    "abs_start": "0:00", "abs_end": "4:02:22", "duration": "0:00",
+    "name": "OlliOlli World / Sifu #3 (релиз)",
+    "date": "2022-02-07",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1290138739.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1290138739.torrent",
+    "games": ["first-2022", "sifu"]
   }
 }
