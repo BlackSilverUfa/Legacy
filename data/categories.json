@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "first-2022", "segment": "1274362855", "name": "Metro Exodus: Enhanced Edition / Hidden Deep #1 (с WLG)", "start": 0},
       {"id": "dying-light", "segment": "1279881006", "name": "Dying Light #4 / Dying Light - The Following #1", "start": 0},
       {"id": "single", "segment": "1281171085", "name": "From Next Door / Skinwalker / Paranoiac", "start": 0},
       {"id": "dying-light", "segment": "1282188188", "name": "Dying Light - The Following #2", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "dying-light-2", "segment": "1286499697", "name": "Dying Light 2: Stay Human #2", "start": 0},
       {"id": "dying-light-2", "segment": "1287739565", "name": "Dying Light 2: Stay Human #3", "start": 0},
       {"id": "dying-light-2", "segment": "1288960663", "name": "Dying Light 2: Stay Human #4", "start": 0},
-      {"id": "first-2022", "segment": "1290138739", "name": "OlliOlli World / Sifu #3 (релиз)", "start": 0}
+      {"id": "first-2022", "segment": "1290138739", "name": "OlliOlli World / Sifu #3 (релиз)", "start": 0},
+      {"id": "sifu", "segment": "1293422934", "name": "Sifu #4", "start": 0}
     ]
   },
   "finished": {

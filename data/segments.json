@@ -8955,11 +8955,18 @@
     "games": ["dying-light-2"]
   },
   "1290138739": {
-    "abs_start": "0:00", "abs_end": "4:02:22", "duration": "0:00",
+    "youtube": "rPVmn2mZUUM", "abs_start": "0:00", "abs_end": "4:02:21", "duration": "4:02:21",
     "name": "OlliOlli World / Sifu #3 (релиз)",
     "date": "2022-02-07",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1290138739.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1290138739.torrent",
     "games": ["first-2022", "sifu"]
+  },
+  "1293422934": {
+    "abs_start": "0:00", "abs_end": "4:04:31", "duration": "0:00",
+    "name": "Sifu #4",
+    "date": "2022-02-10",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1293422934.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1293422934.torrent",
+    "games": ["sifu"]
   }
 }
