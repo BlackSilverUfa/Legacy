@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "dying-light", "segment": "1279881006", "name": "Dying Light #4 / Dying Light - The Following #1", "start": 0},
       {"id": "single", "segment": "1281171085", "name": "From Next Door / Skinwalker / Paranoiac", "start": 0},
       {"id": "dying-light", "segment": "1282188188", "name": "Dying Light - The Following #2", "start": 0},
       {"id": "first-2022", "segment": "1283289423", "name": "Bloodborne PSX / Serious Sam: Siberian Mayhem", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "dying-light-2", "segment": "1287739565", "name": "Dying Light 2: Stay Human #3", "start": 0},
       {"id": "dying-light-2", "segment": "1288960663", "name": "Dying Light 2: Stay Human #4", "start": 0},
       {"id": "first-2022", "segment": "1290138739", "name": "OlliOlli World / Sifu #3 (релиз)", "start": 0},
-      {"id": "sifu", "segment": "1293422934", "name": "Sifu #4", "start": 0}
+      {"id": "sifu", "segment": "1293422934", "name": "Sifu #4", "start": 0},
+      {"id": "single", "segment": "1294441814", "name": "Know by Heart (Помни...)", "start": 0}
     ]
   },
   "finished": {
@@ -331,7 +331,8 @@
       {"id": "single", "segment": "1281171085", "name": "From Next Door", "start": 0},
       {"id": "single", "segment": "1281171085", "name": "Skinwalker", "start": 9018},
       {"id": "single", "segment": "1281171085", "name": "Paranoiac", "start": 11979},
-      {"name": "Dying Light 2: Stay Human", "id": "dying-light-2", "segment": "1285368105"}
+      {"name": "Dying Light 2: Stay Human", "id": "dying-light-2", "segment": "1285368105"},
+      {"id": "single", "segment": "1294441814", "name": "Know by Heart (Помни...)", "start": 0}
     ]
   },
   "first": {
@@ -723,7 +724,6 @@
     "name": "Активные",
     "games": [
       {"name": "Hidden Deep", "id": "hidden-deep", "segment": "860924750"},
-      {"name": "LiBER", "id": "liber", "segment": "1108872519"},
       {"name": "Sifu", "id": "sifu", "segment": "1234081084"}
     ]
   },
@@ -868,6 +868,7 @@
       {"name": "Genshin Impact", "id": "genshin-impact", "segment": "1072311121"},
       {"name": "Farmer's Life", "id": "farmers-life", "segment": "1086385946,1086545283"},
       {"name": "The Legend of Zelda: Skyward Sword HD", "id": "tloz-sshd", "segment": "1089427413"},
+      {"name": "LiBER", "id": "liber", "segment": "1108872519"},
       {"name": "Kena: Bridge of Spirits", "id": "kena-bos", "segment": "1155016315"},
       {"name": "Inscryption", "id": "inscryption", "segment": "1162515299"},
       {"name": "Far Cry 6", "id": "far-cry-6", "segment": "1167157790"},
