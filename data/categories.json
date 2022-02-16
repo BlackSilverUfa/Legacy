@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "single", "segment": "1281171085", "name": "From Next Door / Skinwalker / Paranoiac", "start": 0},
       {"id": "dying-light", "segment": "1282188188", "name": "Dying Light - The Following #2", "start": 0},
       {"id": "first-2022", "segment": "1283289423", "name": "Bloodborne PSX / Serious Sam: Siberian Mayhem", "start": 0},
       {"id": "dying-light-2", "segment": "1285368105", "name": "Dying Light 2: Stay Human #1", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "dying-light-2", "segment": "1288960663", "name": "Dying Light 2: Stay Human #4", "start": 0},
       {"id": "first-2022", "segment": "1290138739", "name": "OlliOlli World / Sifu #3 (релиз)", "start": 0},
       {"id": "sifu", "segment": "1293422934", "name": "Sifu #4", "start": 0},
-      {"id": "single", "segment": "1294441814", "name": "Know by Heart (Помни...)", "start": 0}
+      {"id": "single", "segment": "1294441814", "name": "Know by Heart (Помни...)", "start": 0},
+      {"id": "first-2022", "segment": "1299859703", "name": "Blood West / Kingdom of the Dead", "start": 0}
     ]
   },
   "finished": {
@@ -717,7 +717,9 @@
       {"id": "first-2022", "segment": "1274362855", "name": "Metro Exodus: Enhanced Edition", "start": 0},
       {"id": "first-2022", "segment": "1283289423", "name": "Bloodborne PSX", "start": 0},
       {"id": "first-2022", "segment": "1283289423", "name": "Serious Sam: Siberian Mayhem", "start": 6098},
-      {"id": "first-2022", "segment": "1290138739", "name": "OlliOlli World", "start": 0}
+      {"id": "first-2022", "segment": "1290138739", "name": "OlliOlli World", "start": 0},
+      {"id": "first-2022", "segment": "1299859703", "name": "Blood West", "start": 0},
+      {"id": "first-2022", "segment": "1299859703", "name": "Kingdom of the Dead", "start": 10383}
     ]
   },
   "ongoing": {

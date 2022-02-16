@@ -8712,7 +8712,6 @@
     "youtube": "bp-4X4S8rjs", "abs_start": "0:00", "abs_end": "3:52:19", "duration": "3:52:19",
     "name": "Dark Souls: Remastered #2",
     "date": "2021-12-24",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1242283203.torrent",
     "games": ["ds-remastered"]
   },
   "1243042365": {
@@ -8976,5 +8975,13 @@
     "direct": "https://bsufiles.thedrhax.pw/streams/1294441814.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1294441814.torrent",
     "games": ["single"]
+  },
+  "1299859703": {
+    "abs_start": "0:00", "abs_end": "3:44:45", "duration": "0:00",
+    "name": "Blood West / Kingdom of the Dead",
+    "date": "2022-02-16",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1299859703.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1299859703.torrent",
+    "games": ["first-2022"]
   }
 }
