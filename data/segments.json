@@ -8718,14 +8718,12 @@
     "youtube": "RLS7gJgF8uc", "abs_start": "0:00", "abs_end": "3:42:52", "duration": "3:42:52",
     "name": "Battlefield 2042 #4 (WLG и Juice)",
     "date": "2021-12-25",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1243042365.torrent",
     "games": ["bf-2042"]
   },
   "1243862269": {
     "youtube": "FWxM-yda82I", "abs_start": "0:00", "abs_end": "5:15:44", "duration": "5:15:44",
     "name": "9 Childs St (демо) / Antler / Blight Island (демо) / Cold Shot / Hello / Lake Facade / Wayward Harbor / Silent Mementos",
     "date": "2021-12-26",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1243862269.torrent",
     "games": ["single"]
   },
   "1244748634": {
@@ -8982,6 +8980,14 @@
     "date": "2022-02-16",
     "direct": "https://bsufiles.thedrhax.pw/streams/1299859703.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1299859703.torrent",
+    "games": ["first-2022"]
+  },
+  "1300779617": {
+    "abs_start": "0:00", "abs_end": "9:06:13", "duration": "0:00",
+    "name": "Horizon Zero Dawn / Horizon Forbidden West",
+    "date": "2022-02-17",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1300779617.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1300779617.torrent",
     "games": ["first-2022"]
   }
 }
