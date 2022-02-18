@@ -8730,14 +8730,12 @@
     "youtube": "R8Hv2HFmML4", "abs_start": "0:00", "abs_end": "6:04:11", "duration": "6:04:11",
     "name": "Five Nights At Freddy's: Security Breach #4 / Project Zomboid #1 (с Артёмом)",
     "date": "2021-12-27",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1244748634.torrent",
     "games": ["fnaf-sb", "zomboid"]
   },
   "1245734451": {
     "youtube": "_HEvBsnwhfE", "abs_start": "0:00", "abs_end": "6:20:15", "duration": "6:20:15",
     "name": "Five Nights At Freddy's: Security Breach #5 / Happy's Humble Burger Farm #3",
     "date": "2021-12-28",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1245734451.torrent",
     "games": ["fnaf-sb", "hhbf"]
   },
   "1248804713": {
@@ -8959,35 +8957,39 @@
     "games": ["first-2022", "sifu"]
   },
   "1293422934": {
-    "abs_start": "0:00", "abs_end": "4:04:31", "duration": "0:00",
+    "youtube": "unhO5tpkpRg", "abs_start": "0:00", "abs_end": "4:04:01", "duration": "4:04:01",
     "name": "Sifu #4",
     "date": "2022-02-10",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1293422934.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1293422934.torrent",
     "games": ["sifu"]
   },
   "1294441814": {
-    "abs_start": "0:00", "abs_end": "7:47:40", "duration": "0:00",
+    "youtube": "vJEkPogov4U", "abs_start": "0:00", "abs_end": "7:47:12", "duration": "7:47:12",
     "name": "Know by Heart (Помни...)",
     "date": "2022-02-11",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1294441814.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1294441814.torrent",
     "games": ["single"]
   },
   "1299859703": {
-    "abs_start": "0:00", "abs_end": "3:44:45", "duration": "0:00",
+    "youtube": "74Cl6DLkaS4", "abs_start": "0:00", "abs_end": "3:44:43", "duration": "3:44:43",
     "name": "Blood West / Kingdom of the Dead",
     "date": "2022-02-16",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1299859703.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1299859703.torrent",
     "games": ["first-2022"]
   },
   "1300779617": {
-    "abs_start": "0:00", "abs_end": "9:06:13", "duration": "0:00",
-    "name": "Horizon Zero Dawn / Horizon Forbidden West",
+    "youtube": "ukKL8fLkWRc", "abs_start": "0:00", "abs_end": "9:06:10", "duration": "9:06:10",
+    "name": "Horizon Zero Dawn / Horizon Forbidden West #1",
     "date": "2022-02-17",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1300779617.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1300779617.torrent",
-    "games": ["first-2022"]
+    "games": ["first-2022", "horizon-fw"]
+  },
+  "1301849396": {
+    "abs_start": "0:00", "abs_end": "10:17:31", "duration": "0:00",
+    "name": "Horizon Forbidden West #2",
+    "date": "2022-02-18",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1301849396.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1301849396.torrent",
+    "games": ["horizon-fw"]
   }
 }
