@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "dying-light-2", "segment": "1285368105", "name": "Dying Light 2: Stay Human #1", "start": 0},
       {"id": "dying-light-2", "segment": "1286499697", "name": "Dying Light 2: Stay Human #2", "start": 0},
       {"id": "dying-light-2", "segment": "1287739565", "name": "Dying Light 2: Stay Human #3", "start": 0},
       {"id": "dying-light-2", "segment": "1288960663", "name": "Dying Light 2: Stay Human #4", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "single", "segment": "1294441814", "name": "Know by Heart (Помни...)", "start": 0},
       {"id": "first-2022", "segment": "1299859703", "name": "Blood West / Kingdom of the Dead", "start": 0},
       {"id": "first-2022", "segment": "1300779617", "name": "Horizon Zero Dawn / Horizon Forbidden West #1", "start": 0},
-      {"id": "horizon-fw", "segment": "1301849396", "name": "Horizon Forbidden West #2", "start": 0}
+      {"id": "horizon-fw", "segment": "1301849396", "name": "Horizon Forbidden West #2", "start": 0},
+      {"id": "horizon-fw", "segment": "1303041033", "name": "Horizon Forbidden West #3", "start": 0}
     ]
   },
   "finished": {
@@ -332,7 +332,8 @@
       {"id": "single", "segment": "1281171085", "name": "Skinwalker", "start": 9018},
       {"id": "single", "segment": "1281171085", "name": "Paranoiac", "start": 11979},
       {"name": "Dying Light 2: Stay Human", "id": "dying-light-2", "segment": "1285368105"},
-      {"id": "single", "segment": "1294441814", "name": "Know by Heart (Помни...)", "start": 0}
+      {"id": "single", "segment": "1294441814", "name": "Know by Heart (Помни...)", "start": 0},
+      {"name": "Horizon Forbidden West", "id": "horizon-fw", "segment": "1300779617"}
     ]
   },
   "first": {
@@ -727,8 +728,7 @@
     "name": "Активные",
     "games": [
       {"name": "Hidden Deep", "id": "hidden-deep", "segment": "860924750"},
-      {"name": "Sifu", "id": "sifu", "segment": "1234081084"},
-      {"name": "Horizon Forbidden West", "id": "horizon-fw", "segment": "1300779617"}
+      {"name": "Sifu", "id": "sifu", "segment": "1234081084"}
     ]
   },
   "infinite": {

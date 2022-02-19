@@ -8742,7 +8742,6 @@
     "youtube": "ZDUXTRG8rAU", "abs_start": "0:00", "abs_end": "4:04:55", "duration": "4:04:55",
     "name": "Новый год 2022 (подарки, нарезки) / Tornuktu / Exsanguinate (демо) / Desolatium / Goya's Nightmare / Swamm",
     "date": "2021-12-31",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1248804713.torrent",
     "games": ["other", "single", "first-2021"]
   },
   "1253678202": {
@@ -8766,7 +8765,6 @@
     "name": "Зайчик (Tiny Bunny) - Эпизод 3 / Шорох (Scratches: Director's Cut) #1",
     "date": "2022-01-05",
     "offsets": [0, 1762],
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1253678202,1253695802.torrent",
     "games": ["tiny-bunny", "scratches"]
   },
   "1254688558": {
@@ -8990,6 +8988,14 @@
     "date": "2022-02-18",
     "direct": "https://bsufiles.thedrhax.pw/streams/1301849396.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1301849396.torrent",
+    "games": ["horizon-fw"]
+  },
+  "1303041033": {
+    "abs_start": "0:00", "abs_end": "12:05:42", "duration": "0:00",
+    "name": "Horizon Forbidden West #3",
+    "date": "2022-02-19",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1303041033.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1303041033.torrent",
     "games": ["horizon-fw"]
   }
 }
