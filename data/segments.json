@@ -8976,9 +8976,10 @@
     "games": ["first-2022"]
   },
   "1300779617": {
-    "youtube": "ukKL8fLkWRc", "abs_start": "0:00", "abs_end": "9:06:10", "duration": "9:06:10",
+    "abs_start": "0:00", "abs_end": "9:06:13", "duration": "0:00",
     "name": "Horizon Zero Dawn / Horizon Forbidden West #1",
     "date": "2022-02-17",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1300779617.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1300779617.torrent",
     "games": ["first-2022", "horizon-fw"]
   },
