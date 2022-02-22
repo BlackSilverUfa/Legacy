@@ -6919,9 +6919,9 @@
   },
   "901835689": {
     "youtube": "bI6BwtRq0t8", "abs_start": "0:00", "abs_end": "6:03:17", "duration": "6:03:17",
-    "name": "Expedition Zero (демо) / Lamentum (демо) / NUTS",
+    "name": "Expedition Zero - Демо #1 / Lamentum (демо) / NUTS",
     "date": "2021-02-05",
-    "games": ["first-2021", "single"]
+    "games": ["expedition-zero", "first-2021", "single"]
   },
   "903270544": {
     "youtube": "P3__paz_nPk", "abs_start": "0:00", "abs_end": "4:17:23", "duration": "4:17:23",
@@ -8748,16 +8748,12 @@
     "abs_start": "0:00", "abs_end": "29:52", "duration": "0:00",
     "name": "",
     "date": "2022-01-05",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1253678202.mp4",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1253678202.torrent",
     "games": []
   },
   "1253695802": {
     "abs_start": "0:00", "abs_end": "5:44:24", "duration": "0:00",
     "name": "",
     "date": "2022-01-05",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1253695802.mp4",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1253695802.torrent",
     "games": []
   },
   "1253678202,1253695802": {
@@ -8976,10 +8972,9 @@
     "games": ["first-2022"]
   },
   "1300779617": {
-    "abs_start": "0:00", "abs_end": "9:06:13", "duration": "0:00",
+    "youtube": "ukKL8fLkWRc", "abs_start": "0:00", "abs_end": "9:06:10", "duration": "9:06:10",
     "name": "Horizon Zero Dawn / Horizon Forbidden West #1",
     "date": "2022-02-17",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1300779617.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1300779617.torrent",
     "games": ["first-2022", "horizon-fw"]
   },
@@ -8997,5 +8992,13 @@
     "direct": "https://bsufiles.thedrhax.pw/streams/1303041033.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1303041033.torrent",
     "games": ["horizon-fw"]
+  },
+  "1306396434": {
+    "abs_start": "0:00", "abs_end": "6:12:58", "duration": "0:00",
+    "name": "Autopsy Simulator (демо) / FAR: Changing Tides (демо) / Scathe (демо) / Expedition Zero - Демо #2 / Daymare: 1994 Sandcastle (демо) / Total War: Warhammer III",
+    "date": "2022-02-22",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1306396434.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1306396434.torrent",
+    "games": ["first-2022", "expedition-zero"]
   }
 }
