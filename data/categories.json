@@ -737,7 +737,6 @@
   "ongoing": {
     "name": "Активные",
     "games": [
-      {"name": "Hidden Deep", "id": "hidden-deep", "segment": "860924750"},
       {"name": "Sifu", "id": "sifu", "segment": "1234081084"}
     ]
   },
@@ -865,6 +864,7 @@
       {"name": "Immortals Fenyx Rising", "id": "immortals-fr", "segment": "817321307"},
       {"name": "Clive Barker's Undying", "id": "cb-undying", "segment": "846191668"},
       {"name": "SCP: Janitorial Work", "id": "scp-janitor", "segment": "851535429"},
+      {"name": "Hidden Deep", "id": "hidden-deep", "segment": "860924750"},
       {"name": "Song of Horror", "id": "song-of-horror", "segment": "878410974"},
       {"name": "Disco Elysium", "id": "disco-elysium", "segment": "887445977"},
       {"name": "Boris The Rocket", "id": "boris-rocket", "segment": "896656796"},
