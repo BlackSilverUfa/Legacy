@@ -11,8 +11,8 @@
       {"id": "first-2022", "segment": "1300779617", "name": "Horizon Zero Dawn / Horizon Forbidden West #1", "start": 0},
       {"id": "horizon-fw", "segment": "1301849396", "name": "Horizon Forbidden West #2", "start": 0},
       {"id": "horizon-fw", "segment": "1303041033", "name": "Horizon Forbidden West #3", "start": 0},
-      {"id": "first-2022", "segment": "1306396434", "name": "Autopsy Simulator (демо) / FAR: Changing Tides (демо) / Scathe (демо) / Expedition Zero - Демо #2 / Daymare: 1994 Sandcastle (демо) / Total War: Warhammer III", "start": 0},
-      {"id": "first-2022", "segment": "1307474557", "name": "Daymare: 1994 Sandcastle (демо) / Little Orpheus - Episode 1 / The Bridge Curse: Road to Salvation (демо) / My Friendly Neighborhood (демо) / SCP: Pandemic (демо) / IXION (демо)", "start": 0}
+      {"id": "first-2022", "segment": "1306396434", "name": "Autopsy Simulator (демо) / FAR: Changing Tides (демо) / Scathe (демо) / Expedition Zero - Демо #2 / Daymare: 1994 Sandcastle #1 (демо) / Total War: Warhammer III", "start": 0},
+      {"id": "daymare-1994-sc", "segment": "1307474557", "name": "Daymare: 1994 Sandcastle #2 / Little Orpheus - Episode 1 / The Bridge Curse: Road to Salvation (демо) / My Friendly Neighborhood (демо) / SCP: Pandemic (демо) / IXION (демо)", "start": 0}
     ]
   },
   "finished": {
@@ -725,9 +725,7 @@
       {"id": "first-2022", "segment": "1306396434", "name": "Autopsy Simulator (демо)", "start": 0},
       {"id": "first-2022", "segment": "1306396434", "name": "FAR: Changing Tides (демо)", "start": 4545},
       {"id": "first-2022", "segment": "1306396434", "name": "Scathe (демо)", "start": 6678},
-      {"id": "first-2022", "segment": "1306396434", "name": "Daymare: 1994 Sandcastle (демо)", "start": 12540},
       {"id": "first-2022", "segment": "1306396434", "name": "Total War: Warhammer III", "start": 14527},
-      {"id": "first-2022", "segment": "1307474557", "name": "Daymare: 1994 Sandcastle (демо)", "start": 0},
       {"id": "first-2022", "segment": "1307474557", "name": "The Bridge Curse: Road to Salvation (демо)", "start": 5644},
       {"id": "first-2022", "segment": "1307474557", "name": "My Friendly Neighborhood (демо)", "start": 8439},
       {"id": "first-2022", "segment": "1307474557", "name": "SCP: Pandemic (демо)", "start": 11879},
@@ -783,7 +781,8 @@
       {"name": "I'm on Observation Duty", "id": "observation-duty", "segment": "1092418023"},
       {"name": "Ghost Hunters Corp", "id": "ghcorp", "segment": "1095567001,1095811167"},
       {"name": "Riders Republic", "id": "riders-republic", "segment": "1129996087"},
-      {"name": "Battlefield 2042", "id": "bf-2042", "segment": "1168913564"}
+      {"name": "Battlefield 2042", "id": "bf-2042", "segment": "1168913564"},
+      {"name": "Daymare: 1994 Sandcastle", "id": "daymare-1994-sc", "segment": "1306396434"}
     ]
   },
   "abandoned": {
