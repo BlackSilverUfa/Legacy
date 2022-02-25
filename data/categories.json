@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "dying-light-2", "segment": "1288960663", "name": "Dying Light 2: Stay Human #4", "start": 0},
       {"id": "first-2022", "segment": "1290138739", "name": "OlliOlli World / Sifu #3 (релиз)", "start": 0},
       {"id": "sifu", "segment": "1293422934", "name": "Sifu #4", "start": 0},
       {"id": "single", "segment": "1294441814", "name": "Know by Heart (Помни...)", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "horizon-fw", "segment": "1301849396", "name": "Horizon Forbidden West #2", "start": 0},
       {"id": "horizon-fw", "segment": "1303041033", "name": "Horizon Forbidden West #3", "start": 0},
       {"id": "first-2022", "segment": "1306396434", "name": "Autopsy Simulator (демо) / FAR: Changing Tides (демо) / Scathe (демо) / Expedition Zero - Демо #2 / Daymare: 1994 Sandcastle #1 (демо) / Total War: Warhammer III", "start": 0},
-      {"id": "daymare-1994-sc", "segment": "1307474557", "name": "Daymare: 1994 Sandcastle #2 / Little Orpheus - Episode 1 / The Bridge Curse: Road to Salvation (демо) / My Friendly Neighborhood (демо) / SCP: Pandemic (демо) / IXION (демо)", "start": 0}
+      {"id": "daymare-1994-sc", "segment": "1307474557", "name": "Daymare: 1994 Sandcastle #2 / Little Orpheus - Episode 1 / The Bridge Curse: Road to Salvation (демо) / My Friendly Neighborhood (демо) / SCP: Pandemic (демо) / IXION (демо)", "start": 0},
+      {"id": "elden-ring", "segment": "1407442799", "name": "Elden Ring #1 (релиз)", "start": 0}
     ]
   },
   "finished": {
@@ -735,6 +735,7 @@
   "ongoing": {
     "name": "Активные",
     "games": [
+      {"name": "Elden Ring", "id": "elden-ring", "segment": "1203211087,1203238012"},
       {"name": "Sifu", "id": "sifu", "segment": "1234081084"}
     ]
   },
@@ -887,7 +888,6 @@
       {"name": "Inscryption", "id": "inscryption", "segment": "1162515299"},
       {"name": "Far Cry 6", "id": "far-cry-6", "segment": "1167157790"},
       {"name": "Metroid Dread", "id": "metroid-dread", "segment": "1170802962"},
-      {"name": "Elden Ring", "id": "elden-ring", "segment": "1203211087,1203238012"},
       {"name": "Five Nights At Freddy's: Security Breach", "id": "fnaf-sb", "segment": "1238591362"}
     ]
   },
