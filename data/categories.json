@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "single", "segment": "1294441814", "name": "Know by Heart (Помни...)", "start": 0},
       {"id": "first-2022", "segment": "1299859703", "name": "Blood West / Kingdom of the Dead", "start": 0},
       {"id": "first-2022", "segment": "1300779617", "name": "Horizon Zero Dawn / Horizon Forbidden West #1", "start": 0},
       {"id": "horizon-fw", "segment": "1301849396", "name": "Horizon Forbidden West #2", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "daymare-1994-sc", "segment": "1307474557", "name": "Daymare: 1994 Sandcastle #2 / Little Orpheus - Episode 1 / The Bridge Curse: Road to Salvation (демо) / My Friendly Neighborhood (демо) / SCP: Pandemic (демо) / IXION (демо)", "start": 0},
       {"id": "elden-ring", "segment": "1407442799", "name": "Elden Ring #1 (релиз)", "start": 0},
       {"id": "elden-ring", "segment": "1408604628", "name": "Elden Ring #2", "start": 0},
-      {"id": "elden-ring", "segment": "1409713021", "name": "Elden Ring #3", "start": 0}
+      {"id": "elden-ring", "segment": "1409713021", "name": "Elden Ring #3", "start": 0},
+      {"id": "elden-ring", "segment": "1410791009", "name": "Elden Ring #4", "start": 0}
     ]
   },
   "finished": {
