@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "first-2022", "segment": "1300779617", "name": "Horizon Zero Dawn / Horizon Forbidden West #1", "start": 0},
       {"id": "horizon-fw", "segment": "1301849396", "name": "Horizon Forbidden West #2", "start": 0},
       {"id": "horizon-fw", "segment": "1303041033", "name": "Horizon Forbidden West #3", "start": 0},
       {"id": "first-2022", "segment": "1306396434", "name": "Autopsy Simulator (демо) / FAR: Changing Tides (демо) / Scathe (демо) / Expedition Zero - Демо #2 / Daymare: 1994 Sandcastle #1 (демо) / Total War: Warhammer III", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "elden-ring", "segment": "1408604628", "name": "Elden Ring #2", "start": 0},
       {"id": "elden-ring", "segment": "1409713021", "name": "Elden Ring #3", "start": 0},
       {"id": "elden-ring", "segment": "1410791009", "name": "Elden Ring #4", "start": 0},
-      {"id": "elden-ring", "segment": "1411976783", "name": "Elden Ring #5", "start": 0}
+      {"id": "elden-ring", "segment": "1411976783", "name": "Elden Ring #5", "start": 0},
+      {"id": "elden-ring", "segment": "1412978137", "name": "Elden Ring #6", "start": 0}
     ]
   },
   "finished": {

@@ -8810,7 +8810,6 @@
     "youtube": "nKRyLKqc2ts", "abs_start": "0:00", "abs_end": "8:01:40", "duration": "8:01:40",
     "name": "Metro 2033 Redux #2 / I'm on Observation Duty - Часть 4 #2 / Dying 2 Know #5",
     "date": "2022-01-13",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1262176650.torrent",
     "games": ["metro-2033", "observation-duty", "dying-2-know"]
   },
   "1263236800": {
@@ -9026,11 +9025,18 @@
     "games": ["elden-ring"]
   },
   "1411976783": {
-    "abs_start": "0:00", "abs_end": "6:46:10", "duration": "0:00",
+    "youtube": "uvswFbm_AUU", "abs_start": "0:00", "abs_end": "6:46:13", "duration": "6:46:13",
     "name": "Elden Ring #5",
     "date": "2022-03-01",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1411976783.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1411976783.torrent",
+    "games": ["elden-ring"]
+  },
+  "1412978137": {
+    "abs_start": "0:00", "abs_end": "6:43:43", "duration": "0:00",
+    "name": "Elden Ring #6",
+    "date": "2022-03-02",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1412978137.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1412978137.torrent",
     "games": ["elden-ring"]
   }
 }
