@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "horizon-fw", "segment": "1301849396", "name": "Horizon Forbidden West #2", "start": 0},
       {"id": "horizon-fw", "segment": "1303041033", "name": "Horizon Forbidden West #3", "start": 0},
       {"id": "first-2022", "segment": "1306396434", "name": "Autopsy Simulator (демо) / FAR: Changing Tides (демо) / Scathe (демо) / Expedition Zero - Демо #2 / Daymare: 1994 Sandcastle #1 (демо) / Total War: Warhammer III", "start": 0},
       {"id": "daymare-1994-sc", "segment": "1307474557", "name": "Daymare: 1994 Sandcastle #2 / Little Orpheus - Episode 1 / The Bridge Curse: Road to Salvation (демо) / My Friendly Neighborhood (демо) / SCP: Pandemic (демо) / IXION (демо)", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "elden-ring", "segment": "1409713021", "name": "Elden Ring #3", "start": 0},
       {"id": "elden-ring", "segment": "1410791009", "name": "Elden Ring #4", "start": 0},
       {"id": "elden-ring", "segment": "1411976783", "name": "Elden Ring #5", "start": 0},
-      {"id": "elden-ring", "segment": "1412978137", "name": "Elden Ring #6", "start": 0}
+      {"id": "elden-ring", "segment": "1412978137", "name": "Elden Ring #6", "start": 0},
+      {"id": "first-2022", "segment": "1415016033", "name": "Gran Turismo 7", "start": 0}
     ]
   },
   "finished": {
@@ -729,7 +729,8 @@
       {"id": "first-2022", "segment": "1307474557", "name": "The Bridge Curse: Road to Salvation (демо)", "start": 5644},
       {"id": "first-2022", "segment": "1307474557", "name": "My Friendly Neighborhood (демо)", "start": 8439},
       {"id": "first-2022", "segment": "1307474557", "name": "SCP: Pandemic (демо)", "start": 11879},
-      {"id": "first-2022", "segment": "1307474557", "name": "IXION (демо)", "start": 15483}
+      {"id": "first-2022", "segment": "1307474557", "name": "IXION (демо)", "start": 15483},
+      {"id": "first-2022", "segment": "1415016033", "name": "Gran Turismo 7", "start": 0}
     ]
   },
   "ongoing": {
