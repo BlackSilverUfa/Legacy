@@ -8823,7 +8823,6 @@
     "name": "Metro: Last Light Redux #1",
     "date": "2022-01-15",
     "cuts": [[4169, 4174]],
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1264372459.torrent",
     "games": ["metro-ll"]
   },
   "1265545024": {
@@ -9038,11 +9037,18 @@
     "games": ["elden-ring"]
   },
   "1415016033": {
-    "abs_start": "0:00", "abs_end": "3:03:04", "duration": "0:00",
+    "youtube": "4oZgWTPfbe8", "abs_start": "0:00", "abs_end": "3:02:58", "duration": "3:02:58",
     "name": "Gran Turismo 7",
     "date": "2022-03-04",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1415016033.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1415016033.torrent",
     "games": ["first-2022"]
+  },
+  "1416009554": {
+    "abs_start": "0:00", "abs_end": "8:36:17", "duration": "0:00",
+    "name": "Elden Ring #7",
+    "date": "2022-03-05",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1416009554.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1416009554.torrent",
+    "games": ["elden-ring"]
   }
 }
