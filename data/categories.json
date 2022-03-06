@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "first-2022", "segment": "1306396434", "name": "Autopsy Simulator (демо) / FAR: Changing Tides (демо) / Scathe (демо) / Expedition Zero - Демо #2 / Daymare: 1994 Sandcastle #1 (демо) / Total War: Warhammer III", "start": 0},
       {"id": "daymare-1994-sc", "segment": "1307474557", "name": "Daymare: 1994 Sandcastle #2 / Little Orpheus - Episode 1 / The Bridge Curse: Road to Salvation (демо) / My Friendly Neighborhood (демо) / SCP: Pandemic (демо) / IXION (демо)", "start": 0},
       {"id": "elden-ring", "segment": "1407442799", "name": "Elden Ring #1 (релиз)", "start": 0},
       {"id": "elden-ring", "segment": "1408604628", "name": "Elden Ring #2", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "elden-ring", "segment": "1411976783", "name": "Elden Ring #5", "start": 0},
       {"id": "elden-ring", "segment": "1412978137", "name": "Elden Ring #6", "start": 0},
       {"id": "first-2022", "segment": "1415016033", "name": "Gran Turismo 7", "start": 0},
-      {"id": "elden-ring", "segment": "1416009554", "name": "Elden Ring #7", "start": 0}
+      {"id": "elden-ring", "segment": "1416009554", "name": "Elden Ring #7", "start": 0},
+      {"id": "elden-ring", "segment": "1417120213", "name": "Elden Ring #8", "start": 0}
     ]
   },
   "finished": {
