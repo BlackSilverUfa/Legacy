@@ -8847,7 +8847,6 @@
     "youtube": "kI-VF8BGsL8", "abs_start": "0:00", "abs_end": "6:00:09", "duration": "6:00:09",
     "name": "Project Zomboid #2 (16 стримеров)",
     "date": "2022-01-21",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1270926177.torrent",
     "games": ["zomboid"]
   },
   "1272051017": {
@@ -9041,18 +9040,16 @@
     "games": ["first-2022"]
   },
   "1416009554": {
-    "abs_start": "0:00", "abs_end": "8:36:17", "duration": "0:00",
+    "youtube": "1HJT4yxRIOk", "abs_start": "0:00", "abs_end": "8:36:10", "duration": "8:36:10",
     "name": "Elden Ring #7",
     "date": "2022-03-05",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1416009554.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1416009554.torrent",
     "games": ["elden-ring"]
   },
   "1417120213": {
-    "abs_start": "0:00", "abs_end": "8:44:53", "duration": "0:00",
+    "youtube": "E68Ai1orDL4", "abs_start": "0:00", "abs_end": "8:44:51", "duration": "8:44:51",
     "name": "Elden Ring #8",
     "date": "2022-03-06",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1417120213.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1417120213.torrent",
     "games": ["elden-ring"]
   },
@@ -9062,6 +9059,14 @@
     "date": "2022-03-07",
     "direct": "https://bsufiles.thedrhax.pw/streams/1418193084.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1418193084.torrent",
+    "games": ["elden-ring"]
+  },
+  "1419175051": {
+    "abs_start": "0:00", "abs_end": "7:48:50", "duration": "0:00",
+    "name": "Elden Ring #10",
+    "date": "2022-03-08",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1419175051.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1419175051.torrent",
     "games": ["elden-ring"]
   }
 }
