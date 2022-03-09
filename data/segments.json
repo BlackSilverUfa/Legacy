@@ -8854,7 +8854,6 @@
     "name": "Metro: Last Light Redux #3 (финал и все DLC)",
     "date": "2022-01-22",
     "cuts": [[3534, 3563]],
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1272051017.torrent",
     "games": ["metro-ll"]
   },
   "1273302913": {
@@ -9067,6 +9066,14 @@
     "date": "2022-03-08",
     "direct": "https://bsufiles.thedrhax.pw/streams/1419175051.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1419175051.torrent",
+    "games": ["elden-ring"]
+  },
+  "1420160951": {
+    "abs_start": "0:00", "abs_end": "8:45:25", "duration": "0:00",
+    "name": "Elden Ring #11",
+    "date": "2022-03-09",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1420160951.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1420160951.torrent",
     "games": ["elden-ring"]
   }
 }

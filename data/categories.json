@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "elden-ring", "segment": "1408604628", "name": "Elden Ring #2", "start": 0},
       {"id": "elden-ring", "segment": "1409713021", "name": "Elden Ring #3", "start": 0},
       {"id": "elden-ring", "segment": "1410791009", "name": "Elden Ring #4", "start": 0},
       {"id": "elden-ring", "segment": "1411976783", "name": "Elden Ring #5", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "elden-ring", "segment": "1416009554", "name": "Elden Ring #7", "start": 0},
       {"id": "elden-ring", "segment": "1417120213", "name": "Elden Ring #8", "start": 0},
       {"id": "elden-ring", "segment": "1418193084", "name": "Elden Ring #9", "start": 0},
-      {"id": "elden-ring", "segment": "1419175051", "name": "Elden Ring #10", "start": 0}
+      {"id": "elden-ring", "segment": "1419175051", "name": "Elden Ring #10", "start": 0},
+      {"id": "elden-ring", "segment": "1420160951", "name": "Elden Ring #11", "start": 0}
     ]
   },
   "finished": {
