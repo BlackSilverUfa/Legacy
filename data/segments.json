@@ -8860,7 +8860,6 @@
     "youtube": "g49keWfKAeM", "abs_start": "0:00", "abs_end": "6:27:58", "duration": "6:27:58",
     "name": "Root of Guilt / Concluse 2 / Alternative Game: On Duty (фан-игра) / Experiment: Groceries / Dark Dreams (демо) / Within Yourself / Toy Hub Support / HorrorDriven: A story for the road (демо) / Before Dawn / Copperport Casefiles - Under the Stairs",
     "date": "2022-01-23",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1273302913.torrent",
     "games": ["single", "first-2022", "copperport"]
   },
   "1274362855": {
@@ -9074,6 +9073,14 @@
     "date": "2022-03-09",
     "direct": "https://bsufiles.thedrhax.pw/streams/1420160951.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1420160951.torrent",
+    "games": ["elden-ring"]
+  },
+  "1421157654": {
+    "abs_start": "0:00", "abs_end": "6:51:36", "duration": "0:00",
+    "name": "Elden Ring #12",
+    "date": "2022-03-10",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1421157654.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1421157654.torrent",
     "games": ["elden-ring"]
   }
 }
