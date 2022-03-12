@@ -8866,14 +8866,12 @@
     "youtube": "PH0cXp8J7w4", "abs_start": "0:00", "abs_end": "6:53:02", "duration": "6:53:02",
     "name": "Metro Exodus: Enhanced Edition / Hidden Deep #1 (с WLG)",
     "date": "2022-01-24",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1274362855.torrent",
     "games": ["first-2022", "hidden-deep"]
   },
   "1279881006": {
     "youtube": "q-nBwoBYk3U", "abs_start": "0:00", "abs_end": "7:37:58", "duration": "7:37:58",
     "name": "Dying Light #4 / Dying Light - The Following #1",
     "date": "2022-01-29",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1279881006.torrent",
     "games": ["dying-light"]
   },
   "1281171085": {
@@ -9052,35 +9050,41 @@
     "games": ["elden-ring"]
   },
   "1418193084": {
-    "abs_start": "0:00", "abs_end": "8:09:25", "duration": "0:00",
+    "youtube": "yy8akjErXhw", "abs_start": "0:00", "abs_end": "8:09:14", "duration": "8:08:43",
     "name": "Elden Ring #9",
     "date": "2022-03-07",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1418193084.mp4",
+    "cuts": [[29087, 29118]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1418193084.torrent",
     "games": ["elden-ring"]
   },
   "1419175051": {
-    "abs_start": "0:00", "abs_end": "7:48:50", "duration": "0:00",
+    "youtube": "ggTwaXRUQdc", "abs_start": "0:00", "abs_end": "7:49:01", "duration": "7:49:01",
     "name": "Elden Ring #10",
     "date": "2022-03-08",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1419175051.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1419175051.torrent",
     "games": ["elden-ring"]
   },
   "1420160951": {
-    "abs_start": "0:00", "abs_end": "8:45:25", "duration": "0:00",
+    "youtube": "de_XsgNDjyY", "abs_start": "0:00", "abs_end": "8:45:21", "duration": "8:45:21",
     "name": "Elden Ring #11",
     "date": "2022-03-09",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1420160951.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1420160951.torrent",
     "games": ["elden-ring"]
   },
   "1421157654": {
-    "abs_start": "0:00", "abs_end": "6:51:36", "duration": "0:00",
+    "youtube": "5t1H0lE6fq4", "abs_start": "0:00", "abs_end": "6:51:24", "duration": "6:50:54",
     "name": "Elden Ring #12",
     "date": "2022-03-10",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1421157654.mp4",
+    "cuts": [[24426, 24456]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1421157654.torrent",
+    "games": ["elden-ring"]
+  },
+  "1423204299": {
+    "abs_start": "0:00", "abs_end": "8:33:59", "duration": "0:00",
+    "name": "Elden Ring #13",
+    "date": "2022-03-12",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1423204299.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1423204299.torrent",
     "games": ["elden-ring"]
   }
 }
