@@ -8878,7 +8878,6 @@
     "youtube": "pk79cphy_4Q", "abs_start": "0:00", "abs_end": "6:03:09", "duration": "6:03:09",
     "name": "From Next Door / Skinwalker / Paranoiac",
     "date": "2022-01-30",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1281171085.torrent",
     "games": ["single"]
   },
   "1282188188": {
@@ -9085,6 +9084,14 @@
     "date": "2022-03-12",
     "direct": "https://bsufiles.thedrhax.pw/streams/1423204299.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1423204299.torrent",
+    "games": ["elden-ring"]
+  },
+  "1424290625": {
+    "abs_start": "0:00", "abs_end": "9:18:45", "duration": "0:00",
+    "name": "Elden Ring #14",
+    "date": "2022-03-13",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1424290625.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1424290625.torrent",
     "games": ["elden-ring"]
   }
 }

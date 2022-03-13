@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "elden-ring", "segment": "1411976783", "name": "Elden Ring #5", "start": 0},
       {"id": "elden-ring", "segment": "1412978137", "name": "Elden Ring #6", "start": 0},
       {"id": "first-2022", "segment": "1415016033", "name": "Gran Turismo 7", "start": 0},
       {"id": "elden-ring", "segment": "1416009554", "name": "Elden Ring #7", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "elden-ring", "segment": "1419175051", "name": "Elden Ring #10", "start": 0},
       {"id": "elden-ring", "segment": "1420160951", "name": "Elden Ring #11", "start": 0},
       {"id": "elden-ring", "segment": "1421157654", "name": "Elden Ring #12", "start": 0},
-      {"id": "elden-ring", "segment": "1423204299", "name": "Elden Ring #13", "start": 0}
+      {"id": "elden-ring", "segment": "1423204299", "name": "Elden Ring #13", "start": 0},
+      {"id": "elden-ring", "segment": "1424290625", "name": "Elden Ring #14", "start": 0}
     ]
   },
   "finished": {
