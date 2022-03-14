@@ -8884,7 +8884,6 @@
     "youtube": "C0wVkgNfI_M", "abs_start": "0:00", "abs_end": "8:02:34", "duration": "8:02:34",
     "name": "Dying Light - The Following #2",
     "date": "2022-01-31",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1282188188.torrent",
     "games": ["dying-light"]
   },
   "1283289423": {
@@ -9079,10 +9078,9 @@
     "games": ["elden-ring"]
   },
   "1423204299": {
-    "abs_start": "0:00", "abs_end": "8:33:59", "duration": "0:00",
+    "youtube": "uNwa6_c33Nc", "abs_start": "0:00", "abs_end": "8:33:53", "duration": "8:33:53",
     "name": "Elden Ring #13",
     "date": "2022-03-12",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1423204299.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1423204299.torrent",
     "games": ["elden-ring"]
   },
@@ -9092,6 +9090,14 @@
     "date": "2022-03-13",
     "direct": "https://bsufiles.thedrhax.pw/streams/1424290625.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1424290625.torrent",
+    "games": ["elden-ring"]
+  },
+  "1425309572": {
+    "abs_start": "0:00", "abs_end": "5:54:34", "duration": "0:00",
+    "name": "Elden Ring #15",
+    "date": "2022-03-14",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1425309572.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1425309572.torrent",
     "games": ["elden-ring"]
   }
 }

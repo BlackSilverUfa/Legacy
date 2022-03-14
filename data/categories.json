@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "elden-ring", "segment": "1412978137", "name": "Elden Ring #6", "start": 0},
       {"id": "first-2022", "segment": "1415016033", "name": "Gran Turismo 7", "start": 0},
       {"id": "elden-ring", "segment": "1416009554", "name": "Elden Ring #7", "start": 0},
       {"id": "elden-ring", "segment": "1417120213", "name": "Elden Ring #8", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "elden-ring", "segment": "1420160951", "name": "Elden Ring #11", "start": 0},
       {"id": "elden-ring", "segment": "1421157654", "name": "Elden Ring #12", "start": 0},
       {"id": "elden-ring", "segment": "1423204299", "name": "Elden Ring #13", "start": 0},
-      {"id": "elden-ring", "segment": "1424290625", "name": "Elden Ring #14", "start": 0}
+      {"id": "elden-ring", "segment": "1424290625", "name": "Elden Ring #14", "start": 0},
+      {"id": "elden-ring", "segment": "1425309572", "name": "Elden Ring #15", "start": 0}
     ]
   },
   "finished": {
@@ -293,6 +293,7 @@
       {"name": "Marvel's Guardians of the Galaxy", "id": "marvel-gotg", "segment": "1186535358"},
       {"id": "single", "segment": "1190164000", "name": "Last Days of Lazarus (демо)", "start": 15909},
       {"id": "single", "segment": "1196615295", "name": "Call of Duty: Vanguard (сюжет)", "start": 0},
+      {"name": "Elden Ring", "id": "elden-ring", "segment": "1203211087,1203238012"},
       {"name": "Shadow of the Damned", "id": "sotd", "segment": "1214560792"},
       {"id": "single", "segment": "1218281049,1218409784", "name": "Samhainophobia", "start": 19536},
       {"id": "single", "segment": "1222726196", "name": "Invitationem", "start": 14008},
@@ -736,7 +737,7 @@
   "ongoing": {
     "name": "Активные",
     "games": [
-      {"name": "Elden Ring", "id": "elden-ring", "segment": "1203211087,1203238012"}
+  
     ]
   },
   "infinite": {
