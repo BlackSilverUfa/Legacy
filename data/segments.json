@@ -451,10 +451,9 @@
     "games": ["ds3"]
   },
   "001605240": {
-    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
+    "youtube": "-_9vZHF-plc", "official": false, "abs_start": "0:00", "abs_end": "5:31:34", "duration": "5:31:34",
     "name": "Dark Souls 3 #5",
     "date": "2016-05-24",
-    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/001605240.mp4",
     "games": ["ds3"]
   },
   "001605270": {
@@ -9087,18 +9086,17 @@
     "games": ["elden-ring"]
   },
   "1424290625": {
-    "abs_start": "0:00", "abs_end": "9:18:45", "duration": "0:00",
+    "youtube": "gcU0VvR4PVI", "abs_start": "0:00", "abs_end": "9:18:39", "duration": "9:18:08",
     "name": "Elden Ring #14",
     "date": "2022-03-13",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1424290625.mp4",
+    "cuts": [[29020, 29051]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1424290625.torrent",
     "games": ["elden-ring"]
   },
   "1425309572": {
-    "abs_start": "0:00", "abs_end": "5:54:34", "duration": "0:00",
+    "youtube": "GMRb3krMpRg", "abs_start": "0:00", "abs_end": "5:54:15", "duration": "5:54:15",
     "name": "Elden Ring #15",
     "date": "2022-03-14",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1425309572.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1425309572.torrent",
     "games": ["elden-ring"]
   }
