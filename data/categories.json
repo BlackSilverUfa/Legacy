@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "first-2022", "segment": "1415016033", "name": "Gran Turismo 7", "start": 0},
       {"id": "elden-ring", "segment": "1416009554", "name": "Elden Ring #7", "start": 0},
       {"id": "elden-ring", "segment": "1417120213", "name": "Elden Ring #8", "start": 0},
       {"id": "elden-ring", "segment": "1418193084", "name": "Elden Ring #9", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "elden-ring", "segment": "1421157654", "name": "Elden Ring #12", "start": 0},
       {"id": "elden-ring", "segment": "1423204299", "name": "Elden Ring #13", "start": 0},
       {"id": "elden-ring", "segment": "1424290625", "name": "Elden Ring #14", "start": 0},
-      {"id": "elden-ring", "segment": "1425309572", "name": "Elden Ring #15", "start": 0}
+      {"id": "elden-ring", "segment": "1425309572", "name": "Elden Ring #15", "start": 0},
+      {"id": "far-changing-tides", "segment": "1430250580", "name": "FAR: Changing Tides - Прохождение", "start": 0}
     ]
   },
   "finished": {
@@ -335,6 +335,7 @@
       {"name": "Dying Light 2: Stay Human", "id": "dying-light-2", "segment": "1285368105"},
       {"id": "single", "segment": "1294441814", "name": "Know by Heart (Помни...)", "start": 0},
       {"name": "Horizon Forbidden West", "id": "horizon-fw", "segment": "1300779617"},
+      {"name": "FAR: Changing Tides", "id": "far-changing-tides", "segment": "1306396434"},
       {"id": "single", "segment": "1307474557", "name": "Little Orpheus - Episode 1", "start": 3599}
     ]
   },
@@ -724,7 +725,6 @@
       {"id": "first-2022", "segment": "1299859703", "name": "Kingdom of the Dead", "start": 10383},
       {"id": "first-2022", "segment": "1300779617", "name": "Horizon Zero Dawn", "start": 0},
       {"id": "first-2022", "segment": "1306396434", "name": "Autopsy Simulator (демо)", "start": 0},
-      {"id": "first-2022", "segment": "1306396434", "name": "FAR: Changing Tides (демо)", "start": 4545},
       {"id": "first-2022", "segment": "1306396434", "name": "Scathe (демо)", "start": 6678},
       {"id": "first-2022", "segment": "1306396434", "name": "Total War: Warhammer III", "start": 14527},
       {"id": "first-2022", "segment": "1307474557", "name": "The Bridge Curse: Road to Salvation (демо)", "start": 5644},

@@ -8890,7 +8890,6 @@
     "youtube": "26YaIluEyLE", "abs_start": "0:00", "abs_end": "4:50:17", "duration": "4:50:17",
     "name": "Bloodborne PSX / Serious Sam: Siberian Mayhem",
     "date": "2022-02-01",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1283289423.torrent",
     "games": ["first-2022"]
   },
   "1285368105": {
@@ -8972,10 +8971,10 @@
   },
   "1306396434": {
     "youtube": "1iRoV0C7dbs", "abs_start": "0:00", "abs_end": "6:12:35", "duration": "6:12:35",
-    "name": "Autopsy Simulator (демо) / FAR: Changing Tides (демо) / Scathe (демо) / Expedition Zero - Демо #2 / Daymare: 1994 Sandcastle #1 (демо) / Total War: Warhammer III",
+    "name": "Autopsy Simulator (демо) / FAR: Changing Tides - Демо / Scathe (демо) / Expedition Zero - Демо #2 / Daymare: 1994 Sandcastle #1 (демо) / Total War: Warhammer III",
     "date": "2022-02-22",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1306396434.torrent",
-    "games": ["first-2022", "expedition-zero", "daymare-1994-sc"]
+    "games": ["first-2022", "far-changing-tides", "expedition-zero", "daymare-1994-sc"]
   },
   "1307474557": {
     "youtube": "zL1PUTMZk9I", "abs_start": "0:00", "abs_end": "4:48:34", "duration": "4:48:34",
@@ -9098,5 +9097,13 @@
     "date": "2022-03-14",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1425309572.torrent",
     "games": ["elden-ring"]
+  },
+  "1430250580": {
+    "abs_start": "0:00", "abs_end": "5:53:25", "duration": "0:00",
+    "name": "FAR: Changing Tides - Прохождение",
+    "date": "2022-03-19",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1430250580.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1430250580.torrent",
+    "games": ["far-changing-tides"]
   }
 }
