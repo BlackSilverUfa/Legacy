@@ -4768,9 +4768,10 @@
     "games": ["mafia-2", "outlast-2"]
   },
   "502940448": {
-    "youtube": "0naoNTxCBcE", "official": false, "abs_start": "0:00", "abs_end": "5:13:53", "duration": "5:13:53",
+    "abs_start": "0:00", "abs_end": "5:14:28", "duration": "0:00",
     "name": "BlizzCon 2019 (обзор) / Nioh 2 - Бета / Mafia II #2",
     "date": "2019-11-02",
+    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/502940448.mp4",
     "games": ["expos", "nioh-2", "mafia-2"]
   },
   "503413959": {
