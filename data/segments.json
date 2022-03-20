@@ -8897,7 +8897,6 @@
     "youtube": "TfpwZJ8WU40", "abs_start": "0:00", "abs_end": "9:51:09", "duration": "9:51:09",
     "name": "Dying Light 2: Stay Human #1",
     "date": "2022-02-03",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1285368105.torrent",
     "games": ["dying-light-2"]
   },
   "1286499697": {
@@ -9106,5 +9105,13 @@
     "direct": "https://bsufiles.thedrhax.pw/streams/1430250580.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1430250580.torrent",
     "games": ["far-changing-tides"]
+  },
+  "1431310944": {
+    "abs_start": "0:00", "abs_end": "6:08:30", "duration": "0:00",
+    "name": "Elden Ring #16 (aftergame)",
+    "date": "2022-03-20",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1431310944.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1431310944.torrent",
+    "games": ["elden-ring"]
   }
 }
