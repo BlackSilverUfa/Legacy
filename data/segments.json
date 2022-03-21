@@ -4768,10 +4768,9 @@
     "games": ["mafia-2", "outlast-2"]
   },
   "502940448": {
-    "abs_start": "0:00", "abs_end": "5:14:28", "duration": "0:00",
+    "youtube": "CKJFAXtqNYw", "official": false, "abs_start": "0:00", "abs_end": "5:13:53", "duration": "5:13:53",
     "name": "BlizzCon 2019 (обзор) / Nioh 2 - Бета / Mafia II #2",
     "date": "2019-11-02",
-    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/502940448.mp4",
     "games": ["expos", "nioh-2", "mafia-2"]
   },
   "503413959": {
@@ -7731,9 +7730,9 @@
   },
   "1066067703": {
     "youtube": "6p55GvH4HKM", "official": false, "abs_start": "0:00", "abs_end": "5:32:43", "duration": "5:32:43",
-    "name": "ROG Phone 5 / Scarlet Nexus #1 / Stranger of Paradise: Final Fantasy Origin (демо) / Guilty Gear: Strive",
+    "name": "ROG Phone 5 / Scarlet Nexus #1 / Stranger of Paradise: Final Fantasy Origin - Демо / Guilty Gear: Strive",
     "date": "2021-06-24",
-    "games": ["unboxing", "scarlet-nexus", "first-2021"]
+    "games": ["unboxing", "scarlet-nexus", "sop-ffo", "first-2021"]
   },
   "1067131113": {
     "youtube": "InjThcw8hgM", "official": false, "abs_start": "0:00", "abs_end": "6:39:19", "duration": "6:39:19",
@@ -9113,5 +9112,13 @@
     "direct": "https://bsufiles.thedrhax.pw/streams/1431310944.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1431310944.torrent",
     "games": ["elden-ring"]
+  },
+  "1432334680": {
+    "abs_start": "0:00", "abs_end": "4:04:57", "duration": "0:00",
+    "name": "Stranger of Paradise: Final Fantasy Origin - Релиз",
+    "date": "2022-03-21",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1432334680.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1432334680.torrent",
+    "games": ["sop-ffo"]
   }
 }

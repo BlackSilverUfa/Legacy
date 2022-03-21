@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "elden-ring", "segment": "1417120213", "name": "Elden Ring #8", "start": 0},
       {"id": "elden-ring", "segment": "1418193084", "name": "Elden Ring #9", "start": 0},
       {"id": "elden-ring", "segment": "1419175051", "name": "Elden Ring #10", "start": 0},
       {"id": "elden-ring", "segment": "1420160951", "name": "Elden Ring #11", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "elden-ring", "segment": "1424290625", "name": "Elden Ring #14", "start": 0},
       {"id": "elden-ring", "segment": "1425309572", "name": "Elden Ring #15", "start": 0},
       {"id": "far-changing-tides", "segment": "1430250580", "name": "FAR: Changing Tides - Прохождение", "start": 0},
-      {"id": "elden-ring", "segment": "1431310944", "name": "Elden Ring #16 (aftergame)", "start": 0}
+      {"id": "elden-ring", "segment": "1431310944", "name": "Elden Ring #16 (aftergame)", "start": 0},
+      {"id": "sop-ffo", "segment": "1432334680", "name": "Stranger of Paradise: Final Fantasy Origin - Релиз", "start": 0}
     ]
   },
   "finished": {
@@ -645,7 +645,6 @@
       {"id": "first-2021", "segment": "1059978031", "name": "Super Bomberman R Online", "start": 20975},
       {"id": "first-2021", "segment": "1061050549", "name": "Horrors of Space (демо)", "start": 19113},
       {"id": "first-2021", "segment": "1061050549", "name": "Rabbit Hole (демо)", "start": 19914},
-      {"id": "first-2021", "segment": "1066067703", "name": "Stranger of Paradise: Final Fantasy Origin (демо)", "start": 13148},
       {"id": "first-2021", "segment": "1066067703", "name": "Guilty Gear: Strive", "start": 18386},
       {"id": "first-2021", "segment": "1070208965", "name": "Open Country", "start": 0},
       {"id": "first-2021", "segment": "1072311121", "name": "Call of Duty: Mobile", "start": 0},
@@ -737,7 +736,7 @@
   "ongoing": {
     "name": "Активные",
     "games": [
-  
+      {"name": "Stranger of Paradise: Final Fantasy Origin", "id": "sop-ffo", "segment": "1066067703"}
     ]
   },
   "infinite": {
