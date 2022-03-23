@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "elden-ring", "segment": "1419175051", "name": "Elden Ring #10", "start": 0},
       {"id": "elden-ring", "segment": "1420160951", "name": "Elden Ring #11", "start": 0},
       {"id": "elden-ring", "segment": "1421157654", "name": "Elden Ring #12", "start": 0},
       {"id": "elden-ring", "segment": "1423204299", "name": "Elden Ring #13", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "far-changing-tides", "segment": "1430250580", "name": "FAR: Changing Tides - Прохождение", "start": 0},
       {"id": "elden-ring", "segment": "1431310944", "name": "Elden Ring #16 (aftergame)", "start": 0},
       {"id": "sop-ffo", "segment": "1432334680", "name": "Stranger of Paradise: Final Fantasy Origin - Релиз", "start": 0},
-      {"id": "ghostwire", "segment": "1433236088", "name": "GhostWire: Tokyo #1", "start": 0}
+      {"id": "ghostwire", "segment": "1433236088", "name": "GhostWire: Tokyo #1", "start": 0},
+      {"id": "ghostwire", "segment": "1434194047", "name": "GhostWire: Tokyo #2", "start": 0}
     ]
   },
   "finished": {
