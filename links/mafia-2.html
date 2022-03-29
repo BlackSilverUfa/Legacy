@@ -302,9 +302,9 @@
         <i class="fas fa-comments"></i> 19189
       </a>
     </span>
-    <span class="badge badge-success">
-      <a href="https://www.youtube.com/watch?v=OEtxAju0oPU" target="_blank">
-        <i class="fab fa-youtube"></i> OEtxAju0oPU
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.thedrhax.pw/streams/permanent/503413959.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -330,13 +330,18 @@
     <li><a data-value="1285">21:25</a> — Игра</li>
     <li><a data-value="4263">1:11:03</a> — Никуда не денется</li>
     <li><a data-value="5739">1:35:39</a> — Заклинило</li>
-    <li><a data-value="10552">2:55:52</a> - <a data-value="10611">2:56:51</a> — Сломано</li>
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li><a data-value="9392">2:36:32</a> - <a data-value="9453">2:37:33</a> — Eddie Cochran - Summertime Blues</li>
     <li>
       <a data-value="10799">2:59:59</a> - <a data-value="11159">3:05:59</a>,
       <a data-value="13319">3:41:59</a> - <a data-value="13679">3:47:59</a>,
       <a data-value="16919">4:41:59</a> - <a data-value="17279">4:47:59</a>
       — Нет звука (Twitch)
     </li>
+  </ul>
+
+    <li><a data-value="10552">2:55:52</a> - <a data-value="10611">2:56:51</a> — Сломано</li>
     <li><a data-value="11209">3:06:49</a> — Титаник</li>
     <li><a data-value="12329">3:25:29</a> — Я умею водить, ясно?</li>
     <li>
@@ -355,13 +360,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="2" data-hash="503413959" data-subtitles="https://bsu.drhx.ru/chats/2019/v503413959.ass" data-name="3" data-youtube="OEtxAju0oPU" />
+  <p class="stream" data-id="2" data-hash="503413959" data-subtitles="https://bsu.drhx.ru/chats/2019/v503413959.ass" data-name="3" data-direct="https://bsufiles.thedrhax.pw/streams/permanent/503413959.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2019/v503413959.ass ytdl://OEtxAju0oPU
+  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2019/v503413959.ass https://bsufiles.thedrhax.pw/streams/permanent/503413959.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://bsu.drhx.ru/chats/2019/v503413959.ass" --player-passthrough hls twitch.tv/videos/503413959 best
 </code></pre>
 </div>
 

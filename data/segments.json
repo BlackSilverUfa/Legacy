@@ -4774,9 +4774,10 @@
     "games": ["expos", "nioh-2", "mafia-2"]
   },
   "503413959": {
-    "youtube": "OEtxAju0oPU", "abs_start": "0:00", "abs_end": "5:14:17", "duration": "5:14:17",
+    "abs_start": "0:00", "abs_end": "5:15:05", "duration": "0:00",
     "name": "Mafia II #3",
     "date": "2019-11-03",
+    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/503413959.mp4",
     "games": ["mafia-2"]
   },
   "504248004": {
@@ -9116,26 +9117,23 @@
     "games": ["sop-ffo"]
   },
   "1433236088": {
-    "abs_start": "0:00", "abs_end": "8:04:50", "duration": "0:00",
+    "youtube": "CWMEkuX-4HE", "abs_start": "0:00", "abs_end": "8:04:35", "duration": "8:04:35",
     "name": "GhostWire: Tokyo #1",
     "date": "2022-03-22",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1433236088.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1433236088.torrent",
     "games": ["ghostwire"]
   },
   "1434194047": {
-    "abs_start": "0:00", "abs_end": "8:23:09", "duration": "0:00",
+    "youtube": "eEN2b8lI9HQ", "abs_start": "0:00", "abs_end": "8:22:55", "duration": "8:22:55",
     "name": "GhostWire: Tokyo #2",
     "date": "2022-03-23",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1434194047.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1434194047.torrent",
     "games": ["ghostwire"]
   },
   "1435162657": {
-    "abs_start": "0:00", "abs_end": "8:09:49", "duration": "0:00",
+    "youtube": "PJYl0GJYbkE", "abs_start": "0:00", "abs_end": "8:09:45", "duration": "8:09:45",
     "name": "GhostWire: Tokyo #3",
     "date": "2022-03-24",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1435162657.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1435162657.torrent",
     "games": ["ghostwire"]
   }
