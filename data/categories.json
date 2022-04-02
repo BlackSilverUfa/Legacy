@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "elden-ring", "segment": "1421157654", "name": "Elden Ring #12", "start": 0},
       {"id": "elden-ring", "segment": "1423204299", "name": "Elden Ring #13", "start": 0},
       {"id": "elden-ring", "segment": "1424290625", "name": "Elden Ring #14", "start": 0},
       {"id": "elden-ring", "segment": "1425309572", "name": "Elden Ring #15", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "sop-ffo", "segment": "1432334680", "name": "Stranger of Paradise: Final Fantasy Origin - Релиз", "start": 0},
       {"id": "ghostwire", "segment": "1433236088", "name": "GhostWire: Tokyo #1", "start": 0},
       {"id": "ghostwire", "segment": "1434194047", "name": "GhostWire: Tokyo #2", "start": 0},
-      {"id": "ghostwire", "segment": "1435162657", "name": "GhostWire: Tokyo #3", "start": 0}
+      {"id": "ghostwire", "segment": "1435162657", "name": "GhostWire: Tokyo #3", "start": 0},
+      {"id": "single", "segment": "1444100764", "name": "Ikai / Weird West", "start": 0}
     ]
   },
   "finished": {
@@ -337,7 +337,8 @@
       {"name": "Horizon Forbidden West", "id": "horizon-fw", "segment": "1300779617"},
       {"name": "FAR: Changing Tides", "id": "far-changing-tides", "segment": "1306396434"},
       {"id": "single", "segment": "1307474557", "name": "Little Orpheus - Episode 1", "start": 3599},
-      {"name": "GhostWire: Tokyo", "id": "ghostwire", "segment": "1433236088"}
+      {"name": "GhostWire: Tokyo", "id": "ghostwire", "segment": "1433236088"},
+      {"id": "single", "segment": "1444100764", "name": "Ikai", "start": 0}
     ]
   },
   "first": {
@@ -731,7 +732,8 @@
       {"id": "first-2022", "segment": "1307474557", "name": "My Friendly Neighborhood (демо)", "start": 8439},
       {"id": "first-2022", "segment": "1307474557", "name": "SCP: Pandemic (демо)", "start": 11879},
       {"id": "first-2022", "segment": "1307474557", "name": "IXION (демо)", "start": 15483},
-      {"id": "first-2022", "segment": "1415016033", "name": "Gran Turismo 7", "start": 0}
+      {"id": "first-2022", "segment": "1415016033", "name": "Gran Turismo 7", "start": 0},
+      {"id": "first-2022", "segment": "1444100764", "name": "Weird West", "start": 16810}
     ]
   },
   "ongoing": {

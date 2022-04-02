@@ -4774,10 +4774,9 @@
     "games": ["expos", "nioh-2", "mafia-2"]
   },
   "503413959": {
-    "abs_start": "0:00", "abs_end": "5:15:05", "duration": "0:00",
+    "youtube": "fKB6RT_3uvI", "official": false, "abs_start": "0:00", "abs_end": "5:14:16", "duration": "5:14:16",
     "name": "Mafia II #3",
     "date": "2019-11-03",
-    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/503413959.mp4",
     "games": ["mafia-2"]
   },
   "504248004": {
@@ -8921,7 +8920,6 @@
     "youtube": "rPVmn2mZUUM", "abs_start": "0:00", "abs_end": "4:02:21", "duration": "4:02:21",
     "name": "OlliOlli World / Sifu #3 (релиз)",
     "date": "2022-02-07",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1290138739.torrent",
     "games": ["first-2022", "sifu"]
   },
   "1293422934": {
@@ -9136,5 +9134,13 @@
     "date": "2022-03-24",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1435162657.torrent",
     "games": ["ghostwire"]
+  },
+  "1444100764": {
+    "abs_start": "0:00", "abs_end": "6:06:47", "duration": "0:00",
+    "name": "Ikai / Weird West",
+    "date": "2022-04-02",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1444100764.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1444100764.torrent",
+    "games": ["single", "first-2022"]
   }
 }
