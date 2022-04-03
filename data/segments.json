@@ -8926,7 +8926,6 @@
     "youtube": "unhO5tpkpRg", "abs_start": "0:00", "abs_end": "4:04:01", "duration": "4:04:01",
     "name": "Sifu #4",
     "date": "2022-02-10",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1293422934.torrent",
     "games": ["sifu"]
   },
   "1294441814": {
@@ -9136,11 +9135,18 @@
     "games": ["ghostwire"]
   },
   "1444100764": {
-    "abs_start": "0:00", "abs_end": "6:06:47", "duration": "0:00",
+    "youtube": "PGjMwHIcShM", "abs_start": "0:00", "abs_end": "6:06:43", "duration": "6:06:43",
     "name": "Ikai / Weird West",
     "date": "2022-04-02",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1444100764.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1444100764.torrent",
     "games": ["single", "first-2022"]
+  },
+  "1445142982": {
+    "abs_start": "0:00", "abs_end": "6:10:25", "duration": "0:00",
+    "name": "Remnants of R'lyeh (демо) / Grief / Mirage of Home / Nightmare of Decay (демо) / Uncle Panko's Terrible Little Farm / Toiletrooms / Out of Sight (демо) / Cleaning Redville / HandCop / The Heilwald Loophole",
+    "date": "2022-04-03",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1445142982.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1445142982.torrent",
+    "games": ["first-2022", "single"]
   }
 }
