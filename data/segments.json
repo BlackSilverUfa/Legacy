@@ -8932,7 +8932,6 @@
     "youtube": "vJEkPogov4U", "abs_start": "0:00", "abs_end": "7:47:12", "duration": "7:47:12",
     "name": "Know by Heart (Помни...)",
     "date": "2022-02-11",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1294441814.torrent",
     "games": ["single"]
   },
   "1299859703": {
@@ -9148,5 +9147,13 @@
     "direct": "https://bsufiles.thedrhax.pw/streams/1445142982.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1445142982.torrent",
     "games": ["first-2022", "single"]
+  },
+  "1446082122": {
+    "abs_start": "0:00", "abs_end": "6:07:55", "duration": "0:00",
+    "name": "F.E.A.R.",
+    "date": "2022-04-04",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1446082122.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1446082122.torrent",
+    "games": ["first-2022"]
   }
 }
