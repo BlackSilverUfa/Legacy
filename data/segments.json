@@ -7462,7 +7462,7 @@
   },
   "1024777649": {
     "youtube": "A1luD_1z7xg", "official": false, "abs_start": "0:00", "abs_end": "4:29:39", "duration": "4:29:39",
-    "name": "Dread Hunger #1 / Pummel Party #14 (6D)",
+    "name": "Dread Hunger #1 (6D) / Pummel Party #14 (6D)",
     "date": "2021-05-16",
     "games": ["dread-hunger", "pummel-party"]
   },
@@ -7577,7 +7577,7 @@
   },
   "1043310851": {
     "youtube": "wWSvhdWE8Gc", "official": false, "abs_start": "0:00", "abs_end": "7:30:10", "duration": "7:30:10",
-    "name": "Necromunda: Hired Gun / First Class Trouble #2 / Dread Hunger #2",
+    "name": "Necromunda: Hired Gun / First Class Trouble #2 / Dread Hunger #2 (6D)",
     "date": "2021-06-02",
     "games": ["first-2021", "fct", "dread-hunger"]
   },
@@ -8944,7 +8944,6 @@
     "youtube": "ukKL8fLkWRc", "abs_start": "0:00", "abs_end": "9:06:10", "duration": "9:06:10",
     "name": "Horizon Zero Dawn / Horizon Forbidden West #1",
     "date": "2022-02-17",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1300779617.torrent",
     "games": ["first-2022", "horizon-fw"]
   },
   "1301849396": {
@@ -9162,5 +9161,13 @@
     "direct": "https://bsufiles.thedrhax.pw/streams/1447006792.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1447006792.torrent",
     "games": ["fear"]
+  },
+  "1447954975": {
+    "abs_start": "0:00", "abs_end": "6:02:18", "duration": "0:00",
+    "name": "ROG Flow Z13 / Dread Hunger #3",
+    "date": "2022-04-06",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1447954975.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1447954975.torrent",
+    "games": ["unboxing", "dread-hunger"]
   }
 }
