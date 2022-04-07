@@ -264,6 +264,11 @@
         <i class="fas fa-comments"></i> 13255
       </a>
     </span>
+    <span class="badge badge-success">
+      <a href="https://www.youtube.com/watch?v=6SZwVIBy9qM" target="_blank">
+        <i class="fab fa-youtube"></i> 6SZwVIBy9qM
+      </a>
+    </span>
     <span class="badge badge-danger">
       <a href="https://bsufiles.thedrhax.pw/streams/1447954975.torrent">
         <i class="fas fa-download"></i> торрент
@@ -305,19 +310,13 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="2" data-hash="1447954975" data-subtitles="https://bsu.drhx.ru/chats/2022/v1447954975.ass" data-start="4091" data-name="3" data-direct="https://bsufiles.thedrhax.pw/streams/1447954975.mp4" />
+  <p class="stream" data-id="2" data-hash="1447954975" data-subtitles="https://bsu.drhx.ru/chats/2022/v1447954975.ass" data-start="4091" data-name="3" data-youtube="6SZwVIBy9qM" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2022/v1447954975.ass --start=4091 https://bsufiles.thedrhax.pw/streams/1447954975.mp4
-</code></pre>
-</div>
-
-
-<div class="highlighter-rouge">
-  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://bsu.drhx.ru/chats/2022/v1447954975.ass --start=4091" --player-passthrough hls twitch.tv/videos/1447954975 best
+  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2022/v1447954975.ass --start=4091 ytdl://6SZwVIBy9qM
 </code></pre>
 </div>
 
