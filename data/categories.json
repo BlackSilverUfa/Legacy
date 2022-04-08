@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "sop-ffo", "segment": "1432334680", "name": "Stranger of Paradise: Final Fantasy Origin - Релиз", "start": 0},
       {"id": "ghostwire", "segment": "1433236088", "name": "GhostWire: Tokyo #1", "start": 0},
       {"id": "ghostwire", "segment": "1434194047", "name": "GhostWire: Tokyo #2", "start": 0},
       {"id": "ghostwire", "segment": "1435162657", "name": "GhostWire: Tokyo #3", "start": 0},
@@ -11,8 +10,9 @@
       {"id": "first-2022", "segment": "1445142982", "name": "Remnants of R'lyeh (демо) / Grief / Mirage of Home / Nightmare of Decay (демо) / Uncle Panko's Terrible Little Farm / Toiletrooms / Out of Sight (демо) / Cleaning Redville / HandCop / The Heilwald Loophole", "start": 0},
       {"id": "fear", "segment": "1446082122", "name": "F.E.A.R. #1", "start": 0},
       {"id": "fear", "segment": "1447006792", "name": "F.E.A.R. #2", "start": 0},
-      {"id": "unboxing", "segment": "1447954975", "name": "ROG Flow Z13 / Dread Hunger #3", "start": 0},
-      {"id": "fear-2", "segment": "1448890604", "name": "F.E.A.R. 2: Project Origin #1", "start": 0}
+      {"id": "unboxing", "segment": "1447954975", "name": "ROG Flow Z13 / Dread Hunger #3 (8D)", "start": 0},
+      {"id": "fear-2", "segment": "1448890604", "name": "F.E.A.R. 2: Project Origin #1", "start": 0},
+      {"id": "co-op", "segment": "1449847186", "name": "Midnight Ghost Hunt (8D)", "start": 0}
     ]
   },
   "finished": {
@@ -1105,7 +1105,8 @@
       {"name": "Hellcoming", "id": "hellcoming", "segment": "1238591362"},
       {"name": "Project Zomboid", "id": "zomboid", "segment": "1244748634"},
       {"id": "co-op", "segment": "1261173013", "name": "Monster Hunter Rise", "start": 10627},
-      {"id": "co-op", "segment": "1269805961", "name": "Tom Clancy's Rainbow Six Extraction (с WLG и TanyaLOA)", "start": 17827}
+      {"id": "co-op", "segment": "1269805961", "name": "Tom Clancy's Rainbow Six Extraction (с WLG и TanyaLOA)", "start": 17827},
+      {"id": "co-op", "segment": "1449847186", "name": "Midnight Ghost Hunt (8D)", "start": 0}
     ]
   },
   "other": {

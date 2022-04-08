@@ -9160,7 +9160,7 @@
   },
   "1447954975": {
     "youtube": "6SZwVIBy9qM", "abs_start": "0:00", "abs_end": "6:02:03", "duration": "6:02:03",
-    "name": "ROG Flow Z13 / Dread Hunger #3",
+    "name": "ROG Flow Z13 / Dread Hunger #3 (8D)",
     "date": "2022-04-06",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1447954975.torrent",
     "games": ["unboxing", "dread-hunger"]
@@ -9172,5 +9172,13 @@
     "direct": "https://bsufiles.thedrhax.pw/streams/1448890604.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1448890604.torrent",
     "games": ["fear-2"]
+  },
+  "1449847186": {
+    "abs_start": "0:00", "abs_end": "5:05:47", "duration": "0:00",
+    "name": "Midnight Ghost Hunt (8D)",
+    "date": "2022-04-08",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1449847186.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1449847186.torrent",
+    "games": ["co-op"]
   }
 }
