@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "ghostwire", "segment": "1433236088", "name": "GhostWire: Tokyo #1", "start": 0},
       {"id": "ghostwire", "segment": "1434194047", "name": "GhostWire: Tokyo #2", "start": 0},
       {"id": "ghostwire", "segment": "1435162657", "name": "GhostWire: Tokyo #3", "start": 0},
       {"id": "single", "segment": "1444100764", "name": "Ikai / Weird West", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "fear", "segment": "1447006792", "name": "F.E.A.R. #2", "start": 0},
       {"id": "unboxing", "segment": "1447954975", "name": "ROG Flow Z13 / Dread Hunger #3 (8D)", "start": 0},
       {"id": "fear-2", "segment": "1448890604", "name": "F.E.A.R. 2: Project Origin #1", "start": 0},
-      {"id": "co-op", "segment": "1449847186", "name": "Midnight Ghost Hunt (8D)", "start": 0}
+      {"id": "co-op", "segment": "1449847186", "name": "Midnight Ghost Hunt (8D)", "start": 0},
+      {"id": "fear-2", "segment": "1450784424", "name": "F.E.A.R. 2: Project Origin #2", "start": 0}
     ]
   },
   "finished": {
@@ -344,7 +344,8 @@
       {"id": "single", "segment": "1445142982", "name": "Uncle Panko's Terrible Little Farm", "start": 10715},
       {"id": "single", "segment": "1445142982", "name": "Toiletrooms", "start": 12883},
       {"id": "single", "segment": "1445142982", "name": "Cleaning Redville", "start": 15689},
-      {"name": "F.E.A.R.", "id": "fear", "segment": "1446082122"}
+      {"name": "F.E.A.R.", "id": "fear", "segment": "1446082122"},
+      {"name": "F.E.A.R. 2: Project Origin", "id": "fear-2", "segment": "1448890604"}
     ]
   },
   "first": {
@@ -750,8 +751,7 @@
   "ongoing": {
     "name": "Активные",
     "games": [
-      {"name": "Stranger of Paradise: Final Fantasy Origin", "id": "sop-ffo", "segment": "1066067703"},
-      {"name": "F.E.A.R. 2: Project Origin", "id": "fear-2", "segment": "1448890604"}
+      {"name": "Stranger of Paradise: Final Fantasy Origin", "id": "sop-ffo", "segment": "1066067703"}
     ]
   },
   "infinite": {
