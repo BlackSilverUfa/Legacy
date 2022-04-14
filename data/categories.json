@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "ghostwire", "segment": "1435162657", "name": "GhostWire: Tokyo #3", "start": 0},
       {"id": "single", "segment": "1444100764", "name": "Ikai / Weird West", "start": 0},
       {"id": "first-2022", "segment": "1445142982", "name": "Remnants of R'lyeh (демо) / Grief / Mirage of Home / Nightmare of Decay (демо) / Uncle Panko's Terrible Little Farm / Toiletrooms / Out of Sight (демо) / Cleaning Redville / HandCop / The Heilwald Loophole", "start": 0},
       {"id": "fear", "segment": "1446082122", "name": "F.E.A.R. #1", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "fear-2", "segment": "1448890604", "name": "F.E.A.R. 2: Project Origin #1", "start": 0},
       {"id": "co-op", "segment": "1449847186", "name": "Midnight Ghost Hunt (8D)", "start": 0},
       {"id": "fear-2", "segment": "1450784424", "name": "F.E.A.R. 2: Project Origin #2", "start": 0},
-      {"id": "single", "segment": "1451875048", "name": "Janitor Bleeds / Alien: Damnation / In The Other Room / Note of the Day (демо) / Light: Black Cat & Amnesia Girl (демо) / Unknown Game / The Shopping List / 2000 Navidson Ln", "start": 0}
+      {"id": "single", "segment": "1451875048", "name": "Janitor Bleeds / Alien: Damnation / In The Other Room / Note of the Day (демо) / Light: Black Cat & Amnesia Girl (демо) / Unknown Game / The Shopping List / 2000 Navidson Ln", "start": 0},
+      {"id": "first-2022", "segment": "1455635915", "name": "Silent Hill: Shattered Memories", "start": 0}
     ]
   },
   "finished": {
@@ -753,7 +753,8 @@
       {"id": "first-2022", "segment": "1445142982", "name": "HandCop", "start": 17898},
       {"id": "first-2022", "segment": "1445142982", "name": "The Heilwald Loophole", "start": 18681},
       {"id": "first-2022", "segment": "1451875048", "name": "Note of the Day (демо)", "start": 13369},
-      {"id": "first-2022", "segment": "1451875048", "name": "Light: Black Cat & Amnesia Girl (демо)", "start": 14292}
+      {"id": "first-2022", "segment": "1451875048", "name": "Light: Black Cat & Amnesia Girl (демо)", "start": 14292},
+      {"id": "first-2022", "segment": "1455635915", "name": "Silent Hill: Shattered Memories", "start": 0}
     ]
   },
   "ongoing": {
