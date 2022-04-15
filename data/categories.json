@@ -3,16 +3,16 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "single", "segment": "1444100764", "name": "Ikai / Weird West", "start": 0},
       {"id": "first-2022", "segment": "1445142982", "name": "Remnants of R'lyeh (демо) / Grief / Mirage of Home / Nightmare of Decay (демо) / Uncle Panko's Terrible Little Farm / Toiletrooms / Out of Sight (демо) / Cleaning Redville / HandCop / The Heilwald Loophole", "start": 0},
       {"id": "fear", "segment": "1446082122", "name": "F.E.A.R. #1", "start": 0},
       {"id": "fear", "segment": "1447006792", "name": "F.E.A.R. #2", "start": 0},
       {"id": "unboxing", "segment": "1447954975", "name": "ROG Flow Z13 / Dread Hunger #3 (8D)", "start": 0},
       {"id": "fear-2", "segment": "1448890604", "name": "F.E.A.R. 2: Project Origin #1", "start": 0},
-      {"id": "co-op", "segment": "1449847186", "name": "Midnight Ghost Hunt (8D)", "start": 0},
+      {"id": "midnight-gh", "segment": "1449847186", "name": "Midnight Ghost Hunt #1 (8D)", "start": 0},
       {"id": "fear-2", "segment": "1450784424", "name": "F.E.A.R. 2: Project Origin #2", "start": 0},
       {"id": "single", "segment": "1451875048", "name": "Janitor Bleeds / Alien: Damnation / In The Other Room / Note of the Day (демо) / Light: Black Cat & Amnesia Girl (демо) / Unknown Game / The Shopping List / 2000 Navidson Ln", "start": 0},
-      {"id": "first-2022", "segment": "1455635915", "name": "Silent Hill: Shattered Memories", "start": 0}
+      {"id": "sh-sm", "segment": "1455635915", "name": "Silent Hill: Shattered Memories #1", "start": 0},
+      {"id": "midnight-gh", "segment": "1456687038", "name": "Midnight Ghost Hunt #2 (8D) / Silent Hill: Shattered Memories #2", "start": 0}
     ]
   },
   "finished": {
@@ -351,7 +351,8 @@
       {"id": "single", "segment": "1451875048", "name": "In The Other Room", "start": 12899},
       {"id": "single", "segment": "1451875048", "name": "Unknown Game", "start": 15764},
       {"id": "single", "segment": "1451875048", "name": "The Shopping List", "start": 16496},
-      {"id": "single", "segment": "1451875048", "name": "2000 Navidson Ln", "start": 20493}
+      {"id": "single", "segment": "1451875048", "name": "2000 Navidson Ln", "start": 20493},
+      {"name": "Silent Hill: Shattered Memories", "id": "sh-sm", "segment": "1455635915"}
     ]
   },
   "first": {
@@ -753,8 +754,7 @@
       {"id": "first-2022", "segment": "1445142982", "name": "HandCop", "start": 17898},
       {"id": "first-2022", "segment": "1445142982", "name": "The Heilwald Loophole", "start": 18681},
       {"id": "first-2022", "segment": "1451875048", "name": "Note of the Day (демо)", "start": 13369},
-      {"id": "first-2022", "segment": "1451875048", "name": "Light: Black Cat & Amnesia Girl (демо)", "start": 14292},
-      {"id": "first-2022", "segment": "1455635915", "name": "Silent Hill: Shattered Memories", "start": 0}
+      {"id": "first-2022", "segment": "1451875048", "name": "Light: Black Cat & Amnesia Girl (демо)", "start": 14292}
     ]
   },
   "ongoing": {
@@ -1115,7 +1115,7 @@
       {"name": "Project Zomboid", "id": "zomboid", "segment": "1244748634"},
       {"id": "co-op", "segment": "1261173013", "name": "Monster Hunter Rise", "start": 10627},
       {"id": "co-op", "segment": "1269805961", "name": "Tom Clancy's Rainbow Six Extraction (с WLG и TanyaLOA)", "start": 17827},
-      {"id": "co-op", "segment": "1449847186", "name": "Midnight Ghost Hunt (8D)", "start": 0}
+      {"name": "Midnight Ghost Hunt", "id": "midnight-gh", "segment": "1449847186"}
     ]
   },
   "other": {
