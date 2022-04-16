@@ -8975,7 +8975,6 @@
     "youtube": "LzUT1X10Ihk", "abs_start": "0:00", "abs_end": "8:45:08", "duration": "8:45:08",
     "name": "Elden Ring #1 (релиз)",
     "date": "2022-02-25",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1407442799.torrent",
     "games": ["elden-ring"]
   },
   "1408604628": {
@@ -9205,5 +9204,13 @@
     "direct": "https://bsufiles.thedrhax.pw/streams/1456687038.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1456687038.torrent",
     "games": ["midnight-gh", "sh-sm"]
+  },
+  "1457678185": {
+    "abs_start": "0:00", "abs_end": "5:03:00", "duration": "0:00",
+    "name": "Ju-On: The Grudge / Calling",
+    "date": "2022-04-16",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1457678185.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1457678185.torrent",
+    "games": ["single", "first-2022"]
   }
 }
