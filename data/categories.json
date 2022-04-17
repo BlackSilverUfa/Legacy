@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "fear", "segment": "1446082122", "name": "F.E.A.R. #1", "start": 0},
       {"id": "fear", "segment": "1447006792", "name": "F.E.A.R. #2", "start": 0},
       {"id": "unboxing", "segment": "1447954975", "name": "ROG Flow Z13 / Dread Hunger #3 (8D)", "start": 0},
       {"id": "fear-2", "segment": "1448890604", "name": "F.E.A.R. 2: Project Origin #1", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "single", "segment": "1451875048", "name": "Janitor Bleeds / Alien: Damnation / In The Other Room / Note of the Day (демо) / Light: Black Cat & Amnesia Girl (демо) / Unknown Game / The Shopping List / 2000 Navidson Ln", "start": 0},
       {"id": "sh-sm", "segment": "1455635915", "name": "Silent Hill: Shattered Memories #1", "start": 0},
       {"id": "midnight-gh", "segment": "1456687038", "name": "Midnight Ghost Hunt #2 (8D) / Silent Hill: Shattered Memories #2", "start": 0},
-      {"id": "single", "segment": "1457678185", "name": "Ju-On: The Grudge / Calling", "start": 0}
+      {"id": "single", "segment": "1457678185", "name": "Ju-On: The Grudge / Calling", "start": 0},
+      {"id": "first-2022", "segment": "1458654778", "name": "The Backrooms: Survival / P.Ackman (демо) / Booper Bowling / SCP: Nukalypse / The Nightmare Inside / Father: The Truth / Office Elevator / Zemblanity", "start": 0}
     ]
   },
   "finished": {
@@ -353,7 +353,13 @@
       {"id": "single", "segment": "1451875048", "name": "The Shopping List", "start": 16496},
       {"id": "single", "segment": "1451875048", "name": "2000 Navidson Ln", "start": 20493},
       {"name": "Silent Hill: Shattered Memories", "id": "sh-sm", "segment": "1455635915"},
-      {"id": "single", "segment": "1457678185", "name": "Ju-On: The Grudge", "start": 0}
+      {"id": "single", "segment": "1457678185", "name": "Ju-On: The Grudge", "start": 0},
+      {"id": "single", "segment": "1458654778", "name": "P.Ackman (демо)", "start": 3979},
+      {"id": "single", "segment": "1458654778", "name": "Booper Bowling", "start": 5639},
+      {"id": "single", "segment": "1458654778", "name": "The Nightmare Inside", "start": 8710},
+      {"id": "single", "segment": "1458654778", "name": "Father: The Truth", "start": 10188},
+      {"id": "single", "segment": "1458654778", "name": "Office Elevator", "start": 11114},
+      {"id": "single", "segment": "1458654778", "name": "Zemblanity", "start": 12552}
     ]
   },
   "first": {
@@ -756,7 +762,9 @@
       {"id": "first-2022", "segment": "1445142982", "name": "The Heilwald Loophole", "start": 18681},
       {"id": "first-2022", "segment": "1451875048", "name": "Note of the Day (демо)", "start": 13369},
       {"id": "first-2022", "segment": "1451875048", "name": "Light: Black Cat & Amnesia Girl (демо)", "start": 14292},
-      {"id": "first-2022", "segment": "1457678185", "name": "Calling", "start": 9607}
+      {"id": "first-2022", "segment": "1457678185", "name": "Calling", "start": 9607},
+      {"id": "first-2022", "segment": "1458654778", "name": "The Backrooms: Survival", "start": 0},
+      {"id": "first-2022", "segment": "1458654778", "name": "SCP: Nukalypse", "start": 6079}
     ]
   },
   "ongoing": {
