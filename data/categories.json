@@ -770,7 +770,7 @@
   "ongoing": {
     "name": "Активные",
     "games": [
-      {"name": "Stranger of Paradise: Final Fantasy Origin", "id": "sop-ffo", "segment": "1066067703"}
+  
     ]
   },
   "infinite": {
@@ -914,6 +914,7 @@
       {"name": "Pathfinder: Wrath of the Righteous", "id": "pathfinder", "segment": "1033590091"},
       {"name": "Biomutant", "id": "biomutant", "segment": "1033590091"},
       {"name": "Scarlet Nexus", "id": "scarlet-nexus", "segment": "1036865162"},
+      {"name": "Stranger of Paradise: Final Fantasy Origin", "id": "sop-ffo", "segment": "1066067703"},
       {"name": "Genshin Impact", "id": "genshin-impact", "segment": "1072311121"},
       {"name": "Farmer's Life", "id": "farmers-life", "segment": "1086385946,1086545283"},
       {"name": "The Legend of Zelda: Skyward Sword HD", "id": "tloz-sshd", "segment": "1089427413"},
