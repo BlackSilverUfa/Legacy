@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "fear", "segment": "1447006792", "name": "F.E.A.R. #2", "start": 0},
       {"id": "unboxing", "segment": "1447954975", "name": "ROG Flow Z13 / Dread Hunger #3 (8D)", "start": 0},
       {"id": "fear-2", "segment": "1448890604", "name": "F.E.A.R. 2: Project Origin #1", "start": 0},
       {"id": "midnight-gh", "segment": "1449847186", "name": "Midnight Ghost Hunt #1 (8D)", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "sh-sm", "segment": "1455635915", "name": "Silent Hill: Shattered Memories #1", "start": 0},
       {"id": "midnight-gh", "segment": "1456687038", "name": "Midnight Ghost Hunt #2 (8D) / Silent Hill: Shattered Memories #2", "start": 0},
       {"id": "single", "segment": "1457678185", "name": "Ju-On: The Grudge / Calling", "start": 0},
-      {"id": "first-2022", "segment": "1458654778", "name": "The Backrooms: Survival / P.Ackman (демо) / Booper Bowling / SCP: Nukalypse / The Nightmare Inside / Father: The Truth / Office Elevator / Zemblanity", "start": 0}
+      {"id": "first-2022", "segment": "1458654778", "name": "The Backrooms: Survival / P.Ackman (демо) / Booper Bowling / SCP: Nukalypse / The Nightmare Inside / Father: The Truth / Office Elevator / Zemblanity", "start": 0},
+      {"id": "first-2022", "segment": "1465565528", "name": "Forgive Me Father / Golden Light / Remorse: The List / Phasmophobia #12 (с Куплиновым и Дангаром) / No-Snake Hotel / Lot No. 242 / The Ouija Board / An Uninvited Guest (демо) / Fear the Spotlight (демо)", "start": 0}
     ]
   },
   "finished": {
@@ -359,7 +359,9 @@
       {"id": "single", "segment": "1458654778", "name": "The Nightmare Inside", "start": 8710},
       {"id": "single", "segment": "1458654778", "name": "Father: The Truth", "start": 10188},
       {"id": "single", "segment": "1458654778", "name": "Office Elevator", "start": 11114},
-      {"id": "single", "segment": "1458654778", "name": "Zemblanity", "start": 12552}
+      {"id": "single", "segment": "1458654778", "name": "Zemblanity", "start": 12552},
+      {"id": "single", "segment": "1465565528", "name": "Lot No. 242", "start": 20456},
+      {"id": "single", "segment": "1465565528", "name": "The Ouija Board", "start": 20905}
     ]
   },
   "first": {
@@ -764,7 +766,13 @@
       {"id": "first-2022", "segment": "1451875048", "name": "Light: Black Cat & Amnesia Girl (демо)", "start": 14292},
       {"id": "first-2022", "segment": "1457678185", "name": "Calling", "start": 9607},
       {"id": "first-2022", "segment": "1458654778", "name": "The Backrooms: Survival", "start": 0},
-      {"id": "first-2022", "segment": "1458654778", "name": "SCP: Nukalypse", "start": 6079}
+      {"id": "first-2022", "segment": "1458654778", "name": "SCP: Nukalypse", "start": 6079},
+      {"id": "first-2022", "segment": "1465565528", "name": "Forgive Me Father", "start": 0},
+      {"id": "first-2022", "segment": "1465565528", "name": "Golden Light", "start": 3334},
+      {"id": "first-2022", "segment": "1465565528", "name": "Remorse: The List", "start": 6330},
+      {"id": "first-2022", "segment": "1465565528", "name": "No-Snake Hotel", "start": 19915},
+      {"id": "first-2022", "segment": "1465565528", "name": "An Uninvited Guest (демо)", "start": 22721},
+      {"id": "first-2022", "segment": "1465565528", "name": "Fear the Spotlight (демо)", "start": 23781}
     ]
   },
   "ongoing": {
