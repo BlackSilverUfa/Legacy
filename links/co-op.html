@@ -3472,9 +3472,9 @@
         <i class="fas fa-comments"></i> 19893
       </a>
     </span>
-    <span class="badge badge-success">
-      <a href="https://www.youtube.com/watch?v=na9adsWSpNI" target="_blank">
-        <i class="fab fa-youtube"></i> na9adsWSpNI
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.thedrhax.pw/streams/permanent/556596083.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -3517,6 +3517,11 @@
     <li><a data-value="12048">3:20:48</a> — +огонь, -уши</li>
   </ul>
 
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li><a data-value="10520">2:55:20</a> - <a data-value="10733">2:58:53</a> — a-ha - Take On Me</li>
+  </ul>
+
     <li><a data-value="12819">3:33:39</a> — Horror Hunt (кооп не особо найден)</li>
       <li>Pummel Party:</li>
   <ul>
@@ -3538,13 +3543,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="42" data-hash="556596083" data-subtitles="https://bsu.drhx.ru/chats/2020/v556596083.ass" data-start="7679" data-name="I Will Eat You" data-youtube="na9adsWSpNI" />
+  <p class="stream" data-id="42" data-hash="556596083" data-subtitles="https://bsu.drhx.ru/chats/2020/v556596083.ass" data-start="7679" data-name="I Will Eat You" data-direct="https://bsufiles.thedrhax.pw/streams/permanent/556596083.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2020/v556596083.ass --start=7679 ytdl://na9adsWSpNI
+  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2020/v556596083.ass --start=7679 https://bsufiles.thedrhax.pw/streams/permanent/556596083.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://bsu.drhx.ru/chats/2020/v556596083.ass --start=7679" --player-passthrough hls twitch.tv/videos/556596083 best
 </code></pre>
 </div>
 

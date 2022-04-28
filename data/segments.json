@@ -5038,10 +5038,10 @@
     "games": ["alien-isolation-ai", "first-2020"]
   },
   "531327327": {
-    "youtube": "HbZaYnkfzjw", "abs_start": "0:00", "abs_end": "5:49:26", "duration": "5:46:16",
+    "abs_start": "0:00", "abs_end": "5:49:38", "duration": "0:00",
     "name": "Spore #3 (заново) / The Sims 4 #1",
     "date": "2020-01-05",
-    "cuts": [[6476, 6666]],
+    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/531327327.mp4",
     "games": ["spore", "sims-4"]
   },
   "532342982": {
@@ -5260,9 +5260,10 @@
     "games": ["dead-space-3", "dark-messiah"]
   },
   "556596083": {
-    "youtube": "na9adsWSpNI", "abs_start": "0:00", "abs_end": "6:14:55", "duration": "6:14:55",
+    "abs_start": "0:00", "abs_end": "6:14:49", "duration": "0:00",
     "name": "Dreams #2 / I Will Eat You / Hand Simulator: Survival #1 / Pummel Party #7 (6D) / Golf It! #20",
     "date": "2020-02-23",
+    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/556596083.mp4",
     "games": ["dreams", "co-op", "hand-simulator-survival", "pummel-party", "golf-it"]
   },
   "557620811": {
@@ -9216,26 +9217,23 @@
     "games": ["first-2022", "single"]
   },
   "1465565528": {
-    "abs_start": "0:00", "abs_end": "6:59:43", "duration": "0:00",
+    "youtube": "BT7Mmh2k8PQ", "abs_start": "0:00", "abs_end": "6:59:38", "duration": "6:59:38",
     "name": "Forgive Me Father / Golden Light / Remorse: The List #1 / Phasmophobia #12 (с Куплиновым и Дангаром) / No-Snake Hotel / Lot No. 242 / The Ouija Board / An Uninvited Guest (демо) / Fear the Spotlight (демо)",
     "date": "2022-04-24",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1465565528.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1465565528.torrent",
     "games": ["first-2022", "remorse-tl", "phasmophobia", "single"]
   },
   "1466510615": {
-    "abs_start": "0:00", "abs_end": "5:58:54", "duration": "0:00",
+    "youtube": "nJTTWcbUNe0", "abs_start": "0:00", "abs_end": "5:58:28", "duration": "5:58:28",
     "name": "Remorse: The List #2 / Varmalis (демо) / Core / Just Stopping By",
     "date": "2022-04-25",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1466510615.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1466510615.torrent",
     "games": ["remorse-tl", "first-2022", "single"]
   },
   "1467409068": {
-    "abs_start": "0:00", "abs_end": "5:10:25", "duration": "0:00",
+    "youtube": "O4vkrEc-OQ8", "abs_start": "0:00", "abs_end": "5:10:18", "duration": "5:10:18",
     "name": "Tape: Unveil the Memories",
     "date": "2022-04-26",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1467409068.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1467409068.torrent",
     "games": ["single"]
   }
