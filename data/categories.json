@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "midnight-gh", "segment": "1449847186", "name": "Midnight Ghost Hunt #1 (8D)", "start": 0},
       {"id": "fear-2", "segment": "1450784424", "name": "F.E.A.R. 2: Project Origin #2", "start": 0},
       {"id": "single", "segment": "1451875048", "name": "Janitor Bleeds / Alien: Damnation / In The Other Room / Note of the Day (демо) / Light: Black Cat & Amnesia Girl (демо) / Unknown Game / The Shopping List / 2000 Navidson Ln", "start": 0},
       {"id": "sh-sm", "segment": "1455635915", "name": "Silent Hill: Shattered Memories #1", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "first-2022", "segment": "1458654778", "name": "The Backrooms: Survival / P.Ackman (демо) / Booper Bowling / SCP: Nukalypse / The Nightmare Inside / Father: The Truth / Office Elevator / Zemblanity", "start": 0},
       {"id": "first-2022", "segment": "1465565528", "name": "Forgive Me Father / Golden Light / Remorse: The List #1 / Phasmophobia #12 (с Куплиновым и Дангаром) / No-Snake Hotel / Lot No. 242 / The Ouija Board / An Uninvited Guest (демо) / Fear the Spotlight (демо)", "start": 0},
       {"id": "remorse-tl", "segment": "1466510615", "name": "Remorse: The List #2 / Varmalis (демо) / Core / Just Stopping By", "start": 0},
-      {"id": "single", "segment": "1467409068", "name": "Tape: Unveil the Memories", "start": 0}
+      {"id": "single", "segment": "1467409068", "name": "Tape: Unveil the Memories", "start": 0},
+      {"id": "single", "segment": "1469243371", "name": "The Stanley Parable: Ultra Deluxe", "start": 0}
     ]
   },
   "finished": {
@@ -365,7 +365,8 @@
       {"name": "Remorse: The List", "id": "remorse-tl", "segment": "1465565528"},
       {"id": "single", "segment": "1466510615", "name": "Core", "start": 19396},
       {"id": "single", "segment": "1466510615", "name": "Just Stopping By", "start": 20509},
-      {"id": "single", "segment": "1467409068", "name": "Tape: Unveil the Memories", "start": 0}
+      {"id": "single", "segment": "1467409068", "name": "Tape: Unveil the Memories", "start": 0},
+      {"id": "single", "segment": "1469243371", "name": "The Stanley Parable: Ultra Deluxe", "start": 0}
     ]
   },
   "first": {

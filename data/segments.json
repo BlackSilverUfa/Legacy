@@ -8999,7 +8999,6 @@
     "youtube": "uvswFbm_AUU", "abs_start": "0:00", "abs_end": "6:46:13", "duration": "6:46:13",
     "name": "Elden Ring #5",
     "date": "2022-03-01",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1411976783.torrent",
     "games": ["elden-ring"]
   },
   "1412978137": {
@@ -9234,6 +9233,14 @@
     "name": "Tape: Unveil the Memories",
     "date": "2022-04-26",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1467409068.torrent",
+    "games": ["single"]
+  },
+  "1469243371": {
+    "abs_start": "0:00", "abs_end": "6:17:37", "duration": "0:00",
+    "name": "The Stanley Parable: Ultra Deluxe",
+    "date": "2022-04-28",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1469243371.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1469243371.torrent",
     "games": ["single"]
   }
 }
