@@ -144,9 +144,10 @@
     "games": ["mgs-v"]
   },
   "001510060": {
-    "youtube": "aoCrj6WNjHs", "official": false, "abs_start": "0:00", "abs_end": "3:27:44", "duration": "3:27:44",
+    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
     "name": "Metal Gear Solid V: Phantom Pain #14",
     "date": "2015-10-06",
+    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/001510060.mp4",
     "games": ["mgs-v"]
   },
   "001510120": {
@@ -9236,10 +9237,9 @@
     "games": ["single"]
   },
   "1469243371": {
-    "abs_start": "0:00", "abs_end": "6:17:37", "duration": "0:00",
+    "youtube": "kpi2O_YwPFw", "abs_start": "0:00", "abs_end": "6:17:29", "duration": "6:17:29",
     "name": "The Stanley Parable: Ultra Deluxe",
     "date": "2022-04-28",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1469243371.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1469243371.torrent",
     "games": ["single"]
   }
