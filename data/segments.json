@@ -9006,7 +9006,6 @@
     "youtube": "DPubP7uOFJg", "abs_start": "0:00", "abs_end": "6:43:27", "duration": "6:43:27",
     "name": "Elden Ring #6",
     "date": "2022-03-02",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1412978137.torrent",
     "games": ["elden-ring"]
   },
   "1415016033": {
@@ -9241,6 +9240,14 @@
     "name": "The Stanley Parable: Ultra Deluxe",
     "date": "2022-04-28",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1469243371.torrent",
+    "games": ["single"]
+  },
+  "1470152667": {
+    "abs_start": "0:00", "abs_end": "3:45:07", "duration": "0:00",
+    "name": "RATUZ",
+    "date": "2022-04-29",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1470152667.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1470152667.torrent",
     "games": ["single"]
   }
 }
