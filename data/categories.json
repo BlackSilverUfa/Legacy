@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "single", "segment": "1451875048", "name": "Janitor Bleeds / Alien: Damnation / In The Other Room / Note of the Day (демо) / Light: Black Cat & Amnesia Girl (демо) / Unknown Game / The Shopping List / 2000 Navidson Ln", "start": 0},
       {"id": "sh-sm", "segment": "1455635915", "name": "Silent Hill: Shattered Memories #1", "start": 0},
       {"id": "midnight-gh", "segment": "1456687038", "name": "Midnight Ghost Hunt #2 (8D) / Silent Hill: Shattered Memories #2", "start": 0},
       {"id": "single", "segment": "1457678185", "name": "Ju-On: The Grudge / Calling", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "remorse-tl", "segment": "1466510615", "name": "Remorse: The List #2 / Varmalis (демо) / Core / Just Stopping By", "start": 0},
       {"id": "single", "segment": "1467409068", "name": "Tape: Unveil the Memories", "start": 0},
       {"id": "single", "segment": "1469243371", "name": "The Stanley Parable: Ultra Deluxe", "start": 0},
-      {"id": "single", "segment": "1470152667", "name": "RATUZ", "start": 0}
+      {"id": "single", "segment": "1470152667", "name": "RATUZ", "start": 0},
+      {"id": "hello-neighbor-2", "segment": "1471119730", "name": "Hello Neighbor 2 - Бета / Phasmophobia #13 (с Куплиновым и Дангаром)", "start": 0}
     ]
   },
   "finished": {
@@ -579,7 +579,6 @@
       {"id": "first-2020", "segment": "669777336", "name": "Fury Unleashed", "start": 12725},
       {"id": "first-2020", "segment": "677524120", "name": "Trackmania", "start": 6014},
       {"id": "first-2020", "segment": "680344977", "name": "Rocket Arena", "start": 6895},
-      {"id": "first-2020", "segment": "690295728", "name": "Hello Neighbor 2 (альфа 1)", "start": 0},
       {"id": "first-2020", "segment": "697191590", "name": "What Happened", "start": 0},
       {"id": "first-2020", "segment": "697191590", "name": "I Have a Fear", "start": 8396},
       {"id": "first-2020", "segment": "697191590", "name": "Missing Children", "start": 11200},
@@ -818,6 +817,7 @@
       {"name": "Maneater", "id": "maneater", "segment": "628517071"},
       {"name": "Alien: Hope for the Future", "id": "alien-hope-for-the-future", "segment": "629544387"},
       {"name": "The Elder Scrolls Online", "id": "teso", "segment": "633403643"},
+      {"name": "Hello Neighbor 2", "id": "hello-neighbor-2", "segment": "690295728"},
       {"name": "Grounded", "id": "grounded", "segment": "694197234"},
       {"name": "Forgotten Tunnels", "id": "forgotten-tunnels", "segment": "697191590"},
       {"name": "Hades", "id": "hades", "segment": "747742325"},

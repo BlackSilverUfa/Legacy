@@ -6003,9 +6003,9 @@
   },
   "690295728": {
     "youtube": "5bxMm_E-jGo", "abs_start": "0:00", "abs_end": "5:50:23", "duration": "5:50:23",
-    "name": "Hello Neighbor 2 (альфа 1) / Fall Guys #1 (бета) / Tricky Towers #25 / Golf It! #22",
+    "name": "Hello Neighbor 2 - Альфа / Fall Guys #1 (бета) / Tricky Towers #25 / Golf It! #22",
     "date": "2020-07-25",
-    "games": ["first-2020", "fall-guys", "tricky-towers", "golf-it"]
+    "games": ["hello-neighbor-2", "fall-guys", "tricky-towers", "golf-it"]
   },
   "693186645": {
     "youtube": "AlunRIkGSa8", "abs_start": "0:00", "abs_end": "3:32:19", "duration": "3:32:19",
@@ -9019,7 +9019,6 @@
     "youtube": "1HJT4yxRIOk", "abs_start": "0:00", "abs_end": "8:36:10", "duration": "8:36:10",
     "name": "Elden Ring #7",
     "date": "2022-03-05",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1416009554.torrent",
     "games": ["elden-ring"]
   },
   "1417120213": {
@@ -9248,5 +9247,13 @@
     "date": "2022-04-29",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1470152667.torrent",
     "games": ["single"]
+  },
+  "1471119730": {
+    "abs_start": "0:00", "abs_end": "4:54:15", "duration": "0:00",
+    "name": "Hello Neighbor 2 - Бета / Phasmophobia #13 (с Куплиновым и Дангаром)",
+    "date": "2022-04-30",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1471119730.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1471119730.torrent",
+    "games": ["hello-neighbor-2", "phasmophobia"]
   }
 }
