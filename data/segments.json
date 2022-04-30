@@ -327,7 +327,7 @@
     "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
     "name": "Heavy Rain #1 (часть 2)",
     "date": "2016-02-29",
-    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/001602291.mp4",
+    "direct": "https://bsufiles.thedrhax.pw/streams/001602291.mp4",
     "games": ["heavy-rain"]
   },
   "001602292": {
@@ -5041,7 +5041,7 @@
     "abs_start": "0:00", "abs_end": "5:49:38", "duration": "0:00",
     "name": "Spore #3 (заново) / The Sims 4 #1",
     "date": "2020-01-05",
-    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/531327327.mp4",
+    "direct": "https://bsufiles.thedrhax.pw/streams/531327327.mp4",
     "games": ["spore", "sims-4"]
   },
   "532342982": {
@@ -5326,9 +5326,10 @@
     "games": ["dead-cells", "ori-wotw"]
   },
   "563856575": {
-    "youtube": "s_4ty-UhrHQ", "official": false, "abs_start": "0:00", "abs_end": "6:07:36", "duration": "6:07:36",
+    "abs_start": "0:00", "abs_end": "6:08:11", "duration": "0:00",
     "name": "Halo: Combat Evolved Anniversary / Walking Simulator / Stilt Fella / The Longing #1 (400) / Yes, Your Grace #1",
     "date": "2020-03-08",
+    "direct": "https://bsufiles.thedrhax.pw/streams/563856575.mp4",
     "games": ["first-2020", "single", "the-longing", "yes-your-grace"]
   },
   "564858921": {
@@ -8335,15 +8336,17 @@
     "games": ["house-of-ashes"]
   },
   "1186535358": {
-    "youtube": "RQmbOu--tm8", "abs_start": "0:00", "abs_end": "7:15:56", "duration": "7:15:56",
+    "abs_start": "0:00", "abs_end": "7:16:35", "duration": "0:00",
     "name": "Marvel's Guardians of the Galaxy #1",
     "date": "2021-10-25",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1186535358.mp4",
     "games": ["marvel-gotg"]
   },
   "1187388604": {
-    "youtube": "vQhOwaMFZt4", "abs_start": "0:00", "abs_end": "8:08:48", "duration": "8:08:48",
+    "abs_start": "0:00", "abs_end": "8:08:59", "duration": "0:00",
     "name": "Marvel's Guardians of the Galaxy #2",
     "date": "2021-10-26",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1187388604.mp4",
     "games": ["marvel-gotg"]
   },
   "1188297728": {
@@ -9010,7 +9013,6 @@
     "youtube": "4oZgWTPfbe8", "abs_start": "0:00", "abs_end": "3:02:58", "duration": "3:02:58",
     "name": "Gran Turismo 7",
     "date": "2022-03-04",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1415016033.torrent",
     "games": ["first-2022"]
   },
   "1416009554": {
@@ -9241,10 +9243,9 @@
     "games": ["single"]
   },
   "1470152667": {
-    "abs_start": "0:00", "abs_end": "3:45:07", "duration": "0:00",
+    "youtube": "G0aCq3mMrRs", "abs_start": "0:00", "abs_end": "3:45:02", "duration": "3:45:02",
     "name": "RATUZ",
     "date": "2022-04-29",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1470152667.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1470152667.torrent",
     "games": ["single"]
   }
