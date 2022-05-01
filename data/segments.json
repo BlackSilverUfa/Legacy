@@ -9132,10 +9132,10 @@
   },
   "1445142982": {
     "youtube": "FgekyOZTsBA", "abs_start": "0:00", "abs_end": "6:10:21", "duration": "6:10:21",
-    "name": "Remnants of R'lyeh (демо) / Grief / Mirage of Home / Nightmare of Decay (демо) / Uncle Panko's Terrible Little Farm / Toiletrooms / Out of Sight (демо) / Cleaning Redville / HandCop / The Heilwald Loophole",
+    "name": "Remnants of R'lyeh (демо) / Grief / Mirage of Home / Nightmare of Decay (демо) / Uncle Panko's Terrible Little Farm / Toiletrooms / Out of Sight (демо) / Cleaning Redville / HandCop / The Heilwald Loophole #1",
     "date": "2022-04-03",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1445142982.torrent",
-    "games": ["first-2022", "single"]
+    "games": ["first-2022", "single", "heilwald"]
   },
   "1446082122": {
     "youtube": "1nvY3QXSC6M", "abs_start": "0:00", "abs_end": "6:08:04", "duration": "6:08:04",
@@ -9255,5 +9255,13 @@
     "date": "2022-04-30",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1471119730.torrent",
     "games": ["hello-neighbor-2", "phasmophobia"]
+  },
+  "1472093056": {
+    "abs_start": "0:00", "abs_end": "5:22:02", "duration": "0:00",
+    "name": "The Clown's Fun / Under / New Testament (демо) / Arachnophobia / Ouija Rumours / Shadowbringer / Lilith's Curse 1984 (демо) / Puppetmaker / Our Lady of Sorrow / The Abyss Has Walls / Film Morbid / The Heilwald Loophole #2",
+    "date": "2022-05-01",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1472093056.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1472093056.torrent",
+    "games": ["single", "first-2022", "heilwald"]
   }
 }

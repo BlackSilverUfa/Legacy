@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "sh-sm", "segment": "1455635915", "name": "Silent Hill: Shattered Memories #1", "start": 0},
       {"id": "midnight-gh", "segment": "1456687038", "name": "Midnight Ghost Hunt #2 (8D) / Silent Hill: Shattered Memories #2", "start": 0},
       {"id": "single", "segment": "1457678185", "name": "Ju-On: The Grudge / Calling", "start": 0},
       {"id": "first-2022", "segment": "1458654778", "name": "The Backrooms: Survival / P.Ackman (демо) / Booper Bowling / SCP: Nukalypse / The Nightmare Inside / Father: The Truth / Office Elevator / Zemblanity", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "single", "segment": "1467409068", "name": "Tape: Unveil the Memories", "start": 0},
       {"id": "single", "segment": "1469243371", "name": "The Stanley Parable: Ultra Deluxe", "start": 0},
       {"id": "single", "segment": "1470152667", "name": "RATUZ", "start": 0},
-      {"id": "hello-neighbor-2", "segment": "1471119730", "name": "Hello Neighbor 2 - Бета / Phasmophobia #13 (с Куплиновым и Дангаром)", "start": 0}
+      {"id": "hello-neighbor-2", "segment": "1471119730", "name": "Hello Neighbor 2 - Бета / Phasmophobia #13 (с Куплиновым и Дангаром)", "start": 0},
+      {"id": "single", "segment": "1472093056", "name": "The Clown's Fun / Under / New Testament (демо) / Arachnophobia / Ouija Rumours / Shadowbringer / Lilith's Curse 1984 (демо) / Puppetmaker / Our Lady of Sorrow / The Abyss Has Walls / Film Morbid / The Heilwald Loophole #2", "start": 0}
     ]
   },
   "finished": {
@@ -367,7 +367,10 @@
       {"id": "single", "segment": "1466510615", "name": "Just Stopping By", "start": 20509},
       {"id": "single", "segment": "1467409068", "name": "Tape: Unveil the Memories", "start": 0},
       {"id": "single", "segment": "1469243371", "name": "The Stanley Parable: Ultra Deluxe", "start": 0},
-      {"id": "single", "segment": "1470152667", "name": "RATUZ", "start": 0}
+      {"id": "single", "segment": "1470152667", "name": "RATUZ", "start": 0},
+      {"id": "single", "segment": "1472093056", "name": "The Clown's Fun", "start": 0},
+      {"id": "single", "segment": "1472093056", "name": "Our Lady of Sorrow", "start": 13320},
+      {"id": "single", "segment": "1472093056", "name": "The Abyss Has Walls", "start": 14631}
     ]
   },
   "first": {
@@ -766,7 +769,6 @@
       {"id": "first-2022", "segment": "1445142982", "name": "Nightmare of Decay (демо)", "start": 7784},
       {"id": "first-2022", "segment": "1445142982", "name": "Out of Sight (демо)", "start": 13930},
       {"id": "first-2022", "segment": "1445142982", "name": "HandCop", "start": 17898},
-      {"id": "first-2022", "segment": "1445142982", "name": "The Heilwald Loophole", "start": 18681},
       {"id": "first-2022", "segment": "1451875048", "name": "Note of the Day (демо)", "start": 13369},
       {"id": "first-2022", "segment": "1451875048", "name": "Light: Black Cat & Amnesia Girl (демо)", "start": 14292},
       {"id": "first-2022", "segment": "1457678185", "name": "Calling", "start": 9607},
@@ -777,13 +779,22 @@
       {"id": "first-2022", "segment": "1465565528", "name": "No-Snake Hotel", "start": 19915},
       {"id": "first-2022", "segment": "1465565528", "name": "An Uninvited Guest (демо)", "start": 22721},
       {"id": "first-2022", "segment": "1465565528", "name": "Fear the Spotlight (демо)", "start": 23781},
-      {"id": "first-2022", "segment": "1466510615", "name": "Varmalis (демо)", "start": 18058}
+      {"id": "first-2022", "segment": "1466510615", "name": "Varmalis (демо)", "start": 18058},
+      {"id": "first-2022", "segment": "1472093056", "name": "Under", "start": 2788},
+      {"id": "first-2022", "segment": "1472093056", "name": "New Testament (демо)", "start": 3789},
+      {"id": "first-2022", "segment": "1472093056", "name": "Arachnophobia", "start": 5430},
+      {"id": "first-2022", "segment": "1472093056", "name": "Ouija Rumours", "start": 5746},
+      {"id": "first-2022", "segment": "1472093056", "name": "Shadowbringer", "start": 9065},
+      {"id": "first-2022", "segment": "1472093056", "name": "Lilith's Curse 1984 (демо)", "start": 9971},
+      {"id": "first-2022", "segment": "1472093056", "name": "Puppetmaker", "start": 11453},
+      {"id": "first-2022", "segment": "1472093056", "name": "Arachnophobia", "start": 16416},
+      {"id": "first-2022", "segment": "1472093056", "name": "Film Morbid", "start": 17272}
     ]
   },
   "ongoing": {
     "name": "Активные",
     "games": [
-  
+      {"name": "The Heilwald Loophole", "id": "heilwald", "segment": "1445142982"}
     ]
   },
   "infinite": {
