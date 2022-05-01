@@ -265,9 +265,9 @@
         <i class="fas fa-comments"></i> 7504
       </a>
     </span>
-    <span class="badge badge-success">
-      <a href="https://www.youtube.com/watch?v=yky_-3I336M" target="_blank">
-        <i class="fab fa-youtube"></i> yky_-3I336M
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.thedrhax.pw/streams/534301966.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -279,6 +279,11 @@
   <ul>
     <li><a data-value="15">0:15</a> — Интро</li>
     <li><a data-value="288">4:48</a> — Стримлер</li>
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li><a data-value="1137">18:57</a> - <a data-value="1351">22:31</a> — a-ha - Take on Me</li>
+  </ul>
+
     <li><a data-value="2018">33:38</a> — Меню</li>
     <li><a data-value="2049">34:09</a> — Игра</li>
     <li><a data-value="2110">35:10</a> — Магия</li>
@@ -288,13 +293,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="2" data-hash="534301966" data-subtitles="https://bsu.drhx.ru/chats/2020/v534301966.ass" data-name="3 (часть 1)" data-youtube="yky_-3I336M" />
+  <p class="stream" data-id="2" data-hash="534301966" data-subtitles="https://bsu.drhx.ru/chats/2020/v534301966.ass" data-name="3 (часть 1)" data-direct="https://bsufiles.thedrhax.pw/streams/534301966.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2020/v534301966.ass ytdl://yky_-3I336M
+  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2020/v534301966.ass https://bsufiles.thedrhax.pw/streams/534301966.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://bsu.drhx.ru/chats/2020/v534301966.ass" --player-passthrough hls twitch.tv/videos/534301966 best
 </code></pre>
 </div>
 

@@ -96,9 +96,10 @@
     "games": ["mgs-v"]
   },
   "001509100": {
-    "youtube": "VH4EtbNV6JY", "abs_start": "0:00", "abs_end": "4:19:28", "duration": "4:19:28",
+    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
     "name": "Metal Gear Solid V: Phantom Pain #8",
     "date": "2015-09-10",
+    "direct": "https://bsufiles.thedrhax.pw/streams/001509100.mp4",
     "games": ["mgs-v"]
   },
   "001509120": {
@@ -138,9 +139,10 @@
     "games": ["mgs-v"]
   },
   "001510050": {
-    "youtube": "NfHaLdpT4wI", "abs_start": "0:00", "abs_end": "4:34:07", "duration": "4:34:07",
+    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
     "name": "Metal Gear Solid V: Phantom Pain #13",
     "date": "2015-10-05",
+    "direct": "https://bsufiles.thedrhax.pw/streams/001510050.mp4",
     "games": ["mgs-v"]
   },
   "001510060": {
@@ -5069,9 +5071,10 @@
     "games": ["gta-san-andreas", "crazy-ls"]
   },
   "534301966": {
-    "youtube": "yky_-3I336M", "abs_start": "0:00", "abs_end": "43:46", "duration": "43:46",
+    "abs_start": "0:00", "abs_end": "44:54", "duration": "0:00",
     "name": "Grand Theft Auto: San Andreas #3 (часть 1)",
     "date": "2020-01-11",
+    "direct": "https://bsufiles.thedrhax.pw/streams/534301966.mp4",
     "games": ["gta-san-andreas"]
   },
   "534316789": {
@@ -8336,17 +8339,15 @@
     "games": ["house-of-ashes"]
   },
   "1186535358": {
-    "abs_start": "0:00", "abs_end": "7:16:35", "duration": "0:00",
+    "youtube": "j6r3GeCJC6g", "official": false, "abs_start": "0:00", "abs_end": "7:15:56", "duration": "7:15:56",
     "name": "Marvel's Guardians of the Galaxy #1",
     "date": "2021-10-25",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1186535358.mp4",
     "games": ["marvel-gotg"]
   },
   "1187388604": {
-    "abs_start": "0:00", "abs_end": "8:08:59", "duration": "0:00",
+    "youtube": "W5Lon1tFh-k", "official": false, "abs_start": "0:00", "abs_end": "8:08:48", "duration": "8:08:48",
     "name": "Marvel's Guardians of the Galaxy #2",
     "date": "2021-10-26",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1187388604.mp4",
     "games": ["marvel-gotg"]
   },
   "1188297728": {
@@ -9249,10 +9250,9 @@
     "games": ["single"]
   },
   "1471119730": {
-    "abs_start": "0:00", "abs_end": "4:54:15", "duration": "0:00",
+    "youtube": "HGy3pX-F244", "abs_start": "0:00", "abs_end": "4:54:10", "duration": "4:54:10",
     "name": "Hello Neighbor 2 - Бета / Phasmophobia #13 (с Куплиновым и Дангаром)",
     "date": "2022-04-30",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1471119730.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1471119730.torrent",
     "games": ["hello-neighbor-2", "phasmophobia"]
   }
