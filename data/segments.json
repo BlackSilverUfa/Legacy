@@ -96,10 +96,9 @@
     "games": ["mgs-v"]
   },
   "001509100": {
-    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
+    "youtube": "VH4EtbNV6JY", "official": false, "abs_start": "0:00", "abs_end": "4:19:28", "duration": "4:19:28",
     "name": "Metal Gear Solid V: Phantom Pain #8",
     "date": "2015-09-10",
-    "direct": "https://bsufiles.thedrhax.pw/streams/001509100.mp4",
     "games": ["mgs-v"]
   },
   "001509120": {
@@ -5071,10 +5070,9 @@
     "games": ["gta-san-andreas", "crazy-ls"]
   },
   "534301966": {
-    "abs_start": "0:00", "abs_end": "44:54", "duration": "0:00",
+    "youtube": "Z3H7gs_Y2n4", "official": false, "abs_start": "0:00", "abs_end": "43:46", "duration": "43:46",
     "name": "Grand Theft Auto: San Andreas #3 (часть 1)",
     "date": "2020-01-11",
-    "direct": "https://bsufiles.thedrhax.pw/streams/534301966.mp4",
     "games": ["gta-san-andreas"]
   },
   "534316789": {
