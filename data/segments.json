@@ -9257,5 +9257,13 @@
     "date": "2022-05-01",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1472093056.torrent",
     "games": ["single", "first-2022", "heilwald"]
+  },
+  "1312161316": {
+    "abs_start": "0:00", "abs_end": "6:08:44", "duration": "0:00",
+    "name": "Sniper Elite 5 / V Rising",
+    "date": "2022-05-29",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1312161316.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1312161316.torrent",
+    "games": ["first-2022"]
   }
 }
