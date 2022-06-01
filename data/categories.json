@@ -289,7 +289,6 @@
       {"id": "single", "segment": "1164327068", "name": "Industria", "start": 0},
       {"id": "single", "segment": "1166311485", "name": "Matanga 2", "start": 0},
       {"name": "Alan Wake Remastered", "id": "alan-wake", "segment": "1167157790"},
-      {"id": "single", "segment": "1181039582", "name": "Poppy Playtime", "start": 0},
       {"name": "Marvel's Guardians of the Galaxy", "id": "marvel-gotg", "segment": "1186535358"},
       {"id": "single", "segment": "1190164000", "name": "Last Days of Lazarus (демо)", "start": 15909},
       {"id": "single", "segment": "1196615295", "name": "Call of Duty: Vanguard (сюжет)", "start": 0},
@@ -790,13 +789,14 @@
       {"id": "first-2022", "segment": "1472093056", "name": "Arachnophobia", "start": 16416},
       {"id": "first-2022", "segment": "1472093056", "name": "Film Morbid", "start": 17272},
       {"id": "first-2022", "segment": "1312161316", "name": "Sniper Elite 5", "start": 0},
-      {"id": "first-2022", "segment": "1312161316", "name": "V Rising", "start": 19637}
+      {"id": "first-2022", "segment": "1312161316", "name": "V Rising", "start": 19637},
+      {"id": "first-2022", "segment": "1314842666", "name": "Destroy All Humans! 2: Reprobed", "start": 0}
     ]
   },
   "ongoing": {
     "name": "Активные",
     "games": [
-  
+      {"name": "Poppy Playtime", "id": "poppy-playtime", "segment": "1181039582"}
     ]
   },
   "infinite": {
@@ -1194,9 +1194,7 @@
       {"id": "events", "segment": "1142576899", "name": "Розыгрыш ROG Zephyrus G14 Alan Walker", "start": 0},
       {"id": "other", "segment": "1182938896", "name": "Трейлеры", "start": 0},
       {"id": "events", "segment": "1193856809", "name": "Розыгрыш ROG Spatha Black USB", "start": 0},
-      {"id": "other", "segment": "1248804713", "name": "Новый год 2022 (подарки, нарезки)", "start": 0},
-      {"id": "todo", "segment": "1314842666", "name": "Poppy Playtime", "start": 0},
-      {"id": "todo", "segment": "1314842666", "name": "Destroy All Humans! 2: Reprobed", "start": 13166}
+      {"id": "other", "segment": "1248804713", "name": "Новый год 2022 (подарки, нарезки)", "start": 0}
     ]
   },
   "expos": {
