@@ -796,7 +796,7 @@
   "ongoing": {
     "name": "Активные",
     "games": [
-      {"name": "The Heilwald Loophole", "id": "heilwald", "segment": "1445142982"}
+  
     ]
   },
   "infinite": {
@@ -951,7 +951,8 @@
       {"name": "Far Cry 6", "id": "far-cry-6", "segment": "1167157790"},
       {"name": "Metroid Dread", "id": "metroid-dread", "segment": "1170802962"},
       {"name": "Sifu", "id": "sifu", "segment": "1234081084"},
-      {"name": "Five Nights At Freddy's: Security Breach", "id": "fnaf-sb", "segment": "1238591362"}
+      {"name": "Five Nights At Freddy's: Security Breach", "id": "fnaf-sb", "segment": "1238591362"},
+      {"name": "The Heilwald Loophole", "id": "heilwald", "segment": "1445142982"}
     ]
   },
   "co-op": {
@@ -1193,7 +1194,9 @@
       {"id": "events", "segment": "1142576899", "name": "Розыгрыш ROG Zephyrus G14 Alan Walker", "start": 0},
       {"id": "other", "segment": "1182938896", "name": "Трейлеры", "start": 0},
       {"id": "events", "segment": "1193856809", "name": "Розыгрыш ROG Spatha Black USB", "start": 0},
-      {"id": "other", "segment": "1248804713", "name": "Новый год 2022 (подарки, нарезки)", "start": 0}
+      {"id": "other", "segment": "1248804713", "name": "Новый год 2022 (подарки, нарезки)", "start": 0},
+      {"id": "todo", "segment": "1314842666", "name": "Poppy Playtime", "start": 0},
+      {"id": "todo", "segment": "1314842666", "name": "Destroy All Humans! 2: Reprobed", "start": 13166}
     ]
   },
   "expos": {

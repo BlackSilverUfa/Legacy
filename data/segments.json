@@ -1429,7 +1429,7 @@
     "games": ["darkwood"]
   },
   "210846597": {
-    "youtube": "HOfGuxb_b18", "official": false, "abs_start": "0:00", "abs_end": "5:18:13", "duration": "5:18:13",
+    "youtube": "sR_zEhQt7_g", "abs_start": "0:00", "abs_end": "5:18:13", "duration": "5:18:13",
     "name": "The Legend of Zelda: Breath of the Wild - DLC 2 #3 / Super Mario Odyssey #4",
     "date": "2017-12-19",
     "games": ["tloz_botw", "super-mario-odyssey"]
@@ -8979,6 +8979,14 @@
     "date": "2022-05-29",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1312161316.torrent",
     "games": ["first-2022"]
+  },
+  "1314842666": {
+    "abs_start": "0:00", "abs_end": "5:04:58", "duration": "0:00",
+    "name": "Poppy Playtime / Destroy All Humans! 2: Reprobed",
+    "date": "2022-06-01",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1314842666.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1314842666.torrent",
+    "games": ["todo"]
   },
   "1407442799": {
     "youtube": "LzUT1X10Ihk", "abs_start": "0:00", "abs_end": "8:45:08", "duration": "8:45:08",
