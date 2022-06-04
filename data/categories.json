@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "midnight-gh", "segment": "1456687038", "name": "Midnight Ghost Hunt #2 (8D) / Silent Hill: Shattered Memories #2", "start": 0},
       {"id": "single", "segment": "1457678185", "name": "Ju-On: The Grudge / Calling", "start": 0},
       {"id": "first-2022", "segment": "1458654778", "name": "The Backrooms: Survival / P.Ackman (демо) / Booper Bowling / SCP: Nukalypse / The Nightmare Inside / Father: The Truth / Office Elevator / Zemblanity", "start": 0},
       {"id": "first-2022", "segment": "1465565528", "name": "Forgive Me Father / Golden Light / Remorse: The List #1 / Phasmophobia #12 (с Куплиновым и Дангаром) / No-Snake Hotel / Lot No. 242 / The Ouija Board / An Uninvited Guest (демо) / Fear the Spotlight (демо)", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "single", "segment": "1469243371", "name": "The Stanley Parable: Ultra Deluxe", "start": 0},
       {"id": "single", "segment": "1470152667", "name": "RATUZ", "start": 0},
       {"id": "hello-neighbor-2", "segment": "1471119730", "name": "Hello Neighbor 2 - Бета / Phasmophobia #13 (с Куплиновым и Дангаром)", "start": 0},
-      {"id": "single", "segment": "1472093056", "name": "The Clown's Fun / Under / New Testament (демо) / Arachnophobia / Ouija Rumours / Shadowbringer / Lilith's Curse 1984 (демо) / Puppetmaker / Our Lady of Sorrow / The Abyss Has Walls / Film Morbid / The Heilwald Loophole #2", "start": 0}
+      {"id": "single", "segment": "1472093056", "name": "The Clown's Fun / Under / New Testament (демо) / Arachnophobia / Ouija Rumours / Shadowbringer / Lilith's Curse 1984 (демо) / Puppetmaker / Our Lady of Sorrow / The Abyss Has Walls / Film Morbid / The Heilwald Loophole #2", "start": 0},
+      {"id": "first-2022", "segment": "1494292107", "name": "The Backrooms 1998 / Signalis (демо) / Mue (демо) / Exorcist / Ripout (демо) / Antarctica (демо) / All Songs From The King (демо) / Escape The Ayuwoki", "start": 0}
     ]
   },
   "finished": {
@@ -369,7 +369,8 @@
       {"id": "single", "segment": "1470152667", "name": "RATUZ", "start": 0},
       {"id": "single", "segment": "1472093056", "name": "The Clown's Fun", "start": 0},
       {"id": "single", "segment": "1472093056", "name": "Our Lady of Sorrow", "start": 13320},
-      {"id": "single", "segment": "1472093056", "name": "The Abyss Has Walls", "start": 14631}
+      {"id": "single", "segment": "1472093056", "name": "The Abyss Has Walls", "start": 14631},
+      {"id": "single", "segment": "1494292107", "name": "Exorcist", "start": 12527}
     ]
   },
   "first": {
@@ -792,7 +793,14 @@
       {"id": "first-2022", "segment": "1312161316", "name": "V Rising", "start": 19637},
       {"id": "first-2022", "segment": "1314842666", "name": "Destroy All Humans! 2: Reprobed", "start": 13196},
       {"id": "first-2022", "segment": "1315723249", "name": "Police Shootout", "start": 0},
-      {"id": "first-2022", "segment": "1315723249", "name": "Diablo Immortal", "start": 13929}
+      {"id": "first-2022", "segment": "1315723249", "name": "Diablo Immortal", "start": 13929},
+      {"id": "first-2022", "segment": "1494292107", "name": "The Backrooms 1998", "start": 0},
+      {"id": "first-2022", "segment": "1494292107", "name": "Signalis (демо)", "start": 9453},
+      {"id": "first-2022", "segment": "1494292107", "name": "Mue (демо)", "start": 11181},
+      {"id": "first-2022", "segment": "1494292107", "name": "Ripout (демо)", "start": 15790},
+      {"id": "first-2022", "segment": "1494292107", "name": "Antarctica (демо)", "start": 17149},
+      {"id": "first-2022", "segment": "1494292107", "name": "All Songs From The King (демо)", "start": 19201},
+      {"id": "first-2022", "segment": "1494292107", "name": "Escape The Ayuwoki", "start": 20683}
     ]
   },
   "ongoing": {
