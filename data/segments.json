@@ -1315,9 +1315,10 @@
     "games": ["single"]
   },
   "187586726": {
-    "youtube": "PYqnr5-Lq4o", "abs_start": "0:00", "abs_end": "6:51:42", "duration": "6:51:42",
+    "abs_start": "0:00", "abs_end": "6:52:44", "duration": "0:00",
     "name": "Deceit #1 / Friday the 13th #1",
     "date": "2017-11-05",
+    "direct": "https://bsufiles.thedrhax.pw/streams/187586726.mp4",
     "games": ["deceit", "friday-13th"]
   },
   "200401270": {
@@ -9056,7 +9057,6 @@
     "youtube": "ggTwaXRUQdc", "abs_start": "0:00", "abs_end": "7:49:01", "duration": "7:49:01",
     "name": "Elden Ring #10",
     "date": "2022-03-08",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1419175051.torrent",
     "games": ["elden-ring"]
   },
   "1420160951": {

@@ -94,9 +94,9 @@
         <i class="fas fa-comments"></i> 18107
       </a>
     </span>
-    <span class="badge badge-success">
-      <a href="https://www.youtube.com/watch?v=PYqnr5-Lq4o" target="_blank">
-        <i class="fab fa-youtube"></i> PYqnr5-Lq4o
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.thedrhax.pw/streams/187586726.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -110,22 +110,52 @@
   <div class="timecodes" data-id="0">
     <li>Таймкоды:</li>
   <ul>
-    <li><a data-value="1522">25:22</a> — Deceit</li>
-    <li><a data-value="3144">52:24</a> — Friday the 13th</li>
-    <li><a data-value="8483">2:21:23</a> — Deceit</li>
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li><a data-value="29">0:29</a> - <a data-value="61">1:01</a> — Sia - Cheap Thrills</li>
+  </ul>
+
+    <li><a data-value="103">1:43</a> — Стримлер</li>
+    <li><a data-value="469">7:49</a> — Вход в Discord</li>
+      <li>Deceit:</li>
+  <ul>
+    <li><a data-value="1311">21:51</a> — Меню</li>
+    <li><a data-value="1529">25:29</a> — Игра</li>
+  </ul>
+
+      <li>Friday the 13th:</li>
+  <ul>
+    <li><a data-value="2581">43:01</a> — Меню</li>
+    <li><a data-value="3144">52:24</a> — Интро</li>
+    <li><a data-value="3165">52:45</a> — Игра</li>
+  </ul>
+
+      <li>Deceit (продолжение):</li>
+  <ul>
+    <li><a data-value="8022">2:13:42</a> — Меню</li>
+    <li><a data-value="8499">2:21:39</a> — Игра</li>
+  </ul>
+
+    <li><a data-value="24434">6:47:14</a> — Арты</li>
   </ul>
 
   </div>
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="0" data-hash="187586726" data-subtitles="https://bsu.drhx.ru/chats/2017/v187586726.ass" data-name="1" data-youtube="PYqnr5-Lq4o" />
+  <p class="stream" data-id="0" data-hash="187586726" data-subtitles="https://bsu.drhx.ru/chats/2017/v187586726.ass" data-name="1" data-direct="https://bsufiles.thedrhax.pw/streams/187586726.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2017/v187586726.ass ytdl://PYqnr5-Lq4o
+  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2017/v187586726.ass https://bsufiles.thedrhax.pw/streams/187586726.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://bsu.drhx.ru/chats/2017/v187586726.ass" --player-passthrough hls twitch.tv/videos/187586726 best
 </code></pre>
 </div>
 
