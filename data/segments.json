@@ -9285,5 +9285,13 @@
     "direct": "https://bsufiles.thedrhax.pw/streams/1494292107.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1494292107.torrent",
     "games": ["first-2022", "single"]
+  },
+  "1495305113": {
+    "abs_start": "0:00", "abs_end": "4:23:28", "duration": "0:00",
+    "name": "Madagascar",
+    "date": "2022-06-05",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1495305113.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1495305113.torrent",
+    "games": ["first-2022"]
   }
 }
