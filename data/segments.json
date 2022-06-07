@@ -1315,10 +1315,9 @@
     "games": ["single"]
   },
   "187586726": {
-    "abs_start": "0:00", "abs_end": "6:52:44", "duration": "0:00",
+    "youtube": "XSIN1ZRzXaA", "official": false, "abs_start": "0:00", "abs_end": "6:51:42", "duration": "6:51:42",
     "name": "Deceit #1 / Friday the 13th #1",
     "date": "2017-11-05",
-    "direct": "https://bsufiles.thedrhax.pw/streams/187586726.mp4",
     "games": ["deceit", "friday-13th"]
   },
   "200401270": {
@@ -5106,10 +5105,9 @@
     "games": ["dead-space"]
   },
   "538458255": {
-    "abs_start": "0:00", "abs_end": "5:42:12", "duration": "0:00",
+    "youtube": "oDNppnLl9Ms", "abs_start": "0:00", "abs_end": "5:42:08", "duration": "5:42:08",
     "name": "Grand Theft Auto: San Andreas #5 / Grand Theft Auto Online: Crazy LS #6",
     "date": "2020-01-19",
-    "direct": "https://bsufiles.thedrhax.pw/streams/538458255.mp4",
     "games": ["gta-san-andreas", "crazy-ls"]
   },
   "542106142": {
@@ -9279,19 +9277,25 @@
     "games": ["single", "first-2022", "heilwald"]
   },
   "1494292107": {
-    "abs_start": "0:00", "abs_end": "6:01:06", "duration": "0:00",
+    "youtube": "a_UUKe7ncQQ", "abs_start": "0:00", "abs_end": "6:00:53", "duration": "6:00:53",
     "name": "The Backrooms 1998 / Signalis (демо) / Mue (демо) / Exorcist / Ripout (демо) / Antarctica (демо) / All Songs From The King (демо) / Escape The Ayuwoki",
     "date": "2022-06-04",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1494292107.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1494292107.torrent",
     "games": ["first-2022", "single"]
   },
   "1495305113": {
-    "abs_start": "0:00", "abs_end": "4:23:28", "duration": "0:00",
-    "name": "Madagascar",
+    "youtube": "ZOiOJGBsoqU", "abs_start": "0:00", "abs_end": "4:23:21", "duration": "4:23:21",
+    "name": "Madagascar #1",
     "date": "2022-06-05",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1495305113.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1495305113.torrent",
-    "games": ["first-2022"]
+    "games": ["madagascar"]
+  },
+  "1497100879": {
+    "abs_start": "0:00", "abs_end": "2:30:03", "duration": "0:00",
+    "name": "Madagascar #2",
+    "date": "2022-06-07",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1497100879.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1497100879.torrent",
+    "games": ["madagascar"]
   }
 }
