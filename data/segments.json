@@ -5595,9 +5595,10 @@
     "games": ["snowrunner"]
   },
   "610027262": {
-    "youtube": "HnWiRaiApE8", "abs_start": "0:00", "abs_end": "6:04:58", "duration": "6:04:58",
+    "abs_start": "0:00", "abs_end": "6:04:53", "duration": "0:00",
     "name": "SnowRunner #4",
     "date": "2020-05-03",
+    "direct": "https://bsufiles.thedrhax.pw/streams/610027262.mp4",
     "games": ["snowrunner"]
   },
   "610935319": {
@@ -9291,10 +9292,9 @@
     "games": ["madagascar"]
   },
   "1497100879": {
-    "abs_start": "0:00", "abs_end": "2:30:03", "duration": "0:00",
+    "youtube": "4n0MYUPNG1U", "abs_start": "0:00", "abs_end": "2:30:04", "duration": "2:30:04",
     "name": "Madagascar #2",
     "date": "2022-06-07",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1497100879.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1497100879.torrent",
     "games": ["madagascar"]
   }
