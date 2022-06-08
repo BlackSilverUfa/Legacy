@@ -2138,7 +2138,7 @@
   },
   "268497396": {
     "youtube": "qtiSoPbuteM", "official": false, "abs_start": "0:00", "abs_end": "6:25:26", "duration": "6:25:26",
-    "name": "Worms W.M.D #2 / Raft #1 / Murderous Pursuits / The Forest",
+    "name": "Worms W.M.D #2 / Raft #1 (4D) / Murderous Pursuits / The Forest",
     "date": "2018-06-02",
     "games": ["worms-wmd", "raft", "co-op"]
   },
@@ -2936,7 +2936,7 @@
   },
   "331512980": {
     "youtube": "u3D9-vnsNZM", "official": false, "abs_start": "0:00", "abs_end": "4:38:30", "duration": "4:38:30",
-    "name": "Своя Игра #3 / Raft #2 / Golf It! #9",
+    "name": "Своя Игра #3 / Raft #2 (4D) / Golf It! #9",
     "date": "2018-11-04",
     "games": ["sigame", "raft", "golf-it"]
   },
@@ -5595,10 +5595,9 @@
     "games": ["snowrunner"]
   },
   "610027262": {
-    "abs_start": "0:00", "abs_end": "6:04:53", "duration": "0:00",
+    "youtube": "xy9k6DNpZms", "official": false, "abs_start": "0:00", "abs_end": "6:04:58", "duration": "6:04:58",
     "name": "SnowRunner #4",
     "date": "2020-05-03",
-    "direct": "https://bsufiles.thedrhax.pw/streams/610027262.mp4",
     "games": ["snowrunner"]
   },
   "610935319": {
@@ -9297,5 +9296,13 @@
     "date": "2022-06-07",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1497100879.torrent",
     "games": ["madagascar"]
+  },
+  "1498044961": {
+    "abs_start": "0:00", "abs_end": "5:56:06", "duration": "0:00",
+    "name": "Raft #3 (Даша, Джек)",
+    "date": "2022-06-08",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1498044961.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1498044961.torrent",
+    "games": ["raft"]
   }
 }
