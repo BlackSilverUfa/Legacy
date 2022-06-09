@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "remorse-tl", "segment": "1466510615", "name": "Remorse: The List #2 / Varmalis (демо) / Core / Just Stopping By", "start": 0},
       {"id": "single", "segment": "1467409068", "name": "Tape: Unveil the Memories", "start": 0},
       {"id": "single", "segment": "1469243371", "name": "The Stanley Parable: Ultra Deluxe", "start": 0},
       {"id": "single", "segment": "1470152667", "name": "RATUZ", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "first-2022", "segment": "1494292107", "name": "The Backrooms 1998 / Signalis (демо) / Mue (демо) / Exorcist / Ripout (демо) / Antarctica (демо) / All Songs From The King (демо) / Escape The Ayuwoki", "start": 0},
       {"id": "madagascar", "segment": "1495305113", "name": "Madagascar #1", "start": 0},
       {"id": "madagascar", "segment": "1497100879", "name": "Madagascar #2", "start": 0},
-      {"id": "raft", "segment": "1498044961", "name": "Raft #3 (Даша, Джек)", "start": 0}
+      {"id": "raft", "segment": "1498044961", "name": "Raft #3 (Даша, Джек)", "start": 0},
+      {"id": "raft", "segment": "1498814310", "name": "Raft #4 (Даша, Джек)", "start": 0}
     ]
   },
   "finished": {
