@@ -1181,9 +1181,9 @@
         <i class="fas fa-comments"></i> 4225
       </a>
     </span>
-    <span class="badge badge-success">
-      <a href="https://www.youtube.com/watch?v=4oZgWTPfbe8" target="_blank">
-        <i class="fab fa-youtube"></i> 4oZgWTPfbe8
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.thedrhax.pw/streams/1415016033.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -1199,19 +1199,30 @@
     <li><a data-value="607">10:07</a> — Обучение</li>
     <li><a data-value="1014">16:54</a> - <a data-value="1481">24:41</a> — Интро</li>
     <li><a data-value="2206">36:46</a> — Игра</li>
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li><a data-value="8016">2:13:36</a> - <a data-value="8186">2:16:26</a> — Major Lazer, Lous and The Yakuza - I Don't Care About Nothing</li>
+  </ul>
+
   </ul>
 
   </div>
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="11" data-hash="1415016033" data-subtitles="https://bsu.drhx.ru/chats/2022/v1415016033.ass" data-name="Gran Turismo 7" data-youtube="4oZgWTPfbe8" />
+  <p class="stream" data-id="11" data-hash="1415016033" data-subtitles="https://bsu.drhx.ru/chats/2022/v1415016033.ass" data-name="Gran Turismo 7" data-direct="https://bsufiles.thedrhax.pw/streams/1415016033.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2022/v1415016033.ass ytdl://4oZgWTPfbe8
+  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2022/v1415016033.ass https://bsufiles.thedrhax.pw/streams/1415016033.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://bsu.drhx.ru/chats/2022/v1415016033.ass" --player-passthrough hls twitch.tv/videos/1415016033 best
 </code></pre>
 </div>
 

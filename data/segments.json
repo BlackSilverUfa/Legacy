@@ -9027,9 +9027,10 @@
     "games": ["elden-ring"]
   },
   "1415016033": {
-    "youtube": "4oZgWTPfbe8", "abs_start": "0:00", "abs_end": "3:02:58", "duration": "3:02:58",
+    "abs_start": "0:00", "abs_end": "3:03:04", "duration": "0:00",
     "name": "Gran Turismo 7",
     "date": "2022-03-04",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1415016033.mp4",
     "games": ["first-2022"]
   },
   "1416009554": {
@@ -9061,7 +9062,6 @@
     "youtube": "de_XsgNDjyY", "abs_start": "0:00", "abs_end": "8:45:21", "duration": "8:45:21",
     "name": "Elden Ring #11",
     "date": "2022-03-09",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1420160951.torrent",
     "games": ["elden-ring"]
   },
   "1421157654": {
@@ -9298,10 +9298,9 @@
     "games": ["madagascar"]
   },
   "1498044961": {
-    "abs_start": "0:00", "abs_end": "5:56:06", "duration": "0:00",
+    "youtube": "WRVgdYVny8E", "abs_start": "0:00", "abs_end": "5:56:19", "duration": "5:56:19",
     "name": "Raft #3 (Даша, Джек)",
     "date": "2022-06-08",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1498044961.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1498044961.torrent",
     "games": ["raft"]
   }
