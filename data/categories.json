@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "single", "segment": "1467409068", "name": "Tape: Unveil the Memories", "start": 0},
       {"id": "single", "segment": "1469243371", "name": "The Stanley Parable: Ultra Deluxe", "start": 0},
       {"id": "single", "segment": "1470152667", "name": "RATUZ", "start": 0},
       {"id": "hello-neighbor-2", "segment": "1471119730", "name": "Hello Neighbor 2 - Бета / Phasmophobia #13 (с Куплиновым и Дангаром)", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "madagascar", "segment": "1495305113", "name": "Madagascar #1", "start": 0},
       {"id": "madagascar", "segment": "1497100879", "name": "Madagascar #2", "start": 0},
       {"id": "raft", "segment": "1498044961", "name": "Raft #3 (Даша, Джек)", "start": 0},
-      {"id": "raft", "segment": "1498814310", "name": "Raft #4 (Даша, Джек)", "start": 0}
+      {"id": "raft", "segment": "1498814310", "name": "Raft #4 (Даша, Джек)", "start": 0},
+      {"id": "single", "segment": "1499698307", "name": "The Quarry", "start": 0}
     ]
   },
   "finished": {
@@ -371,7 +371,8 @@
       {"id": "single", "segment": "1472093056", "name": "Our Lady of Sorrow", "start": 13320},
       {"id": "single", "segment": "1472093056", "name": "The Abyss Has Walls", "start": 14631},
       {"id": "single", "segment": "1494292107", "name": "Exorcist", "start": 12527},
-      {"name": "Madagascar", "id": "madagascar", "segment": "1495305113"}
+      {"name": "Madagascar", "id": "madagascar", "segment": "1495305113"},
+      {"id": "single", "segment": "1499698307", "name": "The Quarry", "start": 0}
     ]
   },
   "first": {
