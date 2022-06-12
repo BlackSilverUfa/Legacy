@@ -9275,10 +9275,10 @@
   },
   "1494292107": {
     "youtube": "a_UUKe7ncQQ", "abs_start": "0:00", "abs_end": "6:00:53", "duration": "6:00:53",
-    "name": "The Backrooms 1998 / Signalis (демо) / Mue (демо) / Exorcist / Ripout (демо) / Antarctica (демо) / All Songs From The King (демо) / Escape The Ayuwoki",
+    "name": "Summer Game Fest 2022 - Sony State of Play (обзор) / The Backrooms 1998 / Signalis (демо) / Mue (демо) / Exorcist / Ripout (демо) / Antarctica (демо) / All Songs From The King (демо) / Escape The Ayuwoki",
     "date": "2022-06-04",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1494292107.torrent",
-    "games": ["first-2022", "single"]
+    "games": ["sgf-22", "first-2022", "single"]
   },
   "1495305113": {
     "youtube": "ZOiOJGBsoqU", "abs_start": "0:00", "abs_end": "4:23:21", "duration": "4:23:21",
@@ -9302,18 +9302,16 @@
     "games": ["raft-story"]
   },
   "1498814310": {
-    "abs_start": "0:00", "abs_end": "6:33:01", "duration": "0:00",
+    "youtube": "cNsh9bjux7I", "abs_start": "0:00", "abs_end": "6:33:34", "duration": "6:33:34",
     "name": "Raft (с Дашей и Джеком) #2",
     "date": "2022-06-09",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1498814310.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1498814310.torrent",
     "games": ["raft-story"]
   },
   "1499698307": {
-    "abs_start": "0:00", "abs_end": "9:46:37", "duration": "0:00",
+    "youtube": "HKh6aW8GcHI", "abs_start": "0:00", "abs_end": "9:46:22", "duration": "9:46:22",
     "name": "The Quarry",
     "date": "2022-06-10",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1499698307.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1499698307.torrent",
     "games": ["single"]
   },
@@ -9324,5 +9322,13 @@
     "direct": "https://bsufiles.thedrhax.pw/streams/1500644334.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1500644334.torrent",
     "games": ["raft-story"]
+  },
+  "1501665729": {
+    "abs_start": "0:00", "abs_end": "7:11:51", "duration": "0:00",
+    "name": "Summer Game Fest 2022 - Обзор / Phasmophobia #14 (с Куплиновым и Дангаром) / Summer Game Fest 2022 - Xbox & Bethesda Showcase",
+    "date": "2022-06-12",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1501665729.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1501665729.torrent",
+    "games": ["sgf-22", "phasmophobia"]
   }
 }

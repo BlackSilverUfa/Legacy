@@ -3,16 +3,16 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "single", "segment": "1470152667", "name": "RATUZ", "start": 0},
       {"id": "hello-neighbor-2", "segment": "1471119730", "name": "Hello Neighbor 2 - Бета / Phasmophobia #13 (с Куплиновым и Дангаром)", "start": 0},
       {"id": "single", "segment": "1472093056", "name": "The Clown's Fun / Under / New Testament (демо) / Arachnophobia / Ouija Rumours / Shadowbringer / Lilith's Curse 1984 (демо) / Puppetmaker / Our Lady of Sorrow / The Abyss Has Walls / Film Morbid / The Heilwald Loophole #2", "start": 0},
-      {"id": "first-2022", "segment": "1494292107", "name": "The Backrooms 1998 / Signalis (демо) / Mue (демо) / Exorcist / Ripout (демо) / Antarctica (демо) / All Songs From The King (демо) / Escape The Ayuwoki", "start": 0},
+      {"id": "sgf-22", "segment": "1494292107", "name": "Summer Game Fest 2022 - Sony State of Play (обзор) / The Backrooms 1998 / Signalis (демо) / Mue (демо) / Exorcist / Ripout (демо) / Antarctica (демо) / All Songs From The King (демо) / Escape The Ayuwoki", "start": 0},
       {"id": "madagascar", "segment": "1495305113", "name": "Madagascar #1", "start": 0},
       {"id": "madagascar", "segment": "1497100879", "name": "Madagascar #2", "start": 0},
       {"id": "raft-story", "segment": "1498044961", "name": "Raft (с Дашей и Джеком) #1", "start": 0},
       {"id": "raft-story", "segment": "1498814310", "name": "Raft (с Дашей и Джеком) #2", "start": 0},
       {"id": "single", "segment": "1499698307", "name": "The Quarry", "start": 0},
-      {"id": "raft-story", "segment": "1500644334", "name": "Raft (с Дашей и Джеком) #3", "start": 0}
+      {"id": "raft-story", "segment": "1500644334", "name": "Raft (с Дашей и Джеком) #3", "start": 0},
+      {"id": "sgf-22", "segment": "1501665729", "name": "Summer Game Fest 2022 - Обзор / Phasmophobia #14 (с Куплиновым и Дангаром) / Summer Game Fest 2022 - Xbox & Bethesda Showcase", "start": 0}
     ]
   },
   "finished": {
@@ -797,7 +797,7 @@
       {"id": "first-2022", "segment": "1314842666", "name": "Destroy All Humans! 2: Reprobed", "start": 13196},
       {"id": "first-2022", "segment": "1315723249", "name": "Police Shootout", "start": 0},
       {"id": "first-2022", "segment": "1315723249", "name": "Diablo Immortal", "start": 13929},
-      {"id": "first-2022", "segment": "1494292107", "name": "The Backrooms 1998", "start": 0},
+      {"id": "first-2022", "segment": "1494292107", "name": "The Backrooms 1998", "start": 4824},
       {"id": "first-2022", "segment": "1494292107", "name": "Signalis (демо)", "start": 9453},
       {"id": "first-2022", "segment": "1494292107", "name": "Mue (демо)", "start": 11181},
       {"id": "first-2022", "segment": "1494292107", "name": "Ripout (демо)", "start": 15790},
@@ -1233,7 +1233,8 @@
       {"id": "expos", "segment": "1081385499,1081403044", "name": "WitcherCon", "start": 14495},
       {"name": "Gamescom 2021", "id": "gamescom-21", "segment": "1127979772"},
       {"id": "expos", "segment": "1134934289", "name": "Dead Space Remake Dev Stream", "start": 14246},
-      {"id": "expos", "segment": "1143525237", "name": "PlayStation Showcase 2021", "start": 24906}
+      {"id": "expos", "segment": "1143525237", "name": "PlayStation Showcase 2021", "start": 24906},
+      {"name": "Summer Game Fest 2022", "id": "sgf-22", "segment": "1494292107"}
     ]
   },
   "unboxing": {
