@@ -9088,7 +9088,6 @@
     "youtube": "GMRb3krMpRg", "abs_start": "0:00", "abs_end": "5:54:15", "duration": "5:54:15",
     "name": "Elden Ring #15",
     "date": "2022-03-14",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1425309572.torrent",
     "games": ["elden-ring"]
   },
   "1430250580": {
@@ -9316,19 +9315,25 @@
     "games": ["single"]
   },
   "1500644334": {
-    "abs_start": "0:00", "abs_end": "8:12:39", "duration": "0:00",
+    "youtube": "7fsD752kwwU", "abs_start": "0:00", "abs_end": "8:12:45", "duration": "8:12:45",
     "name": "Raft (с Дашей и Джеком) #3",
     "date": "2022-06-11",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1500644334.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1500644334.torrent",
     "games": ["raft-story"]
   },
   "1501665729": {
-    "abs_start": "0:00", "abs_end": "7:11:51", "duration": "0:00",
+    "youtube": "vIPYSp3Y5wc", "abs_start": "0:00", "abs_end": "7:11:33", "duration": "7:11:33",
     "name": "Summer Game Fest 2022 - Обзор / Phasmophobia #14 (с Куплиновым и Дангаром) / Summer Game Fest 2022 - Xbox & Bethesda Showcase",
     "date": "2022-06-12",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1501665729.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1501665729.torrent",
     "games": ["sgf-22", "phasmophobia"]
+  },
+  "1502569152": {
+    "abs_start": "0:00", "abs_end": "6:01:09", "duration": "0:00",
+    "name": "Summer Game Fest 2022 - PC Gaming Show (обзор) / SCP: Secret Files (демо) / Cult of the Lamb (демо) / Anger Foot / The Fridge Is Red (демо) / Sker Ritual (демо) / The Last Worker (демо) / Midnight Fight Express (демо)",
+    "date": "2022-06-13",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1502569152.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1502569152.torrent",
+    "games": ["sgf-22", "first-2022"]
   }
 }

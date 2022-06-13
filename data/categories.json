@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "hello-neighbor-2", "segment": "1471119730", "name": "Hello Neighbor 2 - Бета / Phasmophobia #13 (с Куплиновым и Дангаром)", "start": 0},
       {"id": "single", "segment": "1472093056", "name": "The Clown's Fun / Under / New Testament (демо) / Arachnophobia / Ouija Rumours / Shadowbringer / Lilith's Curse 1984 (демо) / Puppetmaker / Our Lady of Sorrow / The Abyss Has Walls / Film Morbid / The Heilwald Loophole #2", "start": 0},
       {"id": "sgf-22", "segment": "1494292107", "name": "Summer Game Fest 2022 - Sony State of Play (обзор) / The Backrooms 1998 / Signalis (демо) / Mue (демо) / Exorcist / Ripout (демо) / Antarctica (демо) / All Songs From The King (демо) / Escape The Ayuwoki", "start": 0},
       {"id": "madagascar", "segment": "1495305113", "name": "Madagascar #1", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "raft-story", "segment": "1498814310", "name": "Raft (с Дашей и Джеком) #2", "start": 0},
       {"id": "single", "segment": "1499698307", "name": "The Quarry", "start": 0},
       {"id": "raft-story", "segment": "1500644334", "name": "Raft (с Дашей и Джеком) #3", "start": 0},
-      {"id": "sgf-22", "segment": "1501665729", "name": "Summer Game Fest 2022 - Обзор / Phasmophobia #14 (с Куплиновым и Дангаром) / Summer Game Fest 2022 - Xbox & Bethesda Showcase", "start": 0}
+      {"id": "sgf-22", "segment": "1501665729", "name": "Summer Game Fest 2022 - Обзор / Phasmophobia #14 (с Куплиновым и Дангаром) / Summer Game Fest 2022 - Xbox & Bethesda Showcase", "start": 0},
+      {"id": "sgf-22", "segment": "1502569152", "name": "Summer Game Fest 2022 - PC Gaming Show (обзор) / SCP: Secret Files (демо) / Cult of the Lamb (демо) / Anger Foot / The Fridge Is Red (демо) / Sker Ritual (демо) / The Last Worker (демо) / Midnight Fight Express (демо)", "start": 0}
     ]
   },
   "finished": {
@@ -803,7 +803,14 @@
       {"id": "first-2022", "segment": "1494292107", "name": "Ripout (демо)", "start": 15790},
       {"id": "first-2022", "segment": "1494292107", "name": "Antarctica (демо)", "start": 17149},
       {"id": "first-2022", "segment": "1494292107", "name": "All Songs From The King (демо)", "start": 19201},
-      {"id": "first-2022", "segment": "1494292107", "name": "Escape The Ayuwoki", "start": 20683}
+      {"id": "first-2022", "segment": "1494292107", "name": "Escape The Ayuwoki", "start": 20683},
+      {"id": "first-2022", "segment": "1502569152", "name": "SCP: Secret Files (демо)", "start": 6392},
+      {"id": "first-2022", "segment": "1502569152", "name": "Cult of the Lamb (демо)", "start": 10742},
+      {"id": "first-2022", "segment": "1502569152", "name": "Anger Foot", "start": 13101},
+      {"id": "first-2022", "segment": "1502569152", "name": "The Fridge Is Red (демо)", "start": 14441},
+      {"id": "first-2022", "segment": "1502569152", "name": "Sker Ritual (демо)", "start": 17368},
+      {"id": "first-2022", "segment": "1502569152", "name": "The Last Worker (демо)", "start": 18104},
+      {"id": "first-2022", "segment": "1502569152", "name": "Midnight Fight Express (демо)", "start": 19572}
     ]
   },
   "ongoing": {
