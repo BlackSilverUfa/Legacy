@@ -9100,7 +9100,6 @@
     "youtube": "3Xx6wsbKkD8", "abs_start": "0:00", "abs_end": "6:08:35", "duration": "6:08:35",
     "name": "Elden Ring #16 (aftergame)",
     "date": "2022-03-20",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1431310944.torrent",
     "games": ["elden-ring"]
   },
   "1432334680": {
@@ -9308,10 +9307,10 @@
   },
   "1499698307": {
     "youtube": "HKh6aW8GcHI", "abs_start": "0:00", "abs_end": "9:46:22", "duration": "9:46:22",
-    "name": "The Quarry",
+    "name": "The Quarry - Прохождение",
     "date": "2022-06-10",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1499698307.torrent",
-    "games": ["single"]
+    "games": ["quarry"]
   },
   "1500644334": {
     "youtube": "7fsD752kwwU", "abs_start": "0:00", "abs_end": "8:12:45", "duration": "8:12:45",
@@ -9335,11 +9334,18 @@
     "games": ["sgf-22", "first-2022"]
   },
   "1503541091": {
-    "abs_start": "0:00", "abs_end": "3:17:37", "duration": "0:00",
+    "youtube": "HyMdlr5onM8", "abs_start": "0:00", "abs_end": "3:17:31", "duration": "3:17:31",
     "name": "Summer Game Fest 2022 - Capcom (обзор) / Resident Evil 2 Remake #1 (хардкор) / Summer Game Fest 2022 - Xbox Games Showcase Extended",
     "date": "2022-06-14",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1503541091.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1503541091.torrent",
     "games": ["sgf-22", "re2-remake"]
+  },
+  "1504425367": {
+    "abs_start": "0:00", "abs_end": "6:13:48", "duration": "0:00",
+    "name": "The Quarry - Злое прохождение",
+    "date": "2022-06-15",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1504425367.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1504425367.torrent",
+    "games": ["quarry"]
   }
 }
