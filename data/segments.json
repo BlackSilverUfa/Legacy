@@ -9106,7 +9106,6 @@
     "youtube": "0RHq8FIsXrA", "abs_start": "0:00", "abs_end": "4:04:35", "duration": "4:04:35",
     "name": "Stranger of Paradise: Final Fantasy Origin - Релиз",
     "date": "2022-03-21",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1432334680.torrent",
     "games": ["sop-ffo"]
   },
   "1433236088": {
@@ -9341,11 +9340,18 @@
     "games": ["sgf-22", "re2-remake"]
   },
   "1504425367": {
-    "abs_start": "0:00", "abs_end": "6:13:48", "duration": "0:00",
+    "youtube": "ExHgDoB9r7U", "abs_start": "0:00", "abs_end": "6:13:42", "duration": "6:13:42",
     "name": "The Quarry - Злое прохождение",
     "date": "2022-06-15",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1504425367.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1504425367.torrent",
     "games": ["quarry"]
+  },
+  "1506232070": {
+    "abs_start": "0:00", "abs_end": "5:32:20", "duration": "0:00",
+    "name": "Summer Game Fest 2022 - Capcom Showcase (обзор) / Dread Hunger #4 (8D)",
+    "date": "2022-06-17",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1506232070.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1506232070.torrent",
+    "games": ["sgf-22", "dread-hunger"]
   }
 }
