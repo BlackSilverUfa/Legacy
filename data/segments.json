@@ -9112,7 +9112,6 @@
     "youtube": "CWMEkuX-4HE", "abs_start": "0:00", "abs_end": "8:04:35", "duration": "8:04:35",
     "name": "GhostWire: Tokyo #1",
     "date": "2022-03-22",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1433236088.torrent",
     "games": ["ghostwire"]
   },
   "1434194047": {
@@ -9353,5 +9352,13 @@
     "direct": "https://bsufiles.thedrhax.pw/streams/1506232070.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1506232070.torrent",
     "games": ["sgf-22", "dread-hunger"]
+  },
+  "1508120809": {
+    "abs_start": "0:00", "abs_end": "6:05:59", "duration": "0:00",
+    "name": "My Demon Wife (демо) / Loveland (демо) / Eternal Evil / Andy's Apple Farm (демо) / Despair: Blood Curse (демо) / Oxide: Room 104",
+    "date": "2022-06-19",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1508120809.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1508120809.torrent",
+    "games": ["first-2022"]
   }
 }

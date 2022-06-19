@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "madagascar", "segment": "1497100879", "name": "Madagascar #2", "start": 0},
       {"id": "raft-story", "segment": "1498044961", "name": "Raft (с Дашей и Джеком) #1", "start": 0},
       {"id": "raft-story", "segment": "1498814310", "name": "Raft (с Дашей и Джеком) #2", "start": 0},
       {"id": "quarry", "segment": "1499698307", "name": "The Quarry - Прохождение", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "sgf-22", "segment": "1502569152", "name": "Summer Game Fest 2022 - PC Gaming Show (обзор) / SCP: Secret Files (демо) / Cult of the Lamb (демо) / Anger Foot / The Fridge Is Red (демо) / Sker Ritual (демо) / The Last Worker (демо) / Midnight Fight Express (демо)", "start": 0},
       {"id": "sgf-22", "segment": "1503541091", "name": "Summer Game Fest 2022 - Capcom (обзор) / Resident Evil 2 Remake #1 (хардкор) / Summer Game Fest 2022 - Xbox Games Showcase Extended", "start": 0},
       {"id": "quarry", "segment": "1504425367", "name": "The Quarry - Злое прохождение", "start": 0},
-      {"id": "sgf-22", "segment": "1506232070", "name": "Summer Game Fest 2022 - Capcom Showcase (обзор) / Dread Hunger #4 (8D)", "start": 0}
+      {"id": "sgf-22", "segment": "1506232070", "name": "Summer Game Fest 2022 - Capcom Showcase (обзор) / Dread Hunger #4 (8D)", "start": 0},
+      {"id": "first-2022", "segment": "1508120809", "name": "My Demon Wife (демо) / Loveland (демо) / Eternal Evil / Andy's Apple Farm (демо) / Despair: Blood Curse (демо) / Oxide: Room 104", "start": 0}
     ]
   },
   "finished": {
@@ -810,7 +810,13 @@
       {"id": "first-2022", "segment": "1502569152", "name": "The Fridge Is Red (демо)", "start": 14441},
       {"id": "first-2022", "segment": "1502569152", "name": "Sker Ritual (демо)", "start": 17368},
       {"id": "first-2022", "segment": "1502569152", "name": "The Last Worker (демо)", "start": 18104},
-      {"id": "first-2022", "segment": "1502569152", "name": "Midnight Fight Express (демо)", "start": 19572}
+      {"id": "first-2022", "segment": "1502569152", "name": "Midnight Fight Express (демо)", "start": 19572},
+      {"id": "first-2022", "segment": "1508120809", "name": "My Demon Wife (демо)", "start": 0},
+      {"id": "first-2022", "segment": "1508120809", "name": "Loveland (демо)", "start": 3708},
+      {"id": "first-2022", "segment": "1508120809", "name": "Eternal Evil", "start": 8400},
+      {"id": "first-2022", "segment": "1508120809", "name": "Andy's Apple Farm (демо)", "start": 12315},
+      {"id": "first-2022", "segment": "1508120809", "name": "Despair: Blood Curse (демо)", "start": 14301},
+      {"id": "first-2022", "segment": "1508120809", "name": "Oxide: Room 104", "start": 17910}
     ]
   },
   "ongoing": {
