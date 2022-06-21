@@ -9118,7 +9118,6 @@
     "youtube": "eEN2b8lI9HQ", "abs_start": "0:00", "abs_end": "8:22:55", "duration": "8:22:55",
     "name": "GhostWire: Tokyo #2",
     "date": "2022-03-23",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1434194047.torrent",
     "games": ["ghostwire"]
   },
   "1435162657": {
@@ -9359,5 +9358,13 @@
     "date": "2022-06-19",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1508120809.torrent",
     "games": ["first-2022"]
+  },
+  "1509822874": {
+    "abs_start": "0:00", "abs_end": "7:45:14", "duration": "0:00",
+    "name": "Raft (с Дашей и Джеком) #4",
+    "date": "2022-06-21",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1509822874.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1509822874.torrent",
+    "games": ["raft-story"]
   }
 }

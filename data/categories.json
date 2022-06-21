@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "raft-story", "segment": "1498044961", "name": "Raft (с Дашей и Джеком) #1", "start": 0},
       {"id": "raft-story", "segment": "1498814310", "name": "Raft (с Дашей и Джеком) #2", "start": 0},
       {"id": "quarry", "segment": "1499698307", "name": "The Quarry - Прохождение", "start": 0},
       {"id": "raft-story", "segment": "1500644334", "name": "Raft (с Дашей и Джеком) #3", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "sgf-22", "segment": "1503541091", "name": "Summer Game Fest 2022 - Capcom (обзор) / Resident Evil 2 Remake #1 (хардкор) / Summer Game Fest 2022 - Xbox Games Showcase Extended", "start": 0},
       {"id": "quarry", "segment": "1504425367", "name": "The Quarry - Злое прохождение", "start": 0},
       {"id": "sgf-22", "segment": "1506232070", "name": "Summer Game Fest 2022 - Square Enix (обзор) / Dread Hunger #4 (8D)", "start": 0},
-      {"id": "first-2022", "segment": "1508120809", "name": "My Demon Wife (демо) / Loveland (демо) / Eternal Evil / Andy's Apple Farm (демо) / Despair: Blood Curse (демо) / Oxide: Room 104", "start": 0}
+      {"id": "first-2022", "segment": "1508120809", "name": "My Demon Wife (демо) / Loveland (демо) / Eternal Evil / Andy's Apple Farm (демо) / Despair: Blood Curse (демо) / Oxide: Room 104", "start": 0},
+      {"id": "raft-story", "segment": "1509822874", "name": "Raft (с Дашей и Джеком) #4", "start": 0}
     ]
   },
   "finished": {
