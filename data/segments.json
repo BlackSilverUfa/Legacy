@@ -9124,7 +9124,6 @@
     "youtube": "PJYl0GJYbkE", "abs_start": "0:00", "abs_end": "8:09:45", "duration": "8:09:45",
     "name": "GhostWire: Tokyo #3",
     "date": "2022-03-24",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1435162657.torrent",
     "games": ["ghostwire"]
   },
   "1444100764": {
@@ -9269,10 +9268,10 @@
   },
   "1494292107": {
     "youtube": "a_UUKe7ncQQ", "abs_start": "0:00", "abs_end": "6:00:53", "duration": "6:00:53",
-    "name": "Summer Game Fest 2022 - Sony State of Play (обзор) / The Backrooms 1998 / Signalis (демо) / Mue (демо) / Exorcist / Ripout (демо) / Antarctica (демо) / All Songs From The King (демо) / Escape The Ayuwoki",
+    "name": "Summer Game Fest 2022 - Sony State of Play (обзор) / The Backrooms 1998 #1 / Signalis (демо) / Mue (демо) / Exorcist / Ripout (демо) / Antarctica (демо) / All Songs From The King (демо) / Escape The Ayuwoki",
     "date": "2022-06-04",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1494292107.torrent",
-    "games": ["sgf-22", "first-2022", "single"]
+    "games": ["sgf-22", "backrooms-98", "first-2022", "single"]
   },
   "1495305113": {
     "youtube": "ZOiOJGBsoqU", "abs_start": "0:00", "abs_end": "4:23:21", "duration": "4:23:21",
@@ -9354,10 +9353,10 @@
   },
   "1508120809": {
     "youtube": "fxxwHxKhyhQ", "abs_start": "0:00", "abs_end": "6:06:00", "duration": "6:06:00",
-    "name": "My Demon Wife (демо) / Loveland (демо) / Eternal Evil / Andy's Apple Farm (демо) / Despair: Blood Curse (демо) / Oxide: Room 104",
+    "name": "My Demon Wife (демо) / Loveland (демо) / Eternal Evil / Andy's Apple Farm (демо) / Despair: Blood Curse (демо) / Oxide: Room 104 - Демо",
     "date": "2022-06-19",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1508120809.torrent",
-    "games": ["first-2022"]
+    "games": ["first-2022", "oxide-104"]
   },
   "1509822874": {
     "youtube": "Ag1j7qZZJgw", "abs_start": "0:00", "abs_end": "7:45:20", "duration": "7:45:20",
@@ -9365,5 +9364,13 @@
     "date": "2022-06-21",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1509822874.torrent",
     "games": ["raft-story"]
+  },
+  "1510865681": {
+    "abs_start": "0:00", "abs_end": "5:52:08", "duration": "0:00",
+    "name": "Oxide: Room 104 - Прохождение / Somnium / Maleficium (демо) / The Backrooms 1998 #2 / Twelve Floors Below.",
+    "date": "2022-06-22",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1510865681.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1510865681.torrent",
+    "games": ["oxide-104", "single", "first-2022", "backrooms-98"]
   }
 }
