@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "quarry", "segment": "1499698307", "name": "The Quarry - Прохождение", "start": 0},
       {"id": "raft-story", "segment": "1500644334", "name": "Raft (с Дашей и Джеком) #3", "start": 0},
       {"id": "sgf-22", "segment": "1501665729", "name": "Summer Game Fest 2022 - Обзор / Phasmophobia #14 (с Куплиновым и Дангаром) / Summer Game Fest 2022 - Xbox & Bethesda Showcase", "start": 0},
       {"id": "sgf-22", "segment": "1502569152", "name": "Summer Game Fest 2022 - PC Gaming Show (обзор) / SCP: Secret Files (демо) / Cult of the Lamb (демо) / Anger Foot / The Fridge Is Red (демо) / Sker Ritual (демо) / The Last Worker (демо) / Midnight Fight Express (демо)", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "sgf-22", "segment": "1506232070", "name": "Summer Game Fest 2022 - Square Enix (обзор) / Dread Hunger #4 (8D)", "start": 0},
       {"id": "first-2022", "segment": "1508120809", "name": "My Demon Wife (демо) / Loveland (демо) / Eternal Evil / Andy's Apple Farm (демо) / Despair: Blood Curse (демо) / Oxide: Room 104 - Демо", "start": 0},
       {"id": "raft-story", "segment": "1509822874", "name": "Raft (с Дашей и Джеком) #4", "start": 0},
-      {"id": "oxide-104", "segment": "1510865681", "name": "Oxide: Room 104 - Прохождение / Somnium / Maleficium (демо) / The Backrooms 1998 #2 / Twelve Floors Below.", "start": 0}
+      {"id": "oxide-104", "segment": "1510865681", "name": "Oxide: Room 104 - Прохождение / Somnium / Maleficium (демо) / The Backrooms 1998 #2 / Twelve Floors Below.", "start": 0},
+      {"id": "single", "segment": "1511822666", "name": "Escape PS1 Hagrid / Nightmare of Decay - Прохождение / The Baby in Yellow #3", "start": 0}
     ]
   },
   "finished": {
@@ -343,6 +343,7 @@
       {"id": "single", "segment": "1445142982", "name": "Uncle Panko's Terrible Little Farm", "start": 10715},
       {"id": "single", "segment": "1445142982", "name": "Toiletrooms", "start": 12883},
       {"id": "single", "segment": "1445142982", "name": "Cleaning Redville", "start": 15689},
+      {"name": "Nightmare of Decay", "id": "nightmare-of-decay", "segment": "1445142982"},
       {"name": "F.E.A.R.", "id": "fear", "segment": "1446082122"},
       {"name": "F.E.A.R. 2: Project Origin", "id": "fear-2", "segment": "1448890604"},
       {"id": "single", "segment": "1451875048", "name": "Janitor Bleeds", "start": 0},
@@ -377,7 +378,8 @@
       {"name": "The Quarry", "id": "quarry", "segment": "1499698307"},
       {"name": "Oxide: Room 104", "id": "oxide-104", "segment": "1508120809"},
       {"id": "single", "segment": "1510865681", "name": "Somnium", "start": 12433},
-      {"id": "single", "segment": "1510865681", "name": "Twelve Floors Below.", "start": 18731}
+      {"id": "single", "segment": "1510865681", "name": "Twelve Floors Below.", "start": 18731},
+      {"id": "single", "segment": "1511822666", "name": "Escape PS1 Hagrid", "start": 618}
     ]
   },
   "first": {
@@ -773,7 +775,6 @@
       {"id": "first-2022", "segment": "1415016033", "name": "Gran Turismo 7", "start": 0},
       {"id": "first-2022", "segment": "1444100764", "name": "Weird West", "start": 16810},
       {"id": "first-2022", "segment": "1445142982", "name": "Remnants of R'lyeh (демо)", "start": 0},
-      {"id": "first-2022", "segment": "1445142982", "name": "Nightmare of Decay (демо)", "start": 7784},
       {"id": "first-2022", "segment": "1445142982", "name": "Out of Sight (демо)", "start": 13930},
       {"id": "first-2022", "segment": "1445142982", "name": "HandCop", "start": 17898},
       {"id": "first-2022", "segment": "1451875048", "name": "Note of the Day (демо)", "start": 13369},

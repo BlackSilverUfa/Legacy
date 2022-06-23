@@ -9135,10 +9135,10 @@
   },
   "1445142982": {
     "youtube": "FgekyOZTsBA", "abs_start": "0:00", "abs_end": "6:10:21", "duration": "6:10:21",
-    "name": "Remnants of R'lyeh (демо) / Grief / Mirage of Home / Nightmare of Decay (демо) / Uncle Panko's Terrible Little Farm / Toiletrooms / Out of Sight (демо) / Cleaning Redville / HandCop / The Heilwald Loophole #1",
+    "name": "Remnants of R'lyeh (демо) / Grief / Mirage of Home / Nightmare of Decay - Демо / Uncle Panko's Terrible Little Farm / Toiletrooms / Out of Sight (демо) / Cleaning Redville / HandCop / The Heilwald Loophole #1",
     "date": "2022-04-03",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1445142982.torrent",
-    "games": ["first-2022", "single", "heilwald"]
+    "games": ["first-2022", "single", "nightmare-of-decay", "heilwald"]
   },
   "1446082122": {
     "youtube": "1nvY3QXSC6M", "abs_start": "0:00", "abs_end": "6:08:04", "duration": "6:08:04",
@@ -9344,10 +9344,9 @@
     "games": ["quarry"]
   },
   "1506232070": {
-    "abs_start": "0:00", "abs_end": "5:32:20", "duration": "0:00",
+    "youtube": "swPrFFqPC6Y", "official": false, "abs_start": "0:00", "abs_end": "5:32:29", "duration": "5:32:29",
     "name": "Summer Game Fest 2022 - Square Enix (обзор) / Dread Hunger #4 (8D)",
     "date": "2022-06-17",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1506232070.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1506232070.torrent",
     "games": ["sgf-22", "dread-hunger"]
   },
@@ -9366,11 +9365,18 @@
     "games": ["raft-story"]
   },
   "1510865681": {
-    "abs_start": "0:00", "abs_end": "5:52:08", "duration": "0:00",
+    "youtube": "BJZN4rKgQhs", "abs_start": "0:00", "abs_end": "5:52:03", "duration": "5:52:03",
     "name": "Oxide: Room 104 - Прохождение / Somnium / Maleficium (демо) / The Backrooms 1998 #2 / Twelve Floors Below.",
     "date": "2022-06-22",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1510865681.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1510865681.torrent",
     "games": ["oxide-104", "single", "first-2022", "backrooms-98"]
+  },
+  "1511822666": {
+    "abs_start": "0:00", "abs_end": "4:41:16", "duration": "0:00",
+    "name": "Escape PS1 Hagrid / Nightmare of Decay - Прохождение / The Baby in Yellow #3",
+    "date": "2022-06-23",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1511822666.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1511822666.torrent",
+    "games": ["single", "nightmare-of-decay", "baby-in-yellow"]
   }
 }
