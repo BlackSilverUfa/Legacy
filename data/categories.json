@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "raft-story", "segment": "1500644334", "name": "Raft (с Дашей и Джеком) #3", "start": 0},
       {"id": "sgf-22", "segment": "1501665729", "name": "Summer Game Fest 2022 - Обзор / Phasmophobia #14 (с Куплиновым и Дангаром) / Summer Game Fest 2022 - Xbox & Bethesda Showcase", "start": 0},
       {"id": "sgf-22", "segment": "1502569152", "name": "Summer Game Fest 2022 - PC Gaming Show (обзор) / SCP: Secret Files (демо) / Cult of the Lamb (демо) / Anger Foot / The Fridge Is Red (демо) / Sker Ritual (демо) / The Last Worker (демо) / Midnight Fight Express (демо)", "start": 0},
       {"id": "sgf-22", "segment": "1503541091", "name": "Summer Game Fest 2022 - Capcom (обзор) / Resident Evil 2 Remake #1 (хардкор) / Summer Game Fest 2022 - Xbox Games Showcase Extended", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "first-2022", "segment": "1508120809", "name": "My Demon Wife (демо) / Loveland (демо) / Eternal Evil / Andy's Apple Farm (демо) / Despair: Blood Curse (демо) / Oxide: Room 104 - Демо", "start": 0},
       {"id": "raft-story", "segment": "1509822874", "name": "Raft (с Дашей и Джеком) #4", "start": 0},
       {"id": "oxide-104", "segment": "1510865681", "name": "Oxide: Room 104 - Прохождение / Somnium / Maleficium (демо) / The Backrooms 1998 #2 / Twelve Floors Below.", "start": 0},
-      {"id": "single", "segment": "1511822666", "name": "Escape PS1 Hagrid / Nightmare of Decay - Прохождение / The Baby in Yellow #3", "start": 0}
+      {"id": "single", "segment": "1511822666", "name": "Escape PS1 Hagrid / Nightmare of Decay - Прохождение / The Baby in Yellow #3", "start": 0},
+      {"id": "single", "segment": "1515525236", "name": "Deliver Us The Moon", "start": 0}
     ]
   },
   "finished": {
@@ -379,7 +379,8 @@
       {"name": "Oxide: Room 104", "id": "oxide-104", "segment": "1508120809"},
       {"id": "single", "segment": "1510865681", "name": "Somnium", "start": 12433},
       {"id": "single", "segment": "1510865681", "name": "Twelve Floors Below.", "start": 18731},
-      {"id": "single", "segment": "1511822666", "name": "Escape PS1 Hagrid", "start": 618}
+      {"id": "single", "segment": "1511822666", "name": "Escape PS1 Hagrid", "start": 618},
+      {"id": "single", "segment": "1515525236", "name": "Deliver Us The Moon", "start": 1603}
     ]
   },
   "first": {

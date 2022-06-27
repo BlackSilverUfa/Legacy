@@ -9130,14 +9130,12 @@
     "youtube": "PGjMwHIcShM", "abs_start": "0:00", "abs_end": "6:06:43", "duration": "6:06:43",
     "name": "Ikai / Weird West",
     "date": "2022-04-02",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1444100764.torrent",
     "games": ["single", "first-2022"]
   },
   "1445142982": {
     "youtube": "FgekyOZTsBA", "abs_start": "0:00", "abs_end": "6:10:21", "duration": "6:10:21",
     "name": "Remnants of R'lyeh (демо) / Grief / Mirage of Home / Nightmare of Decay - Демо / Uncle Panko's Terrible Little Farm / Toiletrooms / Out of Sight (демо) / Cleaning Redville / HandCop / The Heilwald Loophole #1",
     "date": "2022-04-03",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1445142982.torrent",
     "games": ["first-2022", "single", "nightmare-of-decay", "heilwald"]
   },
   "1446082122": {
@@ -9372,11 +9370,18 @@
     "games": ["oxide-104", "single", "first-2022", "backrooms-98"]
   },
   "1511822666": {
-    "abs_start": "0:00", "abs_end": "4:41:16", "duration": "0:00",
+    "youtube": "yk3r9jPoho4", "abs_start": "0:00", "abs_end": "4:41:15", "duration": "4:41:15",
     "name": "Escape PS1 Hagrid / Nightmare of Decay - Прохождение / The Baby in Yellow #3",
     "date": "2022-06-23",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1511822666.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1511822666.torrent",
     "games": ["single", "nightmare-of-decay", "baby-in-yellow"]
+  },
+  "1515525236": {
+    "abs_start": "0:00", "abs_end": "6:38:03", "duration": "0:00",
+    "name": "Deliver Us The Moon",
+    "date": "2022-06-27",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1515525236.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1515525236.torrent",
+    "games": ["single"]
   }
 }
