@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "sgf-22", "segment": "1501665729", "name": "Summer Game Fest 2022 - Обзор / Phasmophobia #14 (с Куплиновым и Дангаром) / Summer Game Fest 2022 - Xbox & Bethesda Showcase", "start": 0},
       {"id": "sgf-22", "segment": "1502569152", "name": "Summer Game Fest 2022 - PC Gaming Show (обзор) / SCP: Secret Files (демо) / Cult of the Lamb (демо) / Anger Foot / The Fridge Is Red (демо) / Sker Ritual (демо) / The Last Worker (демо) / Midnight Fight Express (демо)", "start": 0},
       {"id": "sgf-22", "segment": "1503541091", "name": "Summer Game Fest 2022 - Capcom (обзор) / Resident Evil 2 Remake #1 (хардкор) / Summer Game Fest 2022 - Xbox Games Showcase Extended", "start": 0},
       {"id": "quarry", "segment": "1504425367", "name": "The Quarry - Злое прохождение", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "raft-story", "segment": "1509822874", "name": "Raft (с Дашей и Джеком) #4", "start": 0},
       {"id": "oxide-104", "segment": "1510865681", "name": "Oxide: Room 104 - Прохождение / Somnium / Maleficium (демо) / The Backrooms 1998 #2 / Twelve Floors Below.", "start": 0},
       {"id": "single", "segment": "1511822666", "name": "Escape PS1 Hagrid / Nightmare of Decay - Прохождение / The Baby in Yellow #3", "start": 0},
-      {"id": "single", "segment": "1515525236", "name": "Deliver Us The Moon", "start": 0}
+      {"id": "single", "segment": "1515525236", "name": "Deliver Us The Moon", "start": 0},
+      {"id": "v-rising", "segment": "1516411053", "name": "V Rising #2 (с Дашей и Джеком)", "start": 0}
     ]
   },
   "finished": {
@@ -798,8 +798,7 @@
       {"id": "first-2022", "segment": "1472093056", "name": "Puppetmaker", "start": 11453},
       {"id": "first-2022", "segment": "1472093056", "name": "Arachnophobia (заново)", "start": 16416},
       {"id": "first-2022", "segment": "1472093056", "name": "Film Morbid", "start": 17272},
-      {"id": "first-2022", "segment": "1312161316", "name": "Sniper Elite 5", "start": 0},
-      {"id": "first-2022", "segment": "1312161316", "name": "V Rising", "start": 19637},
+      {"id": "first-2022", "segment": "1312161316", "name": "Sniper Elite 5", "start": 7138},
       {"id": "first-2022", "segment": "1314842666", "name": "Destroy All Humans! 2: Reprobed", "start": 13196},
       {"id": "first-2022", "segment": "1315723249", "name": "Police Shootout", "start": 0},
       {"id": "first-2022", "segment": "1315723249", "name": "Diablo Immortal", "start": 13929},
@@ -827,7 +826,8 @@
   "ongoing": {
     "name": "Активные",
     "games": [
-      {"name": "Poppy Playtime", "id": "poppy-playtime", "segment": "1181039582"}
+      {"name": "Poppy Playtime", "id": "poppy-playtime", "segment": "1181039582"},
+      {"name": "V Rising", "id": "v-rising", "segment": "1312161316"}
     ]
   },
   "infinite": {
