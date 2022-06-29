@@ -8691,9 +8691,9 @@
   },
   "1239503220": {
     "youtube": "1p-dYWfcmnA", "abs_start": "0:00", "abs_end": "6:05:44", "duration": "6:05:44",
-    "name": "Dark Souls: Remastered #1 (заново) / Fobia - St. Dinfna Hotel (демо) / Five Nights At Freddy's: Security Breach #2",
+    "name": "Dark Souls: Remastered #1 (заново) / Fobia - St. Dinfna Hotel - Демо / Five Nights At Freddy's: Security Breach #2",
     "date": "2021-12-21",
-    "games": ["ds-remastered", "single", "fnaf-sb"]
+    "games": ["ds-remastered", "fobia", "fnaf-sb"]
   },
   "1240425069": {
     "youtube": "RiU56AJFmAU", "abs_start": "0:00", "abs_end": "8:35:00", "duration": "8:35:00",
@@ -9027,10 +9027,9 @@
     "games": ["elden-ring"]
   },
   "1415016033": {
-    "abs_start": "0:00", "abs_end": "3:03:04", "duration": "0:00",
+    "youtube": "4baRg0v6WPU", "official": false, "abs_start": "0:00", "abs_end": "3:02:58", "duration": "3:02:58",
     "name": "Gran Turismo 7",
     "date": "2022-03-04",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1415016033.mp4",
     "games": ["first-2022"]
   },
   "1416009554": {
@@ -9148,7 +9147,6 @@
     "youtube": "4Tnjr4SKI-M", "abs_start": "0:00", "abs_end": "4:50:52", "duration": "4:50:52",
     "name": "F.E.A.R. #2",
     "date": "2022-04-05",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1447006792.torrent",
     "games": ["fear"]
   },
   "1447954975": {
@@ -9376,19 +9374,25 @@
     "games": ["single", "nightmare-of-decay", "baby-in-yellow"]
   },
   "1515525236": {
-    "abs_start": "0:00", "abs_end": "6:38:03", "duration": "0:00",
+    "youtube": "2B9sgkG7CXM", "abs_start": "0:00", "abs_end": "6:37:50", "duration": "6:37:50",
     "name": "Deliver Us The Moon",
     "date": "2022-06-27",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1515525236.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1515525236.torrent",
     "games": ["single"]
   },
   "1516411053": {
-    "abs_start": "0:00", "abs_end": "6:34:03", "duration": "0:00",
+    "youtube": "j8W4FWqogrY", "abs_start": "0:00", "abs_end": "6:33:41", "duration": "6:33:41",
     "name": "V Rising #2 (с Дашей и Джеком)",
     "date": "2022-06-28",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1516411053.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1516411053.torrent",
     "games": ["v-rising"]
+  },
+  "1517449364": {
+    "abs_start": "0:00", "abs_end": "5:02:22", "duration": "0:00",
+    "name": "Fobia - St. Dinfna Hotel #1",
+    "date": "2022-06-29",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1517449364.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1517449364.torrent",
+    "games": ["fobia"]
   }
 }

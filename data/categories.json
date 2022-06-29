@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "sgf-22", "segment": "1502569152", "name": "Summer Game Fest 2022 - PC Gaming Show (обзор) / SCP: Secret Files (демо) / Cult of the Lamb (демо) / Anger Foot / The Fridge Is Red (демо) / Sker Ritual (демо) / The Last Worker (демо) / Midnight Fight Express (демо)", "start": 0},
       {"id": "sgf-22", "segment": "1503541091", "name": "Summer Game Fest 2022 - Capcom (обзор) / Resident Evil 2 Remake #1 (хардкор) / Summer Game Fest 2022 - Xbox Games Showcase Extended", "start": 0},
       {"id": "quarry", "segment": "1504425367", "name": "The Quarry - Злое прохождение", "start": 0},
       {"id": "sgf-22", "segment": "1506232070", "name": "Summer Game Fest 2022 - Square Enix (обзор) / Dread Hunger #4 (8D)", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "oxide-104", "segment": "1510865681", "name": "Oxide: Room 104 - Прохождение / Somnium / Maleficium (демо) / The Backrooms 1998 #2 / Twelve Floors Below.", "start": 0},
       {"id": "single", "segment": "1511822666", "name": "Escape PS1 Hagrid / Nightmare of Decay - Прохождение / The Baby in Yellow #3", "start": 0},
       {"id": "single", "segment": "1515525236", "name": "Deliver Us The Moon", "start": 0},
-      {"id": "v-rising", "segment": "1516411053", "name": "V Rising #2 (с Дашей и Джеком)", "start": 0}
+      {"id": "v-rising", "segment": "1516411053", "name": "V Rising #2 (с Дашей и Джеком)", "start": 0},
+      {"id": "fobia", "segment": "1517449364", "name": "Fobia - St. Dinfna Hotel #1", "start": 0}
     ]
   },
   "finished": {
@@ -299,7 +299,6 @@
       {"id": "single", "segment": "1224807350", "name": "Decrypt", "start": 16911},
       {"name": "Happy's Humble Burger Farm", "id": "hhbf", "segment": "1224807350"},
       {"name": "Halo Infinite", "id": "halo-infinite", "segment": "1227570391.1"},
-      {"id": "single", "segment": "1239503220", "name": "Fobia - St. Dinfna Hotel (демо)", "start": 11042},
       {"id": "single", "segment": "1241348243", "name": "CorpseOcean", "start": 9194},
       {"id": "single", "segment": "1243862269", "name": "9 Childs St (демо)", "start": 0},
       {"id": "single", "segment": "1243862269", "name": "Antler", "start": 5370},
@@ -827,6 +826,7 @@
     "name": "Активные",
     "games": [
       {"name": "Poppy Playtime", "id": "poppy-playtime", "segment": "1181039582"},
+      {"name": "Fobia - St. Dinfna Hotel", "id": "fobia", "segment": "1239503220"},
       {"name": "V Rising", "id": "v-rising", "segment": "1312161316"}
     ]
   },
