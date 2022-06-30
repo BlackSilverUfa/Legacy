@@ -816,6 +816,13 @@
     "date": "2017-05-02",
     "games": ["talking-dead-frontier", "little-nightmares"]
   },
+  "001705180": {
+    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
+    "name": "Сборка тумбочки",
+    "date": "2017-05-18",
+    "direct": "https://bsufiles.thedrhax.pw/streams/001705180.mp4",
+    "games": ["unboxing"]
+  },
   "001706060": {
     "youtube": "JWY1e9gH02A", "abs_start": "0:00", "abs_end": "4:01:06", "duration": "4:01:06",
     "name": "Guardians of the Galaxy: The Telltale Series - Episode 2 / The Walking Dead: A New Frontier - Episode 5",
@@ -6308,9 +6315,10 @@
     "games": ["pummel-party", "human-fall-flat"]
   },
   "761311327": {
-    "youtube": "iJYHVNT2VsY", "official": false, "abs_start": "0:00", "abs_end": "6:34:40", "duration": "6:34:40",
+    "abs_start": "0:00", "abs_end": "6:34:36", "duration": "0:00",
     "name": "Vampire: The Masquerade - Bloodlines #8 / Amnesia: The Dark Descent #1",
     "date": "2020-10-05",
+    "direct": "https://bsufiles.thedrhax.pw/streams/761311327.mp4",
     "games": ["vampire-masquerade", "amnesia"]
   },
   "763202430": {

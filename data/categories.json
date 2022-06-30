@@ -1259,6 +1259,7 @@
     "name": "Анбоксинги",
     "games": [
       {"id": "unboxing", "segment": "001612290", "name": "Посылки (29.12.16)", "start": 0},
+      {"id": "unboxing", "segment": "001705180", "name": "Сборка тумбочки", "start": 351},
       {"id": "unboxing", "segment": "219463387", "name": "Сборка кресла", "start": 0},
       {"id": "unboxing", "segment": "245415969", "name": "Посылки (01.04.18)", "start": 0},
       {"id": "unboxing", "segment": "356378129", "name": "Посылки (30.12.18)", "start": 0},
