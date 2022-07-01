@@ -817,10 +817,9 @@
     "games": ["talking-dead-frontier", "little-nightmares"]
   },
   "001705180": {
-    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
+    "youtube": "7l_yWZ3ORrs", "official": false, "abs_start": "0:00", "abs_end": "2:03:00", "duration": "2:03:00",
     "name": "Сборка тумбочки",
     "date": "2017-05-18",
-    "direct": "https://bsufiles.thedrhax.pw/streams/001705180.mp4",
     "games": ["unboxing"]
   },
   "001706060": {
