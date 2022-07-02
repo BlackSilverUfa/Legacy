@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "sgf-22", "segment": "1503541091", "name": "Summer Game Fest 2022 - Capcom (обзор) / Resident Evil 2 Remake #1 (хардкор) / Summer Game Fest 2022 - Xbox Games Showcase Extended", "start": 0},
       {"id": "quarry", "segment": "1504425367", "name": "The Quarry - Злое прохождение", "start": 0},
       {"id": "sgf-22", "segment": "1506232070", "name": "Summer Game Fest 2022 - Square Enix (обзор) / Dread Hunger #4 (8D)", "start": 0},
       {"id": "first-2022", "segment": "1508120809", "name": "My Demon Wife (демо) / Loveland (демо) / Eternal Evil / Andy's Apple Farm (демо) / Despair: Blood Curse (демо) / Oxide: Room 104 - Демо", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "single", "segment": "1511822666", "name": "Escape PS1 Hagrid / Nightmare of Decay - Прохождение / The Baby in Yellow #3", "start": 0},
       {"id": "single", "segment": "1515525236", "name": "Deliver Us The Moon", "start": 0},
       {"id": "v-rising", "segment": "1516411053", "name": "V Rising #2 (с Дашей и Джеком)", "start": 0},
-      {"id": "fobia", "segment": "1517449364", "name": "Fobia - St. Dinfna Hotel #1", "start": 0}
+      {"id": "fobia", "segment": "1517449364", "name": "Fobia - St. Dinfna Hotel #1", "start": 0},
+      {"id": "todo", "segment": "1520246163", "name": "Не размечено - Cuphead", "start": 0}
     ]
   },
   "finished": {
@@ -825,7 +825,6 @@
   "ongoing": {
     "name": "Активные",
     "games": [
-      {"name": "Poppy Playtime", "id": "poppy-playtime", "segment": "1181039582"},
       {"name": "Fobia - St. Dinfna Hotel", "id": "fobia", "segment": "1239503220"},
       {"name": "V Rising", "id": "v-rising", "segment": "1312161316"}
     ]
@@ -981,6 +980,7 @@
       {"name": "Inscryption", "id": "inscryption", "segment": "1162515299"},
       {"name": "Far Cry 6", "id": "far-cry-6", "segment": "1167157790"},
       {"name": "Metroid Dread", "id": "metroid-dread", "segment": "1170802962"},
+      {"name": "Poppy Playtime", "id": "poppy-playtime", "segment": "1181039582"},
       {"name": "Sifu", "id": "sifu", "segment": "1234081084"},
       {"name": "Five Nights At Freddy's: Security Breach", "id": "fnaf-sb", "segment": "1238591362"},
       {"name": "The Heilwald Loophole", "id": "heilwald", "segment": "1445142982"}
@@ -1225,7 +1225,8 @@
       {"id": "events", "segment": "1142576899", "name": "Розыгрыш ROG Zephyrus G14 Alan Walker", "start": 0},
       {"id": "other", "segment": "1182938896", "name": "Трейлеры", "start": 0},
       {"id": "events", "segment": "1193856809", "name": "Розыгрыш ROG Spatha Black USB", "start": 0},
-      {"id": "other", "segment": "1248804713", "name": "Новый год 2022 (подарки, нарезки)", "start": 0}
+      {"id": "other", "segment": "1248804713", "name": "Новый год 2022 (подарки, нарезки)", "start": 0},
+      {"name": "Не размечено", "id": "todo", "segment": "1520246163"}
     ]
   },
   "expos": {

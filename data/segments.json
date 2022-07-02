@@ -9159,7 +9159,6 @@
     "youtube": "6SZwVIBy9qM", "abs_start": "0:00", "abs_end": "6:02:03", "duration": "6:02:03",
     "name": "ROG Flow Z13 / Dread Hunger #3 (8D)",
     "date": "2022-04-06",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1447954975.torrent",
     "games": ["unboxing", "dread-hunger"]
   },
   "1448890604": {
@@ -9400,5 +9399,13 @@
     "direct": "https://bsufiles.thedrhax.pw/streams/1517449364.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1517449364.torrent",
     "games": ["fobia"]
+  },
+  "1520246163": {
+    "abs_start": "0:00", "abs_end": "6:46:09", "duration": "0:00",
+    "name": "Не размечено - Cuphead",
+    "date": "2022-07-02",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1520246163.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1520246163.torrent",
+    "games": ["todo"]
   }
 }
