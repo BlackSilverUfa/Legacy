@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "sgf-22", "segment": "1506232070", "name": "Summer Game Fest 2022 - Square Enix (обзор) / Dread Hunger #4 (8D)", "start": 0},
       {"id": "first-2022", "segment": "1508120809", "name": "My Demon Wife (демо) / Loveland (демо) / Eternal Evil / Andy's Apple Farm (демо) / Despair: Blood Curse (демо) / Oxide: Room 104 - Демо", "start": 0},
       {"id": "raft-story", "segment": "1509822874", "name": "Raft (с Дашей и Джеком) #4", "start": 0},
       {"id": "oxide-104", "segment": "1510865681", "name": "Oxide: Room 104 - Прохождение / Somnium / Maleficium (демо) / The Backrooms 1998 #2 / Twelve Floors Below.", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "v-rising", "segment": "1516411053", "name": "V Rising #2 (с Дашей и Джеком)", "start": 0},
       {"id": "fobia", "segment": "1517449364", "name": "Fobia - St. Dinfna Hotel #1", "start": 0},
       {"id": "todo", "segment": "1520246163", "name": "Не размечено - Cuphead", "start": 0},
-      {"id": "todo", "segment": "1521217271", "name": "Не размечено - Sail-by Salute / Не размечено - The Floor is Breathing / Не размечено - Toilet Chronicles / Не размечено - Last Bus Home / Не размечено - Cold House / Не размечено - Loathful / Не размечено - The Other Side / Не размечено - Perfect Vermin / Не размечено - Lost Life: Origins / Не размечено - The Crypt Terror / Не размечено - Penitence", "start": 0}
+      {"id": "todo", "segment": "1521217271", "name": "Не размечено - Sail-by Salute / Не размечено - The Floor is Breathing / Не размечено - Toilet Chronicles / Не размечено - Last Bus Home / Не размечено - Cold House / Не размечено - Loathful / Не размечено - The Other Side / Не размечено - Perfect Vermin / Не размечено - Lost Life: Origins / Не размечено - The Crypt Terror / Не размечено - Penitence", "start": 0},
+      {"id": "todo", "segment": "1522102243", "name": "Не размечено - Xena: Warrior Princess / Не размечено - Spider-Man 2: Enter Electro / Не размечено - Barbie: Explorer", "start": 0}
     ]
   },
   "finished": {

@@ -9171,7 +9171,6 @@
     "youtube": "vN4Ji9SPsP8", "abs_start": "0:00", "abs_end": "5:05:43", "duration": "5:05:43",
     "name": "Midnight Ghost Hunt #1 (8D)",
     "date": "2022-04-08",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1449847186.torrent",
     "games": ["midnight-gh"]
   },
   "1450784424": {
@@ -9392,27 +9391,32 @@
     "games": ["v-rising"]
   },
   "1517449364": {
-    "abs_start": "0:00", "abs_end": "5:02:22", "duration": "0:00",
+    "youtube": "5F9gpWQyUhY", "abs_start": "0:00", "abs_end": "5:02:24", "duration": "5:02:24",
     "name": "Fobia - St. Dinfna Hotel #1",
     "date": "2022-06-29",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1517449364.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1517449364.torrent",
     "games": ["fobia"]
   },
   "1520246163": {
-    "abs_start": "0:00", "abs_end": "6:46:09", "duration": "0:00",
+    "youtube": "ipSw7ljKYTg", "abs_start": "0:00", "abs_end": "6:46:08", "duration": "6:46:08",
     "name": "Не размечено - Cuphead",
     "date": "2022-07-02",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1520246163.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1520246163.torrent",
     "games": ["todo"]
   },
   "1521217271": {
-    "abs_start": "0:00", "abs_end": "5:56:24", "duration": "0:00",
+    "youtube": "JTPJOFqxuVc", "abs_start": "0:00", "abs_end": "5:56:15", "duration": "5:56:15",
     "name": "Не размечено - Sail-by Salute / Не размечено - The Floor is Breathing / Не размечено - Toilet Chronicles / Не размечено - Last Bus Home / Не размечено - Cold House / Не размечено - Loathful / Не размечено - The Other Side / Не размечено - Perfect Vermin / Не размечено - Lost Life: Origins / Не размечено - The Crypt Terror / Не размечено - Penitence",
     "date": "2022-07-03",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1521217271.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1521217271.torrent",
+    "games": ["todo"]
+  },
+  "1522102243": {
+    "abs_start": "0:00", "abs_end": "6:18:59", "duration": "0:00",
+    "name": "Не размечено - Xena: Warrior Princess / Не размечено - Spider-Man 2: Enter Electro / Не размечено - Barbie: Explorer",
+    "date": "2022-07-04",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1522102243.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1522102243.torrent",
     "games": ["todo"]
   }
 }
