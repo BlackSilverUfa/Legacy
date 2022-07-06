@@ -9,10 +9,10 @@
       {"id": "single", "segment": "1515525236", "name": "Deliver Us The Moon", "start": 0},
       {"id": "v-rising", "segment": "1516411053", "name": "V Rising #2 (с Дашей и Джеком)", "start": 0},
       {"id": "fobia", "segment": "1517449364", "name": "Fobia - St. Dinfna Hotel #1", "start": 0},
-      {"id": "todo", "segment": "1520246163", "name": "Не размечено - Cuphead #1", "start": 0},
-      {"id": "todo", "segment": "1521217271", "name": "Не размечено - Sail-by Salute / Не размечено - The Floor is Breathing / Не размечено - Toilet Chronicles / Не размечено - Last Bus Home / Не размечено - Cold House / Не размечено - Loathful / Не размечено - The Other Side / Не размечено - Perfect Vermin / Не размечено - Lost Life: Origins / Не размечено - The Crypt Terror / Не размечено - Penitence", "start": 0},
-      {"id": "todo", "segment": "1522102243", "name": "Не размечено - Xena: Warrior Princess / Не размечено - Spider-Man 2: Enter Electro / Не размечено - Barbie: Explorer", "start": 0},
-      {"id": "todo", "segment": "1522945141", "name": "Не размечено - Cuphead #2 / Не размечено - Cuphead: The Delicious Last Course", "start": 0}
+      {"id": "todo", "segment": "1520246163", "name": "Cuphead #1", "start": 0},
+      {"id": "todo", "segment": "1521217271", "name": "Sail-by Salute / The Floor is Breathing / Toilet Chronicles / Last Bus Home / Cold House / Loathful / The Other Side / Perfect Vermin / Lost Life: Origins / The Crypt Terror / Penitence", "start": 0},
+      {"id": "todo", "segment": "1522102243", "name": "Xena: Warrior Princess / Spider-Man 2: Enter Electro / Barbie: Explorer", "start": 0},
+      {"id": "todo", "segment": "1522945141", "name": "Cuphead #2 / Cuphead: The Delicious Last Course", "start": 0}
     ]
   },
   "finished": {
@@ -1226,7 +1226,23 @@
       {"id": "other", "segment": "1182938896", "name": "Трейлеры", "start": 0},
       {"id": "events", "segment": "1193856809", "name": "Розыгрыш ROG Spatha Black USB", "start": 0},
       {"id": "other", "segment": "1248804713", "name": "Новый год 2022 (подарки, нарезки)", "start": 0},
-      {"name": "Не размечено", "id": "todo", "segment": "1520246163"}
+      {"id": "todo", "segment": "1520246163", "name": "Cuphead #1", "start": 1712},
+      {"id": "todo", "segment": "1521217271", "name": "Sail-by Salute", "start": 969},
+      {"id": "todo", "segment": "1521217271", "name": "The Floor is Breathing", "start": 4265},
+      {"id": "todo", "segment": "1521217271", "name": "Toilet Chronicles", "start": 5693},
+      {"id": "todo", "segment": "1521217271", "name": "Last Bus Home", "start": 7320},
+      {"id": "todo", "segment": "1521217271", "name": "Cold House", "start": 8292},
+      {"id": "todo", "segment": "1521217271", "name": "Loathful", "start": 12710},
+      {"id": "todo", "segment": "1521217271", "name": "The Other Side", "start": 13684},
+      {"id": "todo", "segment": "1521217271", "name": "Perfect Vermin", "start": 15089},
+      {"id": "todo", "segment": "1521217271", "name": "Lost Life: Origins", "start": 16370},
+      {"id": "todo", "segment": "1521217271", "name": "The Crypt Terror", "start": 18924},
+      {"id": "todo", "segment": "1521217271", "name": "Penitence", "start": 19297},
+      {"id": "todo", "segment": "1522102243", "name": "Xena: Warrior Princess", "start": 1867},
+      {"id": "todo", "segment": "1522102243", "name": "Spider-Man 2: Enter Electro", "start": 9986},
+      {"id": "todo", "segment": "1522102243", "name": "Barbie: Explorer", "start": 18675},
+      {"id": "todo", "segment": "1522945141", "name": "Cuphead #2", "start": 455},
+      {"id": "todo", "segment": "1522945141", "name": "Cuphead: The Delicious Last Course", "start": 20531}
     ]
   },
   "expos": {
