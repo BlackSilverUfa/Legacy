@@ -388,6 +388,7 @@
       {"id": "first", "segment": "001508100", "name": "Bloodborne", "start": 3737},
       {"id": "first", "segment": "001508120", "name": "Nightmare House 2", "start": 0},
       {"id": "first", "segment": "001508120", "name": "Bioshock Infinite", "start": 4309},
+      {"id": "first-2016", "segment": "001603300", "name": "Freelancer", "start": 0},
       {"id": "first-2016", "segment": "001607210", "name": "Deus Ex: Human Revolution - Director's Cut", "start": 0},
       {"id": "first-2016", "segment": "001610280", "name": "Titanfall 2", "start": 0},
       {"id": "first-2016", "segment": "001611160", "name": "Assassin's Creed II - The Ezio Collection", "start": 0},

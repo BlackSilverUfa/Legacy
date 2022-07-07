@@ -360,6 +360,12 @@
     "date": "2016-03-26",
     "games": ["dead-space-2-dw"]
   },
+  "001603300": {
+    "youtube": "UpBMWd-0K0M", "official": false, "abs_start": "0:00", "abs_end": "1:26:05", "duration": "1:26:05",
+    "name": "Freelancer",
+    "date": "2016-03-30",
+    "games": ["first-2016"]
+  },
   "001604050": {
     "youtube": "850MY5iRbog", "abs_start": "0:00", "abs_end": "4:11:40", "duration": "4:11:40",
     "name": "Quantum Break #1",
