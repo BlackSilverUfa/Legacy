@@ -9195,7 +9195,6 @@
     "youtube": "QkgFv8Kb05Q", "abs_start": "0:00", "abs_end": "7:06:18", "duration": "7:06:18",
     "name": "Silent Hill: Shattered Memories #1",
     "date": "2022-04-14",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1455635915.torrent",
     "games": ["sh-sm"]
   },
   "1456687038": {
@@ -9436,6 +9435,14 @@
     "date": "2022-07-08",
     "direct": "https://bsufiles.thedrhax.pw/streams/1525875843.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1525875843.torrent",
+    "games": ["todo"]
+  },
+  "1526818509": {
+    "abs_start": "0:00", "abs_end": "6:06:26", "duration": "0:00",
+    "name": "Nancy Drew: Danger by Design (Нэнси Дрю. Платье для первой леди)",
+    "date": "2022-07-09",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1526818509.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1526818509.torrent",
     "games": ["todo"]
   }
 }
