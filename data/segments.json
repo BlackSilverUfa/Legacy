@@ -8346,21 +8346,24 @@
     "games": ["house-of-ashes"]
   },
   "1186535358": {
-    "youtube": "RQmbOu--tm8", "abs_start": "0:00", "abs_end": "7:15:56", "duration": "7:15:56",
+    "abs_start": "0:00", "abs_end": "7:16:35", "duration": "0:00",
     "name": "Marvel's Guardians of the Galaxy #1",
     "date": "2021-10-25",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1186535358.mp4",
     "games": ["marvel-gotg"]
   },
   "1187388604": {
-    "youtube": "vQhOwaMFZt4", "abs_start": "0:00", "abs_end": "8:08:48", "duration": "8:08:48",
+    "abs_start": "0:00", "abs_end": "8:08:59", "duration": "0:00",
     "name": "Marvel's Guardians of the Galaxy #2",
     "date": "2021-10-26",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1187388604.mp4",
     "games": ["marvel-gotg"]
   },
   "1188297728": {
-    "youtube": "pSKISqGjYcA", "abs_start": "0:00", "abs_end": "4:16:06", "duration": "4:16:06",
+    "abs_start": "0:00", "abs_end": "4:16:09", "duration": "0:00",
     "name": "Marvel's Guardians of the Galaxy #3",
     "date": "2021-10-27",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1188297728.mp4",
     "games": ["marvel-gotg"]
   },
   "1190164000": {
@@ -9201,21 +9204,18 @@
     "youtube": "2TvlQAvqD40", "abs_start": "0:00", "abs_end": "5:19:57", "duration": "5:19:57",
     "name": "Midnight Ghost Hunt #2 (8D) / Silent Hill: Shattered Memories #2",
     "date": "2022-04-15",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1456687038.torrent",
     "games": ["midnight-gh", "sh-sm"]
   },
   "1457678185": {
     "youtube": "uwg1ukpqBPE", "abs_start": "0:00", "abs_end": "5:02:42", "duration": "5:02:42",
     "name": "Ju-On: The Grudge / Calling",
     "date": "2022-04-16",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1457678185.torrent",
     "games": ["single", "first-2022"]
   },
   "1458654778": {
     "youtube": "LFZTRMdro6w", "abs_start": "0:00", "abs_end": "4:48:27", "duration": "4:48:27",
     "name": "The Backrooms: Survival / P.Ackman (демо) / Booper Bowling / SCP: Nukalypse / The Nightmare Inside / Father: The Truth / Office Elevator / Zemblanity",
     "date": "2022-04-17",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1458654778.torrent",
     "games": ["first-2022", "single"]
   },
   "1465565528": {
@@ -9443,10 +9443,9 @@
     "games": ["todo"]
   },
   "1527725425": {
-    "abs_start": "0:00", "abs_end": "4:33:10", "duration": "0:00",
+    "youtube": "CzT80j6Kvic", "abs_start": "0:00", "abs_end": "4:32:56", "duration": "4:32:56",
     "name": "Madison #2 / Nancy Drew: Danger by Design (Нэнси Дрю. Платье для первой леди) #2",
     "date": "2022-07-10",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1527725425.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1527725425.torrent",
     "games": ["todo"]
   }
