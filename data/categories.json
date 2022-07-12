@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "v-rising", "segment": "1516411053", "name": "V Rising #2 (с Дашей и Джеком)", "start": 0},
       {"id": "fobia", "segment": "1517449364", "name": "Fobia - St. Dinfna Hotel #1", "start": 0},
       {"id": "todo", "segment": "1520246163", "name": "Cuphead #1", "start": 0},
       {"id": "todo", "segment": "1521217271", "name": "Sail-by Salute / The Floor is Breathing / Toilet Chronicles / Last Bus Home / Cold House / Loathful / The Other Side / Perfect Vermin / Lost Life: Origins / The Crypt Terror / Penitence", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "todo", "segment": "1525875843", "name": "Madison #1", "start": 0},
       {"id": "todo", "segment": "1526818509", "name": "Nancy Drew: Danger by Design (Нэнси Дрю. Платье для первой леди) #1", "start": 0},
       {"id": "todo", "segment": "1527725425", "name": "Madison #2 / Nancy Drew: Danger by Design (Нэнси Дрю. Платье для первой леди) #2", "start": 0},
-      {"id": "todo", "segment": "1528664321", "name": "Fighting Force / Broken Sword: Shadow of the Templars - The Director's Cut", "start": 0}
+      {"id": "todo", "segment": "1528664321", "name": "Fighting Force / Broken Sword: Shadow of the Templars - The Director's Cut", "start": 0},
+      {"id": "todo", "segment": "1529607663", "name": "Cuphead #3", "start": 0}
     ]
   },
   "finished": {
@@ -1249,7 +1249,8 @@
       {"id": "todo", "segment": "1527725425", "name": "Madison #2", "start": 897},
       {"id": "todo", "segment": "1527725425", "name": "Nancy Drew: Danger by Design (Нэнси Дрю. Платье для первой леди) #2", "start": 6561},
       {"id": "todo", "segment": "1528664321", "name": "Fighting Force", "start": 2043},
-      {"id": "todo", "segment": "1528664321", "name": "Broken Sword: Shadow of the Templars - The Director's Cut", "start": 10776}
+      {"id": "todo", "segment": "1528664321", "name": "Broken Sword: Shadow of the Templars - The Director's Cut", "start": 10776},
+      {"id": "todo", "segment": "1529607663", "name": "Cuphead #3", "start": 3148}
     ]
   },
   "expos": {
