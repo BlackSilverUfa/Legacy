@@ -8346,24 +8346,21 @@
     "games": ["house-of-ashes"]
   },
   "1186535358": {
-    "abs_start": "0:00", "abs_end": "7:16:35", "duration": "0:00",
+    "youtube": "EwvkupfZdm8", "official": false, "abs_start": "0:00", "abs_end": "7:15:56", "duration": "7:15:56",
     "name": "Marvel's Guardians of the Galaxy #1",
     "date": "2021-10-25",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1186535358.mp4",
     "games": ["marvel-gotg"]
   },
   "1187388604": {
-    "abs_start": "0:00", "abs_end": "8:08:59", "duration": "0:00",
+    "youtube": "CVk2U5q4oXI", "official": false, "abs_start": "0:00", "abs_end": "8:08:48", "duration": "8:08:48",
     "name": "Marvel's Guardians of the Galaxy #2",
     "date": "2021-10-26",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1187388604.mp4",
     "games": ["marvel-gotg"]
   },
   "1188297728": {
-    "abs_start": "0:00", "abs_end": "4:16:09", "duration": "0:00",
+    "youtube": "k9NfsOVExJk", "official": false, "abs_start": "0:00", "abs_end": "4:16:06", "duration": "4:16:06",
     "name": "Marvel's Guardians of the Galaxy #3",
     "date": "2021-10-27",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1188297728.mp4",
     "games": ["marvel-gotg"]
   },
   "1190164000": {
@@ -9449,20 +9446,26 @@
     "games": ["todo"]
   },
   "1528664321": {
-    "abs_start": "0:00", "abs_end": "5:04:42", "duration": "0:00",
+    "youtube": "_SQ7Fbk7-iQ", "abs_start": "0:00", "abs_end": "5:04:53", "duration": "5:04:22",
     "name": "Fighting Force / Broken Sword: Shadow of the Templars - The Director's Cut",
     "date": "2022-07-11",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1528664321.mp4",
     "cuts": [[9484, 9515]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1528664321.torrent",
     "games": ["todo"]
   },
   "1529607663": {
-    "abs_start": "0:00", "abs_end": "5:19:20", "duration": "0:00",
+    "youtube": "lqKxJqcx7uI", "abs_start": "0:00", "abs_end": "5:19:09", "duration": "5:19:09",
     "name": "Cuphead #3",
     "date": "2022-07-12",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1529607663.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1529607663.torrent",
+    "games": ["todo"]
+  },
+  "1530567140": {
+    "abs_start": "0:00", "abs_end": "4:58:30", "duration": "0:00",
+    "name": "Fall Guys / I'm on Observation Duty 5",
+    "date": "2022-07-13",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1530567140.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1530567140.torrent",
     "games": ["todo"]
   }
 }
