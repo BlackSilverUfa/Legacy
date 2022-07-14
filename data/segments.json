@@ -9467,5 +9467,13 @@
     "direct": "https://bsufiles.thedrhax.pw/streams/1530567140.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1530567140.torrent",
     "games": ["todo"]
+  },
+  "1531483751": {
+    "abs_start": "0:00", "abs_end": "6:30:26", "duration": "0:00",
+    "name": "Bayonetta",
+    "date": "2022-07-14",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1531483751.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1531483751.torrent",
+    "games": ["todo"]
   }
 }
