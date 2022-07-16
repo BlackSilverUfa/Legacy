@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "todo", "segment": "1521217271", "name": "Sail-by Salute / The Floor is Breathing / Toilet Chronicles / Last Bus Home / Cold House / Loathful / The Other Side / Perfect Vermin / Lost Life: Origins / The Crypt Terror / Penitence", "start": 0},
       {"id": "todo", "segment": "1522102243", "name": "Xena: Warrior Princess / Spider-Man 2: Enter Electro / Barbie: Explorer", "start": 0},
       {"id": "todo", "segment": "1522945141", "name": "Cuphead #2 / Cuphead: The Delicious Last Course", "start": 0},
       {"id": "todo", "segment": "1525875843", "name": "Madison #1", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "todo", "segment": "1528664321", "name": "Fighting Force / Broken Sword: Shadow of the Templars - The Director's Cut", "start": 0},
       {"id": "todo", "segment": "1529607663", "name": "Cuphead #3", "start": 0},
       {"id": "todo", "segment": "1530567140", "name": "Fall Guys / I'm on Observation Duty 5", "start": 0},
-      {"id": "todo", "segment": "1531483751", "name": "Bayonetta", "start": 0}
+      {"id": "todo", "segment": "1531483751", "name": "Bayonetta", "start": 0},
+      {"id": "todo", "segment": "1533471620", "name": "DEVOUR / Occult / Tricky Towers", "start": 0}
     ]
   },
   "finished": {
@@ -1253,7 +1253,10 @@
       {"id": "todo", "segment": "1529607663", "name": "Cuphead #3", "start": 3148},
       {"id": "todo", "segment": "1530567140", "name": "Fall Guys", "start": 2918},
       {"id": "todo", "segment": "1530567140", "name": "I'm on Observation Duty 5", "start": 12726},
-      {"id": "todo", "segment": "1531483751", "name": "Bayonetta", "start": 0}
+      {"id": "todo", "segment": "1531483751", "name": "Bayonetta", "start": 0},
+      {"id": "todo", "segment": "1533471620", "name": "DEVOUR", "start": 744},
+      {"id": "todo", "segment": "1533471620", "name": "Occult", "start": 10557},
+      {"id": "todo", "segment": "1533471620", "name": "Tricky Towers", "start": 16050}
     ]
   },
   "expos": {
