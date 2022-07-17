@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "todo", "segment": "1522102243", "name": "Xena: Warrior Princess / Spider-Man 2: Enter Electro / Barbie: Explorer", "start": 0},
       {"id": "todo", "segment": "1522945141", "name": "Cuphead #2 / Cuphead: The Delicious Last Course", "start": 0},
       {"id": "todo", "segment": "1525875843", "name": "Madison #1", "start": 0},
       {"id": "todo", "segment": "1526818509", "name": "Nancy Drew: Danger by Design (Нэнси Дрю. Платье для первой леди) #1", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "todo", "segment": "1529607663", "name": "Cuphead #3", "start": 0},
       {"id": "todo", "segment": "1530567140", "name": "Fall Guys / I'm on Observation Duty 5", "start": 0},
       {"id": "todo", "segment": "1531483751", "name": "Bayonetta", "start": 0},
-      {"id": "todo", "segment": "1533471620", "name": "DEVOUR / Occult / Tricky Towers", "start": 0}
+      {"id": "todo", "segment": "1533471620", "name": "DEVOUR / Occult / Tricky Towers", "start": 0},
+      {"id": "todo", "segment": "1534414628", "name": "Russian Subway Dogs / Forewarned", "start": 0}
     ]
   },
   "finished": {
@@ -1256,7 +1256,9 @@
       {"id": "todo", "segment": "1531483751", "name": "Bayonetta", "start": 0},
       {"id": "todo", "segment": "1533471620", "name": "DEVOUR", "start": 744},
       {"id": "todo", "segment": "1533471620", "name": "Occult", "start": 10557},
-      {"id": "todo", "segment": "1533471620", "name": "Tricky Towers", "start": 16050}
+      {"id": "todo", "segment": "1533471620", "name": "Tricky Towers", "start": 16050},
+      {"id": "todo", "segment": "1534414628", "name": "Russian Subway Dogs", "start": 4672},
+      {"id": "todo", "segment": "1534414628", "name": "Forewarned", "start": 6359}
     ]
   },
   "expos": {
