@@ -9481,10 +9481,9 @@
     "games": ["todo"]
   },
   "1534414628": {
-    "abs_start": "0:00", "abs_end": "2:45:14", "duration": "0:00",
-    "name": "Russian Subway Dogs (нет) / Forewarned (прервано)",
+    "youtube": "NHEI9Ge0pF4", "abs_start": "0:00", "abs_end": "2:44:34", "duration": "2:44:34",
+    "name": "Russian Subway Dogs / Forewarned (прервано)",
     "date": "2022-07-17",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1534414628.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1534414628.torrent",
     "games": ["todo"]
   }
