@@ -9237,14 +9237,12 @@
     "youtube": "kpi2O_YwPFw", "abs_start": "0:00", "abs_end": "6:17:29", "duration": "6:17:29",
     "name": "The Stanley Parable: Ultra Deluxe",
     "date": "2022-04-28",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1469243371.torrent",
     "games": ["single"]
   },
   "1470152667": {
     "youtube": "G0aCq3mMrRs", "abs_start": "0:00", "abs_end": "3:45:02", "duration": "3:45:02",
     "name": "RATUZ",
     "date": "2022-04-29",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1470152667.torrent",
     "games": ["single"]
   },
   "1471119730": {
@@ -9488,18 +9486,27 @@
   },
   "1536251230": {
     "abs_start": "0:00", "abs_end": "1:29:25", "duration": "0:00",
-    "name": "Stray #1",
+    "name": "",
     "date": "2022-07-19",
     "direct": "https://bsufiles.thedrhax.pw/streams/1536251230.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1536251230.torrent",
-    "games": ["todo"]
+    "games": []
   },
   "1536294843": {
     "abs_start": "0:00", "abs_end": "7:05:44", "duration": "0:00",
-    "name": "Stray #2",
+    "name": "",
     "date": "2022-07-19",
     "direct": "https://bsufiles.thedrhax.pw/streams/1536294843.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1536294843.torrent",
+    "games": []
+  },
+  "1536251230,1536294843": {
+    "abs_start": "0:00", "abs_end": "8:35:09", "duration": "0:00",
+    "name": "Stray",
+    "date": "2022-07-19",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1536251230,1536294843.mp4",
+    "offsets": [0, 5343],
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1536251230,1536294843.torrent",
     "games": ["todo"]
   }
 }
