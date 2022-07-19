@@ -9231,7 +9231,6 @@
     "youtube": "O4vkrEc-OQ8", "abs_start": "0:00", "abs_end": "5:10:18", "duration": "5:10:18",
     "name": "Tape: Unveil the Memories",
     "date": "2022-04-26",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1467409068.torrent",
     "games": ["single"]
   },
   "1469243371": {
@@ -9489,10 +9488,18 @@
   },
   "1536251230": {
     "abs_start": "0:00", "abs_end": "1:29:25", "duration": "0:00",
-    "name": "Stray",
+    "name": "Stray #1",
     "date": "2022-07-19",
     "direct": "https://bsufiles.thedrhax.pw/streams/1536251230.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1536251230.torrent",
+    "games": ["todo"]
+  },
+  "1536294843": {
+    "abs_start": "0:00", "abs_end": "7:05:44", "duration": "0:00",
+    "name": "Stray #2",
+    "date": "2022-07-19",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1536294843.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1536294843.torrent",
     "games": ["todo"]
   }
 }
