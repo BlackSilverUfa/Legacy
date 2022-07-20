@@ -94,11 +94,6 @@
         <i class="fas fa-comments"></i> 25757
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=vjfio2Ztwm8" target="_blank">
-        <i class="fab fa-youtube"></i> vjfio2Ztwm8
-      </a>
-    </span>
   </div>
 </div>
 
@@ -124,6 +119,7 @@
 
       <li>Проблемы с правообладателями:</li>
   <ul>
+    <li><a data-value="2735">45:35</a> - <a data-value="2887">48:07</a> — Django Reinhardt - Tiger Rag</li>
     <li><a data-value="12379">3:26:19</a> - <a data-value="12415">3:26:55</a> — Cab Calloway and his Orchestra - St. James Infirmary-7247-DNC</li>
   </ul>
 
@@ -133,13 +129,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="0" data-hash="721969297.1" data-offset="7193" data-subtitles="https://bsu.drhx.ru/chats/2020/v721969297.ass" data-name="Демо" data-youtube="vjfio2Ztwm8" />
+  <p class="stream" data-id="0" data-hash="721969297.1" data-offset="7193" data-subtitles="https://bsu.drhx.ru/chats/2020/v721969297.ass" data-name="Демо" style="display: none" />
 </div>
 
+<p>Запись этого стрима в данный момент отсутствует. Если вы попали сюда по
+прямой ссылке с YouTube, то это значит, что запись уже есть, но сайт ещё не
+обновился. Обычно на это требуется минута или около того, но я оставляю
+комментарий ещё до завершения процесса. Нажмите
+<a href="#" onclick="document.location.reload(); return false;">сюда</a>, чтобы попробовать обновить
+страницу.</p>
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2020/v721969297.ass --sub-delay=-7193 ytdl://vjfio2Ztwm8
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://bsu.drhx.ru/chats/2020/v721969297.ass --sub-delay=-7193" --player-passthrough hls twitch.tv/videos/721969297 best
 </code></pre>
 </div>
 
