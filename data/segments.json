@@ -8985,7 +8985,6 @@
     "youtube": "t0uGPdBdHAE", "abs_start": "0:00", "abs_end": "6:08:35", "duration": "6:08:35",
     "name": "Sniper Elite 5 / V Rising #1",
     "date": "2022-05-29",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1312161316.torrent",
     "games": ["first-2022", "v-rising"]
   },
   "1314842666": {
@@ -9506,6 +9505,14 @@
     "direct": "https://bsufiles.thedrhax.pw/streams/1536251230,1536294843.mp4",
     "offsets": [0, 5343],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1536251230,1536294843.torrent",
+    "games": ["todo"]
+  },
+  "1537269313": {
+    "abs_start": "0:00", "abs_end": "7:36:19", "duration": "0:00",
+    "name": "As Dusk Falls",
+    "date": "2022-07-20",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1537269313.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1537269313.torrent",
     "games": ["todo"]
   }
 }
