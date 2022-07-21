@@ -9483,9 +9483,10 @@
     "games": ["todo"]
   },
   "1536251230": {
-    "youtube": "b0d58JjBfT0", "abs_start": "0:00", "abs_end": "8:34:40", "duration": "8:34:40",
+    "abs_start": "0:00", "abs_end": "1:29:25", "duration": "0:00",
     "name": "",
     "date": "2022-07-19",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1536251230.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1536251230.torrent",
     "games": []
   },
@@ -9498,19 +9499,17 @@
     "games": []
   },
   "1536251230,1536294843": {
-    "abs_start": "0:00", "abs_end": "8:35:09", "duration": "0:00",
+    "youtube": "b0d58JjBfT0", "abs_start": "0:00", "abs_end": "8:34:40", "duration": "8:34:40",
     "name": "Stray",
     "date": "2022-07-19",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1536251230,1536294843.mp4",
     "offsets": [0, 5343],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1536251230,1536294843.torrent",
     "games": ["todo"]
   },
   "1537269313": {
-    "abs_start": "0:00", "abs_end": "7:36:19", "duration": "0:00",
+    "youtube": "wfXNVAgiR44", "abs_start": "0:00", "abs_end": "7:36:06", "duration": "7:36:06",
     "name": "As Dusk Falls",
     "date": "2022-07-20",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1537269313.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1537269313.torrent",
     "games": ["todo"]
   }
