@@ -240,9 +240,9 @@
         <i class="fas fa-comments"></i> 16898
       </a>
     </span>
-    <span class="badge badge-success">
-      <a href="https://www.youtube.com/watch?v=Y27sm8yyUIQ" target="_blank">
-        <i class="fab fa-youtube"></i> Y27sm8yyUIQ
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.thedrhax.pw/streams/497590135.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -258,6 +258,16 @@
     <li><a data-value="4749">1:19:09</a> — Лучший кадр</li>
     <li><a data-value="9088">2:31:28</a> — Чем могу помочь?</li>
     <li><a data-value="10213">2:50:13</a> — Скукожило</li>
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li>
+      <a data-value="11101">3:05:01</a> - <a data-value="11286">3:08:06</a>,
+      <a data-value="12318">3:25:18</a> - <a data-value="12500">3:28:20</a>,
+      <a data-value="12917">3:35:17</a> - <a data-value="12928">3:35:28</a>
+      — Django Reinhardt - Django Castle
+    </li>
+  </ul>
+
     <li><a data-value="15209">4:13:29</a> — This is fine</li>
     <li>
       <a data-value="18183">5:03:03</a>,
@@ -270,13 +280,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="2" data-hash="497590135" data-subtitles="https://bsu.drhx.ru/chats/2019/v497590135.ass" data-name="3" data-youtube="Y27sm8yyUIQ" />
+  <p class="stream" data-id="2" data-hash="497590135" data-subtitles="https://bsu.drhx.ru/chats/2019/v497590135.ass" data-name="3" data-direct="https://bsufiles.thedrhax.pw/streams/497590135.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2019/v497590135.ass ytdl://Y27sm8yyUIQ
+  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2019/v497590135.ass https://bsufiles.thedrhax.pw/streams/497590135.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://bsu.drhx.ru/chats/2019/v497590135.ass" --player-passthrough hls twitch.tv/videos/497590135 best
 </code></pre>
 </div>
 
@@ -335,6 +351,7 @@
       <li>Проблемы с правообладателями:</li>
   <ul>
     <li>
+      <a data-value="2802">46:42</a> - <a data-value="2863">47:43</a>,
       <a data-value="4181">1:09:41</a> - <a data-value="4311">1:11:51</a>,
       <a data-value="7097">1:58:17</a> - <a data-value="7179">1:59:39</a>
       — Django Reinhardt - Django Castle

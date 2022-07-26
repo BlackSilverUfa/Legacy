@@ -4732,9 +4732,10 @@
     "games": ["co-op", "sea-of-thieves", "tricky-towers"]
   },
   "497590135": {
-    "youtube": "Y27sm8yyUIQ", "abs_start": "0:00", "abs_end": "5:53:18", "duration": "5:53:18",
+    "abs_start": "0:00", "abs_end": "5:53:56", "duration": "0:00",
     "name": "Mafia: City of Lost Heaven #3",
     "date": "2019-10-21",
+    "direct": "https://bsufiles.thedrhax.pw/streams/497590135.mp4",
     "games": ["mafia"]
   },
   "498426882": {
@@ -8986,7 +8987,6 @@
     "youtube": "T3QoTZ4R9a4", "abs_start": "0:00", "abs_end": "5:04:44", "duration": "5:04:44",
     "name": "Poppy Playtime - Глава 2 / Destroy All Humans! 2: Reprobed",
     "date": "2022-06-01",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1314842666.torrent",
     "games": ["poppy-playtime", "first-2022"]
   },
   "1315723249": {
