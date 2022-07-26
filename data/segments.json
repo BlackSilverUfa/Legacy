@@ -8993,7 +8993,6 @@
     "youtube": "JGyDbPnLtyQ", "abs_start": "0:00", "abs_end": "5:00:32", "duration": "5:00:32",
     "name": "Police Shootout / Diablo Immortal",
     "date": "2022-06-02",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1315723249.torrent",
     "games": ["first-2022"]
   },
   "1407442799": {
@@ -9513,6 +9512,14 @@
     "date": "2022-07-25",
     "direct": "https://bsufiles.thedrhax.pw/streams/1542254440.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1542254440.torrent",
+    "games": ["todo"]
+  },
+  "1543244527": {
+    "abs_start": "0:00", "abs_end": "5:40:39", "duration": "0:00",
+    "name": "Road Rash / Contra: Hard Corps",
+    "date": "2022-07-26",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1543244527.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1543244527.torrent",
     "games": ["todo"]
   }
 }
