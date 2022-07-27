@@ -9254,7 +9254,6 @@
     "youtube": "a_UUKe7ncQQ", "abs_start": "0:00", "abs_end": "6:00:53", "duration": "6:00:53",
     "name": "Summer Game Fest 2022 - Sony State of Play (обзор) / The Backrooms 1998 #1 / Signalis (демо) / Mue (демо) / Exorcist / Ripout (демо) / Antarctica (демо) / All Songs From The King (демо) / Escape The Ayuwoki",
     "date": "2022-06-04",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1494292107.torrent",
     "games": ["sgf-22", "backrooms-98", "first-2022", "single"]
   },
   "1495305113": {
@@ -9515,7 +9514,7 @@
   },
   "1542254440": {
     "youtube": "CeLrx5B-s-Q", "abs_start": "0:00", "abs_end": "5:06:20", "duration": "5:06:20",
-    "name": "Granny: Chapter Two / Peepo Island / Fall Guys #2",
+    "name": "Granny: Chapter Two / Peepo Island #1 / Fall Guys #2",
     "date": "2022-07-25",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1542254440.torrent",
     "games": ["todo"]
@@ -9525,6 +9524,14 @@
     "name": "Road Rash / Contra: Hard Corps",
     "date": "2022-07-26",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1543244527.torrent",
+    "games": ["todo"]
+  },
+  "1544246712": {
+    "abs_start": "0:00", "abs_end": "6:06:44", "duration": "0:00",
+    "name": "DarKnot / Aeterna Noctis / Nighthunt / Loopmancer / Peepo Island #2",
+    "date": "2022-07-27",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1544246712.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1544246712.torrent",
     "games": ["todo"]
   }
 }
