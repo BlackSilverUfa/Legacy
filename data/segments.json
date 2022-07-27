@@ -9506,19 +9506,25 @@
     "torrent": "https://bsufiles.thedrhax.pw/streams/1537269313.torrent",
     "games": ["todo"]
   },
+  "1541455295": {
+    "abs_start": "0:00", "abs_end": "1:40:47", "duration": "0:00",
+    "name": "Трейлеры",
+    "date": "2022-07-27",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1541455295.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1541455295.torrent",
+    "games": ["todo"]
+  },
   "1542254440": {
-    "abs_start": "0:00", "abs_end": "5:06:45", "duration": "0:00",
+    "youtube": "CeLrx5B-s-Q", "abs_start": "0:00", "abs_end": "5:06:20", "duration": "5:06:20",
     "name": "Granny: Chapter Two / Peepo Island / Fall Guys #2",
     "date": "2022-07-25",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1542254440.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1542254440.torrent",
     "games": ["todo"]
   },
   "1543244527": {
-    "abs_start": "0:00", "abs_end": "5:40:39", "duration": "0:00",
+    "youtube": "NPLyiKWbSfQ", "abs_start": "0:00", "abs_end": "5:40:25", "duration": "5:40:25",
     "name": "Road Rash / Contra: Hard Corps",
     "date": "2022-07-26",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1543244527.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1543244527.torrent",
     "games": ["todo"]
   }

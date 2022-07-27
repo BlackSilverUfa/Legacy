@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "todo", "segment": "1528664321", "name": "Fighting Force / Broken Sword: Shadow of the Templars - The Director's Cut", "start": 0},
       {"id": "todo", "segment": "1529607663", "name": "Cuphead #3", "start": 0},
       {"id": "todo", "segment": "1530567140", "name": "Fall Guys #1 / I'm on Observation Duty 5", "start": 0},
       {"id": "todo", "segment": "1531483751", "name": "Bayonetta", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "todo", "segment": "1536251230,1536294843", "name": "Stray", "start": 0},
       {"id": "todo", "segment": "1537269313", "name": "As Dusk Falls", "start": 0},
       {"id": "todo", "segment": "1542254440", "name": "Granny: Chapter Two / Peepo Island / Fall Guys #2", "start": 0},
-      {"id": "todo", "segment": "1543244527", "name": "Road Rash / Contra: Hard Corps", "start": 0}
+      {"id": "todo", "segment": "1543244527", "name": "Road Rash / Contra: Hard Corps", "start": 0},
+      {"id": "todo", "segment": "1541455295", "name": "Трейлеры", "start": 0}
     ]
   },
   "finished": {
@@ -1266,7 +1266,8 @@
       {"id": "todo", "segment": "1542254440", "name": "Fall Guys #2", "start": 13358},
       {"id": "todo", "segment": "1543244527", "name": "Road Rash", "start": 0},
       {"id": "todo", "segment": "1543244527", "name": "Contra: Hard Corps", "start": 8115},
-      {"id": "todo", "segment": "1543244527", "name": "Road Rash", "start": 14513}
+      {"id": "todo", "segment": "1543244527", "name": "Road Rash", "start": 14513},
+      {"id": "todo", "segment": "1541455295", "name": "Трейлеры", "start": 2576}
     ]
   },
   "expos": {
