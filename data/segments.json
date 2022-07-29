@@ -4732,10 +4732,9 @@
     "games": ["co-op", "sea-of-thieves", "tricky-towers"]
   },
   "497590135": {
-    "abs_start": "0:00", "abs_end": "5:53:56", "duration": "0:00",
+    "youtube": "L2Ett7tGTIw", "official": false, "abs_start": "0:00", "abs_end": "5:53:18", "duration": "5:53:18",
     "name": "Mafia: City of Lost Heaven #3",
     "date": "2019-10-21",
-    "direct": "https://bsufiles.thedrhax.pw/streams/497590135.mp4",
     "games": ["mafia"]
   },
   "498426882": {
@@ -6085,10 +6084,9 @@
     "games": ["first-2020", "remnant-from-the-ashes"]
   },
   "721969297": {
-    "abs_start": "0:00", "abs_end": "6:13:53", "duration": "0:00",
+    "youtube": "Xug4C8e05T4", "official": false, "abs_start": "0:00", "abs_end": "6:13:10", "duration": "6:13:10",
     "name": "Mafia: City of Lost Heaven #1 (заново) / Mafia: Definitive Edition - Демо",
     "date": "2020-08-26",
-    "direct": "https://bsufiles.thedrhax.pw/streams/721969297.mp4",
     "games": ["mafia", "mafia-de"]
   },
   "723011325": {
@@ -9532,6 +9530,14 @@
     "date": "2022-07-27",
     "direct": "https://bsufiles.thedrhax.pw/streams/1544246712.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1544246712.torrent",
+    "games": ["todo"]
+  },
+  "1546161309": {
+    "abs_start": "0:00", "abs_end": "5:57:37", "duration": "0:00",
+    "name": "Peepo Island #3 / Phasmophobia",
+    "date": "2022-07-29",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1546161309.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1546161309.torrent",
     "games": ["todo"]
   }
 }
