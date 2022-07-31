@@ -9258,14 +9258,12 @@
     "youtube": "ZOiOJGBsoqU", "abs_start": "0:00", "abs_end": "4:23:21", "duration": "4:23:21",
     "name": "Madagascar #1",
     "date": "2022-06-05",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1495305113.torrent",
     "games": ["madagascar"]
   },
   "1497100879": {
     "youtube": "4n0MYUPNG1U", "abs_start": "0:00", "abs_end": "2:30:04", "duration": "2:30:04",
     "name": "Madagascar #2",
     "date": "2022-06-07",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1497100879.torrent",
     "games": ["madagascar"]
   },
   "1498044961": {
@@ -9543,6 +9541,14 @@
     "name": "Scathe / Survival: Fountain of Youth / Ghost Watchers / Purple War / Peepo Island #4",
     "date": "2022-07-30",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1547156682.torrent",
+    "games": ["todo"]
+  },
+  "1548174786": {
+    "abs_start": "0:00", "abs_end": "6:04:21", "duration": "0:00",
+    "name": "The Pale / Auver / Control Room Alpha / Cain / Life Beyond / Trash Horror Collection / Enter & Survey / Our Lady of the Drowned Lake / Satan's Baby Doll / Good Boy / Stroll Prototype / Hausmeister / One Last Breath / Iron Lung",
+    "date": "2022-07-31",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1548174786.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1548174786.torrent",
     "games": ["todo"]
   }
 }

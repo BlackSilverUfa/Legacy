@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "todo", "segment": "1533471620", "name": "DEVOUR / Occult / Tricky Towers", "start": 0},
       {"id": "todo", "segment": "1534414628", "name": "Russian Subway Dogs / Forewarned (прервано)", "start": 0},
       {"id": "todo", "segment": "1536251230,1536294843", "name": "Stray", "start": 0},
       {"id": "todo", "segment": "1537269313", "name": "As Dusk Falls", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "todo", "segment": "1541455295", "name": "Трейлеры", "start": 0},
       {"id": "todo", "segment": "1544246712", "name": "DarKnot / Aeterna Noctis / Nighthunt / Loopmancer / Peepo Island #2", "start": 0},
       {"id": "todo", "segment": "1546161309", "name": "Peepo Island #3 / Phasmophobia", "start": 0},
-      {"id": "todo", "segment": "1547156682", "name": "Scathe / Survival: Fountain of Youth / Ghost Watchers / Purple War / Peepo Island #4", "start": 0}
+      {"id": "todo", "segment": "1547156682", "name": "Scathe / Survival: Fountain of Youth / Ghost Watchers / Purple War / Peepo Island #4", "start": 0},
+      {"id": "todo", "segment": "1548174786", "name": "The Pale / Auver / Control Room Alpha / Cain / Life Beyond / Trash Horror Collection / Enter & Survey / Our Lady of the Drowned Lake / Satan's Baby Doll / Good Boy / Stroll Prototype / Hausmeister / One Last Breath / Iron Lung", "start": 0}
     ]
   },
   "finished": {
@@ -1280,7 +1280,21 @@
       {"id": "todo", "segment": "1547156682", "name": "Survival: Fountain of Youth", "start": 5884},
       {"id": "todo", "segment": "1547156682", "name": "Ghost Watchers", "start": 11128},
       {"id": "todo", "segment": "1547156682", "name": "Purple War", "start": 13820},
-      {"id": "todo", "segment": "1547156682", "name": "Peepo Island #4", "start": 21345}
+      {"id": "todo", "segment": "1547156682", "name": "Peepo Island #4", "start": 21345},
+      {"id": "todo", "segment": "1548174786", "name": "The Pale", "start": 1400},
+      {"id": "todo", "segment": "1548174786", "name": "Auver", "start": 4162},
+      {"id": "todo", "segment": "1548174786", "name": "Control Room Alpha", "start": 5215},
+      {"id": "todo", "segment": "1548174786", "name": "Cain", "start": 5620},
+      {"id": "todo", "segment": "1548174786", "name": "Life Beyond", "start": 7428},
+      {"id": "todo", "segment": "1548174786", "name": "Trash Horror Collection", "start": 8643},
+      {"id": "todo", "segment": "1548174786", "name": "Enter & Survey", "start": 11584},
+      {"id": "todo", "segment": "1548174786", "name": "Our Lady of the Drowned Lake", "start": 12078},
+      {"id": "todo", "segment": "1548174786", "name": "Satan's Baby Doll", "start": 13285},
+      {"id": "todo", "segment": "1548174786", "name": "Good Boy", "start": 13895},
+      {"id": "todo", "segment": "1548174786", "name": "Stroll Prototype", "start": 15277},
+      {"id": "todo", "segment": "1548174786", "name": "Hausmeister", "start": 15659},
+      {"id": "todo", "segment": "1548174786", "name": "One Last Breath", "start": 16484},
+      {"id": "todo", "segment": "1548174786", "name": "Iron Lung", "start": 18161}
     ]
   },
   "expos": {
