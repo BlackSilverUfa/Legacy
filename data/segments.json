@@ -6851,9 +6851,10 @@
     "games": ["hitman-3"]
   },
   "882168228": {
-    "youtube": "PlDAd8lT398", "official": false, "abs_start": "0:00", "abs_end": "4:49:07", "duration": "4:49:07",
+    "abs_start": "0:00", "abs_end": "4:49:12", "duration": "0:00",
     "name": "Hitman 3 #2",
     "date": "2021-01-21",
+    "direct": "https://bsufiles.thedrhax.pw/streams/882168228.mp4",
     "games": ["hitman-3"]
   },
   "883419848": {
@@ -9270,7 +9271,6 @@
     "youtube": "WRVgdYVny8E", "abs_start": "0:00", "abs_end": "5:56:19", "duration": "5:56:19",
     "name": "Raft (с Дашей и Джеком) #1",
     "date": "2022-06-08",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1498044961.torrent",
     "games": ["raft-story"]
   },
   "1498814310": {
@@ -9544,10 +9544,9 @@
     "games": ["todo"]
   },
   "1548174786": {
-    "abs_start": "0:00", "abs_end": "6:04:21", "duration": "0:00",
+    "youtube": "u4fVjhYxqWU", "abs_start": "0:00", "abs_end": "6:04:15", "duration": "6:04:15",
     "name": "The Pale / Auver / Control Room Alpha / Cain / Life Beyond / Trash Horror Collection / Enter & Survey / Our Lady of the Drowned Lake / Satan's Baby Doll / Good Boy / Stroll Prototype / Hausmeister / One Last Breath / Iron Lung",
     "date": "2022-07-31",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1548174786.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1548174786.torrent",
     "games": ["todo"]
   }
