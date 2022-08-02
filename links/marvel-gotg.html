@@ -94,9 +94,9 @@
         <i class="fas fa-comments"></i> 18079
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=EwvkupfZdm8" target="_blank">
-        <i class="fab fa-youtube"></i> EwvkupfZdm8
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.thedrhax.pw/streams/1186535358.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -110,10 +110,9 @@
     <li><a data-value="265">4:25</a> - <a data-value="433">7:13</a> — Стримлер</li>
     <li><a data-value="771">12:51</a> — Меню</li>
     <li><a data-value="851">14:11</a> — Игра</li>
-    <li><a data-value="2447">40:47</a> — Соскользнул</li>
-    <li><a data-value="2985">49:45</a> — ( ͡° ͜ʖ ͡°)</li>
       <li>Проблемы с правообладателями:</li>
   <ul>
+    <li><a data-value="1317">21:57</a> - <a data-value="1577">26:17</a> — Autograph - Turn up the Radio</li>
     <li>
       <a data-value="6496">1:48:16</a> - <a data-value="6644">1:50:44</a>,
       <a data-value="22351">6:12:31</a> - <a data-value="22464">6:14:24</a>
@@ -122,6 +121,8 @@
     <li><a data-value="16965">4:42:45</a> - <a data-value="16992">4:43:12</a> — a-ha - Take on Me</li>
   </ul>
 
+    <li><a data-value="2447">40:47</a> — Соскользнул</li>
+    <li><a data-value="2985">49:45</a> — ( ͡° ͜ʖ ͡°)</li>
     <li><a data-value="7109">1:58:29</a> — Ниеееет</li>
     <li><a data-value="7580">2:06:20</a> — Ну это ссора</li>
     <li><a data-value="16882">4:41:22</a> - <a data-value="16992">4:43:12</a> — Сломано</li>
@@ -131,13 +132,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="0" data-hash="1186535358" data-subtitles="https://bsu.drhx.ru/chats/2021/v1186535358.ass" data-name="1" data-youtube="EwvkupfZdm8" />
+  <p class="stream" data-id="0" data-hash="1186535358" data-subtitles="https://bsu.drhx.ru/chats/2021/v1186535358.ass" data-name="1" data-direct="https://bsufiles.thedrhax.pw/streams/1186535358.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2021/v1186535358.ass ytdl://EwvkupfZdm8
+  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2021/v1186535358.ass https://bsufiles.thedrhax.pw/streams/1186535358.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://bsu.drhx.ru/chats/2021/v1186535358.ass" --player-passthrough hls twitch.tv/videos/1186535358 best
 </code></pre>
 </div>
 
