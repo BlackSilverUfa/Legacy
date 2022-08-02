@@ -9285,7 +9285,6 @@
     "youtube": "HKh6aW8GcHI", "abs_start": "0:00", "abs_end": "9:46:22", "duration": "9:46:22",
     "name": "The Quarry - Прохождение",
     "date": "2022-06-10",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1499698307.torrent",
     "games": ["quarry"]
   },
   "1500644334": {
@@ -9549,6 +9548,14 @@
     "name": "The Pale / Auver / Control Room Alpha / Cain / Life Beyond / Trash Horror Collection / Enter & Survey / Our Lady of the Drowned Lake / Satan's Baby Doll / Good Boy / Stroll Prototype / Hausmeister / One Last Breath / Iron Lung",
     "date": "2022-07-31",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1548174786.torrent",
+    "games": ["todo"]
+  },
+  "1550107736": {
+    "abs_start": "0:00", "abs_end": "5:04:20", "duration": "0:00",
+    "name": "The Mortuary Assistant",
+    "date": "2022-08-02",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1550107736.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1550107736.torrent",
     "games": ["todo"]
   }
 }
