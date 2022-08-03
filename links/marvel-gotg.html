@@ -170,9 +170,9 @@
         <i class="fas fa-comments"></i> 17301
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=CVk2U5q4oXI" target="_blank">
-        <i class="fab fa-youtube"></i> CVk2U5q4oXI
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.thedrhax.pw/streams/1187388604.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -191,6 +191,7 @@
   <ul>
     <li><a data-value="8556">2:22:36</a> - <a data-value="8679">2:24:39</a> — A Flock Of Seagulls - I Ran (So Far Away)</li>
     <li><a data-value="10379">2:52:59</a> - <a data-value="10417">2:53:37</a> — a-ha - Take on Me</li>
+    <li><a data-value="23179">6:26:19</a> - <a data-value="23214">6:26:54</a> — Autograph - Turn up the Radio</li>
   </ul>
 
     <li><a data-value="9120">2:32:00</a> — Лучший костюм</li>
@@ -203,13 +204,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="1" data-hash="1187388604" data-subtitles="https://bsu.drhx.ru/chats/2021/v1187388604.ass" data-name="2" data-youtube="CVk2U5q4oXI" />
+  <p class="stream" data-id="1" data-hash="1187388604" data-subtitles="https://bsu.drhx.ru/chats/2021/v1187388604.ass" data-name="2" data-direct="https://bsufiles.thedrhax.pw/streams/1187388604.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2021/v1187388604.ass ytdl://CVk2U5q4oXI
+  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2021/v1187388604.ass https://bsufiles.thedrhax.pw/streams/1187388604.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://bsu.drhx.ru/chats/2021/v1187388604.ass" --player-passthrough hls twitch.tv/videos/1187388604 best
 </code></pre>
 </div>
 
