@@ -9504,7 +9504,7 @@
   },
   "1541455295": {
     "youtube": "82Zn8ZZR-BY", "abs_start": "0:00", "abs_end": "1:40:28", "duration": "1:40:28",
-    "name": "Трейлеры",
+    "name": "Трейлеры #1",
     "date": "2022-07-27",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1541455295.torrent",
     "games": ["todo"]
@@ -9553,9 +9553,17 @@
   },
   "1550107736": {
     "youtube": "AtUO5OoXAZs", "abs_start": "0:00", "abs_end": "5:03:57", "duration": "5:03:57",
-    "name": "The Mortuary Assistant",
+    "name": "The Mortuary Assistant #1",
     "date": "2022-08-02",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1550107736.torrent",
+    "games": ["todo"]
+  },
+  "1551976425": {
+    "abs_start": "0:00", "abs_end": "6:04:51", "duration": "0:00",
+    "name": "Peepo Island #5 / The Mortuary Assistant #2 / Трейлеры #2 / Outbreak: Shades of Horror",
+    "date": "2022-08-04",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1551976425.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1551976425.torrent",
     "games": ["todo"]
   }
 }
