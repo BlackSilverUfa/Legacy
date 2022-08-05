@@ -4245,10 +4245,9 @@
     "games": ["sinking-city"]
   },
   "445866715": {
-    "abs_start": "0:00", "abs_end": "4:58:25", "duration": "0:00",
+    "youtube": "mGpSWefTnT4", "official": false, "abs_start": "0:00", "abs_end": "4:58:28", "duration": "4:58:28",
     "name": "Своя Игра #14 / Dead by Daylight #3 / Эскейп-румы - Curious Cases / Golf It! #17",
     "date": "2019-06-29",
-    "direct": "https://bsufiles.thedrhax.pw/streams/445866715.mp4",
     "games": ["sigame", "dead-by-daylight", "escape-rooms", "golf-it"]
   },
   "447694923": {
@@ -8343,17 +8342,15 @@
     "games": ["house-of-ashes"]
   },
   "1186535358": {
-    "abs_start": "0:00", "abs_end": "7:16:35", "duration": "0:00",
+    "youtube": "buhBOPfDs38", "official": false, "abs_start": "0:00", "abs_end": "7:15:57", "duration": "7:15:57",
     "name": "Marvel's Guardians of the Galaxy #1",
     "date": "2021-10-25",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1186535358.mp4",
     "games": ["marvel-gotg"]
   },
   "1187388604": {
-    "abs_start": "0:00", "abs_end": "8:08:59", "duration": "0:00",
+    "youtube": "Mrv-jg-nDY0", "official": false, "abs_start": "0:00", "abs_end": "8:08:48", "duration": "8:08:48",
     "name": "Marvel's Guardians of the Galaxy #2",
     "date": "2021-10-26",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1187388604.mp4",
     "games": ["marvel-gotg"]
   },
   "1188297728": {
@@ -9559,10 +9556,9 @@
     "games": ["todo"]
   },
   "1551976425": {
-    "abs_start": "0:00", "abs_end": "6:04:51", "duration": "0:00",
+    "youtube": "9kmfKsknrEA", "abs_start": "0:00", "abs_end": "6:04:27", "duration": "6:04:27",
     "name": "Peepo Island #5 / The Mortuary Assistant #2 / Трейлеры #2 / Outbreak: Shades of Horror",
     "date": "2022-08-04",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1551976425.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1551976425.torrent",
     "games": ["todo"]
   }
