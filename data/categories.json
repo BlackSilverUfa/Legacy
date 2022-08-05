@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "todo", "segment": "1537269313", "name": "As Dusk Falls", "start": 0},
       {"id": "todo", "segment": "1542254440", "name": "Granny: Chapter Two / Peepo Island #1 / Fall Guys #2", "start": 0},
       {"id": "todo", "segment": "1543244527", "name": "Road Rash / Contra: Hard Corps", "start": 0},
       {"id": "todo", "segment": "1541455295", "name": "Трейлеры #1", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "todo", "segment": "1547156682", "name": "Scathe / Survival: Fountain of Youth / Ghost Watchers / Purple War / Peepo Island #4", "start": 0},
       {"id": "todo", "segment": "1548174786", "name": "The Pale / Auver / Control Room Alpha / Cain / Life Beyond / Trash Horror Collection / Enter & Survey / Our Lady of the Drowned Lake / Satan's Baby Doll / Good Boy / Stroll Prototype / Hausmeister / One Last Breath / Iron Lung", "start": 0},
       {"id": "todo", "segment": "1550107736", "name": "The Mortuary Assistant #1", "start": 0},
-      {"id": "todo", "segment": "1551976425", "name": "Peepo Island #5 / The Mortuary Assistant #2 / Трейлеры #2 / Outbreak: Shades of Horror", "start": 0}
+      {"id": "todo", "segment": "1551976425", "name": "Peepo Island #5 / The Mortuary Assistant #2 / Трейлеры #2 / Outbreak: Shades of Horror", "start": 0},
+      {"id": "todo", "segment": "1552996641", "name": "Mortal Kombat / Michael Jackson's Moonwalker / Goofy's Hysterical History Tour", "start": 0}
     ]
   },
   "finished": {
@@ -1299,7 +1299,10 @@
       {"id": "todo", "segment": "1551976425", "name": "Peepo Island #5", "start": 902},
       {"id": "todo", "segment": "1551976425", "name": "The Mortuary Assistant #2", "start": 3074},
       {"id": "todo", "segment": "1551976425", "name": "Трейлеры #2", "start": 20721},
-      {"id": "todo", "segment": "1551976425", "name": "Outbreak: Shades of Horror", "start": 21267}
+      {"id": "todo", "segment": "1551976425", "name": "Outbreak: Shades of Horror", "start": 21267},
+      {"id": "todo", "segment": "1552996641", "name": "Mortal Kombat", "start": 2740},
+      {"id": "todo", "segment": "1552996641", "name": "Michael Jackson's Moonwalker", "start": 7372},
+      {"id": "todo", "segment": "1552996641", "name": "Goofy's Hysterical History Tour", "start": 11829}
     ]
   },
   "expos": {
