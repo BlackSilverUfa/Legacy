@@ -5,14 +5,14 @@
     "games": [
       {"id": "todo", "segment": "1542254440", "name": "Granny: Chapter Two / Peepo Island #1 / Fall Guys #2", "start": 0},
       {"id": "todo", "segment": "1543244527", "name": "Road Rash / Contra: Hard Corps", "start": 0},
-      {"id": "todo", "segment": "1541455295", "name": "Трейлеры #1", "start": 0},
       {"id": "todo", "segment": "1544246712", "name": "DarKnot / Aeterna Noctis / Nighthunt / Loopmancer / Peepo Island #2", "start": 0},
       {"id": "todo", "segment": "1546161309", "name": "Peepo Island #3 / Phasmophobia", "start": 0},
-      {"id": "todo", "segment": "1547156682", "name": "Scathe / Survival: Fountain of Youth / Ghost Watchers / Purple War / Peepo Island #4", "start": 0},
+      {"id": "todo", "segment": "1547156682", "name": "Scathe / Survival: Fountain of Youth / Ghost Watchers #1 / Purple War / Peepo Island #4", "start": 0},
       {"id": "todo", "segment": "1548174786", "name": "The Pale / Auver / Control Room Alpha / Cain / Life Beyond / Trash Horror Collection / Enter & Survey / Our Lady of the Drowned Lake / Satan's Baby Doll / Good Boy / Stroll Prototype / Hausmeister / One Last Breath / Iron Lung", "start": 0},
       {"id": "todo", "segment": "1550107736", "name": "The Mortuary Assistant #1", "start": 0},
       {"id": "todo", "segment": "1551976425", "name": "Peepo Island #5 / The Mortuary Assistant #2 / Трейлеры #2 / Outbreak: Shades of Horror", "start": 0},
-      {"id": "todo", "segment": "1552996641", "name": "Mortal Kombat / Michael Jackson's Moonwalker / Goofy's Hysterical History Tour", "start": 0}
+      {"id": "todo", "segment": "1552996641", "name": "Mortal Kombat / Michael Jackson's Moonwalker / Goofy's Hysterical History Tour", "start": 0},
+      {"id": "todo", "segment": "1554911752", "name": "Divine Frequency / Ghost Watchers #2 / Chimpy Chippa's the game / Asleep / The Apartment / Signal / The Island Mystery / Endless days", "start": 0}
     ]
   },
   "finished": {
@@ -1278,7 +1278,7 @@
       {"id": "todo", "segment": "1546161309", "name": "Phasmophobia", "start": 12353},
       {"id": "todo", "segment": "1547156682", "name": "Scathe", "start": 2329},
       {"id": "todo", "segment": "1547156682", "name": "Survival: Fountain of Youth", "start": 5884},
-      {"id": "todo", "segment": "1547156682", "name": "Ghost Watchers", "start": 11128},
+      {"id": "todo", "segment": "1547156682", "name": "Ghost Watchers #1", "start": 11128},
       {"id": "todo", "segment": "1547156682", "name": "Purple War", "start": 13820},
       {"id": "todo", "segment": "1547156682", "name": "Peepo Island #4", "start": 21345},
       {"id": "todo", "segment": "1548174786", "name": "The Pale", "start": 1400},
@@ -1302,7 +1302,15 @@
       {"id": "todo", "segment": "1551976425", "name": "Outbreak: Shades of Horror", "start": 21267},
       {"id": "todo", "segment": "1552996641", "name": "Mortal Kombat", "start": 2740},
       {"id": "todo", "segment": "1552996641", "name": "Michael Jackson's Moonwalker", "start": 7372},
-      {"id": "todo", "segment": "1552996641", "name": "Goofy's Hysterical History Tour", "start": 11829}
+      {"id": "todo", "segment": "1552996641", "name": "Goofy's Hysterical History Tour", "start": 11829},
+      {"id": "todo", "segment": "1554911752", "name": "Divine Frequency", "start": 724},
+      {"id": "todo", "segment": "1554911752", "name": "Ghost Watchers #2", "start": 3688},
+      {"id": "todo", "segment": "1554911752", "name": "Chimpy Chippa's the game", "start": 12889},
+      {"id": "todo", "segment": "1554911752", "name": "Asleep", "start": 14002},
+      {"id": "todo", "segment": "1554911752", "name": "The Apartment", "start": 16309},
+      {"id": "todo", "segment": "1554911752", "name": "Signal", "start": 17821},
+      {"id": "todo", "segment": "1554911752", "name": "The Island Mystery", "start": 19567},
+      {"id": "todo", "segment": "1554911752", "name": "Endless days", "start": 20002}
     ]
   },
   "expos": {

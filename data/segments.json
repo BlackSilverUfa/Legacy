@@ -9537,7 +9537,7 @@
   },
   "1547156682": {
     "youtube": "cWeYJhpUmS0", "abs_start": "0:00", "abs_end": "6:58:43", "duration": "6:58:43",
-    "name": "Scathe / Survival: Fountain of Youth / Ghost Watchers / Purple War / Peepo Island #4",
+    "name": "Scathe / Survival: Fountain of Youth / Ghost Watchers #1 / Purple War / Peepo Island #4",
     "date": "2022-07-30",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1547156682.torrent",
     "games": ["todo"]
@@ -9569,6 +9569,14 @@
     "date": "2022-08-05",
     "direct": "https://bsufiles.thedrhax.pw/streams/1552996641.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1552996641.torrent",
+    "games": ["todo"]
+  },
+  "1554911752": {
+    "abs_start": "0:00", "abs_end": "6:24:19", "duration": "0:00",
+    "name": "Divine Frequency / Ghost Watchers #2 / Chimpy Chippa's the game / Asleep / The Apartment / Signal / The Island Mystery / Endless days",
+    "date": "2022-08-07",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1554911752.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1554911752.torrent",
     "games": ["todo"]
   }
 }
