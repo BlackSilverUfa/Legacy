@@ -9297,7 +9297,6 @@
     "youtube": "vIPYSp3Y5wc", "abs_start": "0:00", "abs_end": "7:11:33", "duration": "7:11:33",
     "name": "Summer Game Fest 2022 - Обзор / Phasmophobia #14 (с Куплиновым и Дангаром) / Summer Game Fest 2022 - Xbox & Bethesda Showcase",
     "date": "2022-06-12",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1501665729.torrent",
     "games": ["sgf-22", "phasmophobia"]
   },
   "1502569152": {
@@ -9575,6 +9574,14 @@
     "name": "Divine Frequency / Ghost Watchers #2 / Chimpy Chippa's the game / Asleep / The Apartment / Signal / The Island Mystery / Endless days",
     "date": "2022-08-07",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1554911752.torrent",
+    "games": ["todo"]
+  },
+  "1555820842": {
+    "abs_start": "0:00", "abs_end": "7:14:06", "duration": "0:00",
+    "name": "Serious Duke 3D / We Were Here Forever",
+    "date": "2022-08-08",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1555820842.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1555820842.torrent",
     "games": ["todo"]
   }
 }
