@@ -831,7 +831,10 @@
       {"id": "first-2022", "segment": "1508120809", "name": "Despair: Blood Curse (демо)", "start": 14301},
       {"id": "first-2022", "segment": "1510865681", "name": "Maleficium (демо)", "start": 13777},
       {"id": "first-2022", "segment": "1521217271", "name": "Cold House", "start": 8318},
-      {"id": "first-2022", "segment": "1521217271", "name": "Lost Life: Origins", "start": 16388}
+      {"id": "first-2022", "segment": "1521217271", "name": "Lost Life: Origins", "start": 16388},
+      {"id": "first-2022", "segment": "1522102243", "name": "Xena: Warrior Princess", "start": 1915},
+      {"id": "first-2022", "segment": "1522102243", "name": "Spider-Man 2: Enter Electro", "start": 10223},
+      {"id": "first-2022", "segment": "1522102243", "name": "Barbie: Explorer", "start": 18715}
     ]
   },
   "ongoing": {
@@ -1239,9 +1242,6 @@
       {"id": "other", "segment": "1182938896", "name": "Трейлеры", "start": 0},
       {"id": "events", "segment": "1193856809", "name": "Розыгрыш ROG Spatha Black USB", "start": 0},
       {"id": "other", "segment": "1248804713", "name": "Новый год 2022 (подарки, нарезки)", "start": 0},
-      {"id": "todo", "segment": "1522102243", "name": "Xena: Warrior Princess", "start": 1867},
-      {"id": "todo", "segment": "1522102243", "name": "Spider-Man 2: Enter Electro", "start": 9986},
-      {"id": "todo", "segment": "1522102243", "name": "Barbie: Explorer", "start": 18675},
       {"id": "todo", "segment": "1525875843", "name": "Madison #1", "start": 3564},
       {"id": "todo", "segment": "1526818509", "name": "Nancy Drew: Danger by Design (Нэнси Дрю. Платье для первой леди) #1", "start": 1108},
       {"id": "todo", "segment": "1527725425", "name": "Madison #2", "start": 897},
