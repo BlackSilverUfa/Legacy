@@ -7252,9 +7252,9 @@
         <i class="fas fa-comments"></i> 21149
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=FRvhM1JKmKo" target="_blank">
-        <i class="fab fa-youtube"></i> FRvhM1JKmKo
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.thedrhax.pw/streams/1099599998.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -7307,6 +7307,7 @@
 
       <li>Проблемы с правообладателями:</li>
   <ul>
+    <li><a data-value="4495">1:14:55</a> - <a data-value="4510">1:15:10</a> — Bonnie Tyler - Holding Out for a Hero</li>
     <li><a data-value="4590">1:16:30</a> - <a data-value="4728">1:18:48</a> — Youku - 优酷信息技术（北京）有限公司</li>
     <li><a data-value="5384">1:29:44</a> - <a data-value="5524">1:32:04</a> — Evangelion 3.0+1.01</li>
   </ul>
@@ -7347,13 +7348,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="90" data-hash="1099599998" data-subtitles="https://bsu.drhx.ru/chats/2021/v1099599998.ass" data-name="Z Mutants / Summer of '58 / From Day To Day (демо)" data-youtube="FRvhM1JKmKo" />
+  <p class="stream" data-id="90" data-hash="1099599998" data-subtitles="https://bsu.drhx.ru/chats/2021/v1099599998.ass" data-name="Z Mutants / Summer of '58 / From Day To Day (демо)" data-direct="https://bsufiles.thedrhax.pw/streams/1099599998.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2021/v1099599998.ass ytdl://FRvhM1JKmKo
+  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2021/v1099599998.ass https://bsufiles.thedrhax.pw/streams/1099599998.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://bsu.drhx.ru/chats/2021/v1099599998.ass" --player-passthrough hls twitch.tv/videos/1099599998 best
 </code></pre>
 </div>
 

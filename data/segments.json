@@ -578,9 +578,10 @@
     "games": ["mafia-3"]
   },
   "001610100": {
-    "youtube": "aMzB3OqCJg4", "official": false, "abs_start": "0:00", "abs_end": "3:22:37", "duration": "3:22:37",
+    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
     "name": "Mafia III #2",
     "date": "2016-10-10",
+    "direct": "https://bsufiles.thedrhax.pw/streams/001610100.mp4",
     "games": ["mafia-3"]
   },
   "001610190": {
@@ -1245,9 +1246,9 @@
   },
   "178361269": {
     "youtube": "T6Y4hGvcIL8", "abs_start": "0:00", "abs_end": "3:50:08", "duration": "3:50:08",
-    "name": "Cuphead",
+    "name": "Cuphead - Первый взгляд",
     "date": "2017-09-30",
-    "games": ["first-2017"]
+    "games": ["cuphead"]
   },
   "179635876": {
     "youtube": "zxTKOfKANt8", "abs_start": "0:00", "abs_end": "4:53:57", "duration": "4:53:57",
@@ -2300,9 +2301,10 @@
     "games": ["wreckfest"]
   },
   "277001302": {
-    "youtube": "IP3xa6iBtV4", "official": false, "abs_start": "0:00", "abs_end": "5:09:08", "duration": "5:09:08",
+    "abs_start": "0:00", "abs_end": "5:09:46", "duration": "0:00",
     "name": "Dark Souls: Remastered #2 (со зрителями)",
     "date": "2018-06-24",
+    "direct": "https://bsufiles.thedrhax.pw/streams/277001302.mp4",
     "games": ["ds-remastered"]
   },
   "277440900": {
@@ -4907,10 +4909,9 @@
     "games": ["gta-vice-city"]
   },
   "517802976": {
-    "abs_start": "0:00", "abs_end": "5:58:40", "duration": "0:00",
+    "youtube": "EXLIJurCOXc", "official": false, "abs_start": "0:00", "abs_end": "5:58:21", "duration": "5:58:21",
     "name": "Grand Theft Auto: Vice City #2",
     "date": "2019-12-06",
-    "direct": "https://bsufiles.thedrhax.pw/streams/517802976.mp4",
     "games": ["gta-vice-city"]
   },
   "518306588": {
@@ -7936,9 +7937,10 @@
     "games": ["grounded"]
   },
   "1099599998": {
-    "youtube": "FRvhM1JKmKo", "official": false, "abs_start": "0:00", "abs_end": "6:01:54", "duration": "6:01:54",
+    "abs_start": "0:00", "abs_end": "6:01:41", "duration": "0:00",
     "name": "Z Mutants / Summer of '58 / From Day To Day (демо)",
     "date": "2021-07-27",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1099599998.mp4",
     "games": ["single"]
   },
   "1100650264": {
@@ -9303,7 +9305,6 @@
     "youtube": "8G5QlkS5iPg", "abs_start": "0:00", "abs_end": "6:01:11", "duration": "6:01:11",
     "name": "Summer Game Fest 2022 - PC Gaming Show (обзор) / SCP: Secret Files (демо) / Cult of the Lamb (демо) / Anger Foot / The Fridge Is Red (демо) / Sker Ritual (демо) / The Last Worker (демо) / Midnight Fight Express (демо)",
     "date": "2022-06-13",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1502569152.torrent",
     "games": ["sgf-22", "first-2022"]
   },
   "1503541091": {
@@ -9381,7 +9382,7 @@
     "name": "Cuphead #1",
     "date": "2022-07-02",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1520246163.torrent",
-    "games": ["todo"]
+    "games": ["cuphead"]
   },
   "1521217271": {
     "youtube": "JTPJOFqxuVc", "abs_start": "0:00", "abs_end": "5:56:15", "duration": "5:56:15",
@@ -9399,10 +9400,10 @@
   },
   "1522945141": {
     "youtube": "CxNBfQVRC-s", "abs_start": "0:00", "abs_end": "6:23:59", "duration": "6:23:59",
-    "name": "Cuphead #2 / Cuphead: The Delicious Last Course",
+    "name": "Cuphead #2 / Cuphead - The Delicious Last Course #1",
     "date": "2022-07-05",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1522945141.torrent",
-    "games": ["todo"]
+    "games": ["cuphead"]
   },
   "1525875843": {
     "youtube": "1gwmDWQclbg", "abs_start": "0:00", "abs_end": "6:07:52", "duration": "6:07:52",
@@ -9435,10 +9436,10 @@
   },
   "1529607663": {
     "youtube": "lqKxJqcx7uI", "abs_start": "0:00", "abs_end": "5:19:09", "duration": "5:19:09",
-    "name": "Cuphead #3",
+    "name": "Cuphead - The Delicious Last Course #2",
     "date": "2022-07-12",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1529607663.torrent",
-    "games": ["todo"]
+    "games": ["cuphead"]
   },
   "1530567140": {
     "youtube": "pL9CVRfeSEw", "abs_start": "0:00", "abs_end": "4:58:04", "duration": "4:58:04",
@@ -9577,10 +9578,9 @@
     "games": ["todo"]
   },
   "1555820842": {
-    "abs_start": "0:00", "abs_end": "7:14:06", "duration": "0:00",
+    "youtube": "gJ_J2O3moXg", "abs_start": "0:00", "abs_end": "7:13:59", "duration": "7:13:59",
     "name": "Serious Duke 3D / We Were Here Forever",
     "date": "2022-08-08",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1555820842.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1555820842.torrent",
     "games": ["todo"]
   }
