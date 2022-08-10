@@ -5041,9 +5041,10 @@
     "games": ["alien-isolation-ai"]
   },
   "528855659": {
-    "youtube": "bUvub6AtVcc", "abs_start": "0:00", "abs_end": "4:20:13", "duration": "4:20:13",
+    "abs_start": "0:00", "abs_end": "4:20:43", "duration": "0:00",
     "name": "Посылки (31.12.19)",
     "date": "2019-12-31",
+    "direct": "https://bsufiles.thedrhax.pw/streams/528855659.mp4",
     "games": ["unboxing"]
   },
   "530784764": {
