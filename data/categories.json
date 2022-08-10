@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "todo", "segment": "1543244527", "name": "Road Rash / Contra: Hard Corps", "start": 0},
       {"id": "todo", "segment": "1544246712", "name": "DarKnot / Aeterna Noctis / Nighthunt / Loopmancer / Peepo Island #2", "start": 0},
       {"id": "todo", "segment": "1546161309", "name": "Peepo Island #3 / Phasmophobia", "start": 0},
       {"id": "todo", "segment": "1547156682", "name": "Scathe / Survival: Fountain of Youth / Ghost Watchers #1 / Purple War / Peepo Island #4", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "todo", "segment": "1551976425", "name": "Peepo Island #5 / The Mortuary Assistant #2 / Трейлеры #2 / Outbreak: Shades of Horror", "start": 0},
       {"id": "todo", "segment": "1552996641", "name": "Mortal Kombat / Michael Jackson's Moonwalker / Goofy's Hysterical History Tour", "start": 0},
       {"id": "todo", "segment": "1554911752", "name": "Divine Frequency / Ghost Watchers #2 / Chimpy Chippa's the game / Asleep / The Apartment / Signal / The Island Mystery / Endless days", "start": 0},
-      {"id": "todo", "segment": "1555820842", "name": "Serious Duke 3D / We Were Here Forever", "start": 0}
+      {"id": "todo", "segment": "1555820842", "name": "Serious Duke 3D / We Were Here Forever", "start": 0},
+      {"id": "first-2022", "segment": "1557831331", "name": "SCP: Fractured Minds (демо) / Peepo Island #6", "start": 0}
     ]
   },
   "finished": {
@@ -834,13 +834,14 @@
       {"id": "first-2022", "segment": "1521217271", "name": "Lost Life: Origins", "start": 16388},
       {"id": "first-2022", "segment": "1522102243", "name": "Xena: Warrior Princess", "start": 1915},
       {"id": "first-2022", "segment": "1522102243", "name": "Spider-Man 2: Enter Electro", "start": 10223},
-      {"id": "first-2022", "segment": "1522102243", "name": "Barbie: Explorer", "start": 18715}
+      {"id": "first-2022", "segment": "1522102243", "name": "Barbie: Explorer", "start": 18715},
+      {"id": "first-2022", "segment": "1557831331", "name": "SCP: Fractured Minds (демо)", "start": 2640}
     ]
   },
   "ongoing": {
     "name": "Активные",
     "games": [
-  
+      {"name": "Peepo Island", "id": "peepo-island", "segment": "1557831331"}
     ]
   },
   "infinite": {
