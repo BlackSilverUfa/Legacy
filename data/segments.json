@@ -9303,9 +9303,9 @@
   },
   "1502569152": {
     "youtube": "8G5QlkS5iPg", "abs_start": "0:00", "abs_end": "6:01:11", "duration": "6:01:11",
-    "name": "Summer Game Fest 2022 - PC Gaming Show (обзор) / SCP: Secret Files (демо) / Cult of the Lamb (демо) / Anger Foot / The Fridge Is Red (демо) / Sker Ritual (демо) / The Last Worker (демо) / Midnight Fight Express (демо)",
+    "name": "Summer Game Fest 2022 - PC Gaming Show (обзор) / SCP: Secret Files (демо) / Cult of the Lamb - Демо / Anger Foot / The Fridge Is Red (демо) / Sker Ritual (демо) / The Last Worker (демо) / Midnight Fight Express (демо)",
     "date": "2022-06-13",
-    "games": ["sgf-22", "first-2022"]
+    "games": ["sgf-22", "first-2022", "cult-ot-lamb"]
   },
   "1503541091": {
     "youtube": "HyMdlr5onM8", "abs_start": "0:00", "abs_end": "3:17:31", "duration": "3:17:31",
@@ -9317,7 +9317,6 @@
     "youtube": "ExHgDoB9r7U", "abs_start": "0:00", "abs_end": "6:13:42", "duration": "6:13:42",
     "name": "The Quarry - Злое прохождение",
     "date": "2022-06-15",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1504425367.torrent",
     "games": ["quarry"]
   },
   "1506232070": {
@@ -9590,5 +9589,13 @@
     "direct": "https://bsufiles.thedrhax.pw/streams/1557831331.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1557831331.torrent",
     "games": ["first-2022", "peepo-island"]
+  },
+  "1558782985": {
+    "abs_start": "0:00", "abs_end": "6:08:02", "duration": "0:00",
+    "name": "Iron Lung / From The Darkness / I'm on Observation Duty - Часть 5 #2 / Cult of the Lamb #1",
+    "date": "2022-08-11",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1558782985.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1558782985.torrent",
+    "games": ["single", "observation-duty", "cult-ot-lamb"]
   }
 }
