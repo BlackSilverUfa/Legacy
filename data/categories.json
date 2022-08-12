@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "todo", "segment": "1546161309", "name": "Peepo Island #3 / Phasmophobia", "start": 0},
       {"id": "todo", "segment": "1547156682", "name": "Scathe / Survival: Fountain of Youth / Ghost Watchers #1 / Purple War / Peepo Island #4", "start": 0},
       {"id": "todo", "segment": "1548174786", "name": "The Pale / Auver / Control Room Alpha / Cain / Life Beyond / Trash Horror Collection / Enter & Survey / Our Lady of the Drowned Lake / Satan's Baby Doll / Good Boy / Stroll Prototype / Hausmeister / One Last Breath / Iron Lung", "start": 0},
       {"id": "todo", "segment": "1550107736", "name": "The Mortuary Assistant #1", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "todo", "segment": "1554911752", "name": "Divine Frequency / Ghost Watchers #2 / Chimpy Chippa's the game / Asleep / The Apartment / Signal / The Island Mystery / Endless days", "start": 0},
       {"id": "todo", "segment": "1555820842", "name": "Serious Duke 3D / We Were Here Forever", "start": 0},
       {"id": "first-2022", "segment": "1557831331", "name": "SCP: Fractured Minds (демо) / Peepo Island #6", "start": 0},
-      {"id": "single", "segment": "1558782985", "name": "Iron Lung / From The Darkness / I'm on Observation Duty - Часть 5 #2 / Cult of the Lamb #1", "start": 0}
+      {"id": "iron-lung", "segment": "1558782985", "name": "Iron Lung #2 / From The Darkness / I'm on Observation Duty - Часть 5 #2 / Cult of the Lamb #1", "start": 0},
+      {"id": "barbie-explorer", "segment": "1559742064", "name": "Barbie: Explorer #2 / Twisted Metal: Small Brawl / Hercules / Chessmaster II", "start": 0}
     ]
   },
   "finished": {
@@ -390,8 +390,8 @@
       {"id": "single", "segment": "1521217271", "name": "Perfect Vermin", "start": 15119},
       {"id": "single", "segment": "1521217271", "name": "The Crypt Terror", "start": 18805},
       {"id": "single", "segment": "1521217271", "name": "Penitence", "start": 19318},
-      {"id": "single", "segment": "1558782985", "name": "Iron Lung", "start": 1713},
-      {"id": "single", "segment": "1558782985", "name": "From The Darkness", "start": 5239}
+      {"id": "single", "segment": "1558782985", "name": "From The Darkness", "start": 5239},
+      {"name": "Iron Lung", "id": "iron-lung", "segment": "1558782985"}
     ]
   },
   "first": {
@@ -835,14 +835,17 @@
       {"id": "first-2022", "segment": "1521217271", "name": "Lost Life: Origins", "start": 16388},
       {"id": "first-2022", "segment": "1522102243", "name": "Xena: Warrior Princess", "start": 1915},
       {"id": "first-2022", "segment": "1522102243", "name": "Spider-Man 2: Enter Electro", "start": 10223},
-      {"id": "first-2022", "segment": "1522102243", "name": "Barbie: Explorer", "start": 18715},
-      {"id": "first-2022", "segment": "1557831331", "name": "SCP: Fractured Minds (демо)", "start": 2640}
+      {"id": "first-2022", "segment": "1557831331", "name": "SCP: Fractured Minds (демо)", "start": 2640},
+      {"id": "first-2022", "segment": "1559742064", "name": "Twisted Metal: Small Brawl", "start": 6655},
+      {"id": "first-2022", "segment": "1559742064", "name": "Hercules", "start": 11357},
+      {"id": "first-2022", "segment": "1559742064", "name": "Chessmaster II", "start": 15950}
     ]
   },
   "ongoing": {
     "name": "Активные",
     "games": [
       {"name": "Cult of the Lamb", "id": "cult-ot-lamb", "segment": "1502569152"},
+      {"name": "Barbie: Explorer", "id": "barbie-explorer", "segment": "1522102243"},
       {"name": "Peepo Island", "id": "peepo-island", "segment": "1557831331"}
     ]
   },
