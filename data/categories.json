@@ -390,6 +390,7 @@
       {"id": "single", "segment": "1521217271", "name": "Perfect Vermin", "start": 15119},
       {"id": "single", "segment": "1521217271", "name": "The Crypt Terror", "start": 18805},
       {"id": "single", "segment": "1521217271", "name": "Penitence", "start": 19318},
+      {"id": "single", "segment": "1536251230,1536294843", "name": "Stray", "start": 414},
       {"id": "single", "segment": "1558782985", "name": "From The Darkness", "start": 5239},
       {"name": "Iron Lung", "id": "iron-lung", "segment": "1558782985"}
     ]
@@ -1262,7 +1263,6 @@
       {"id": "todo", "segment": "1533471620", "name": "Tricky Towers", "start": 16050},
       {"id": "todo", "segment": "1534414628", "name": "Russian Subway Dogs", "start": 4672},
       {"id": "todo", "segment": "1534414628", "name": "Forewarned (прервано)", "start": 6359},
-      {"id": "todo", "segment": "1536251230,1536294843", "name": "Stray", "start": 0},
       {"id": "todo", "segment": "1537269313", "name": "As Dusk Falls", "start": 0},
       {"id": "todo", "segment": "1542254440", "name": "Granny: Chapter Two", "start": 2052},
       {"id": "todo", "segment": "1542254440", "name": "Peepo Island #1", "start": 5359},
