@@ -2300,10 +2300,9 @@
     "games": ["wreckfest"]
   },
   "277001302": {
-    "abs_start": "0:00", "abs_end": "5:09:46", "duration": "0:00",
+    "youtube": "IP3xa6iBtV4", "official": false, "abs_start": "0:00", "abs_end": "5:09:08", "duration": "5:09:08",
     "name": "Dark Souls: Remastered #2 (со зрителями)",
     "date": "2018-06-24",
-    "direct": "https://bsufiles.thedrhax.pw/streams/277001302.mp4",
     "games": ["ds-remastered"]
   },
   "277440900": {
@@ -4752,7 +4751,7 @@
     "games": ["outer-worlds"]
   },
   "499849877": {
-    "youtube": "iRkbxvRwX94", "official": false, "abs_start": "0:00", "abs_end": "3:54:41", "duration": "3:54:41",
+    "youtube": "zrBHeaCWCfg", "official": false, "abs_start": "0:00", "abs_end": "3:54:41", "duration": "3:54:41",
     "name": "Благотворительные стримы #5 / Cooking Simulator / House Flipper",
     "date": "2019-10-26",
     "games": ["charity", "first-2019"]
