@@ -9336,7 +9336,6 @@
     "youtube": "Ag1j7qZZJgw", "abs_start": "0:00", "abs_end": "7:45:20", "duration": "7:45:20",
     "name": "Raft (с Дашей и Джеком) #4",
     "date": "2022-06-21",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1509822874.torrent",
     "games": ["raft-story"]
   },
   "1510865681": {
@@ -9602,5 +9601,13 @@
     "direct": "https://bsufiles.thedrhax.pw/streams/1559742064.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1559742064.torrent",
     "games": ["barbie-explorer", "first-2022"]
+  },
+  "1560730593": {
+    "abs_start": "0:00", "abs_end": "6:00:15", "duration": "0:00",
+    "name": "The Hobbit",
+    "date": "2022-08-13",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1560730593.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1560730593.torrent",
+    "games": ["first-2022"]
   }
 }

@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "todo", "segment": "1547156682", "name": "Scathe / Survival: Fountain of Youth / Ghost Watchers #1 / Purple War / Peepo Island #4", "start": 0},
       {"id": "todo", "segment": "1548174786", "name": "The Pale / Auver / Control Room Alpha / Cain / Life Beyond / Trash Horror Collection / Enter & Survey / Our Lady of the Drowned Lake / Satan's Baby Doll / Good Boy / Stroll Prototype / Hausmeister / One Last Breath / Iron Lung", "start": 0},
       {"id": "todo", "segment": "1550107736", "name": "The Mortuary Assistant #1", "start": 0},
       {"id": "todo", "segment": "1551976425", "name": "Peepo Island #5 / The Mortuary Assistant #2 / Трейлеры #2 / Outbreak: Shades of Horror", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "todo", "segment": "1555820842", "name": "Serious Duke 3D / We Were Here Forever", "start": 0},
       {"id": "first-2022", "segment": "1557831331", "name": "SCP: Fractured Minds (демо) / Peepo Island #6", "start": 0},
       {"id": "iron-lung", "segment": "1558782985", "name": "Iron Lung #2 / From The Darkness / I'm on Observation Duty - Часть 5 #2 / Cult of the Lamb #1", "start": 0},
-      {"id": "barbie-explorer", "segment": "1559742064", "name": "Barbie: Explorer #2 / Twisted Metal: Small Brawl / Hercules / Chessmaster II", "start": 0}
+      {"id": "barbie-explorer", "segment": "1559742064", "name": "Barbie: Explorer #2 / Twisted Metal: Small Brawl / Hercules / Chessmaster II", "start": 0},
+      {"id": "first-2022", "segment": "1560730593", "name": "The Hobbit", "start": 0}
     ]
   },
   "finished": {
@@ -839,7 +839,8 @@
       {"id": "first-2022", "segment": "1557831331", "name": "SCP: Fractured Minds (демо)", "start": 2640},
       {"id": "first-2022", "segment": "1559742064", "name": "Twisted Metal: Small Brawl", "start": 6655},
       {"id": "first-2022", "segment": "1559742064", "name": "Hercules", "start": 11357},
-      {"id": "first-2022", "segment": "1559742064", "name": "Chessmaster II", "start": 15950}
+      {"id": "first-2022", "segment": "1559742064", "name": "Chessmaster II", "start": 15950},
+      {"id": "first-2022", "segment": "1560730593", "name": "The Hobbit", "start": 3144}
     ]
   },
   "ongoing": {
