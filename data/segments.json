@@ -571,10 +571,9 @@
     "games": ["fallout-2"]
   },
   "001610070": {
-    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
+    "youtube": "1UP4FwTOt_I", "official": false, "abs_start": "0:00", "abs_end": "5:56:24", "duration": "5:56:24",
     "name": "Mafia III #1",
     "date": "2016-10-07",
-    "direct": "https://bsufiles.thedrhax.pw/streams/001610070.mp4",
     "games": ["mafia-3"]
   },
   "001610100": {
@@ -4693,19 +4692,21 @@
     "abs_start": "0:00", "abs_end": "4:19:21", "duration": "0:00",
     "name": "",
     "date": "2019-10-16",
+    "direct": "https://bsufiles.thedrhax.pw/streams/495362547.mp4",
     "games": []
   },
   "495449259": {
     "abs_start": "0:00", "abs_end": "1:02:22", "duration": "0:00",
     "name": "",
     "date": "2019-10-16",
+    "direct": "https://bsufiles.thedrhax.pw/streams/495449259.mp4",
     "games": []
   },
   "495362547,495449259": {
-    "youtube": "Ht7nHaxd3j4", "abs_start": "0:00", "abs_end": "4:44:48", "duration": "4:44:48",
+    "abs_start": "0:00", "abs_end": "5:21:43", "duration": "0:00",
     "name": "Chernobylite - Альфа",
     "date": "2019-10-16",
-    "offsets": [-1839, 13698],
+    "direct": "https://bsufiles.thedrhax.pw/streams/495362547,495449259.mp4",
     "games": ["chernobylite"]
   },
   "495816363": {
@@ -9328,7 +9329,6 @@
     "youtube": "fxxwHxKhyhQ", "abs_start": "0:00", "abs_end": "6:06:00", "duration": "6:06:00",
     "name": "My Demon Wife (демо) / Loveland (демо) / Eternal Evil / Andy's Apple Farm (демо) / Despair: Blood Curse (демо) / Oxide: Room 104 - Демо",
     "date": "2022-06-19",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1508120809.torrent",
     "games": ["first-2022", "oxide-104"]
   },
   "1509822874": {
