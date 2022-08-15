@@ -8630,9 +8630,9 @@
   },
   "1223700316": {
     "youtube": "VYj5uDTCXHM", "abs_start": "0:00", "abs_end": "5:52:37", "duration": "5:52:37",
-    "name": "Icarus / Forewarned (с Куплиновым и Дангаром)",
+    "name": "Icarus / Forewarned (с Куплиновым и Дангаром) #1",
     "date": "2021-12-04",
-    "games": ["first-2021", "co-op"]
+    "games": ["first-2021", "forewarned"]
   },
   "1224807350": {
     "youtube": "jjeCA78ms8o", "abs_start": "0:00", "abs_end": "6:27:49", "duration": "6:27:49",
@@ -9425,11 +9425,11 @@
   },
   "1528664321": {
     "youtube": "_SQ7Fbk7-iQ", "abs_start": "0:00", "abs_end": "5:04:53", "duration": "5:04:22",
-    "name": "Fighting Force / Broken Sword: Shadow of the Templars - The Director's Cut",
+    "name": "Fighting Force / Broken Sword: Shadow of the Templars",
     "date": "2022-07-11",
     "cuts": [[9484, 9515]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1528664321.torrent",
-    "games": ["todo"]
+    "games": ["first-2022"]
   },
   "1529607663": {
     "youtube": "lqKxJqcx7uI", "abs_start": "0:00", "abs_end": "5:19:09", "duration": "5:19:09",
@@ -9440,17 +9440,17 @@
   },
   "1530567140": {
     "youtube": "pL9CVRfeSEw", "abs_start": "0:00", "abs_end": "4:58:04", "duration": "4:58:04",
-    "name": "Fall Guys #1 / I'm on Observation Duty 5",
+    "name": "Fall Guys #15 (с чатом) / I'm on Observation Duty - Часть 5 #1",
     "date": "2022-07-13",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1530567140.torrent",
-    "games": ["todo"]
+    "games": ["fall-guys", "observation-duty"]
   },
   "1531483751": {
     "youtube": "O8DWxRXHYX4", "abs_start": "0:00", "abs_end": "6:30:08", "duration": "6:30:08",
     "name": "Bayonetta",
     "date": "2022-07-14",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1531483751.torrent",
-    "games": ["todo"]
+    "games": ["first-2022"]
   },
   "1533471620": {
     "youtube": "vKGh9VR8rT0", "abs_start": "0:00", "abs_end": "4:57:23", "duration": "4:57:23",
@@ -9461,10 +9461,10 @@
   },
   "1534414628": {
     "youtube": "NHEI9Ge0pF4", "abs_start": "0:00", "abs_end": "2:44:34", "duration": "2:44:34",
-    "name": "Russian Subway Dogs / Forewarned (прервано)",
+    "name": "Russian Subway Dogs / Forewarned (с Куплиновым и Дангаром) #2 (прервано)",
     "date": "2022-07-17",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1534414628.torrent",
-    "games": ["todo"]
+    "games": ["first-2022", "forewarned"]
   },
   "1536251230": {
     "abs_start": "0:00", "abs_end": "1:29:25", "duration": "0:00",
@@ -9596,26 +9596,23 @@
     "games": ["iron-lung", "single", "observation-duty", "cult-ot-lamb"]
   },
   "1559742064": {
-    "abs_start": "0:00", "abs_end": "5:23:15", "duration": "0:00",
+    "youtube": "NqrXqyUqx9s", "abs_start": "0:00", "abs_end": "5:23:10", "duration": "5:23:10",
     "name": "Barbie: Explorer #2 / Twisted Metal: Small Brawl / Hercules / Chessmaster II",
     "date": "2022-08-12",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1559742064.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1559742064.torrent",
     "games": ["barbie-explorer", "first-2022"]
   },
   "1560730593": {
-    "abs_start": "0:00", "abs_end": "6:00:15", "duration": "0:00",
+    "youtube": "uoOQYh1KIds", "abs_start": "0:00", "abs_end": "5:59:51", "duration": "5:59:51",
     "name": "The Hobbit",
     "date": "2022-08-13",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1560730593.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1560730593.torrent",
     "games": ["first-2022"]
   },
   "1561677559": {
-    "abs_start": "0:00", "abs_end": "4:48:52", "duration": "0:00",
+    "youtube": "c-iFtnSKLwQ", "abs_start": "0:00", "abs_end": "4:48:40", "duration": "4:48:40",
     "name": "The Nameless (демо) / ROMUT / Another Princess is in Our Castle (демо) / Dinner With Strangers (демо) / Dread X Collection: The Hunt / Home / SCP: Nukalypse #2 / Luggage / Soles' Quay / The Polaroid Killer / There is a Man in the Attic / The Hole in the Car",
     "date": "2022-08-14",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1561677559.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1561677559.torrent",
     "games": ["single", "first-2022", "scp-nukalypse"]
   }
