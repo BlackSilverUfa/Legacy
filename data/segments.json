@@ -9446,9 +9446,10 @@
     "games": ["fall-guys", "observation-duty"]
   },
   "1531483751": {
-    "youtube": "O8DWxRXHYX4", "abs_start": "0:00", "abs_end": "6:30:08", "duration": "6:30:08",
+    "youtube": "O8DWxRXHYX4", "abs_start": "0:00", "abs_end": "6:30:39", "duration": "6:30:08",
     "name": "Bayonetta",
     "date": "2022-07-14",
+    "cuts": [[14728, 14759]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1531483751.torrent",
     "games": ["first-2022"]
   },
