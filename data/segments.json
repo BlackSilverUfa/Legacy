@@ -9516,9 +9516,10 @@
     "games": ["todo"]
   },
   "1544246712": {
-    "youtube": "6pahUbiIs1c", "abs_start": "0:00", "abs_end": "6:05:55", "duration": "6:05:55",
+    "youtube": "6pahUbiIs1c", "abs_start": "0:00", "abs_end": "6:06:25", "duration": "6:05:55",
     "name": "DarKnot / Aeterna Noctis / Nighthunt / Loopmancer / Peepo Island #2",
     "date": "2022-07-27",
+    "cuts": [[1755, 1785]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1544246712.torrent",
     "games": ["todo"]
   },
@@ -9530,9 +9531,10 @@
     "games": ["todo"]
   },
   "1547156682": {
-    "youtube": "cWeYJhpUmS0", "abs_start": "0:00", "abs_end": "6:58:43", "duration": "6:58:43",
+    "youtube": "cWeYJhpUmS0", "abs_start": "0:00", "abs_end": "6:59:13", "duration": "6:58:43",
     "name": "Scathe / Survival: Fountain of Youth / Ghost Watchers #1 / Purple War / Peepo Island #4",
     "date": "2022-07-30",
+    "cuts": [[9344, 9374]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1547156682.torrent",
     "games": ["todo"]
   },
