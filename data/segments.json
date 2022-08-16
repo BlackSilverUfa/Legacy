@@ -4703,10 +4703,9 @@
     "games": []
   },
   "495362547,495449259": {
-    "abs_start": "0:00", "abs_end": "5:21:43", "duration": "0:00",
+    "youtube": "GKlJnSreX9Y", "official": false, "abs_start": "0:00", "abs_end": "5:19:55", "duration": "5:19:55",
     "name": "Chernobylite - Альфа",
     "date": "2019-10-16",
-    "direct": "https://bsufiles.thedrhax.pw/streams/495362547,495449259.mp4",
     "offsets": [0, 15486],
     "games": ["chernobylite"]
   },
