@@ -5996,9 +5996,9 @@
   },
   "687309207": {
     "youtube": "LVlDWbpOg9o", "official": false, "abs_start": "0:00", "abs_end": "4:28:57", "duration": "4:28:57",
-    "name": "Трейлеры и нарезки",
+    "name": "Трейлеры #1",
     "date": "2020-07-22",
-    "games": ["other"]
+    "games": ["trailers"]
   },
   "688270341": {
     "youtube": "4sNGzIz8k4w", "abs_start": "0:00", "abs_end": "6:10:49", "duration": "6:10:49",
@@ -6896,9 +6896,9 @@
   },
   "895436223": {
     "youtube": "ql9hchJxMp8", "official": false, "abs_start": "0:00", "abs_end": "1:06:11", "duration": "1:06:11",
-    "name": "Трейлеры и арты",
+    "name": "Трейлеры #2",
     "date": "2021-01-31",
-    "games": ["other"]
+    "games": ["trailers"]
   },
   "895496717": {
     "youtube": "fsQ7Y38AW1Y", "abs_start": "0:00", "abs_end": "4:35:13", "duration": "4:35:13",
@@ -8318,16 +8318,16 @@
   },
   "1181935075": {
     "youtube": "bRpZm-P6V2g", "abs_start": "0:00", "abs_end": "6:25:08", "duration": "6:24:35",
-    "name": "Inscryption - Релиз / Fallout 76 #3 (с Артёмом) / Occult",
+    "name": "Inscryption - Релиз / Fallout 76 #3 (с Артёмом) / Occult #1",
     "date": "2021-10-20",
     "cuts": [[18486, 18519]],
-    "games": ["inscryption", "fallout-76", "co-op"]
+    "games": ["inscryption", "fallout-76", "occult"]
   },
   "1182938896": {
     "youtube": "V_R3GvWtV4A", "official": false, "abs_start": "0:00", "abs_end": "1:18:45", "duration": "1:18:45",
-    "name": "Трейлеры",
+    "name": "Трейлеры #3",
     "date": "2021-10-21",
-    "games": ["other"]
+    "games": ["trailers"]
   },
   "1183729753": {
     "youtube": "6q_VJ5cjVkA", "abs_start": "0:00", "abs_end": "7:30:07", "duration": "7:30:07",
@@ -9449,10 +9449,10 @@
   },
   "1533471620": {
     "youtube": "vKGh9VR8rT0", "abs_start": "0:00", "abs_end": "4:57:23", "duration": "4:57:23",
-    "name": "DEVOUR / Occult / Tricky Towers",
+    "name": "Devour #4 / Occult #2 / Tricky Towers #32",
     "date": "2022-07-16",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1533471620.torrent",
-    "games": ["todo"]
+    "games": ["devour", "occult", "tricky-towers"]
   },
   "1534414628": {
     "youtube": "NHEI9Ge0pF4", "abs_start": "0:00", "abs_end": "2:44:34", "duration": "2:44:34",
@@ -9490,14 +9490,14 @@
     "name": "As Dusk Falls",
     "date": "2022-07-20",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1537269313.torrent",
-    "games": ["todo"]
+    "games": ["single"]
   },
   "1541455295": {
     "youtube": "82Zn8ZZR-BY", "abs_start": "0:00", "abs_end": "1:40:28", "duration": "1:40:28",
-    "name": "Трейлеры #1",
+    "name": "Трейлеры #4",
     "date": "2022-07-27",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1541455295.torrent",
-    "games": ["todo"]
+    "games": ["trailers"]
   },
   "1542254440": {
     "youtube": "CeLrx5B-s-Q", "abs_start": "0:00", "abs_end": "5:06:20", "duration": "5:06:20",
