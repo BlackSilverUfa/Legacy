@@ -579,7 +579,6 @@
       {"id": "first-2019", "segment": "524865260", "name": "Trepang2 (демо)", "start": 0},
       {"id": "first-2019", "segment": "524865260", "name": "The Paperman", "start": 10150},
       {"id": "first-2020", "segment": "530784764", "name": "Zombie Claus", "start": 14391},
-      {"id": "first-2020", "segment": "530784764", "name": "Granny: Chapter Two", "start": 14531},
       {"id": "first-2020", "segment": "543591605", "name": "Warcraft III: Reforged", "start": 0},
       {"id": "first-2020", "segment": "559668833", "name": "Foregone", "start": 0},
       {"id": "first-2020", "segment": "559668833", "name": "Beautiful Desolation", "start": 13337},
@@ -849,6 +848,9 @@
       {"id": "first-2022", "segment": "1528664321", "name": "Broken Sword: Shadow of the Templars", "start": 10809},
       {"id": "first-2022", "segment": "1531483751", "name": "Bayonetta", "start": 713},
       {"id": "first-2022", "segment": "1534414628", "name": "Russian Subway Dogs", "start": 4691},
+      {"id": "first-2022", "segment": "1543244527", "name": "Road Rash", "start": 1853},
+      {"id": "first-2022", "segment": "1543244527", "name": "Contra: Hard Corps", "start": 8263},
+      {"id": "first-2022", "segment": "1543244527", "name": "Road Rash (продолжение)", "start": 14653},
       {"id": "first-2022", "segment": "1557831331", "name": "SCP: Fractured Minds (демо)", "start": 2640},
       {"id": "first-2022", "segment": "1559742064", "name": "Twisted Metal: Small Brawl", "start": 6655},
       {"id": "first-2022", "segment": "1559742064", "name": "Hercules", "start": 11357},
@@ -864,10 +866,11 @@
   "ongoing": {
     "name": "Активные",
     "games": [
+      {"name": "Granny: Chapter Two", "id": "granny-2", "segment": "530784764"},
       {"name": "Noch", "id": "noch", "segment": "869571796"},
       {"name": "Cult of the Lamb", "id": "cult-ot-lamb", "segment": "1502569152"},
       {"name": "Barbie: Explorer", "id": "barbie-explorer", "segment": "1522102243"},
-      {"name": "Peepo Island", "id": "peepo-island", "segment": "1557831331"}
+      {"name": "Peepo Island", "id": "peepo-island", "segment": "1542254440"}
     ]
   },
   "infinite": {
@@ -1269,12 +1272,6 @@
       {"id": "events", "segment": "1142576899", "name": "Розыгрыш ROG Zephyrus G14 Alan Walker", "start": 0},
       {"id": "events", "segment": "1193856809", "name": "Розыгрыш ROG Spatha Black USB", "start": 0},
       {"id": "other", "segment": "1248804713", "name": "Новый год 2022 (подарки, нарезки)", "start": 0},
-      {"id": "todo", "segment": "1542254440", "name": "Granny: Chapter Two", "start": 2052},
-      {"id": "todo", "segment": "1542254440", "name": "Peepo Island #1", "start": 5359},
-      {"id": "todo", "segment": "1542254440", "name": "Fall Guys #2", "start": 13358},
-      {"id": "todo", "segment": "1543244527", "name": "Road Rash", "start": 0},
-      {"id": "todo", "segment": "1543244527", "name": "Contra: Hard Corps", "start": 8115},
-      {"id": "todo", "segment": "1543244527", "name": "Road Rash (продолжение)", "start": 14513},
       {"id": "todo", "segment": "1544246712", "name": "DarKnot", "start": 1557},
       {"id": "todo", "segment": "1544246712", "name": "Aeterna Noctis", "start": 6396},
       {"id": "todo", "segment": "1544246712", "name": "Nighthunt", "start": 10302},
