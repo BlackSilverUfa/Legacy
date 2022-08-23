@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "todo", "segment": "1552996641", "name": "Mortal Kombat / Michael Jackson's Moonwalker / Goofy's Hysterical History Tour", "start": 0},
       {"id": "todo", "segment": "1554911752", "name": "Divine Frequency / Ghost Watchers #2 / Chimpy Chippa's the game / Asleep / The Apartment / Signal / The Island Mystery / Endless days", "start": 0},
       {"id": "todo", "segment": "1555820842", "name": "Serious Duke 3D / We Were Here Forever", "start": 0},
       {"id": "first-2022", "segment": "1557831331", "name": "SCP: Fractured Minds (демо) / Peepo Island #6", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "first-2022", "segment": "1560730593", "name": "The Hobbit", "start": 0},
       {"id": "single", "segment": "1561677559", "name": "The Nameless (демо) / ROMUT / Another Princess is in Our Castle (демо) / Dinner With Strangers (демо) / Dread X Collection: The Hunt / Home / SCP: Nukalypse #2 / Luggage / Soles' Quay / The Polaroid Killer / There is a Man in the Attic / The Hole in the Car", "start": 0},
       {"id": "first-2022", "segment": "1563545448", "name": "Self-Delusion / Noch - Релиз / Escape the Backrooms / MONSTRUM 2 #2", "start": 0},
-      {"id": "co-op", "segment": "1564505950", "name": "Way of the Hunter", "start": 0}
+      {"id": "co-op", "segment": "1564505950", "name": "Way of the Hunter", "start": 0},
+      {"id": "first-2022", "segment": "1570142913", "name": "Saints Row (2022) / Gamescom #2022", "start": 0}
     ]
   },
   "finished": {
@@ -860,7 +860,8 @@
       {"id": "first-2022", "segment": "1561677559", "name": "Dread X Collection: The Hunt", "start": 6336},
       {"id": "first-2022", "segment": "1561677559", "name": "The Polaroid Killer", "start": 15550},
       {"id": "first-2022", "segment": "1563545448", "name": "Self-Delusion", "start": 1564},
-      {"id": "first-2022", "segment": "1563545448", "name": "Escape the Backrooms", "start": 10486}
+      {"id": "first-2022", "segment": "1563545448", "name": "Escape the Backrooms", "start": 10486},
+      {"id": "first-2022", "segment": "1570142913", "name": "Saints Row (2022)", "start": 2074}
     ]
   },
   "ongoing": {
