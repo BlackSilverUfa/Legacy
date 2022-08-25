@@ -9354,7 +9354,6 @@
     "youtube": "j8W4FWqogrY", "abs_start": "0:00", "abs_end": "6:33:41", "duration": "6:33:41",
     "name": "V Rising #2 (с Дашей и Джеком)",
     "date": "2022-06-28",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1516411053.torrent",
     "games": ["v-rising"]
   },
   "1517449364": {
@@ -9611,27 +9610,33 @@
     "games": ["single", "first-2022", "scp-nukalypse"]
   },
   "1563545448": {
-    "abs_start": "0:00", "abs_end": "5:51:32", "duration": "0:00",
+    "youtube": "qDJ6j3Jsdpo", "abs_start": "0:00", "abs_end": "5:51:20", "duration": "5:51:20",
     "name": "Self-Delusion / Noch - Релиз / Escape the Backrooms / MONSTRUM 2 #2",
     "date": "2022-08-16",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1563545448.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1563545448.torrent",
     "games": ["first-2022", "noch", "monstrum-2"]
   },
   "1564505950": {
-    "abs_start": "0:00", "abs_end": "5:08:42", "duration": "0:00",
+    "youtube": "9-J3hJeP7co", "abs_start": "0:00", "abs_end": "5:08:49", "duration": "5:08:49",
     "name": "Way of the Hunter",
     "date": "2022-08-17",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1564505950.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1564505950.torrent",
     "games": ["co-op"]
   },
   "1570142913": {
-    "abs_start": "0:00", "abs_end": "10:10:20", "duration": "0:00",
+    "youtube": "LAFon2jGXXk", "abs_start": "0:00", "abs_end": "10:10:05", "duration": "10:10:05",
     "name": "Saints Row (2022) / Gamescom #2022",
     "date": "2022-08-23",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1570142913.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1570142913.torrent",
     "games": ["first-2022", "gamescom"]
+  },
+  "1572044648": {
+    "abs_start": "0:00", "abs_end": "6:12:36", "duration": "0:00",
+    "name": "EXP: War Trauma / Outbreak Island: Pendulum / Soulstice (демо) / Mirror Forge (демо) / Super Catboy",
+    "date": "2022-08-25",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1572044648.mp4",
+    "cuts": [[17799, 17829]],
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1572044648.torrent",
+    "games": ["single", "first-2022"]
   }
 }

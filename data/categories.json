@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "todo", "segment": "1554911752", "name": "Divine Frequency / Ghost Watchers #2 / Chimpy Chippa's the game / Asleep / The Apartment / Signal / The Island Mystery / Endless days", "start": 0},
       {"id": "todo", "segment": "1555820842", "name": "Serious Duke 3D / We Were Here Forever", "start": 0},
       {"id": "first-2022", "segment": "1557831331", "name": "SCP: Fractured Minds (демо) / Peepo Island #6", "start": 0},
       {"id": "iron-lung", "segment": "1558782985", "name": "Iron Lung #2 / From The Darkness / I'm on Observation Duty - Часть 5 #2 / Cult of the Lamb #1", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "single", "segment": "1561677559", "name": "The Nameless (демо) / ROMUT / Another Princess is in Our Castle (демо) / Dinner With Strangers (демо) / Dread X Collection: The Hunt / Home / SCP: Nukalypse #2 / Luggage / Soles' Quay / The Polaroid Killer / There is a Man in the Attic / The Hole in the Car", "start": 0},
       {"id": "first-2022", "segment": "1563545448", "name": "Self-Delusion / Noch - Релиз / Escape the Backrooms / MONSTRUM 2 #2", "start": 0},
       {"id": "co-op", "segment": "1564505950", "name": "Way of the Hunter", "start": 0},
-      {"id": "first-2022", "segment": "1570142913", "name": "Saints Row (2022) / Gamescom #2022", "start": 0}
+      {"id": "first-2022", "segment": "1570142913", "name": "Saints Row (2022) / Gamescom #2022", "start": 0},
+      {"id": "single", "segment": "1572044648", "name": "EXP: War Trauma / Outbreak Island: Pendulum / Soulstice (демо) / Mirror Forge (демо) / Super Catboy", "start": 0}
     ]
   },
   "finished": {
@@ -402,7 +402,8 @@
       {"id": "single", "segment": "1561677559", "name": "Luggage", "start": 13855},
       {"id": "single", "segment": "1561677559", "name": "Soles' Quay", "start": 14630},
       {"id": "single", "segment": "1561677559", "name": "There is a Man in the Attic", "start": 15919},
-      {"id": "single", "segment": "1561677559", "name": "The Hole in the Car", "start": 16522}
+      {"id": "single", "segment": "1561677559", "name": "The Hole in the Car", "start": 16522},
+      {"id": "single", "segment": "1572044648", "name": "EXP: War Trauma", "start": 7099}
     ]
   },
   "first": {
@@ -861,13 +862,16 @@
       {"id": "first-2022", "segment": "1561677559", "name": "The Polaroid Killer", "start": 15550},
       {"id": "first-2022", "segment": "1563545448", "name": "Self-Delusion", "start": 1564},
       {"id": "first-2022", "segment": "1563545448", "name": "Escape the Backrooms", "start": 10486},
-      {"id": "first-2022", "segment": "1570142913", "name": "Saints Row (2022)", "start": 2212}
+      {"id": "first-2022", "segment": "1570142913", "name": "Saints Row (2022)", "start": 2212},
+      {"id": "first-2022", "segment": "1572044648", "name": "Outbreak Island: Pendulum", "start": 10153},
+      {"id": "first-2022", "segment": "1572044648", "name": "Soulstice (демо)", "start": 15148},
+      {"id": "first-2022", "segment": "1572044648", "name": "Mirror Forge (демо)", "start": 18149},
+      {"id": "first-2022", "segment": "1572044648", "name": "Super Catboy", "start": 21175}
     ]
   },
   "ongoing": {
     "name": "Активные",
     "games": [
-      {"name": "Granny: Chapter Two", "id": "granny-2", "segment": "530784764"},
       {"name": "Noch", "id": "noch", "segment": "869571796"},
       {"name": "Cult of the Lamb", "id": "cult-ot-lamb", "segment": "1502569152"},
       {"name": "Barbie: Explorer", "id": "barbie-explorer", "segment": "1522102243"},
@@ -975,6 +979,7 @@
       {"name": "Luigi's Mansion 3", "id": "luigis-mansion-3", "segment": "502082379"},
       {"name": "Nioh 2", "id": "nioh-2", "segment": "502940448"},
       {"name": "Spore", "id": "spore", "segment": "522691278"},
+      {"name": "Granny: Chapter Two", "id": "granny-2", "segment": "530784764"},
       {"name": "The Sims 4", "id": "sims-4", "segment": "531327327"},
       {"name": "One Punch Man: A Hero Nobody Knows", "id": "one-punch-man", "segment": "559121361"},
       {"name": "Ori and the Will of the Wisps", "id": "ori-wotw", "segment": "563294076"},
