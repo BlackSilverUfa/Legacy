@@ -9631,12 +9631,19 @@
     "games": ["first-2022", "gamescom"]
   },
   "1572044648": {
-    "abs_start": "0:00", "abs_end": "6:12:36", "duration": "0:00",
+    "youtube": "ONXeGG-FwL8", "abs_start": "0:00", "abs_end": "6:12:40", "duration": "6:12:10",
     "name": "EXP: War Trauma / Outbreak Island: Pendulum / Soulstice (демо) / Mirror Forge (демо) / Super Catboy",
     "date": "2022-08-25",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1572044648.mp4",
     "cuts": [[17799, 17829]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1572044648.torrent",
     "games": ["single", "first-2022"]
+  },
+  "1573052503": {
+    "abs_start": "0:00", "abs_end": "6:16:43", "duration": "0:00",
+    "name": "Pepsiman / Ballerburg / Dune 2000 / Driver",
+    "date": "2022-08-26",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1573052503.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1573052503.torrent",
+    "games": ["first-2022"]
   }
 }
