@@ -3,16 +3,16 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "first-2022", "segment": "1557831331", "name": "SCP: Fractured Minds (демо) / Peepo Island #6", "start": 0},
       {"id": "iron-lung", "segment": "1558782985", "name": "Iron Lung #2 / From The Darkness / I'm on Observation Duty - Часть 5 #2 / Cult of the Lamb #1", "start": 0},
       {"id": "barbie-explorer", "segment": "1559742064", "name": "Barbie: Explorer #2 / Twisted Metal: Small Brawl / Hercules / Chessmaster II", "start": 0},
-      {"id": "first-2022", "segment": "1560730593", "name": "The Hobbit", "start": 0},
+      {"id": "hobbit", "segment": "1560730593", "name": "The Hobbit #1", "start": 0},
       {"id": "single", "segment": "1561677559", "name": "The Nameless (демо) / ROMUT / Another Princess is in Our Castle (демо) / Dinner With Strangers (демо) / Dread X Collection: The Hunt / Home / SCP: Nukalypse #2 / Luggage / Soles' Quay / The Polaroid Killer / There is a Man in the Attic / The Hole in the Car", "start": 0},
       {"id": "first-2022", "segment": "1563545448", "name": "Self-Delusion / Noch - Релиз / Escape the Backrooms / MONSTRUM 2 #2", "start": 0},
       {"id": "co-op", "segment": "1564505950", "name": "Way of the Hunter", "start": 0},
       {"id": "first-2022", "segment": "1570142913", "name": "Saints Row (2022) / Gamescom #2022", "start": 0},
       {"id": "single", "segment": "1572044648", "name": "EXP: War Trauma / Outbreak Island: Pendulum / Soulstice (демо) / Mirror Forge (демо) / Super Catboy", "start": 0},
-      {"id": "first-2022", "segment": "1573052503", "name": "Pepsiman / Ballerburg / Dune 2000 / Driver", "start": 0}
+      {"id": "first-2022", "segment": "1573052503", "name": "Pepsiman / Ballerburg / Dune 2000 / Driver", "start": 0},
+      {"id": "hobbit", "segment": "1573991268", "name": "The Hobbit #2", "start": 0}
     ]
   },
   "finished": {
@@ -856,7 +856,6 @@
       {"id": "first-2022", "segment": "1559742064", "name": "Twisted Metal: Small Brawl", "start": 6655},
       {"id": "first-2022", "segment": "1559742064", "name": "Hercules", "start": 11357},
       {"id": "first-2022", "segment": "1559742064", "name": "Chessmaster II", "start": 15950},
-      {"id": "first-2022", "segment": "1560730593", "name": "The Hobbit", "start": 3144},
       {"id": "first-2022", "segment": "1561677559", "name": "Dinner With Strangers (демо)", "start": 5354},
       {"id": "first-2022", "segment": "1561677559", "name": "Dread X Collection: The Hunt", "start": 6336},
       {"id": "first-2022", "segment": "1561677559", "name": "The Polaroid Killer", "start": 15550},
@@ -879,7 +878,8 @@
       {"name": "Noch", "id": "noch", "segment": "869571796"},
       {"name": "Cult of the Lamb", "id": "cult-ot-lamb", "segment": "1502569152"},
       {"name": "Barbie: Explorer", "id": "barbie-explorer", "segment": "1522102243"},
-      {"name": "Peepo Island", "id": "peepo-island", "segment": "1542254440"}
+      {"name": "Peepo Island", "id": "peepo-island", "segment": "1542254440"},
+      {"name": "The Hobbit", "id": "hobbit", "segment": "1560730593"}
     ]
   },
   "infinite": {

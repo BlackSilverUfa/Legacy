@@ -9360,14 +9360,12 @@
     "youtube": "5F9gpWQyUhY", "abs_start": "0:00", "abs_end": "5:02:24", "duration": "5:02:24",
     "name": "Fobia - St. Dinfna Hotel #1",
     "date": "2022-06-29",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1517449364.torrent",
     "games": ["fobia"]
   },
   "1520246163": {
     "youtube": "ipSw7ljKYTg", "abs_start": "0:00", "abs_end": "6:46:08", "duration": "6:46:08",
     "name": "Cuphead #1",
     "date": "2022-07-02",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1520246163.torrent",
     "games": ["cuphead"]
   },
   "1521217271": {
@@ -9597,10 +9595,10 @@
   },
   "1560730593": {
     "youtube": "uoOQYh1KIds", "abs_start": "0:00", "abs_end": "5:59:51", "duration": "5:59:51",
-    "name": "The Hobbit",
+    "name": "The Hobbit #1",
     "date": "2022-08-13",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1560730593.torrent",
-    "games": ["first-2022"]
+    "games": ["hobbit"]
   },
   "1561677559": {
     "youtube": "c-iFtnSKLwQ", "abs_start": "0:00", "abs_end": "4:48:40", "duration": "4:48:40",
@@ -9639,11 +9637,18 @@
     "games": ["single", "first-2022"]
   },
   "1573052503": {
-    "abs_start": "0:00", "abs_end": "6:16:43", "duration": "0:00",
+    "youtube": "qFS4leOWwxM", "abs_start": "0:00", "abs_end": "6:16:24", "duration": "6:16:24",
     "name": "Pepsiman / Ballerburg / Dune 2000 / Driver",
     "date": "2022-08-26",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1573052503.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1573052503.torrent",
     "games": ["first-2022"]
+  },
+  "1573991268": {
+    "abs_start": "0:00", "abs_end": "6:21:56", "duration": "0:00",
+    "name": "The Hobbit #2",
+    "date": "2022-08-27",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1573991268.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1573991268.torrent",
+    "games": ["hobbit"]
   }
 }
