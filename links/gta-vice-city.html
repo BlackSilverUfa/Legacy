@@ -345,13 +345,13 @@
       </a>
     </span>
     <span class="badge badge-secondary">
-      <a href="https://bsu.drhx.ru/chats/generated/v1206191026+0.ass">
+      <a href="https://bsu.drhx.ru/chats/2021/v1206191026.ass">
         <i class="fas fa-comments"></i> 24879
       </a>
     </span>
-    <span class="badge badge-success">
-      <a href="https://www.youtube.com/watch?v=AX0-z7KVbSE" target="_blank">
-        <i class="fab fa-youtube"></i> AX0-z7KVbSE
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.thedrhax.pw/streams/1206191026.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -427,12 +427,17 @@
     <li><a data-value="14874">4:07:54</a> — ( ͡° ͜ʖ ͡°)</li>
   </ul>
 
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li><a data-value="15473">4:17:53</a> - <a data-value="15510">4:18:30</a> — David Lee Roth - Yankee Rose</li>
+  </ul>
+
       <li>Grand Theft Auto: San Andreas:</li>
   <ul>
-    <li><a data-value="16191">4:29:51</a> — Меню</li>
-    <li><a data-value="16309">4:31:49</a> — Интро</li>
-    <li><a data-value="16491">4:34:51</a> — Ah shit, here we go again</li>
-    <li><a data-value="16505">4:35:05</a> — Игра</li>
+    <li><a data-value="16226">4:30:26</a> — Меню</li>
+    <li><a data-value="16344">4:32:24</a> — Интро</li>
+    <li><a data-value="16526">4:35:26</a> — Ah shit, here we go again</li>
+    <li><a data-value="16540">4:35:40</a> — Игра</li>
   </ul>
 
   </ul>
@@ -441,13 +446,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="3" data-hash="1206191026" data-subtitles="https://bsu.drhx.ru/chats/generated/v1206191026+0.ass" data-start="11981" data-name="Definitive Edition #1" data-youtube="AX0-z7KVbSE" />
+  <p class="stream" data-id="3" data-hash="1206191026" data-subtitles="https://bsu.drhx.ru/chats/2021/v1206191026.ass" data-start="11981" data-name="Definitive Edition #1" data-direct="https://bsufiles.thedrhax.pw/streams/1206191026.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/generated/v1206191026+0.ass --start=11981 ytdl://AX0-z7KVbSE
+  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2021/v1206191026.ass --start=11981 https://bsufiles.thedrhax.pw/streams/1206191026.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://bsu.drhx.ru/chats/2021/v1206191026.ass --start=11981" --player-passthrough hls twitch.tv/videos/1206191026 best
 </code></pre>
 </div>
 
