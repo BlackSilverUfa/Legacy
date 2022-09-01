@@ -9666,5 +9666,13 @@
     "offsets": [0, 10523],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1575034539,1575155040.torrent",
     "games": ["single", "first-2022"]
+  },
+  "1578740848": {
+    "abs_start": "0:00", "abs_end": "6:03:52", "duration": "0:00",
+    "name": "Security Booth: Director's Cut / The Bridge Curse: Road To Salvation",
+    "date": "2022-09-01",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1578740848.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1578740848.torrent",
+    "games": ["single", "first-2022"]
   }
 }

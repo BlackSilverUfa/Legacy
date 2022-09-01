@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "barbie-explorer", "segment": "1559742064", "name": "Barbie: Explorer #2 / Twisted Metal: Small Brawl / Hercules / Chessmaster II", "start": 0},
       {"id": "hobbit", "segment": "1560730593", "name": "The Hobbit #1", "start": 0},
       {"id": "single", "segment": "1561677559", "name": "The Nameless (демо) / ROMUT / Another Princess is in Our Castle (демо) / Dinner With Strangers (демо) / Dread X Collection: The Hunt / Home / SCP: Nukalypse #2 / Luggage / Soles' Quay / The Polaroid Killer / There is a Man in the Attic / The Hole in the Car", "start": 0},
       {"id": "first-2022", "segment": "1563545448", "name": "Self-Delusion / Noch - Релиз / Escape the Backrooms / MONSTRUM 2 #2", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "single", "segment": "1572044648", "name": "EXP: War Trauma / Outbreak Island: Pendulum / Soulstice (демо) / Mirror Forge (демо) / Super Catboy", "start": 0},
       {"id": "first-2022", "segment": "1573052503", "name": "Pepsiman / Ballerburg / Dune 2000 / Driver", "start": 0},
       {"id": "hobbit", "segment": "1573991268", "name": "The Hobbit #2", "start": 0},
-      {"id": "single", "segment": "1575034539,1575155040", "name": "Vilomah (демо) / Sinner 97 / Dead Beacon (демо) / The Door You Can Never Open (демо) / Open Door (демо) / Solitude Underwater / Unreasoning Fear / Traumada / Starless", "start": 0}
+      {"id": "single", "segment": "1575034539,1575155040", "name": "Vilomah (демо) / Sinner 97 / Dead Beacon (демо) / The Door You Can Never Open (демо) / Open Door (демо) / Solitude Underwater / Unreasoning Fear / Traumada / Starless", "start": 0},
+      {"id": "single", "segment": "1578740848", "name": "Security Booth: Director's Cut / The Bridge Curse: Road To Salvation", "start": 0}
     ]
   },
   "finished": {
@@ -410,7 +410,8 @@
       {"id": "single", "segment": "1575034539,1575155040", "name": "The Door You Can Never Open (демо)", "start": 7445},
       {"id": "single", "segment": "1575034539,1575155040", "name": "Open Door (демо)", "start": 8263},
       {"id": "single", "segment": "1575034539,1575155040", "name": "Solitude Underwater", "start": 9408},
-      {"id": "single", "segment": "1575034539,1575155040", "name": "Traumada", "start": 12338}
+      {"id": "single", "segment": "1575034539,1575155040", "name": "Traumada", "start": 12338},
+      {"id": "single", "segment": "1578740848", "name": "Security Booth: Director's Cut", "start": 2343}
     ]
   },
   "first": {
@@ -879,7 +880,8 @@
       {"id": "first-2022", "segment": "1573052503", "name": "Driver", "start": 18382},
       {"id": "first-2022", "segment": "1575034539,1575155040", "name": "Sinner 97", "start": 2506},
       {"id": "first-2022", "segment": "1575034539,1575155040", "name": "Unreasoning Fear", "start": 10494},
-      {"id": "first-2022", "segment": "1575034539,1575155040", "name": "Starless", "start": 18568}
+      {"id": "first-2022", "segment": "1575034539,1575155040", "name": "Starless", "start": 18568},
+      {"id": "first-2022", "segment": "1578740848", "name": "The Bridge Curse: Road To Salvation", "start": 13218}
     ]
   },
   "ongoing": {
