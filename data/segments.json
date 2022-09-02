@@ -9378,7 +9378,6 @@
     "youtube": "CxNBfQVRC-s", "abs_start": "0:00", "abs_end": "6:23:59", "duration": "6:23:59",
     "name": "Cuphead #2 / Cuphead - The Delicious Last Course #1",
     "date": "2022-07-05",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1522945141.torrent",
     "games": ["cuphead"]
   },
   "1525875843": {
@@ -9668,11 +9667,18 @@
     "games": ["single", "first-2022"]
   },
   "1578740848": {
-    "abs_start": "0:00", "abs_end": "6:03:52", "duration": "0:00",
+    "youtube": "8VTlHD1tfXA", "abs_start": "0:00", "abs_end": "6:03:24", "duration": "6:03:24",
     "name": "Security Booth: Director's Cut / The Bridge Curse: Road To Salvation",
     "date": "2022-09-01",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1578740848.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1578740848.torrent",
     "games": ["single", "first-2022"]
+  },
+  "1579576285": {
+    "abs_start": "0:00", "abs_end": "8:40:45", "duration": "0:00",
+    "name": "The Last of Us: Part I",
+    "date": "2022-09-02",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1579576285.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1579576285.torrent",
+    "games": ["first-2022"]
   }
 }
