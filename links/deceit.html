@@ -233,9 +233,9 @@
         <i class="fas fa-comments"></i> 19278
       </a>
     </span>
-    <span class="badge badge-success">
-      <a href="https://www.youtube.com/watch?v=BL6BrZRmRts" target="_blank">
-        <i class="fab fa-youtube"></i> BL6BrZRmRts
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.thedrhax.pw/streams/202631693.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -250,6 +250,11 @@
     <li>Таймкоды:</li>
   <ul>
     <li><a data-value="1260">21:00</a> — Human: Fall Flat</li>
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li><a data-value="11830">3:17:10</a> - <a data-value="11896">3:18:16</a> — Henry Mancini & His Orchestra and Chorus - The Pink Panther Theme</li>
+  </ul>
+
     <li><a data-value="15840">4:24:00</a> — Deceit</li>
   </ul>
 
@@ -257,13 +262,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="2" data-hash="202631693" data-subtitles="https://bsu.drhx.ru/chats/2017/v202631693.ass" data-start="15840" data-name="3" data-youtube="BL6BrZRmRts" />
+  <p class="stream" data-id="2" data-hash="202631693" data-subtitles="https://bsu.drhx.ru/chats/2017/v202631693.ass" data-start="15840" data-name="3" data-direct="https://bsufiles.thedrhax.pw/streams/202631693.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2017/v202631693.ass --start=15840 ytdl://BL6BrZRmRts
+  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2017/v202631693.ass --start=15840 https://bsufiles.thedrhax.pw/streams/202631693.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://bsu.drhx.ru/chats/2017/v202631693.ass --start=15840" --player-passthrough hls twitch.tv/videos/202631693 best
 </code></pre>
 </div>
 
