@@ -9399,7 +9399,6 @@
     "youtube": "CzT80j6Kvic", "abs_start": "0:00", "abs_end": "4:32:56", "duration": "4:32:56",
     "name": "MADiSON #2 / Nancy Drew: Danger by Design (Нэнси Дрю. Платье для первой леди) #2",
     "date": "2022-07-10",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1527725425.torrent",
     "games": ["madison", "nancy-drew-dbd"]
   },
   "1528664321": {
@@ -9681,12 +9680,19 @@
     "games": ["tlou"]
   },
   "1580576439": {
-    "abs_start": "0:00", "abs_end": "8:15:51", "duration": "0:00",
+    "youtube": "xnitllCNQJc", "abs_start": "0:00", "abs_end": "8:15:28", "duration": "8:14:56",
     "name": "The Last of Us: Part I #2",
     "date": "2022-09-03",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1580576439.mp4",
     "cuts": [[17744, 17776]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1580576439.torrent",
+    "games": ["tlou"]
+  },
+  "1581571795": {
+    "abs_start": "0:00", "abs_end": "5:11:21", "duration": "0:00",
+    "name": "The Last of Us: Part I #3 / The Last of Us: Part I - DLC: Left Behind",
+    "date": "2022-09-04",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1581571795.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1581571795.torrent",
     "games": ["tlou"]
   }
 }

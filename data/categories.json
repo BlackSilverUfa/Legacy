@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "first-2022", "segment": "1563545448", "name": "Self-Delusion / Noch - Релиз / Escape the Backrooms / MONSTRUM 2 #2", "start": 0},
       {"id": "co-op", "segment": "1564505950", "name": "Way of the Hunter", "start": 0},
       {"id": "first-2022", "segment": "1570142913", "name": "Saints Row (2022) / Gamescom #2022", "start": 0},
       {"id": "single", "segment": "1572044648", "name": "EXP: War Trauma / Outbreak Island: Pendulum / Soulstice (демо) / Mirror Forge (демо) / Super Catboy", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "single", "segment": "1575034539,1575155040", "name": "Vilomah (демо) / Sinner 97 / Dead Beacon (демо) / The Door You Can Never Open (демо) / Open Door (демо) / Solitude Underwater / Unreasoning Fear / Traumada / Starless", "start": 0},
       {"id": "single", "segment": "1578740848", "name": "Security Booth: Director's Cut / The Bridge Curse: Road To Salvation", "start": 0},
       {"id": "tlou", "segment": "1579576285", "name": "The Last of Us: Part I #1", "start": 0},
-      {"id": "tlou", "segment": "1580576439", "name": "The Last of Us: Part I #2", "start": 0}
+      {"id": "tlou", "segment": "1580576439", "name": "The Last of Us: Part I #2", "start": 0},
+      {"id": "tlou", "segment": "1581571795", "name": "The Last of Us: Part I #3 / The Last of Us: Part I - DLC: Left Behind", "start": 0}
     ]
   },
   "finished": {
@@ -411,7 +411,8 @@
       {"id": "single", "segment": "1575034539,1575155040", "name": "Open Door (демо)", "start": 8263},
       {"id": "single", "segment": "1575034539,1575155040", "name": "Solitude Underwater", "start": 9408},
       {"id": "single", "segment": "1575034539,1575155040", "name": "Traumada", "start": 12338},
-      {"id": "single", "segment": "1578740848", "name": "Security Booth: Director's Cut", "start": 2343}
+      {"id": "single", "segment": "1578740848", "name": "Security Booth: Director's Cut", "start": 2343},
+      {"name": "The Last of Us: Part I", "id": "tlou", "segment": "1579576285"}
     ]
   },
   "first": {
@@ -891,8 +892,7 @@
       {"name": "Cult of the Lamb", "id": "cult-ot-lamb", "segment": "1502569152"},
       {"name": "Barbie: Explorer", "id": "barbie-explorer", "segment": "1522102243"},
       {"name": "Peepo Island", "id": "peepo-island", "segment": "1542254440"},
-      {"name": "The Hobbit", "id": "hobbit", "segment": "1560730593"},
-      {"name": "The Last of Us: Part I", "id": "tlou", "segment": "1579576285"}
+      {"name": "The Hobbit", "id": "hobbit", "segment": "1560730593"}
     ]
   },
   "infinite": {
