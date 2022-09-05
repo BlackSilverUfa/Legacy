@@ -5850,10 +5850,10 @@
   },
   "654380816,655265437,655528246,656257835": {
     "youtube": "ZBHv3E0ZDHo", "abs_start": "0:00", "abs_end": "28:04:29", "duration": "28:04:29",
-    "name": "The Last of Us: Part II",
+    "name": "The Last of Us: Part II - Прохождение",
     "date": "2020-06-18",
     "offsets": [0, 27133, 51200, 62012],
-    "games": ["single"]
+    "games": ["tlou2"]
   },
   "658127870": {
     "youtube": "Rb25ko56u-s", "abs_start": "0:00", "abs_end": "5:48:03", "duration": "5:48:03",
@@ -9406,14 +9406,12 @@
     "name": "Fighting Force / Broken Sword: Shadow of the Templars",
     "date": "2022-07-11",
     "cuts": [[9484, 9515]],
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1528664321.torrent",
     "games": ["first-2022"]
   },
   "1529607663": {
     "youtube": "lqKxJqcx7uI", "abs_start": "0:00", "abs_end": "5:19:09", "duration": "5:19:09",
     "name": "Cuphead - The Delicious Last Course #2",
     "date": "2022-07-12",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1529607663.torrent",
     "games": ["cuphead"]
   },
   "1530567140": {
@@ -9688,11 +9686,18 @@
     "games": ["tlou"]
   },
   "1581571795": {
-    "abs_start": "0:00", "abs_end": "5:11:21", "duration": "0:00",
+    "youtube": "WsUGfIVEJ-g", "abs_start": "0:00", "abs_end": "5:10:54", "duration": "5:10:54",
     "name": "The Last of Us: Part I #3 / The Last of Us: Part I - DLC: Left Behind",
     "date": "2022-09-04",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1581571795.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1581571795.torrent",
     "games": ["tlou"]
+  },
+  "1582452440": {
+    "abs_start": "0:00", "abs_end": "8:28:42", "duration": "0:00",
+    "name": "The Last of Us: Part II #1 (заново)",
+    "date": "2022-09-05",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1582452440.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1582452440.torrent",
+    "games": ["tlou2"]
   }
 }
