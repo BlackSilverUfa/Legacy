@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "first-2022", "segment": "1570142913", "name": "Saints Row (2022) / Gamescom #2022", "start": 0},
       {"id": "single", "segment": "1572044648", "name": "EXP: War Trauma / Outbreak Island: Pendulum / Soulstice (демо) / Mirror Forge (демо) / Super Catboy", "start": 0},
       {"id": "first-2022", "segment": "1573052503", "name": "Pepsiman / Ballerburg / Dune 2000 / Driver", "start": 0},
       {"id": "hobbit", "segment": "1573991268", "name": "The Hobbit #2", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "tlou", "segment": "1579576285", "name": "The Last of Us: Part I #1", "start": 0},
       {"id": "tlou", "segment": "1580576439", "name": "The Last of Us: Part I #2", "start": 0},
       {"id": "tlou", "segment": "1581571795", "name": "The Last of Us: Part I #3 / The Last of Us: Part I - DLC: Left Behind", "start": 0},
-      {"id": "tlou2", "segment": "1582452440", "name": "The Last of Us: Part II #1 (заново)", "start": 0}
+      {"id": "tlou2", "segment": "1582452440", "name": "The Last of Us: Part II #1 (заново)", "start": 0},
+      {"id": "gloomwood", "segment": "1583467635", "name": "Gloomwood - Ранний доступ", "start": 0}
     ]
   },
   "finished": {
@@ -616,7 +616,6 @@
       {"id": "first-2020", "segment": "639075772", "name": "Someday You'll Return", "start": 11484},
       {"id": "first-2020", "segment": "644774531", "name": "SOLUM", "start": 16233},
       {"id": "first-2020", "segment": "645734946", "name": "The Disappearance of the Mitchels", "start": 18953},
-      {"id": "first-2020", "segment": "653411860", "name": "Gloomwood", "start": 9238},
       {"id": "first-2020", "segment": "653411860", "name": "Among Trees", "start": 14399},
       {"id": "first-2020", "segment": "653411860", "name": "Hello Guest", "start": 18772},
       {"id": "first-2020", "segment": "661040084", "name": "SpongeBob SquarePants: Battle for Bikini Bottom — Rehydrated", "start": 0},
@@ -888,6 +887,7 @@
   "ongoing": {
     "name": "Активные",
     "games": [
+      {"name": "Gloomwood", "id": "gloomwood", "segment": "653411860"},
       {"name": "Noch", "id": "noch", "segment": "869571796"},
       {"name": "Cult of the Lamb", "id": "cult-ot-lamb", "segment": "1502569152"},
       {"name": "Barbie: Explorer", "id": "barbie-explorer", "segment": "1522102243"},

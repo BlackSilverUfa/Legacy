@@ -5820,9 +5820,9 @@
   },
   "653411860": {
     "youtube": "k13C51HA-RE", "abs_start": "0:00", "abs_end": "6:11:39", "duration": "6:11:39",
-    "name": "Haven - Демо / Hardspace: Shipbreaker #1 / Gloomwood / Among Trees / Hello Guest",
+    "name": "Haven - Демо / Hardspace: Shipbreaker #1 / Gloomwood - Демо / Among Trees / Hello Guest",
     "date": "2020-06-17",
-    "games": ["haven", "hardspace-shipbreaker", "first-2020"]
+    "games": ["haven", "hardspace-shipbreaker", "gloomwood", "first-2020"]
   },
   "654380816": {
     "abs_start": "0:00", "abs_end": "7:32:11", "duration": "0:00",
@@ -9418,7 +9418,6 @@
     "youtube": "pL9CVRfeSEw", "abs_start": "0:00", "abs_end": "4:58:04", "duration": "4:58:04",
     "name": "Fall Guys #15 (с чатом) / I'm on Observation Duty - Часть 5 #1",
     "date": "2022-07-13",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1530567140.torrent",
     "games": ["fall-guys", "observation-duty"]
   },
   "1531483751": {
@@ -9426,7 +9425,6 @@
     "name": "Bayonetta",
     "date": "2022-07-14",
     "cuts": [[14728, 14759]],
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1531483751.torrent",
     "games": ["first-2022"]
   },
   "1533471620": {
@@ -9693,11 +9691,19 @@
     "games": ["tlou"]
   },
   "1582452440": {
-    "abs_start": "0:00", "abs_end": "8:28:42", "duration": "0:00",
+    "youtube": "WGHp3z0eRWI", "abs_start": "0:00", "abs_end": "8:28:40", "duration": "8:28:40",
     "name": "The Last of Us: Part II #1 (заново)",
     "date": "2022-09-05",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1582452440.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1582452440.torrent",
     "games": ["tlou2"]
+  },
+  "1583467635": {
+    "abs_start": "0:00", "abs_end": "5:40:17", "duration": "0:00",
+    "name": "Gloomwood - Ранний доступ",
+    "date": "2022-09-06",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1583467635.mp4",
+    "cuts": [[10349, 10379]],
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1583467635.torrent",
+    "games": ["gloomwood"]
   }
 }
