@@ -3,8 +3,7 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "single", "segment": "1572044648", "name": "EXP: War Trauma / Outbreak Island: Pendulum / Soulstice (демо) / Mirror Forge (демо) / Super Catboy", "start": 0},
-      {"id": "first-2022", "segment": "1573052503", "name": "Pepsiman / Ballerburg / Dune 2000 / Driver", "start": 0},
+      {"id": "retro", "segment": "1573052503", "name": "Вечер Ретро Игр (ВРИ) #6 / Pepsiman / Ballerburg / Dune 2000 / Driver", "start": 0},
       {"id": "hobbit", "segment": "1573991268", "name": "The Hobbit #2", "start": 0},
       {"id": "single", "segment": "1575034539,1575155040", "name": "Vilomah (демо) / Sinner 97 / Dead Beacon (демо) / The Door You Can Never Open (демо) / Open Door (демо) / Solitude Underwater / Unreasoning Fear / Traumada / Starless", "start": 0},
       {"id": "single", "segment": "1578740848", "name": "Security Booth: Director's Cut / The Bridge Curse: Road To Salvation", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "tlou", "segment": "1580576439", "name": "The Last of Us: Part I #2", "start": 0},
       {"id": "tlou", "segment": "1581571795", "name": "The Last of Us: Part I #3 / The Last of Us: Part I - DLC: Left Behind", "start": 0},
       {"id": "tlou2", "segment": "1582452440", "name": "The Last of Us: Part II #1 (заново)", "start": 0},
-      {"id": "gloomwood", "segment": "1583467635", "name": "Gloomwood - Ранний доступ", "start": 0}
+      {"id": "gloomwood", "segment": "1583467635", "name": "Gloomwood - Ранний доступ", "start": 0},
+      {"id": "hobbit", "segment": "1585224225", "name": "The Hobbit #3", "start": 0}
     ]
   },
   "finished": {
@@ -396,6 +396,7 @@
       {"id": "single", "segment": "1537269313", "name": "As Dusk Falls", "start": 721},
       {"id": "single", "segment": "1558782985", "name": "From The Darkness", "start": 5239},
       {"name": "Iron Lung", "id": "iron-lung", "segment": "1558782985"},
+      {"name": "The Hobbit", "id": "hobbit", "segment": "1560730593"},
       {"id": "single", "segment": "1561677559", "name": "The Nameless (демо)", "start": 1820},
       {"id": "single", "segment": "1561677559", "name": "ROMUT", "start": 3162},
       {"id": "single", "segment": "1561677559", "name": "Another Princess is in Our Castle (демо)", "start": 3968},
@@ -896,8 +897,7 @@
       {"name": "Noch", "id": "noch", "segment": "869571796"},
       {"name": "Cult of the Lamb", "id": "cult-ot-lamb", "segment": "1502569152"},
       {"name": "Barbie: Explorer", "id": "barbie-explorer", "segment": "1522102243"},
-      {"name": "Peepo Island", "id": "peepo-island", "segment": "1542254440"},
-      {"name": "The Hobbit", "id": "hobbit", "segment": "1560730593"}
+      {"name": "Peepo Island", "id": "peepo-island", "segment": "1542254440"}
     ]
   },
   "infinite": {
@@ -946,7 +946,8 @@
       {"name": "Riders Republic", "id": "riders-republic", "segment": "1129996087"},
       {"name": "Battlefield 2042", "id": "bf-2042", "segment": "1168913564"},
       {"name": "Daymare: 1994 Sandcastle", "id": "daymare-1994-sc", "segment": "1306396434"},
-      {"name": "SCP: Nukalypse", "id": "scp-nukalypse", "segment": "1458654778"}
+      {"name": "SCP: Nukalypse", "id": "scp-nukalypse", "segment": "1458654778"},
+      {"name": "Вечер Ретро Игр (ВРИ)", "id": "retro", "segment": "1522102243"}
     ]
   },
   "abandoned": {

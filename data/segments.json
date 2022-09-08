@@ -9372,9 +9372,9 @@
   },
   "1522102243": {
     "youtube": "S-O7UGkVtKI", "abs_start": "0:00", "abs_end": "6:18:25", "duration": "6:18:25",
-    "name": "Xena: Warrior Princess / Spider-Man 2: Enter Electro / Barbie: Explorer #1",
+    "name": "Вечер Ретро Игр (ВРИ) #1 / Xena: Warrior Princess / Spider-Man 2: Enter Electro / Barbie: Explorer #1",
     "date": "2022-07-04",
-    "games": ["first-2022", "barbie-explorer"]
+    "games": ["retro", "first-2022", "barbie-explorer"]
   },
   "1522945141": {
     "youtube": "CxNBfQVRC-s", "abs_start": "0:00", "abs_end": "6:23:59", "duration": "6:23:59",
@@ -9403,10 +9403,10 @@
   },
   "1528664321": {
     "youtube": "_SQ7Fbk7-iQ", "abs_start": "0:00", "abs_end": "5:04:53", "duration": "5:04:22",
-    "name": "Fighting Force / Broken Sword: Shadow of the Templars",
+    "name": "Вечер Ретро Игр (ВРИ) #2 / Fighting Force / Broken Sword: Shadow of the Templars",
     "date": "2022-07-11",
     "cuts": [[9484, 9515]],
-    "games": ["first-2022"]
+    "games": ["retro", "first-2022"]
   },
   "1529607663": {
     "youtube": "lqKxJqcx7uI", "abs_start": "0:00", "abs_end": "5:19:09", "duration": "5:19:09",
@@ -9488,10 +9488,10 @@
   },
   "1543244527": {
     "youtube": "NPLyiKWbSfQ", "abs_start": "0:00", "abs_end": "5:40:25", "duration": "5:40:25",
-    "name": "Road Rash / Contra: Hard Corps",
+    "name": "Вечер Ретро Игр (ВРИ) #3 / Road Rash / Contra: Hard Corps",
     "date": "2022-07-26",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1543244527.torrent",
-    "games": ["first-2022"]
+    "games": ["retro", "first-2022"]
   },
   "1544246712": {
     "youtube": "6pahUbiIs1c", "abs_start": "0:00", "abs_end": "6:06:25", "duration": "6:05:55",
@@ -9540,10 +9540,10 @@
   },
   "1552996641": {
     "youtube": "bG7CXJ7zDzQ", "abs_start": "0:00", "abs_end": "4:29:10", "duration": "4:29:10",
-    "name": "Mortal Kombat / Michael Jackson's Moonwalker / Goofy's Hysterical History Tour",
+    "name": "Вечер Ретро Игр (ВРИ) #4 / Mortal Kombat / Michael Jackson's Moonwalker / Goofy's Hysterical History Tour",
     "date": "2022-08-05",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1552996641.torrent",
-    "games": ["first-2022"]
+    "games": ["retro", "first-2022"]
   },
   "1554911752": {
     "youtube": "JEgx4IhC8aE", "abs_start": "0:00", "abs_end": "6:24:09", "duration": "6:24:09",
@@ -9575,10 +9575,10 @@
   },
   "1559742064": {
     "youtube": "NqrXqyUqx9s", "abs_start": "0:00", "abs_end": "5:23:10", "duration": "5:23:10",
-    "name": "Barbie: Explorer #2 / Twisted Metal: Small Brawl / Hercules / Chessmaster II",
+    "name": "Вечер Ретро Игр (ВРИ) #5 / Barbie: Explorer #2 / Twisted Metal: Small Brawl / Hercules / Chessmaster II",
     "date": "2022-08-12",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1559742064.torrent",
-    "games": ["barbie-explorer", "first-2022"]
+    "games": ["retro", "barbie-explorer", "first-2022"]
   },
   "1560730593": {
     "youtube": "uoOQYh1KIds", "abs_start": "0:00", "abs_end": "5:59:51", "duration": "5:59:51",
@@ -9625,10 +9625,10 @@
   },
   "1573052503": {
     "youtube": "qFS4leOWwxM", "abs_start": "0:00", "abs_end": "6:16:24", "duration": "6:16:24",
-    "name": "Pepsiman / Ballerburg / Dune 2000 / Driver",
+    "name": "Вечер Ретро Игр (ВРИ) #6 / Pepsiman / Ballerburg / Dune 2000 / Driver",
     "date": "2022-08-26",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1573052503.torrent",
-    "games": ["first-2022"]
+    "games": ["retro", "first-2022"]
   },
   "1573991268": {
     "youtube": "MjRZQFHBg2w", "abs_start": "0:00", "abs_end": "6:21:53", "duration": "6:21:53",
@@ -9704,5 +9704,13 @@
     "cuts": [[10349, 10379]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1583467635.torrent",
     "games": ["gloomwood"]
+  },
+  "1585224225": {
+    "abs_start": "0:00", "abs_end": "5:23:20", "duration": "0:00",
+    "name": "The Hobbit #3",
+    "date": "2022-09-08",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1585224225.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1585224225.torrent",
+    "games": ["hobbit"]
   }
 }
