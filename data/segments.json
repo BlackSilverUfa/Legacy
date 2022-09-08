@@ -8405,9 +8405,9 @@
   },
   "1199578310": {
     "youtube": "QY35fQk_dKk", "abs_start": "0:00", "abs_end": "5:08:42", "duration": "5:08:42",
-    "name": "DarKnot / Phasmophobia #10 (с Куплиновым и Дангаром)",
+    "name": "DarkNot - Демо 1 / Phasmophobia #10 (с Куплиновым и Дангаром)",
     "date": "2021-11-08",
-    "games": ["first-2021", "phasmophobia"]
+    "games": ["darknot", "phasmophobia"]
   },
   "1200472047": {
     "youtube": "dsqj65AmNio", "abs_start": "0:00", "abs_end": "6:12:07", "duration": "6:11:37",
@@ -9495,18 +9495,18 @@
   },
   "1544246712": {
     "youtube": "6pahUbiIs1c", "abs_start": "0:00", "abs_end": "6:06:25", "duration": "6:05:55",
-    "name": "DarKnot / Aeterna Noctis / Nighthunt / Loopmancer / Peepo Island #2",
+    "name": "DarkNot - Демо 2 / Aeterna Noctis / Nighthunt / Loopmancer / Peepo Island #2",
     "date": "2022-07-27",
     "cuts": [[1755, 1785]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1544246712.torrent",
-    "games": ["todo"]
+    "games": ["darknot", "first-2022", "peepo-island"]
   },
   "1546161309": {
     "youtube": "_CBvVG_y3Go", "abs_start": "0:00", "abs_end": "5:57:16", "duration": "5:57:16",
-    "name": "Peepo Island #3 / Phasmophobia",
+    "name": "Peepo Island #3 / Phasmophobia #15 (с Куплиновым и Дангаром)",
     "date": "2022-07-29",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1546161309.torrent",
-    "games": ["todo"]
+    "games": ["peepo-island", "phasmophobia"]
   },
   "1547156682": {
     "youtube": "cWeYJhpUmS0", "abs_start": "0:00", "abs_end": "6:59:13", "duration": "6:58:43",
@@ -9543,7 +9543,7 @@
     "name": "Mortal Kombat / Michael Jackson's Moonwalker / Goofy's Hysterical History Tour",
     "date": "2022-08-05",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1552996641.torrent",
-    "games": ["todo"]
+    "games": ["first-2022"]
   },
   "1554911752": {
     "youtube": "JEgx4IhC8aE", "abs_start": "0:00", "abs_end": "6:24:09", "duration": "6:24:09",
@@ -9698,10 +9698,9 @@
     "games": ["tlou2"]
   },
   "1583467635": {
-    "abs_start": "0:00", "abs_end": "5:40:17", "duration": "0:00",
+    "youtube": "5DWB4dD5Xi0", "abs_start": "0:00", "abs_end": "5:39:54", "duration": "5:39:24",
     "name": "Gloomwood - Ранний доступ",
     "date": "2022-09-06",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1583467635.mp4",
     "cuts": [[10349, 10379]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1583467635.torrent",
     "games": ["gloomwood"]
