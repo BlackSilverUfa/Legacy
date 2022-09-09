@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "retro", "segment": "1573052503", "name": "Вечер Ретро Игр (ВРИ) #6 / Pepsiman / Ballerburg / Dune 2000 / Driver", "start": 0},
       {"id": "hobbit", "segment": "1573991268", "name": "The Hobbit #2", "start": 0},
       {"id": "single", "segment": "1575034539,1575155040", "name": "Vilomah (демо) / Sinner 97 / Dead Beacon (демо) / The Door You Can Never Open (демо) / Open Door (демо) / Solitude Underwater / Unreasoning Fear / Traumada / Starless", "start": 0},
       {"id": "single", "segment": "1578740848", "name": "Security Booth: Director's Cut / The Bridge Curse: Road To Salvation", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "tlou", "segment": "1581571795", "name": "The Last of Us: Part I #3 / The Last of Us: Part I - DLC: Left Behind", "start": 0},
       {"id": "tlou2", "segment": "1582452440", "name": "The Last of Us: Part II #1 (заново)", "start": 0},
       {"id": "gloomwood", "segment": "1583467635", "name": "Gloomwood - Ранний доступ", "start": 0},
-      {"id": "hobbit", "segment": "1585224225", "name": "The Hobbit #3", "start": 0}
+      {"id": "hobbit", "segment": "1585224225", "name": "The Hobbit #3", "start": 0},
+      {"id": "retro", "segment": "1586147183", "name": "Вечер Ретро Игр (ВРИ) #7 / NHL 2001 / Monster Bass / Revelations: Persona / Carmageddon II", "start": 0}
     ]
   },
   "finished": {
@@ -887,7 +887,11 @@
       {"id": "first-2022", "segment": "1575034539,1575155040", "name": "Sinner 97", "start": 2506},
       {"id": "first-2022", "segment": "1575034539,1575155040", "name": "Unreasoning Fear", "start": 10494},
       {"id": "first-2022", "segment": "1575034539,1575155040", "name": "Starless", "start": 18568},
-      {"id": "first-2022", "segment": "1578740848", "name": "The Bridge Curse: Road To Salvation", "start": 13218}
+      {"id": "first-2022", "segment": "1578740848", "name": "The Bridge Curse: Road To Salvation", "start": 13218},
+      {"id": "first-2022", "segment": "1586147183", "name": "NHL 2001", "start": 2100},
+      {"id": "first-2022", "segment": "1586147183", "name": "Monster Bass", "start": 6565},
+      {"id": "first-2022", "segment": "1586147183", "name": "Revelations: Persona", "start": 11444},
+      {"id": "first-2022", "segment": "1586147183", "name": "Carmageddon II", "start": 16280}
     ]
   },
   "ongoing": {
@@ -896,8 +900,7 @@
       {"name": "Gloomwood", "id": "gloomwood", "segment": "653411860"},
       {"name": "Noch", "id": "noch", "segment": "869571796"},
       {"name": "Cult of the Lamb", "id": "cult-ot-lamb", "segment": "1502569152"},
-      {"name": "Barbie: Explorer", "id": "barbie-explorer", "segment": "1522102243"},
-      {"name": "Peepo Island", "id": "peepo-island", "segment": "1542254440"}
+      {"name": "Barbie: Explorer", "id": "barbie-explorer", "segment": "1522102243"}
     ]
   },
   "infinite": {
@@ -1060,7 +1063,8 @@
       {"name": "Five Nights At Freddy's: Security Breach", "id": "fnaf-sb", "segment": "1238591362"},
       {"name": "Fobia - St. Dinfna Hotel", "id": "fobia", "segment": "1239503220"},
       {"name": "The Heilwald Loophole", "id": "heilwald", "segment": "1445142982"},
-      {"name": "V Rising", "id": "v-rising", "segment": "1312161316"}
+      {"name": "V Rising", "id": "v-rising", "segment": "1312161316"},
+      {"name": "Peepo Island", "id": "peepo-island", "segment": "1542254440"}
     ]
   },
   "co-op": {
