@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "hobbit", "segment": "1573991268", "name": "The Hobbit #2", "start": 0},
       {"id": "single", "segment": "1575034539,1575155040", "name": "Vilomah (демо) / Sinner 97 / Dead Beacon (демо) / The Door You Can Never Open (демо) / Open Door (демо) / Solitude Underwater / Unreasoning Fear / Traumada / Starless", "start": 0},
       {"id": "single", "segment": "1578740848", "name": "Security Booth: Director's Cut / The Bridge Curse: Road To Salvation", "start": 0},
       {"id": "tlou", "segment": "1579576285", "name": "The Last of Us: Part I #1", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "tlou2", "segment": "1582452440", "name": "The Last of Us: Part II #1 (заново)", "start": 0},
       {"id": "gloomwood", "segment": "1583467635", "name": "Gloomwood - Ранний доступ", "start": 0},
       {"id": "hobbit", "segment": "1585224225", "name": "The Hobbit #3", "start": 0},
-      {"id": "retro", "segment": "1586147183", "name": "Вечер Ретро Игр (ВРИ) #7 / NHL 2001 / Monster Bass / Revelations: Persona / Carmageddon II", "start": 0}
+      {"id": "retro", "segment": "1586147183", "name": "Вечер Ретро Игр (ВРИ) #7 / NHL 2001 / Monster Bass / Revelations: Persona / Carmageddon II", "start": 0},
+      {"id": "co-op", "segment": "1587098639", "name": "The Long Drive / Devour #5 / Tricky Towers #33", "start": 0}
     ]
   },
   "finished": {
@@ -1267,7 +1267,8 @@
       {"id": "co-op", "segment": "1261173013", "name": "Monster Hunter Rise", "start": 10627},
       {"id": "co-op", "segment": "1269805961", "name": "Tom Clancy's Rainbow Six Extraction (с WLG и TanyaLOA)", "start": 17827},
       {"name": "Midnight Ghost Hunt", "id": "midnight-gh", "segment": "1449847186"},
-      {"id": "co-op", "segment": "1564505950", "name": "Way of the Hunter", "start": 267}
+      {"id": "co-op", "segment": "1564505950", "name": "Way of the Hunter", "start": 267},
+      {"id": "co-op", "segment": "1587098639", "name": "The Long Drive", "start": 4752}
     ]
   },
   "other": {
