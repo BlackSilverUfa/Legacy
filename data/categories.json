@@ -801,7 +801,6 @@
       {"id": "first-2022", "segment": "1299859703", "name": "Kingdom of the Dead", "start": 10383},
       {"id": "first-2022", "segment": "1300779617", "name": "Horizon Zero Dawn", "start": 0},
       {"id": "first-2022", "segment": "1306396434", "name": "Autopsy Simulator (демо)", "start": 0},
-      {"id": "first-2022", "segment": "1306396434", "name": "Scathe (демо)", "start": 6678},
       {"id": "first-2022", "segment": "1306396434", "name": "Total War: Warhammer III", "start": 14527},
       {"id": "first-2022", "segment": "1307474557", "name": "The Bridge Curse: Road to Salvation (демо)", "start": 5644},
       {"id": "first-2022", "segment": "1307474557", "name": "My Friendly Neighborhood (демо)", "start": 8439},
@@ -867,10 +866,13 @@
       {"id": "first-2022", "segment": "1544246712", "name": "Aeterna Noctis", "start": 6412},
       {"id": "first-2022", "segment": "1544246712", "name": "Nighthunt", "start": 10310},
       {"id": "first-2022", "segment": "1544246712", "name": "Loopmancer", "start": 15222},
+      {"id": "first-2022", "segment": "1547156682", "name": "Survival: Fountain of Youth", "start": 5903},
+      {"id": "first-2022", "segment": "1547156682", "name": "Purple War", "start": 13895},
       {"id": "first-2022", "segment": "1551976425", "name": "Outbreak: Shades of Horror (тизер)", "start": 21288},
       {"id": "first-2022", "segment": "1552996641", "name": "Mortal Kombat", "start": 2771},
       {"id": "first-2022", "segment": "1552996641", "name": "Michael Jackson's Moonwalker", "start": 7487},
       {"id": "first-2022", "segment": "1552996641", "name": "Goofy's Hysterical History Tour", "start": 11998},
+      {"id": "first-2022", "segment": "1555820842", "name": "Serious Duke 3D", "start": 589},
       {"id": "first-2022", "segment": "1557831331", "name": "SCP: Fractured Minds (демо)", "start": 2640},
       {"id": "first-2022", "segment": "1559742064", "name": "Twisted Metal: Small Brawl", "start": 6655},
       {"id": "first-2022", "segment": "1559742064", "name": "Hercules", "start": 11357},
@@ -953,9 +955,11 @@
       {"name": "Ghost Hunters Corp", "id": "ghcorp", "segment": "1095567001,1095811167"},
       {"name": "Riders Republic", "id": "riders-republic", "segment": "1129996087"},
       {"name": "Battlefield 2042", "id": "bf-2042", "segment": "1168913564"},
+      {"name": "Scathe", "id": "scathe", "segment": "1306396434"},
       {"name": "Daymare: 1994 Sandcastle", "id": "daymare-1994-sc", "segment": "1306396434"},
       {"name": "SCP: Nukalypse", "id": "scp-nukalypse", "segment": "1458654778"},
-      {"name": "Вечер Ретро Игр (ВРИ)", "id": "retro", "segment": "1522102243"}
+      {"name": "Вечер Ретро Игр (ВРИ)", "id": "retro", "segment": "1522102243"},
+      {"name": "Ghost Watchers", "id": "ghost-watchers", "segment": "1547156682"}
     ]
   },
   "abandoned": {
@@ -1274,6 +1278,7 @@
       {"id": "co-op", "segment": "1261173013", "name": "Monster Hunter Rise", "start": 10627},
       {"id": "co-op", "segment": "1269805961", "name": "Tom Clancy's Rainbow Six Extraction (с WLG и TanyaLOA)", "start": 17827},
       {"name": "Midnight Ghost Hunt", "id": "midnight-gh", "segment": "1449847186"},
+      {"id": "co-op", "segment": "1555820842", "name": "We Were Here Forever", "start": 9409},
       {"id": "co-op", "segment": "1564505950", "name": "Way of the Hunter", "start": 267},
       {"id": "co-op", "segment": "1587098639", "name": "The Long Drive", "start": 4752}
     ]
@@ -1314,11 +1319,6 @@
       {"id": "events", "segment": "1142576899", "name": "Розыгрыш ROG Zephyrus G14 Alan Walker", "start": 0},
       {"id": "events", "segment": "1193856809", "name": "Розыгрыш ROG Spatha Black USB", "start": 0},
       {"id": "other", "segment": "1248804713", "name": "Новый год 2022 (подарки, нарезки)", "start": 0},
-      {"id": "todo", "segment": "1547156682", "name": "Scathe", "start": 2329},
-      {"id": "todo", "segment": "1547156682", "name": "Survival: Fountain of Youth", "start": 5884},
-      {"id": "todo", "segment": "1547156682", "name": "Ghost Watchers #1", "start": 11128},
-      {"id": "todo", "segment": "1547156682", "name": "Purple War", "start": 13820},
-      {"id": "todo", "segment": "1547156682", "name": "Peepo Island #4", "start": 21345},
       {"id": "todo", "segment": "1548174786", "name": "The Pale", "start": 1400},
       {"id": "todo", "segment": "1548174786", "name": "Auver", "start": 4162},
       {"id": "todo", "segment": "1548174786", "name": "Control Room Alpha", "start": 5215},
@@ -1340,9 +1340,7 @@
       {"id": "todo", "segment": "1554911752", "name": "The Apartment", "start": 16309},
       {"id": "todo", "segment": "1554911752", "name": "Signal", "start": 17821},
       {"id": "todo", "segment": "1554911752", "name": "The Island Mystery", "start": 19567},
-      {"id": "todo", "segment": "1554911752", "name": "Endless days", "start": 20002},
-      {"id": "todo", "segment": "1555820842", "name": "Serious Duke 3D", "start": 522},
-      {"id": "todo", "segment": "1555820842", "name": "We Were Here Forever", "start": 9231}
+      {"id": "todo", "segment": "1554911752", "name": "Endless days", "start": 20002}
     ]
   },
   "expos": {
