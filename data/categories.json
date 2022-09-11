@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "single", "segment": "1575034539,1575155040", "name": "Vilomah (демо) / Sinner 97 / Dead Beacon (демо) / The Door You Can Never Open (демо) / Open Door (демо) / Solitude Underwater / Unreasoning Fear / Traumada / Starless", "start": 0},
       {"id": "single", "segment": "1578740848", "name": "Security Booth: Director's Cut / The Bridge Curse: Road To Salvation", "start": 0},
       {"id": "tlou", "segment": "1579576285", "name": "The Last of Us: Part I #1", "start": 0},
       {"id": "tlou", "segment": "1580576439", "name": "The Last of Us: Part I #2", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "gloomwood", "segment": "1583467635", "name": "Gloomwood - Ранний доступ", "start": 0},
       {"id": "hobbit", "segment": "1585224225", "name": "The Hobbit #3", "start": 0},
       {"id": "retro", "segment": "1586147183", "name": "Вечер Ретро Игр (ВРИ) #7 / NHL 2001 / Monster Bass / Revelations: Persona / Carmageddon II", "start": 0},
-      {"id": "co-op", "segment": "1587098639", "name": "The Long Drive / Devour #5 / Tricky Towers #33", "start": 0}
+      {"id": "co-op", "segment": "1587098639", "name": "The Long Drive / Devour #5 / Tricky Towers #33", "start": 0},
+      {"id": "first-2022", "segment": "1588071501", "name": "The Complex: Found Footage / Lempo (демо) / Mega / The Horrors Recrudesce (демо) / Bias (демо) / Deadly Night / Don't Look", "start": 0}
     ]
   },
   "finished": {
@@ -413,7 +413,12 @@
       {"id": "single", "segment": "1575034539,1575155040", "name": "Solitude Underwater", "start": 9408},
       {"id": "single", "segment": "1575034539,1575155040", "name": "Traumada", "start": 12338},
       {"id": "single", "segment": "1578740848", "name": "Security Booth: Director's Cut", "start": 2343},
-      {"name": "The Last of Us: Part I", "id": "tlou", "segment": "1579576285"}
+      {"name": "The Last of Us: Part I", "id": "tlou", "segment": "1579576285"},
+      {"id": "single", "segment": "1588071501", "name": "Lempo (демо)", "start": 4812},
+      {"id": "single", "segment": "1588071501", "name": "Mega", "start": 9087},
+      {"id": "single", "segment": "1588071501", "name": "The Horrors Recrudesce (демо)", "start": 10806},
+      {"id": "single", "segment": "1588071501", "name": "Bias (демо)", "start": 13396},
+      {"id": "single", "segment": "1588071501", "name": "Don't Look", "start": 17377}
     ]
   },
   "first": {
@@ -891,16 +896,16 @@
       {"id": "first-2022", "segment": "1586147183", "name": "NHL 2001", "start": 2100},
       {"id": "first-2022", "segment": "1586147183", "name": "Monster Bass", "start": 6565},
       {"id": "first-2022", "segment": "1586147183", "name": "Revelations: Persona", "start": 11444},
-      {"id": "first-2022", "segment": "1586147183", "name": "Carmageddon II", "start": 16280}
+      {"id": "first-2022", "segment": "1586147183", "name": "Carmageddon II", "start": 16280},
+      {"id": "first-2022", "segment": "1588071501", "name": "The Complex: Found Footage", "start": 3233},
+      {"id": "first-2022", "segment": "1588071501", "name": "Deadly Night", "start": 14278}
     ]
   },
   "ongoing": {
     "name": "Активные",
     "games": [
       {"name": "Gloomwood", "id": "gloomwood", "segment": "653411860"},
-      {"name": "Noch", "id": "noch", "segment": "869571796"},
-      {"name": "Cult of the Lamb", "id": "cult-ot-lamb", "segment": "1502569152"},
-      {"name": "Barbie: Explorer", "id": "barbie-explorer", "segment": "1522102243"}
+      {"name": "Noch", "id": "noch", "segment": "869571796"}
     ]
   },
   "infinite": {
@@ -1064,6 +1069,8 @@
       {"name": "Fobia - St. Dinfna Hotel", "id": "fobia", "segment": "1239503220"},
       {"name": "The Heilwald Loophole", "id": "heilwald", "segment": "1445142982"},
       {"name": "V Rising", "id": "v-rising", "segment": "1312161316"},
+      {"name": "Cult of the Lamb", "id": "cult-ot-lamb", "segment": "1502569152"},
+      {"name": "Barbie: Explorer", "id": "barbie-explorer", "segment": "1522102243"},
       {"name": "Peepo Island", "id": "peepo-island", "segment": "1542254440"}
     ]
   },
