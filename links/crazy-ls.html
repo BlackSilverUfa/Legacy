@@ -439,9 +439,9 @@
         <i class="fas fa-comments"></i> 20855
       </a>
     </span>
-    <span class="badge badge-success">
-      <a href="https://www.youtube.com/watch?v=oDNppnLl9Ms" target="_blank">
-        <i class="fab fa-youtube"></i> oDNppnLl9Ms
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.thedrhax.pw/streams/538458255.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -469,6 +469,12 @@
       <a data-value="1640">27:20</a> - <a data-value="1803">30:03</a>,
       <a data-value="1807">30:07</a> - <a data-value="1825">30:25</a>
       — Toto - Hold the Line
+    </li>
+    <li>
+      <a data-value="6641">1:50:41</a> - <a data-value="6702">1:51:42</a>,
+      <a data-value="6722">1:52:02</a> - <a data-value="6806">1:53:26</a>,
+      <a data-value="6834">1:53:54</a> - <a data-value="6895">1:54:55</a>
+      — Eddie Money - Two Tickets To Paradise
     </li>
   </ul>
 
@@ -509,13 +515,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="5" data-hash="538458255" data-subtitles="https://bsu.drhx.ru/chats/2020/v538458255.ass" data-start="8466" data-name="6" data-youtube="oDNppnLl9Ms" />
+  <p class="stream" data-id="5" data-hash="538458255" data-subtitles="https://bsu.drhx.ru/chats/2020/v538458255.ass" data-start="8466" data-name="6" data-direct="https://bsufiles.thedrhax.pw/streams/538458255.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2020/v538458255.ass --start=8466 ytdl://oDNppnLl9Ms
+  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2020/v538458255.ass --start=8466 https://bsufiles.thedrhax.pw/streams/538458255.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://bsu.drhx.ru/chats/2020/v538458255.ass --start=8466" --player-passthrough hls twitch.tv/videos/538458255 best
 </code></pre>
 </div>
 
