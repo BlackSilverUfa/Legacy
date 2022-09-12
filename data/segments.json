@@ -781,10 +781,9 @@
     "games": ["nioh"]
   },
   "001702100": {
-    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
+    "youtube": "Wqxf01QlHCk", "official": false, "abs_start": "0:00", "abs_end": "5:21:50", "duration": "5:21:50",
     "name": "Nioh #3",
     "date": "2017-02-10",
-    "direct": "https://bsufiles.thedrhax.pw/streams/001702100.mp4",
     "games": ["nioh"]
   },
   "001702230": {
@@ -9708,27 +9707,24 @@
     "games": ["hobbit"]
   },
   "1586147183": {
-    "abs_start": "0:00", "abs_end": "5:45:30", "duration": "0:00",
+    "youtube": "qqDuW68KENk", "abs_start": "0:00", "abs_end": "5:45:10", "duration": "5:44:39",
     "name": "Вечер Ретро Игр (ВРИ) #7 / NHL 2001 / Monster Bass / Revelations: Persona / Carmageddon II",
     "date": "2022-09-09",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1586147183.mp4",
     "cuts": [[10519, 10550]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1586147183.torrent",
     "games": ["retro", "first-2022"]
   },
   "1587098639": {
-    "abs_start": "0:00", "abs_end": "5:25:12", "duration": "0:00",
+    "youtube": "sa4oa_tolxc", "abs_start": "0:00", "abs_end": "5:24:53", "duration": "5:24:53",
     "name": "The Long Drive / Devour #5 / Tricky Towers #33",
     "date": "2022-09-10",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1587098639.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1587098639.torrent",
     "games": ["co-op", "devour", "tricky-towers"]
   },
   "1588071501": {
-    "abs_start": "0:00", "abs_end": "5:10:42", "duration": "0:00",
+    "youtube": "6kaWdRktmtM", "abs_start": "0:00", "abs_end": "5:10:16", "duration": "5:10:16",
     "name": "The Complex: Found Footage / Lempo (демо) / Mega / The Horrors Recrudesce (демо) / Bias (демо) / Deadly Night / Don't Look",
     "date": "2022-09-11",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1588071501.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1588071501.torrent",
     "games": ["first-2022", "single"]
   }
