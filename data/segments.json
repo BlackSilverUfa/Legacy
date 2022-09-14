@@ -829,9 +829,10 @@
     "games": ["unboxing"]
   },
   "001706060": {
-    "youtube": "JWY1e9gH02A", "abs_start": "0:00", "abs_end": "4:01:06", "duration": "4:01:06",
+    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
     "name": "Guardians of the Galaxy: The Telltale Series - Episode 2 / The Walking Dead: A New Frontier - Episode 5",
     "date": "2017-06-06",
+    "direct": "https://bsufiles.thedrhax.pw/streams/001706060.mp4",
     "games": ["telltale-gotg", "talking-dead-frontier"]
   },
   "001706170": {
@@ -2019,9 +2020,10 @@
     "games": ["first-2018", "ds-remastered"]
   },
   "260957900": {
-    "youtube": "5h6Dqu1gGV0", "official": false, "abs_start": "0:00", "abs_end": "3:56:14", "duration": "3:56:14",
+    "abs_start": "0:00", "abs_end": "3:57:19", "duration": "0:00",
     "name": "Dark Souls 2: Scholar of the First Sin #1",
     "date": "2018-05-13",
+    "direct": "https://bsufiles.thedrhax.pw/streams/260957900.mp4",
     "games": ["ds2-scholar"]
   },
   "262352362": {
@@ -4421,9 +4423,10 @@
     "games": ["remnant-from-the-ashes"]
   },
   "468908083": {
-    "youtube": "BM1ufnmttAk", "abs_start": "0:00", "abs_end": "5:34:11", "duration": "5:34:11",
+    "abs_start": "0:00", "abs_end": "5:34:37", "duration": "0:00",
     "name": "Party Panic #2 / Hot Shot Burn / Mount Your Friends 3D #2 / Havocado #2 / Tricky Towers #17",
     "date": "2019-08-18",
+    "direct": "https://bsufiles.thedrhax.pw/streams/468908083.mp4",
     "games": ["party-panic", "co-op", "mount-your-friends-3d", "havocado", "tricky-towers"]
   },
   "469393130": {
@@ -5094,9 +5097,10 @@
     "games": ["gta-san-andreas"]
   },
   "535374681": {
-    "youtube": "qJNOZKgVPq8", "official": false, "abs_start": "0:00", "abs_end": "5:41:59", "duration": "5:41:59",
+    "abs_start": "0:00", "abs_end": "5:42:10", "duration": "0:00",
     "name": "Grand Theft Auto: San Andreas #4",
     "date": "2020-01-13",
+    "direct": "https://bsufiles.thedrhax.pw/streams/535374681.mp4",
     "games": ["gta-san-andreas"]
   },
   "535873254": {
@@ -5126,9 +5130,10 @@
     "games": ["gta-san-andreas", "crazy-ls"]
   },
   "542106142": {
-    "youtube": "GoYy_OIYiy8", "official": false, "abs_start": "0:00", "abs_end": "5:50:31", "duration": "5:50:31",
+    "abs_start": "0:00", "abs_end": "5:51:09", "duration": "0:00",
     "name": "Grand Theft Auto: San Andreas #6",
     "date": "2020-01-26",
+    "direct": "https://bsufiles.thedrhax.pw/streams/542106142.mp4",
     "games": ["gta-san-andreas"]
   },
   "542613780": {
@@ -5175,10 +5180,9 @@
     "games": ["dead-space-2"]
   },
   "547176657": {
-    "abs_start": "0:00", "abs_end": "6:08:43", "duration": "0:00",
+    "youtube": "N-ZURUWlVK0", "official": false, "abs_start": "0:00", "abs_end": "6:08:14", "duration": "6:08:14",
     "name": "Grand Theft Auto: San Andreas #7 / Destiny 2 #1 (с Triplewipe)",
     "date": "2020-02-05",
-    "direct": "https://bsufiles.thedrhax.pw/streams/547176657.mp4",
     "games": ["gta-san-andreas", "destiny-2"]
   },
   "548170121": {
@@ -9470,14 +9474,12 @@
     "youtube": "82Zn8ZZR-BY", "abs_start": "0:00", "abs_end": "1:40:28", "duration": "1:40:28",
     "name": "Трейлеры #4",
     "date": "2022-07-27",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1541455295.torrent",
     "games": ["trailers"]
   },
   "1542254440": {
     "youtube": "CeLrx5B-s-Q", "abs_start": "0:00", "abs_end": "5:06:20", "duration": "5:06:20",
     "name": "Granny: Chapter Two #2 / Peepo Island #1 / Fall Guys #16 (с чатом)",
     "date": "2022-07-25",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1542254440.torrent",
     "games": ["granny-2", "peepo-island", "fall-guys"]
   },
   "1543244527": {
