@@ -9486,7 +9486,6 @@
     "youtube": "NPLyiKWbSfQ", "abs_start": "0:00", "abs_end": "5:40:25", "duration": "5:40:25",
     "name": "Вечер Ретро Игр (ВРИ) #3 / Road Rash / Contra: Hard Corps",
     "date": "2022-07-26",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1543244527.torrent",
     "games": ["retro", "first-2022"]
   },
   "1544246712": {
@@ -9729,5 +9728,14 @@
     "date": "2022-09-11",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1588071501.torrent",
     "games": ["first-2022", "single"]
+  },
+  "1592425669": {
+    "abs_start": "0:00", "abs_end": "6:10:20", "duration": "0:00",
+    "name": "My Time at Sandrock / Wo Long: Fallen Dynasty (демо)",
+    "date": "2022-09-16",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1592425669.mp4",
+    "cuts": [[1011, 1045], [5605, 5634], [5999, 6065]],
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1592425669.torrent",
+    "games": ["first-2022"]
   }
 }
