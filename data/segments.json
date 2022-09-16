@@ -829,10 +829,9 @@
     "games": ["unboxing"]
   },
   "001706060": {
-    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
+    "youtube": "JWY1e9gH02A", "official": false, "abs_start": "0:00", "abs_end": "4:01:06", "duration": "4:01:06",
     "name": "Guardians of the Galaxy: The Telltale Series - Episode 2 / The Walking Dead: A New Frontier - Episode 5",
     "date": "2017-06-06",
-    "direct": "https://bsufiles.thedrhax.pw/streams/001706060.mp4",
     "games": ["telltale-gotg", "talking-dead-frontier"]
   },
   "001706170": {
@@ -1292,10 +1291,9 @@
     "games": ["middle_earth"]
   },
   "182448131": {
-    "abs_start": "0:00", "abs_end": "4:17:24", "duration": "0:00",
+    "youtube": "IqTeWjugKOE", "abs_start": "0:00", "abs_end": "4:16:19", "duration": "4:16:19",
     "name": "Hand Simulator #2 / Gang Beasts #1 / Duck Game / Move or Die",
     "date": "2017-10-15",
-    "direct": "https://bsufiles.thedrhax.pw/streams/182448131.mp4",
     "games": ["hand-simulator", "gang-beasts", "co-op"]
   },
   "184206477": {
@@ -4423,10 +4421,9 @@
     "games": ["remnant-from-the-ashes"]
   },
   "468908083": {
-    "abs_start": "0:00", "abs_end": "5:34:37", "duration": "0:00",
+    "youtube": "BM1ufnmttAk", "abs_start": "0:00", "abs_end": "5:34:11", "duration": "5:34:11",
     "name": "Party Panic #2 / Hot Shot Burn / Mount Your Friends 3D #2 / Havocado #2 / Tricky Towers #17",
     "date": "2019-08-18",
-    "direct": "https://bsufiles.thedrhax.pw/streams/468908083.mp4",
     "games": ["party-panic", "co-op", "mount-your-friends-3d", "havocado", "tricky-towers"]
   },
   "469393130": {
@@ -5130,10 +5127,9 @@
     "games": ["gta-san-andreas", "crazy-ls"]
   },
   "542106142": {
-    "abs_start": "0:00", "abs_end": "5:51:09", "duration": "0:00",
+    "youtube": "GoYy_OIYiy8", "official": false, "abs_start": "0:00", "abs_end": "5:50:31", "duration": "5:50:31",
     "name": "Grand Theft Auto: San Andreas #6",
     "date": "2020-01-26",
-    "direct": "https://bsufiles.thedrhax.pw/streams/542106142.mp4",
     "games": ["gta-san-andreas"]
   },
   "542613780": {
@@ -8490,9 +8486,10 @@
     "games": ["bf-2042"]
   },
   "1206191026": {
-    "youtube": "aya5gA4KBkA", "official": false, "abs_start": "0:00", "abs_end": "5:57:57", "duration": "5:57:57",
+    "youtube": "aya5gA4KBkA", "official": false, "abs_start": "0:00", "abs_end": "5:58:32", "duration": "5:57:57",
     "name": "Grand Theft Auto III - Definitive Edition / Grand Theft Auto: Vice City - Definitive Edition #1 / Grand Theft Auto: San Andreas - Definitive Edition #1",
     "date": "2021-11-15",
+    "cuts": [[14958, 14993]],
     "games": ["first-2021", "gta-vice-city", "gta-san-andreas"]
   },
   "1207047094": {
