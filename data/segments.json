@@ -9302,9 +9302,9 @@
   },
   "1502569152": {
     "youtube": "8G5QlkS5iPg", "abs_start": "0:00", "abs_end": "6:01:11", "duration": "6:01:11",
-    "name": "Summer Game Fest 2022 - PC Gaming Show (обзор) / SCP: Secret Files (демо) / Cult of the Lamb - Демо / Anger Foot / The Fridge Is Red (демо) / Sker Ritual (демо) / The Last Worker (демо) / Midnight Fight Express (демо)",
+    "name": "Summer Game Fest 2022 - PC Gaming Show (обзор) / SCP: Secret Files - Демо / Cult of the Lamb - Демо / Anger Foot / The Fridge Is Red (демо) / Sker Ritual (демо) / The Last Worker (демо) / Midnight Fight Express (демо)",
     "date": "2022-06-13",
-    "games": ["sgf-22", "first-2022", "cult-ot-lamb"]
+    "games": ["sgf-22", "scp-sf", "cult-ot-lamb", "first-2022"]
   },
   "1503541091": {
     "youtube": "HyMdlr5onM8", "abs_start": "0:00", "abs_end": "3:17:31", "duration": "3:17:31",
@@ -9495,7 +9495,6 @@
     "name": "DarkNot - Демо 2 / Aeterna Noctis / Nighthunt / Loopmancer / Peepo Island #2",
     "date": "2022-07-27",
     "cuts": [[1755, 1785]],
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1544246712.torrent",
     "games": ["darknot", "first-2022", "peepo-island"]
   },
   "1546161309": {
@@ -9738,5 +9737,13 @@
     "cuts": [[1011, 1045], [5605, 5634], [5999, 6065]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1592425669.torrent",
     "games": ["first-2022"]
+  },
+  "1593427175": {
+    "abs_start": "0:00", "abs_end": "5:51:50", "duration": "0:00",
+    "name": "SCP: Secret Files - Прохождение",
+    "date": "2022-09-17",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1593427175.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1593427175.torrent",
+    "games": ["scp-sf"]
   }
 }
