@@ -281,11 +281,6 @@
         <i class="fas fa-comments"></i> 16124
       </a>
     </span>
-    <span class="badge badge-success">
-      <a href="https://www.youtube.com/watch?v=ghj_GCKJmA4" target="_blank">
-        <i class="fab fa-youtube"></i> ghj_GCKJmA4
-      </a>
-    </span>
   </div>
 </div>
 
@@ -302,6 +297,11 @@
   <ul>
     <li><a data-value="1527">25:27</a> — Меню</li>
     <li><a data-value="1735">28:55</a> — Игра</li>
+  </ul>
+
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li><a data-value="6122">1:42:02</a> - <a data-value="6265">1:44:25</a> — Henry Mancini & His Orchestra and Chorus - The Pink Panther Theme</li>
   </ul>
 
       <li>Hollow Knight:</li>
@@ -325,13 +325,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="3" data-hash="397419854" data-subtitles="https://bsu.drhx.ru/chats/2019/v397419854.ass" data-start="10968" data-name="4" data-youtube="ghj_GCKJmA4" />
+  <p class="stream" data-id="3" data-hash="397419854" data-subtitles="https://bsu.drhx.ru/chats/2019/v397419854.ass" data-start="10968" data-name="4" style="display: none" />
 </div>
 
+<p>Запись этого стрима в данный момент отсутствует. Если вы попали сюда по
+прямой ссылке с YouTube, то это значит, что запись уже есть, но сайт ещё не
+обновился. Обычно на это требуется минута или около того, но я оставляю
+комментарий ещё до завершения процесса. Нажмите
+<a href="#" onclick="document.location.reload(); return false;">сюда</a>, чтобы попробовать обновить
+страницу.</p>
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2019/v397419854.ass --start=10968 ytdl://ghj_GCKJmA4
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://bsu.drhx.ru/chats/2019/v397419854.ass --start=10968" --player-passthrough hls twitch.tv/videos/397419854 best
 </code></pre>
 </div>
 

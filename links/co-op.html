@@ -5163,9 +5163,9 @@
         <i class="fas fa-comments"></i> 3527
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=wjs1VKuX0Ns" target="_blank">
-        <i class="fab fa-youtube"></i> wjs1VKuX0Ns
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.thedrhax.pw/streams/1031432095.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -5184,6 +5184,11 @@
     <li><a data-value="881">14:41</a> — Кооп</li>
   </ul>
 
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li><a data-value="3655">1:00:55</a> - <a data-value="3808">1:03:28</a> — Henry Mancini & His Orchestra and Chorus - The Pink Panther Theme</li>
+  </ul>
+
       <li>A House of Thieves:</li>
   <ul>
     <li><a data-value="4321">1:12:01</a> — Меню</li>
@@ -5197,13 +5202,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="58" data-hash="1031432095" data-subtitles="https://bsu.drhx.ru/chats/2021/v1031432095.ass" data-name="Just Die Already / A House of Thieves" data-youtube="wjs1VKuX0Ns" />
+  <p class="stream" data-id="58" data-hash="1031432095" data-subtitles="https://bsu.drhx.ru/chats/2021/v1031432095.ass" data-name="Just Die Already / A House of Thieves" data-direct="https://bsufiles.thedrhax.pw/streams/1031432095.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2021/v1031432095.ass ytdl://wjs1VKuX0Ns
+  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2021/v1031432095.ass https://bsufiles.thedrhax.pw/streams/1031432095.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://bsu.drhx.ru/chats/2021/v1031432095.ass" --player-passthrough hls twitch.tv/videos/1031432095 best
 </code></pre>
 </div>
 
