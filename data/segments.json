@@ -457,9 +457,10 @@
     "games": ["ds3"]
   },
   "001605240": {
-    "youtube": "-_9vZHF-plc", "official": false, "abs_start": "0:00", "abs_end": "5:31:34", "duration": "5:31:34",
+    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
     "name": "Dark Souls 3 #5",
     "date": "2016-05-24",
+    "direct": "https://bsufiles.thedrhax.pw/streams/001605240.mp4",
     "games": ["ds3"]
   },
   "001605270": {
@@ -1364,10 +1365,9 @@
     "games": ["super-mario-odyssey"]
   },
   "202631693": {
-    "abs_start": "0:00", "abs_end": "5:59:18", "duration": "0:00",
+    "youtube": "YMwHa0YUVtA", "official": false, "abs_start": "0:00", "abs_end": "5:58:15", "duration": "5:58:15",
     "name": "Human: Fall Flat #1 / Deceit #3",
     "date": "2017-11-20",
-    "direct": "https://bsufiles.thedrhax.pw/streams/202631693.mp4",
     "games": ["human-fall-flat", "deceit"]
   },
   "203147401": {
@@ -2019,10 +2019,9 @@
     "games": ["first-2018", "ds-remastered"]
   },
   "260957900": {
-    "abs_start": "0:00", "abs_end": "3:57:19", "duration": "0:00",
+    "youtube": "P6_Yye8aNrY", "official": false, "abs_start": "0:00", "abs_end": "3:56:14", "duration": "3:56:14",
     "name": "Dark Souls 2: Scholar of the First Sin #1",
     "date": "2018-05-13",
-    "direct": "https://bsufiles.thedrhax.pw/streams/260957900.mp4",
     "games": ["ds2-scholar"]
   },
   "262352362": {
@@ -9738,10 +9737,9 @@
     "games": ["first-2022"]
   },
   "1593427175": {
-    "abs_start": "0:00", "abs_end": "5:51:50", "duration": "0:00",
+    "youtube": "zuTxAe0SHH0", "abs_start": "0:00", "abs_end": "5:51:47", "duration": "5:51:47",
     "name": "SCP: Secret Files - Прохождение",
     "date": "2022-09-17",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1593427175.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1593427175.torrent",
     "games": ["scp-sf"]
   },
