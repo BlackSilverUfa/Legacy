@@ -3,16 +3,16 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "tlou", "segment": "1580576439", "name": "The Last of Us: Part I #2", "start": 0},
       {"id": "tlou", "segment": "1581571795", "name": "The Last of Us: Part I #3 / The Last of Us: Part I - DLC: Left Behind", "start": 0},
       {"id": "tlou2", "segment": "1582452440", "name": "The Last of Us: Part II #1 (заново)", "start": 0},
       {"id": "gloomwood", "segment": "1583467635", "name": "Gloomwood - Ранний доступ", "start": 0},
       {"id": "hobbit", "segment": "1585224225", "name": "The Hobbit #3", "start": 0},
       {"id": "retro", "segment": "1586147183", "name": "Вечер Ретро Игр (ВРИ) #7 / NHL 2001 / Monster Bass / Revelations: Persona / Carmageddon II", "start": 0},
       {"id": "co-op", "segment": "1587098639", "name": "The Long Drive / Devour #5 / Tricky Towers #33", "start": 0},
-      {"id": "first-2022", "segment": "1588071501", "name": "The Complex: Found Footage / Lempo (демо) / Mega / The Horrors Recrudesce (демо) / Bias (демо) / Deadly Night / Don't Look", "start": 0},
+      {"id": "first-2022", "segment": "1588071501", "name": "The Complex: Found Footage / Lempo (демо) / Mega / The Horrors Recrudesce (демо) / Bias (демо) / Deadly Night #1 / Don't Look", "start": 0},
       {"id": "first-2022", "segment": "1592425669", "name": "My Time at Sandrock / Wo Long: Fallen Dynasty (демо)", "start": 0},
-      {"id": "scp-sf", "segment": "1593427175", "name": "SCP: Secret Files - Прохождение", "start": 0}
+      {"id": "scp-sf", "segment": "1593427175", "name": "SCP: Secret Files - Прохождение", "start": 0},
+      {"id": "deadly-night", "segment": "1594431864", "name": "Deadly Night #2 / Bloodwash / Curley Laboratory", "start": 0}
     ]
   },
   "finished": {
@@ -430,7 +430,9 @@
       {"id": "single", "segment": "1588071501", "name": "Mega", "start": 9087},
       {"id": "single", "segment": "1588071501", "name": "The Horrors Recrudesce (демо)", "start": 10806},
       {"id": "single", "segment": "1588071501", "name": "Bias (демо)", "start": 13396},
-      {"id": "single", "segment": "1588071501", "name": "Don't Look", "start": 17377}
+      {"id": "single", "segment": "1588071501", "name": "Don't Look", "start": 17377},
+      {"name": "Deadly Night", "id": "deadly-night", "segment": "1588071501"},
+      {"id": "single", "segment": "1594431864", "name": "Bloodwash", "start": 12626}
     ]
   },
   "first": {
@@ -916,9 +918,9 @@
       {"id": "first-2022", "segment": "1586147183", "name": "Revelations: Persona", "start": 11444},
       {"id": "first-2022", "segment": "1586147183", "name": "Carmageddon II", "start": 16280},
       {"id": "first-2022", "segment": "1588071501", "name": "The Complex: Found Footage", "start": 3233},
-      {"id": "first-2022", "segment": "1588071501", "name": "Deadly Night", "start": 14278},
       {"id": "first-2022", "segment": "1592425669", "name": "My Time at Sandrock", "start": 11266},
-      {"id": "first-2022", "segment": "1592425669", "name": "Wo Long: Fallen Dynasty (демо)", "start": 15388}
+      {"id": "first-2022", "segment": "1592425669", "name": "Wo Long: Fallen Dynasty (демо)", "start": 15388},
+      {"id": "first-2022", "segment": "1594431864", "name": "Curley Laboratory", "start": 18772}
     ]
   },
   "ongoing": {
