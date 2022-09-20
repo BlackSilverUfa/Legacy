@@ -9743,11 +9743,10 @@
     "games": ["scp-sf"]
   },
   "1594431864": {
-    "abs_start": "0:00", "abs_end": "5:43:21", "duration": "0:00",
+    "youtube": "VZPvPO-LkyE", "abs_start": "0:00", "abs_end": "5:42:58", "duration": "5:33:53",
     "name": "Deadly Night #2 / Bloodwash / Curley Laboratory",
     "date": "2022-09-18",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1594431864.mp4",
-    "cuts": [[10339, 10369]],
+    "cuts": [[10339, 10369], [11145, 11660]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1594431864.torrent",
     "games": ["deadly-night", "single", "first-2022"]
   },
