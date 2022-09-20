@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "tlou2", "segment": "1582452440", "name": "The Last of Us: Part II #1 (заново)", "start": 0},
       {"id": "gloomwood", "segment": "1583467635", "name": "Gloomwood - Ранний доступ", "start": 0},
       {"id": "hobbit", "segment": "1585224225", "name": "The Hobbit #3", "start": 0},
       {"id": "retro", "segment": "1586147183", "name": "Вечер Ретро Игр (ВРИ) #7 / NHL 2001 / Monster Bass / Revelations: Persona / Carmageddon II", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "first-2022", "segment": "1592425669", "name": "My Time at Sandrock / Wo Long: Fallen Dynasty (демо)", "start": 0},
       {"id": "scp-sf", "segment": "1593427175", "name": "SCP: Secret Files - Прохождение", "start": 0},
       {"id": "deadly-night", "segment": "1594431864", "name": "Deadly Night #2 / Bloodwash / Curley Laboratory", "start": 0},
-      {"id": "first-2022", "segment": "1595342822", "name": "Whateverland / S.P.A.T. / Night At the Gates of Hell", "start": 0}
+      {"id": "first-2022", "segment": "1595342822", "name": "Whateverland / S.P.A.T. / Night At the Gates of Hell", "start": 0},
+      {"id": "trash-horror", "segment": "1596223040", "name": "Trash Horror Collection - MOLD / Trash Horror Collection - Poop Killer / Trash Horror Collection - Poop Killer 2 / Trash Horror Collection - Poop Killer 3 / Trash Horror Collection - The Elevator / Trash Horror Collection - Night Revenge / Trash Horror Collection - Thursday the 12th / Trash Horror Collection 2 - R.I.P / Trash Horror Collection 2 - The House of Rats", "start": 0}
     ]
   },
   "finished": {
@@ -370,6 +370,7 @@
       {"id": "single", "segment": "1470152667", "name": "RATUZ", "start": 0},
       {"id": "single", "segment": "1472093056", "name": "Our Lady of Sorrow", "start": 13320},
       {"id": "single", "segment": "1472093056", "name": "The Abyss Has Walls", "start": 14631},
+      {"name": "Trash Horror Collection", "id": "trash-horror", "segment": "1472093056"},
       {"id": "single", "segment": "1494292107", "name": "Exorcist", "start": 12527},
       {"name": "The Backrooms 1998", "id": "backrooms-98", "segment": "1494292107"},
       {"name": "Madagascar", "id": "madagascar", "segment": "1495305113"},
@@ -929,7 +930,8 @@
   "ongoing": {
     "name": "Активные",
     "games": [
-      {"name": "Gloomwood", "id": "gloomwood", "segment": "653411860"}
+      {"name": "Gloomwood", "id": "gloomwood", "segment": "653411860"},
+      {"name": "Trash Horror Collection 2", "id": "trash-horror-2", "segment": "1596223040"}
     ]
   },
   "infinite": {
@@ -1095,7 +1097,6 @@
       {"name": "Five Nights At Freddy's: Security Breach", "id": "fnaf-sb", "segment": "1238591362"},
       {"name": "Fobia - St. Dinfna Hotel", "id": "fobia", "segment": "1239503220"},
       {"name": "The Heilwald Loophole", "id": "heilwald", "segment": "1445142982"},
-      {"name": "Trash Horror Collection", "id": "trash-horror", "segment": "1472093056"},
       {"name": "V Rising", "id": "v-rising", "segment": "1312161316"},
       {"name": "Cult of the Lamb", "id": "cult-ot-lamb", "segment": "1502569152"},
       {"name": "Barbie: Explorer", "id": "barbie-explorer", "segment": "1522102243"},

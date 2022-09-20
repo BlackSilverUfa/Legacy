@@ -9751,11 +9751,18 @@
     "games": ["deadly-night", "single", "first-2022"]
   },
   "1595342822": {
-    "abs_start": "0:00", "abs_end": "6:00:09", "duration": "0:00",
+    "youtube": "Juj_D7Vmmks", "abs_start": "0:00", "abs_end": "6:00:03", "duration": "6:00:03",
     "name": "Whateverland / S.P.A.T. / Night At the Gates of Hell",
     "date": "2022-09-19",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1595342822.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1595342822.torrent",
     "games": ["first-2022", "single"]
+  },
+  "1596223040": {
+    "abs_start": "0:00", "abs_end": "4:22:07", "duration": "0:00",
+    "name": "Trash Horror Collection - MOLD / Trash Horror Collection - Poop Killer / Trash Horror Collection - Poop Killer 2 / Trash Horror Collection - Poop Killer 3 / Trash Horror Collection - The Elevator / Trash Horror Collection - Night Revenge / Trash Horror Collection - Thursday the 12th / Trash Horror Collection 2 - R.I.P / Trash Horror Collection 2 - The House of Rats",
+    "date": "2022-09-20",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1596223040.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1596223040.torrent",
+    "games": ["trash-horror", "trash-horror-2"]
   }
 }
