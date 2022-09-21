@@ -457,10 +457,9 @@
     "games": ["ds3"]
   },
   "001605240": {
-    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
+    "youtube": "-_9vZHF-plc", "official": false, "abs_start": "0:00", "abs_end": "5:31:34", "duration": "5:31:34",
     "name": "Dark Souls 3 #5",
     "date": "2016-05-24",
-    "direct": "https://bsufiles.thedrhax.pw/streams/001605240.mp4",
     "games": ["ds3"]
   },
   "001605270": {
@@ -3711,10 +3710,9 @@
     "games": ["first-2019", "monstrum", "kageroh"]
   },
   "397419854": {
-    "abs_start": "0:00", "abs_end": "5:07:00", "duration": "0:00",
+    "youtube": "0QbU_GA0tHY", "official": false, "abs_start": "0:00", "abs_end": "5:06:35", "duration": "5:06:35",
     "name": "S.T.A.L.K.E.R.: Lost Alpha #2 / Hollow Knight #4",
     "date": "2019-03-18",
-    "direct": "https://bsufiles.thedrhax.pw/streams/397419854.mp4",
     "games": ["stalker-la", "hollow-knight"]
   },
   "398439248": {
@@ -4904,10 +4902,9 @@
     "games": ["suffering-2"]
   },
   "516941489": {
-    "abs_start": "0:00", "abs_end": "6:05:58", "duration": "0:00",
+    "youtube": "ww9v20a8QOE", "official": false, "abs_start": "0:00", "abs_end": "6:04:59", "duration": "6:04:59",
     "name": "Grand Theft Auto: Vice City #1",
     "date": "2019-12-04",
-    "direct": "https://bsufiles.thedrhax.pw/streams/516941489.mp4",
     "games": ["gta-vice-city"]
   },
   "517802976": {
@@ -5097,10 +5094,9 @@
     "games": ["gta-san-andreas"]
   },
   "535374681": {
-    "abs_start": "0:00", "abs_end": "5:42:10", "duration": "0:00",
+    "youtube": "zX6_n66fFSA", "official": false, "abs_start": "0:00", "abs_end": "5:41:59", "duration": "5:41:59",
     "name": "Grand Theft Auto: San Andreas #4",
     "date": "2020-01-13",
-    "direct": "https://bsufiles.thedrhax.pw/streams/535374681.mp4",
     "games": ["gta-san-andreas"]
   },
   "535873254": {
@@ -5123,10 +5119,9 @@
     "games": ["dead-space"]
   },
   "538458255": {
-    "abs_start": "0:00", "abs_end": "5:42:12", "duration": "0:00",
+    "youtube": "ZS1s9HfA7_s", "official": false, "abs_start": "0:00", "abs_end": "5:42:08", "duration": "5:42:08",
     "name": "Grand Theft Auto: San Andreas #5 / Grand Theft Auto Online: Crazy LS #6",
     "date": "2020-01-19",
-    "direct": "https://bsufiles.thedrhax.pw/streams/538458255.mp4",
     "games": ["gta-san-andreas", "crazy-ls"]
   },
   "542106142": {
@@ -6267,10 +6262,9 @@
     "games": ["mafia", "mafia-de"]
   },
   "751534901": {
-    "abs_start": "0:00", "abs_end": "6:40:41", "duration": "0:00",
+    "youtube": "myMg6jVXHUQ", "official": false, "abs_start": "0:00", "abs_end": "6:40:08", "duration": "6:40:08",
     "name": "Mafia: Definitive Edition #2",
     "date": "2020-09-25",
-    "direct": "https://bsufiles.thedrhax.pw/streams/751534901.mp4",
     "games": ["mafia-de"]
   },
   "752595682": {
@@ -9758,10 +9752,9 @@
     "games": ["first-2022", "single"]
   },
   "1596223040": {
-    "abs_start": "0:00", "abs_end": "4:22:07", "duration": "0:00",
+    "youtube": "8wpWgFt5cN0", "abs_start": "0:00", "abs_end": "4:22:00", "duration": "4:22:00",
     "name": "Trash Horror Collection - MOLD / Trash Horror Collection - Poop Killer / Trash Horror Collection - Poop Killer 2 / Trash Horror Collection - Poop Killer 3 / Trash Horror Collection - The Elevator / Trash Horror Collection - Night Revenge / Trash Horror Collection - Thursday the 12th / Trash Horror Collection 2 - R.I.P / Trash Horror Collection 2 - The House of Rats",
     "date": "2022-09-20",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1596223040.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1596223040.torrent",
     "games": ["trash-horror", "trash-horror-2"]
   }
