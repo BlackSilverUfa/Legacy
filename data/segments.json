@@ -9757,5 +9757,13 @@
     "date": "2022-09-20",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1596223040.torrent",
     "games": ["trash-horror", "trash-horror-2"]
+  },
+  "1598875892": {
+    "abs_start": "0:00", "abs_end": "7:39:17", "duration": "0:00",
+    "name": "Yakuza 0",
+    "date": "2022-09-23",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1598875892.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1598875892.torrent",
+    "games": ["first-2022"]
   }
 }
