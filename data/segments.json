@@ -553,10 +553,9 @@
     "games": ["fallout-2"]
   },
   "001609280": {
-    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
+    "youtube": "wYx-Oa6HSLc", "official": false, "abs_start": "0:00", "abs_end": "2:49:29", "duration": "2:49:29",
     "name": "Hitman #5 - Colorado",
     "date": "2016-09-28",
-    "direct": "https://bsufiles.thedrhax.pw/streams/001609280.mp4",
     "games": ["hitman"]
   },
   "001610010": {
@@ -4336,10 +4335,9 @@
     "games": ["gears-of-war-2"]
   },
   "454019548": {
-    "abs_start": "0:00", "abs_end": "2:55:41", "duration": "0:00",
+    "youtube": "YN30SaQxsMs", "official": false, "abs_start": "0:00", "abs_end": "2:55:42", "duration": "2:55:42",
     "name": "Thief Simulator",
     "date": "2019-07-17",
-    "direct": "https://bsufiles.thedrhax.pw/streams/454019548.mp4",
     "games": ["first-2019"]
   },
   "454019548.1": {
@@ -4938,7 +4936,7 @@
     "games": ["black-mesa-xen"]
   },
   "520025510.1": {
-    "youtube": "jbVAgaumbqo", "official": false, "abs_start": "2:56:04", "abs_end": "6:37:11", "duration": "3:41:07",
+    "abs_start": "2:56:04", "abs_end": "6:37:49", "duration": "0:00",
     "name": "Grand Theft Auto: Vice City #3",
     "date": "2019-12-11",
     "games": ["gta-vice-city"]
