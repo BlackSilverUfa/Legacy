@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "hobbit", "segment": "1585224225", "name": "The Hobbit #3", "start": 0},
       {"id": "retro", "segment": "1586147183", "name": "Вечер Ретро Игр (ВРИ) #7 / NHL 2001 / Monster Bass / Revelations: Persona / Carmageddon II", "start": 0},
       {"id": "co-op", "segment": "1587098639", "name": "The Long Drive / Devour #5 / Tricky Towers #33", "start": 0},
       {"id": "first-2022", "segment": "1588071501", "name": "The Complex: Found Footage / Lempo (демо) / Mega / The Horrors Recrudesce (демо) / Bias (демо) / Deadly Night #1 / Don't Look", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "deadly-night", "segment": "1594431864", "name": "Deadly Night #2 / Bloodwash / Curley Laboratory", "start": 0},
       {"id": "first-2022", "segment": "1595342822", "name": "Whateverland / S.P.A.T. / Night At the Gates of Hell", "start": 0},
       {"id": "trash-horror", "segment": "1596223040", "name": "Trash Horror Collection - MOLD / Trash Horror Collection - Poop Killer / Trash Horror Collection - Poop Killer 2 / Trash Horror Collection - Poop Killer 3 / Trash Horror Collection - The Elevator / Trash Horror Collection - Night Revenge / Trash Horror Collection - Thursday the 12th / Trash Horror Collection 2 - We Are Not Alone / Trash Horror Collection 2 - The House of Rats", "start": 0},
-      {"id": "first-2022", "segment": "1598875892", "name": "Yakuza 0", "start": 0}
+      {"id": "yakuza-0", "segment": "1598875892", "name": "Yakuza 0 #1", "start": 0},
+      {"id": "yakuza-0", "segment": "1602639686", "name": "Yakuza 0 #2", "start": 0}
     ]
   },
   "finished": {
@@ -924,15 +924,15 @@
       {"id": "first-2022", "segment": "1592425669", "name": "Wo Long: Fallen Dynasty (демо)", "start": 15388},
       {"id": "first-2022", "segment": "1594431864", "name": "Curley Laboratory", "start": 18772},
       {"id": "first-2022", "segment": "1595342822", "name": "Whateverland", "start": 1518},
-      {"id": "first-2022", "segment": "1595342822", "name": "S.P.A.T.", "start": 5265},
-      {"id": "first-2022", "segment": "1598875892", "name": "Yakuza 0", "start": 474}
+      {"id": "first-2022", "segment": "1595342822", "name": "S.P.A.T.", "start": 5265}
     ]
   },
   "ongoing": {
     "name": "Активные",
     "games": [
       {"name": "Gloomwood", "id": "gloomwood", "segment": "653411860"},
-      {"name": "Trash Horror Collection 2", "id": "trash-horror-2", "segment": "1596223040"}
+      {"name": "Trash Horror Collection 2", "id": "trash-horror-2", "segment": "1596223040"},
+      {"name": "Yakuza 0", "id": "yakuza-0", "segment": "1598875892"}
     ]
   },
   "infinite": {

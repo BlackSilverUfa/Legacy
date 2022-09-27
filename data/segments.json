@@ -4937,10 +4937,9 @@
     "games": ["black-mesa-xen"]
   },
   "520025510.1": {
-    "abs_start": "2:56:04", "abs_end": "6:37:49", "duration": "0:00",
+    "youtube": "_m2AZ_b8Kvg", "official": false, "abs_start": "2:56:04", "abs_end": "6:37:11", "duration": "3:41:07",
     "name": "Grand Theft Auto: Vice City #3",
     "date": "2019-12-11",
-    "direct": "https://bsufiles.thedrhax.pw/streams/520025510.1.mp4",
     "games": ["gta-vice-city"]
   },
   "520877239": {
@@ -9759,10 +9758,19 @@
   },
   "1598875892": {
     "abs_start": "0:00", "abs_end": "7:39:17", "duration": "0:00",
-    "name": "Yakuza 0",
+    "name": "Yakuza 0 #1",
     "date": "2022-09-23",
     "direct": "https://bsufiles.thedrhax.pw/streams/1598875892.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1598875892.torrent",
-    "games": ["first-2022"]
+    "games": ["yakuza-0"]
+  },
+  "1602639686": {
+    "abs_start": "0:00", "abs_end": "6:55:47", "duration": "0:00",
+    "name": "Yakuza 0 #2",
+    "date": "2022-09-27",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1602639686.mp4",
+    "cuts": [[17737, 17768]],
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1602639686.torrent",
+    "games": ["yakuza-0"]
   }
 }
