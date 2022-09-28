@@ -9293,9 +9293,9 @@
   },
   "1502569152": {
     "youtube": "8G5QlkS5iPg", "abs_start": "0:00", "abs_end": "6:01:11", "duration": "6:01:11",
-    "name": "Summer Game Fest 2022 - PC Gaming Show (обзор) / SCP: Secret Files - Демо / Cult of the Lamb - Демо / Anger Foot / The Fridge Is Red (демо) / Sker Ritual (демо) / The Last Worker (демо) / Midnight Fight Express (демо)",
+    "name": "Summer Game Fest 2022 - PC Gaming Show (обзор) / SCP: Secret Files - Демо / Cult of the Lamb - Демо / Anger Foot / The Fridge Is Red - Демо / Sker Ritual (демо) / The Last Worker (демо) / Midnight Fight Express (демо)",
     "date": "2022-06-13",
-    "games": ["sgf-22", "scp-sf", "cult-ot-lamb", "first-2022"]
+    "games": ["sgf-22", "scp-sf", "cult-ot-lamb", "first-2022", "red-bridge"]
   },
   "1503541091": {
     "youtube": "HyMdlr5onM8", "abs_start": "0:00", "abs_end": "3:17:31", "duration": "3:17:31",
@@ -9505,7 +9505,6 @@
     "youtube": "u4fVjhYxqWU", "abs_start": "0:00", "abs_end": "6:04:15", "duration": "6:04:15",
     "name": "The Pale (демо) / Auver / Control Room Alpha / Cain / Life Beyond / Trash Horror Collection - After Midnight / Enter & Survey / Our Lady of the Drowned Lake / Satan's Baby Doll / Good Boy / Stroll Prototype / Hausmeister / One Last Breath (демо) / Iron Lung #1",
     "date": "2022-07-31",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1548174786.torrent",
     "games": ["single", "trash-horror", "first-2022", "iron-lung"]
   },
   "1550107736": {
@@ -9757,20 +9756,26 @@
     "games": ["trash-horror", "trash-horror-2"]
   },
   "1598875892": {
-    "abs_start": "0:00", "abs_end": "7:39:17", "duration": "0:00",
+    "youtube": "ALEujDzY9OA", "abs_start": "0:00", "abs_end": "7:39:11", "duration": "7:39:11",
     "name": "Yakuza 0 #1",
     "date": "2022-09-23",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1598875892.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1598875892.torrent",
     "games": ["yakuza-0"]
   },
   "1602639686": {
-    "abs_start": "0:00", "abs_end": "6:55:47", "duration": "0:00",
+    "youtube": "qDllBaax8oA", "abs_start": "0:00", "abs_end": "6:55:42", "duration": "6:55:11",
     "name": "Yakuza 0 #2",
     "date": "2022-09-27",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1602639686.mp4",
     "cuts": [[17737, 17768]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1602639686.torrent",
     "games": ["yakuza-0"]
+  },
+  "1603602197": {
+    "abs_start": "0:00", "abs_end": "5:08:13", "duration": "0:00",
+    "name": "The Fridge Is Red - Прохождение / Trash Horror Collection 2 - Poop Killer 4",
+    "date": "2022-09-28",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1603602197.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1603602197.torrent",
+    "games": ["red-bridge", "trash-horror-2"]
   }
 }
