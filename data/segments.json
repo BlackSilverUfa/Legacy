@@ -9527,7 +9527,6 @@
     "youtube": "bG7CXJ7zDzQ", "abs_start": "0:00", "abs_end": "4:29:10", "duration": "4:29:10",
     "name": "Вечер Ретро Игр (ВРИ) #4 / Mortal Kombat / Michael Jackson's Moonwalker / Goofy's Hysterical History Tour",
     "date": "2022-08-05",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1552996641.torrent",
     "games": ["retro", "first-2022"]
   },
   "1554911752": {
@@ -9777,5 +9776,13 @@
     "date": "2022-09-28",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1603602197.torrent",
     "games": ["red-bridge", "trash-horror-2"]
+  },
+  "1604386613": {
+    "abs_start": "0:00", "abs_end": "4:24:27", "duration": "0:00",
+    "name": "Deathverse: Let It Die / Valkyrie Elysium",
+    "date": "2022-09-29",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1604386613.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1604386613.torrent",
+    "games": ["first-2022"]
   }
 }
