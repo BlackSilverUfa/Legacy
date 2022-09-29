@@ -4245,10 +4245,9 @@
     "games": ["sinking-city"]
   },
   "445866715": {
-    "abs_start": "0:00", "abs_end": "4:58:25", "duration": "0:00",
+    "youtube": "7JUe2fr4qy0", "official": false, "abs_start": "0:00", "abs_end": "4:58:28", "duration": "4:58:28",
     "name": "Своя Игра #14 / Dead by Daylight #3 / Эскейп-румы - Curious Cases / Golf It! #17",
     "date": "2019-06-29",
-    "direct": "https://bsufiles.thedrhax.pw/streams/445866715.mp4",
     "games": ["sigame", "dead-by-daylight", "escape-rooms", "golf-it"]
   },
   "447694923": {
@@ -9773,10 +9772,9 @@
     "games": ["yakuza-0"]
   },
   "1603602197": {
-    "abs_start": "0:00", "abs_end": "5:08:13", "duration": "0:00",
+    "youtube": "RJd4UBU6yCg", "abs_start": "0:00", "abs_end": "5:08:11", "duration": "5:08:11",
     "name": "The Fridge Is Red - Прохождение / Trash Horror Collection 2 - Poop Killer 4",
     "date": "2022-09-28",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1603602197.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1603602197.torrent",
     "games": ["red-bridge", "trash-horror-2"]
   }
