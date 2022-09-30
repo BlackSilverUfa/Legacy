@@ -4938,9 +4938,10 @@
     "games": ["black-mesa-xen"]
   },
   "520025510.1": {
-    "youtube": "_m2AZ_b8Kvg", "official": false, "abs_start": "2:56:04", "abs_end": "6:37:11", "duration": "3:41:07",
+    "abs_start": "2:56:04", "abs_end": "6:37:49", "duration": "0:00",
     "name": "Grand Theft Auto: Vice City #3",
     "date": "2019-12-11",
+    "direct": "https://bsufiles.thedrhax.pw/streams/520025510.1.mp4",
     "games": ["gta-vice-city"]
   },
   "520877239": {
@@ -8349,9 +8350,10 @@
     "games": ["marvel-gotg"]
   },
   "1188297728": {
-    "youtube": "k9NfsOVExJk", "official": false, "abs_start": "0:00", "abs_end": "4:16:06", "duration": "4:16:06",
+    "abs_start": "0:00", "abs_end": "4:16:09", "duration": "0:00",
     "name": "Marvel's Guardians of the Galaxy #3",
     "date": "2021-10-27",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1188297728.mp4",
     "games": ["marvel-gotg"]
   },
   "1190164000": {
@@ -8484,9 +8486,10 @@
     "games": ["bf-2042"]
   },
   "1206191026": {
-    "youtube": "aya5gA4KBkA", "official": false, "abs_start": "0:00", "abs_end": "5:58:32", "duration": "5:57:57",
+    "abs_start": "0:00", "abs_end": "5:58:42", "duration": "0:00",
     "name": "Grand Theft Auto III - Definitive Edition / Grand Theft Auto: Vice City - Definitive Edition #1 / Grand Theft Auto: San Andreas - Definitive Edition #1",
     "date": "2021-11-15",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1206191026.mp4",
     "cuts": [[14958, 14993]],
     "games": ["first-2021", "gta-vice-city", "gta-san-andreas"]
   },
@@ -9533,7 +9536,6 @@
     "youtube": "JEgx4IhC8aE", "abs_start": "0:00", "abs_end": "6:24:09", "duration": "6:24:09",
     "name": "Divine Frequency / Ghost Watchers #2 (с Куплиновым и Дангаром) / Chimpy Chippa's: The Game / Asleep (демо) / The Apartment / Signal (демо) / Trash Horror Collection - The Island Mystery / Trash Horror Collection - Endless Days",
     "date": "2022-08-07",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1554911752.torrent",
     "games": ["first-2022", "ghost-watchers", "single", "trash-horror"]
   },
   "1555820842": {
