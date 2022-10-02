@@ -6106,10 +6106,9 @@
     "games": ["little-hope", "first-2020", "struggling", "co-op", "fall-guys"]
   },
   "726104659": {
-    "abs_start": "0:00", "abs_end": "6:06:23", "duration": "0:00",
+    "youtube": "23Yr_qJnhAM", "official": false, "abs_start": "0:00", "abs_end": "6:05:29", "duration": "6:05:29",
     "name": "Windbound / Fall Guys #3 (соло) / Wasteland 3 #1 (соло) / Mr. Prepper / The Last Campfire #1",
     "date": "2020-08-30",
-    "direct": "https://bsufiles.thedrhax.pw/streams/726104659.mp4",
     "games": ["first-2020", "fall-guys", "wasteland-3", "last-campfire"]
   },
   "727071763": {
@@ -8351,10 +8350,9 @@
     "games": ["marvel-gotg"]
   },
   "1188297728": {
-    "abs_start": "0:00", "abs_end": "4:16:09", "duration": "0:00",
+    "youtube": "k9NfsOVExJk", "official": false, "abs_start": "0:00", "abs_end": "4:16:06", "duration": "4:16:06",
     "name": "Marvel's Guardians of the Galaxy #3",
     "date": "2021-10-27",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1188297728.mp4",
     "games": ["marvel-gotg"]
   },
   "1190164000": {
@@ -9779,18 +9777,16 @@
     "games": ["red-bridge", "trash-horror-2"]
   },
   "1604386613": {
-    "abs_start": "0:00", "abs_end": "4:24:27", "duration": "0:00",
+    "youtube": "Uc5sW9srWzI", "abs_start": "0:00", "abs_end": "4:24:15", "duration": "4:24:15",
     "name": "Deathverse: Let It Die / Valkyrie Elysium",
     "date": "2022-09-29",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1604386613.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1604386613.torrent",
     "games": ["first-2022"]
   },
   "1605248642": {
-    "abs_start": "0:00", "abs_end": "8:10:27", "duration": "0:00",
+    "youtube": "2L0Jju7HfE4", "abs_start": "0:00", "abs_end": "8:10:25", "duration": "8:09:55",
     "name": "Yakuza 0 #3",
     "date": "2022-09-30",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1605248642.mp4",
     "cuts": [[20017, 20047]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1605248642.torrent",
     "games": ["yakuza-0"]
