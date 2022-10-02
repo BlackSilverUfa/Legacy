@@ -4750,10 +4750,9 @@
     "games": ["outer-worlds"]
   },
   "499849877": {
-    "abs_start": "0:00", "abs_end": "3:54:24", "duration": "0:00",
+    "youtube": "68BvYwQzb5A", "official": false, "abs_start": "0:00", "abs_end": "3:54:40", "duration": "3:54:40",
     "name": "Благотворительные стримы #5 / Cooking Simulator / House Flipper",
     "date": "2019-10-26",
-    "direct": "https://bsufiles.thedrhax.pw/streams/499849877.mp4",
     "games": ["charity", "first-2019"]
   },
   "500334713": {
@@ -4901,17 +4900,15 @@
     "games": ["suffering-2"]
   },
   "516941489": {
-    "abs_start": "0:00", "abs_end": "6:05:58", "duration": "0:00",
+    "youtube": "hlDPVvuoUYE", "official": false, "abs_start": "0:00", "abs_end": "6:04:57", "duration": "6:04:57",
     "name": "Grand Theft Auto: Vice City #1",
     "date": "2019-12-04",
-    "direct": "https://bsufiles.thedrhax.pw/streams/516941489.mp4",
     "games": ["gta-vice-city"]
   },
   "517802976": {
-    "abs_start": "0:00", "abs_end": "5:58:40", "duration": "0:00",
+    "youtube": "BBwdYelbq6w", "official": false, "abs_start": "0:00", "abs_end": "5:58:21", "duration": "5:58:21",
     "name": "Grand Theft Auto: Vice City #2",
     "date": "2019-12-06",
-    "direct": "https://bsufiles.thedrhax.pw/streams/517802976.mp4",
     "games": ["gta-vice-city"]
   },
   "518306588": {
@@ -4939,10 +4936,9 @@
     "games": ["black-mesa-xen"]
   },
   "520025510.1": {
-    "abs_start": "2:56:04", "abs_end": "6:37:49", "duration": "0:00",
+    "youtube": "UlQlWZjH1HM", "official": false, "abs_start": "2:56:04", "abs_end": "6:37:11", "duration": "3:41:07",
     "name": "Grand Theft Auto: Vice City #3",
     "date": "2019-12-11",
-    "direct": "https://bsufiles.thedrhax.pw/streams/520025510.1.mp4",
     "games": ["gta-vice-city"]
   },
   "520877239": {
@@ -9553,7 +9549,6 @@
     "youtube": "sz0Xb8425rE", "abs_start": "0:00", "abs_end": "6:07:33", "duration": "6:07:33",
     "name": "Iron Lung #2 / From The Darkness / I'm on Observation Duty - Часть 5 #2 / Cult of the Lamb #1",
     "date": "2022-08-11",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1558782985.torrent",
     "games": ["iron-lung", "single", "observation-duty", "cult-ot-lamb"]
   },
   "1559742064": {
@@ -9790,5 +9785,13 @@
     "cuts": [[20017, 20047]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1605248642.torrent",
     "games": ["yakuza-0"]
+  },
+  "1607244038": {
+    "abs_start": "0:00", "abs_end": "7:22:22", "duration": "0:00",
+    "name": "Scorn (пролог) / Go Home Annie: An SCP Game (демо) / Convenient / Lazaret (демо) / Late Night Mop / The Death: Than Trung",
+    "date": "2022-10-02",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1607244038.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1607244038.torrent",
+    "games": ["single"]
   }
 }

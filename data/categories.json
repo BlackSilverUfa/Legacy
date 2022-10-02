@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "first-2022", "segment": "1592425669", "name": "My Time at Sandrock / Wo Long: Fallen Dynasty (демо)", "start": 0},
       {"id": "scp-sf", "segment": "1593427175", "name": "SCP: Secret Files - Прохождение", "start": 0},
       {"id": "deadly-night", "segment": "1594431864", "name": "Deadly Night #2 / Bloodwash / Curley Laboratory", "start": 0},
       {"id": "first-2022", "segment": "1595342822", "name": "Whateverland / S.P.A.T. / Night At the Gates of Hell", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "yakuza-0", "segment": "1602639686", "name": "Yakuza 0 #2", "start": 0},
       {"id": "red-bridge", "segment": "1603602197", "name": "The Fridge Is Red - Прохождение / Trash Horror Collection 2 - Poop Killer 4", "start": 0},
       {"id": "first-2022", "segment": "1604386613", "name": "Deathverse: Let It Die / Valkyrie Elysium", "start": 0},
-      {"id": "yakuza-0", "segment": "1605248642", "name": "Yakuza 0 #3", "start": 0}
+      {"id": "yakuza-0", "segment": "1605248642", "name": "Yakuza 0 #3", "start": 0},
+      {"id": "single", "segment": "1607244038", "name": "Scorn (пролог) / Go Home Annie: An SCP Game (демо) / Convenient / Lazaret (демо) / Late Night Mop / The Death: Than Trung", "start": 0}
     ]
   },
   "finished": {
@@ -435,7 +435,13 @@
       {"id": "single", "segment": "1588071501", "name": "Don't Look", "start": 17377},
       {"name": "Deadly Night", "id": "deadly-night", "segment": "1588071501"},
       {"id": "single", "segment": "1594431864", "name": "Bloodwash", "start": 12626},
-      {"id": "single", "segment": "1595342822", "name": "Night At the Gates of Hell", "start": 6625}
+      {"id": "single", "segment": "1595342822", "name": "Night At the Gates of Hell", "start": 6625},
+      {"id": "single", "segment": "1607244038", "name": "Scorn (пролог)", "start": 1570},
+      {"id": "single", "segment": "1607244038", "name": "Go Home Annie: An SCP Game (демо)", "start": 6453},
+      {"id": "single", "segment": "1607244038", "name": "Convenient", "start": 9725},
+      {"id": "single", "segment": "1607244038", "name": "Lazaret (демо)", "start": 12289},
+      {"id": "single", "segment": "1607244038", "name": "Late Night Mop", "start": 15360},
+      {"id": "single", "segment": "1607244038", "name": "The Death: Than Trung", "start": 16371}
     ]
   },
   "first": {
