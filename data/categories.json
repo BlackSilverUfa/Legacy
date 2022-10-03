@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "scp-sf", "segment": "1593427175", "name": "SCP: Secret Files - Прохождение", "start": 0},
       {"id": "deadly-night", "segment": "1594431864", "name": "Deadly Night #2 / Bloodwash / Curley Laboratory", "start": 0},
       {"id": "first-2022", "segment": "1595342822", "name": "Whateverland / S.P.A.T. / Night At the Gates of Hell", "start": 0},
       {"id": "trash-horror", "segment": "1596223040", "name": "Trash Horror Collection - MOLD / Trash Horror Collection - Poop Killer / Trash Horror Collection - Poop Killer 2 / Trash Horror Collection - Poop Killer 3 / Trash Horror Collection - The Elevator / Trash Horror Collection - Night Revenge / Trash Horror Collection - Thursday the 12th / Trash Horror Collection 2 - We Are Not Alone / Trash Horror Collection 2 - The House of Rats", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "red-bridge", "segment": "1603602197", "name": "The Fridge Is Red - Прохождение / Trash Horror Collection 2 - Poop Killer 4", "start": 0},
       {"id": "first-2022", "segment": "1604386613", "name": "Deathverse: Let It Die / Valkyrie Elysium", "start": 0},
       {"id": "yakuza-0", "segment": "1605248642", "name": "Yakuza 0 #3", "start": 0},
-      {"id": "single", "segment": "1607244038", "name": "Scorn (пролог) / Go Home Annie: An SCP Game (демо) / Convenient / Lazaret (демо) / Late Night Mop / The Death: Than Trung", "start": 0}
+      {"id": "single", "segment": "1607244038", "name": "Scorn (пролог) / Go Home Annie: An SCP Game (демо) / Convenient / Lazaret (демо) / Late Night Mop / The Death: Than Trung", "start": 0},
+      {"id": "first-2022", "segment": "1608110648", "name": "Dark Light / Apocalyptic Vibes (демо) / Electrician Simulator / Priest Simulator / The Bathhouse", "start": 0}
     ]
   },
   "finished": {
@@ -441,7 +441,9 @@
       {"id": "single", "segment": "1607244038", "name": "Convenient", "start": 9725},
       {"id": "single", "segment": "1607244038", "name": "Lazaret (демо)", "start": 12289},
       {"id": "single", "segment": "1607244038", "name": "Late Night Mop", "start": 15360},
-      {"id": "single", "segment": "1607244038", "name": "The Death: Than Trung", "start": 16371}
+      {"id": "single", "segment": "1607244038", "name": "The Death: Than Trung", "start": 16371},
+      {"id": "single", "segment": "1608110648", "name": "Apocalyptic Vibes (демо)", "start": 3976},
+      {"id": "single", "segment": "1608110648", "name": "The Bathhouse", "start": 14459}
     ]
   },
   "first": {
@@ -932,7 +934,10 @@
       {"id": "first-2022", "segment": "1595342822", "name": "Whateverland", "start": 1518},
       {"id": "first-2022", "segment": "1595342822", "name": "S.P.A.T.", "start": 5265},
       {"id": "first-2022", "segment": "1604386613", "name": "Deathverse: Let It Die", "start": 1044},
-      {"id": "first-2022", "segment": "1604386613", "name": "Valkyrie Elysium", "start": 7154}
+      {"id": "first-2022", "segment": "1604386613", "name": "Valkyrie Elysium", "start": 7154},
+      {"id": "first-2022", "segment": "1608110648", "name": "Dark Light", "start": 938},
+      {"id": "first-2022", "segment": "1608110648", "name": "Electrician Simulator", "start": 7740},
+      {"id": "first-2022", "segment": "1608110648", "name": "Priest Simulator", "start": 13223}
     ]
   },
   "ongoing": {

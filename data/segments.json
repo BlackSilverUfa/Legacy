@@ -9555,7 +9555,6 @@
     "youtube": "NqrXqyUqx9s", "abs_start": "0:00", "abs_end": "5:23:10", "duration": "5:23:10",
     "name": "Вечер Ретро Игр (ВРИ) #5 / Barbie: Explorer #2 / Twisted Metal: Small Brawl / Hercules / Chessmaster II",
     "date": "2022-08-12",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1559742064.torrent",
     "games": ["retro", "barbie-explorer", "first-2022"]
   },
   "1560730593": {
@@ -9787,11 +9786,19 @@
     "games": ["yakuza-0"]
   },
   "1607244038": {
-    "abs_start": "0:00", "abs_end": "7:22:22", "duration": "0:00",
+    "youtube": "fl-l8EVRTRM", "abs_start": "0:00", "abs_end": "7:22:00", "duration": "7:22:00",
     "name": "Scorn (пролог) / Go Home Annie: An SCP Game (демо) / Convenient / Lazaret (демо) / Late Night Mop / The Death: Than Trung",
     "date": "2022-10-02",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1607244038.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1607244038.torrent",
     "games": ["single"]
+  },
+  "1608110648": {
+    "abs_start": "0:00", "abs_end": "6:26:17", "duration": "0:00",
+    "name": "Dark Light / Apocalyptic Vibes (демо) / Electrician Simulator / Priest Simulator / The Bathhouse",
+    "date": "2022-10-03",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1608110648.mp4",
+    "cuts": [[17676, 17706]],
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1608110648.torrent",
+    "games": ["first-2022", "single"]
   }
 }
