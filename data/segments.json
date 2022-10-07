@@ -4900,7 +4900,7 @@
     "games": ["suffering-2"]
   },
   "516941489": {
-    "youtube": "hlDPVvuoUYE", "official": false, "abs_start": "0:00", "abs_end": "6:04:57", "duration": "6:04:57",
+    "youtube": "iMDY2gXtewU", "official": false, "abs_start": "0:00", "abs_end": "6:04:57", "duration": "6:04:57",
     "name": "Grand Theft Auto: Vice City #1",
     "date": "2019-12-04",
     "games": ["gta-vice-city"]
@@ -4936,7 +4936,7 @@
     "games": ["black-mesa-xen"]
   },
   "520025510.1": {
-    "youtube": "UlQlWZjH1HM", "official": false, "abs_start": "2:56:04", "abs_end": "6:37:11", "duration": "3:41:07",
+    "youtube": "zUhQs9S7eMk", "official": false, "abs_start": "2:56:04", "abs_end": "6:37:11", "duration": "3:41:07",
     "name": "Grand Theft Auto: Vice City #3",
     "date": "2019-12-11",
     "games": ["gta-vice-city"]
@@ -9792,20 +9792,26 @@
     "games": ["single"]
   },
   "1608110648": {
-    "abs_start": "0:00", "abs_end": "6:26:17", "duration": "0:00",
+    "youtube": "rw8-SAr4KBw", "abs_start": "0:00", "abs_end": "6:25:33", "duration": "6:25:33",
     "name": "Dark Light / Apocalyptic Vibes (демо) / Electrician Simulator / Priest Simulator / The Bathhouse",
     "date": "2022-10-03",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1608110648.mp4",
-    "cuts": [[17676, 17706]],
+    "cuts": [[17676, 17676]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1608110648.torrent",
     "games": ["first-2022", "single"]
   },
   "1608964216": {
-    "abs_start": "0:00", "abs_end": "4:27:57", "duration": "0:00",
+    "youtube": "DvuGUvHAF9k", "abs_start": "0:00", "abs_end": "4:28:03", "duration": "4:28:03",
     "name": "Yakuza 0 #4",
     "date": "2022-10-04",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1608964216.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1608964216.torrent",
     "games": ["yakuza-0"]
+  },
+  "1614024019": {
+    "abs_start": "0:00", "abs_end": "5:31:08", "duration": "0:00",
+    "name": "Вечер Ретро Игр (ВРИ) #8 / Final Fantasy VII / Castlevania: Symphony of the Night / The Adventures of Lomax",
+    "date": "2022-10-07",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1614024019.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1614024019.torrent",
+    "games": ["retro", "first-2022"]
   }
 }
