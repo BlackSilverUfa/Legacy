@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "trash-horror", "segment": "1596223040", "name": "Trash Horror Collection - MOLD / Trash Horror Collection - Poop Killer / Trash Horror Collection - Poop Killer 2 / Trash Horror Collection - Poop Killer 3 / Trash Horror Collection - The Elevator / Trash Horror Collection - Night Revenge / Trash Horror Collection - Thursday the 12th / Trash Horror Collection 2 - We Are Not Alone / Trash Horror Collection 2 - The House of Rats", "start": 0},
       {"id": "yakuza-0", "segment": "1598875892", "name": "Yakuza 0 #1", "start": 0},
       {"id": "yakuza-0", "segment": "1602639686", "name": "Yakuza 0 #2", "start": 0},
       {"id": "red-bridge", "segment": "1603602197", "name": "The Fridge Is Red - Прохождение / Trash Horror Collection 2 - Poop Killer 4", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "single", "segment": "1607244038", "name": "Scorn (пролог) / Go Home Annie: An SCP Game (демо) / Convenient / Lazaret (демо) / Late Night Mop / The Death: Than Trung", "start": 0},
       {"id": "first-2022", "segment": "1608110648", "name": "Dark Light / Apocalyptic Vibes (демо) / Electrician Simulator / Priest Simulator / The Bathhouse", "start": 0},
       {"id": "yakuza-0", "segment": "1608964216", "name": "Yakuza 0 #4", "start": 0},
-      {"id": "retro", "segment": "1614024019", "name": "Вечер Ретро Игр (ВРИ) #8 / Final Fantasy VII / Castlevania: Symphony of the Night / The Adventures of Lomax", "start": 0}
+      {"id": "retro", "segment": "1614024019", "name": "Вечер Ретро Игр (ВРИ) #8 / Final Fantasy VII / Castlevania: Symphony of the Night / The Adventures of Lomax", "start": 0},
+      {"id": "first-2022", "segment": "1618459269", "name": "Chasm: The Rift (демо) / Dredge (демо) / Scars Above (демо) / Unusual Findings (демо) / Tales of Terror / Horrors of Space #1 / Half Dead - Часть 3 #2 / Sign of Silence #3 / Escape Memoirs: Mini Stories", "start": 0}
     ]
   },
   "finished": {
@@ -443,7 +443,8 @@
       {"id": "single", "segment": "1607244038", "name": "Late Night Mop", "start": 15360},
       {"id": "single", "segment": "1607244038", "name": "The Death: Than Trung", "start": 16371},
       {"id": "single", "segment": "1608110648", "name": "Apocalyptic Vibes (демо)", "start": 3976},
-      {"id": "single", "segment": "1608110648", "name": "The Bathhouse", "start": 14459}
+      {"id": "single", "segment": "1608110648", "name": "The Bathhouse", "start": 14459},
+      {"id": "single", "segment": "1618459269", "name": "Unusual Findings (демо)", "start": 10805}
     ]
   },
   "first": {
@@ -747,7 +748,6 @@
       {"id": "first-2021", "segment": "1059978031", "name": "Death Trash (демо)", "start": 17844},
       {"id": "first-2021", "segment": "1059978031", "name": "Bandit Simulator (демо)", "start": 20449},
       {"id": "first-2021", "segment": "1059978031", "name": "Super Bomberman R Online", "start": 20975},
-      {"id": "first-2021", "segment": "1061050549", "name": "Horrors of Space (демо)", "start": 19113},
       {"id": "first-2021", "segment": "1061050549", "name": "Rabbit Hole (демо)", "start": 19914},
       {"id": "first-2021", "segment": "1066067703", "name": "Guilty Gear: Strive", "start": 18386},
       {"id": "first-2021", "segment": "1070208965", "name": "Open Country", "start": 0},
@@ -940,7 +940,10 @@
       {"id": "first-2022", "segment": "1608110648", "name": "Priest Simulator", "start": 13223},
       {"id": "first-2022", "segment": "1614024019", "name": "Final Fantasy VII", "start": 3826},
       {"id": "first-2022", "segment": "1614024019", "name": "Castlevania: Symphony of the Night", "start": 10697},
-      {"id": "first-2022", "segment": "1614024019", "name": "The Adventures of Lomax", "start": 15853}
+      {"id": "first-2022", "segment": "1614024019", "name": "The Adventures of Lomax", "start": 15853},
+      {"id": "first-2022", "segment": "1618459269", "name": "Chasm: The Rift (демо)", "start": 1063},
+      {"id": "first-2022", "segment": "1618459269", "name": "Dredge (демо)", "start": 3090},
+      {"id": "first-2022", "segment": "1618459269", "name": "Scars Above (демо)", "start": 5921}
     ]
   },
   "ongoing": {
@@ -1295,6 +1298,7 @@
       {"id": "co-op", "segment": "1031432095", "name": "Just Die Already", "start": 0},
       {"id": "co-op", "segment": "1031432095", "name": "A House of Thieves", "start": 4321},
       {"id": "co-op", "segment": "1059978031", "name": "The Red Solstice 2: Survivors", "start": 0},
+      {"name": "Horrors of Space", "id": "horrors-of-space", "segment": "1061050549"},
       {"id": "co-op", "segment": "1065051420", "name": "Dungeons & Dragons: Dark Alliance", "start": 7630},
       {"name": "Back 4 Blood", "id": "b4b", "segment": "1108872519"},
       {"id": "co-op", "segment": "1111966540", "name": "Camping Simulator", "start": 9894},
@@ -1322,7 +1326,9 @@
       {"name": "Midnight Ghost Hunt", "id": "midnight-gh", "segment": "1449847186"},
       {"id": "co-op", "segment": "1555820842", "name": "We Were Here Forever", "start": 9409},
       {"id": "co-op", "segment": "1564505950", "name": "Way of the Hunter", "start": 267},
-      {"id": "co-op", "segment": "1587098639", "name": "The Long Drive", "start": 4752}
+      {"id": "co-op", "segment": "1587098639", "name": "The Long Drive", "start": 4752},
+      {"id": "co-op", "segment": "1618459269", "name": "Tales of Terror", "start": 13316},
+      {"id": "co-op", "segment": "1618459269", "name": "Escape Memoirs: Mini Stories", "start": 21583}
     ]
   },
   "other": {
