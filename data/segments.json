@@ -475,9 +475,10 @@
     "games": ["hitman"]
   },
   "001607030": {
-    "youtube": "gU8s-7orIqU", "official": false, "abs_start": "0:00", "abs_end": "4:00:06", "duration": "4:00:06",
+    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
     "name": "Dark Souls 3 #7",
     "date": "2016-07-03",
+    "direct": "https://bsufiles.thedrhax.pw/streams/001607030.mp4",
     "games": ["ds3"]
   },
   "001607100": {
@@ -6176,9 +6177,10 @@
     "games": ["marvel-avengers"]
   },
   "729970116": {
-    "youtube": "8DKpxtGWNHM", "official": false, "abs_start": "0:00", "abs_end": "7:13:50", "duration": "7:13:50",
+    "abs_start": "0:00", "abs_end": "7:14:52", "duration": "0:00",
     "name": "Marvel's Avengers #3 / Tony Hawk's Pro Skater 1+2",
     "date": "2020-09-03",
+    "direct": "https://bsufiles.thedrhax.pw/streams/729970116.mp4",
     "games": ["marvel-avengers", "first-2020"]
   },
   "731025039": {
@@ -9560,7 +9562,6 @@
     "youtube": "uoOQYh1KIds", "abs_start": "0:00", "abs_end": "5:59:51", "duration": "5:59:51",
     "name": "The Hobbit #1",
     "date": "2022-08-13",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1560730593.torrent",
     "games": ["hobbit"]
   },
   "1561677559": {
