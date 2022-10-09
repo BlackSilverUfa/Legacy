@@ -362,9 +362,9 @@
         <i class="fas fa-comments"></i> 37383
       </a>
     </span>
-    <span class="badge badge-success">
-      <a href="https://www.youtube.com/watch?v=Y1e8veap9_0" target="_blank">
-        <i class="fab fa-youtube"></i> Y1e8veap9_0
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.thedrhax.pw/streams/436769739.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -381,6 +381,8 @@
   <div class="timecodes" data-id="3">
     <li>Таймкоды:</li>
   <ul>
+      <li>Devolver Digital:</li>
+  <ul>
     <li>
       <a data-value="42">0:42</a>,
       <a data-value="177">2:57</a>
@@ -394,17 +396,30 @@
     <li><a data-value="1468">24:28</a> — My Friend Pedro</li>
   </ul>
 
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li><a data-value="841">14:01</a> - <a data-value="864">14:24</a> — Harry Belafonte - Jump in the Line</li>
+  </ul>
+
+  </ul>
+
   </div>
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="3" data-hash="436769739.3" data-offset="24585" data-subtitles="https://bsu.drhx.ru/chats/2019/v436769739.ass" data-name="Devolver Digital" data-youtube="Y1e8veap9_0" />
+  <p class="stream" data-id="3" data-hash="436769739.3" data-subtitles="https://bsu.drhx.ru/chats/2019/v436769739.ass" data-name="Devolver Digital" data-direct="https://bsufiles.thedrhax.pw/streams/436769739.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2019/v436769739.ass --sub-delay=-24585 ytdl://Y1e8veap9_0
+  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2019/v436769739.ass https://bsufiles.thedrhax.pw/streams/436769739.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://bsu.drhx.ru/chats/2019/v436769739.ass" --player-passthrough hls twitch.tv/videos/436769739 best
 </code></pre>
 </div>
 

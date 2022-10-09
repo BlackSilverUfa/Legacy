@@ -4125,9 +4125,10 @@
     "games": ["e3_2019"]
   },
   "436769739.3": {
-    "youtube": "Y1e8veap9_0", "abs_start": "6:49:45", "abs_end": "7:25:12", "duration": "35:27",
+    "abs_start": "0:00", "abs_end": "7:25:50", "duration": "0:00",
     "name": "неПрофессиональный E3 2019 - Devolver Digital",
     "date": "2019-06-10",
+    "direct": "https://bsufiles.thedrhax.pw/streams/436769739.mp4",
     "games": ["e3_2019"]
   },
   "437135971": {
@@ -9568,7 +9569,6 @@
     "youtube": "c-iFtnSKLwQ", "abs_start": "0:00", "abs_end": "4:48:40", "duration": "4:48:40",
     "name": "The Nameless (демо) / ROMUT / Another Princess is in Our Castle (демо) / Dinner With Strangers (демо) / Dread X Collection: The Hunt / Home / SCP: Nukalypse #2 / Luggage / Soles' Quay / The Polaroid Killer / There is a Man in the Attic / The Hole in the Car",
     "date": "2022-08-14",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1561677559.torrent",
     "games": ["single", "first-2022", "scp-nukalypse"]
   },
   "1563545448": {
@@ -9808,18 +9808,16 @@
     "games": ["yakuza-0"]
   },
   "1614024019": {
-    "abs_start": "0:00", "abs_end": "5:31:08", "duration": "0:00",
+    "youtube": "BZVvwtWXfj4", "abs_start": "0:00", "abs_end": "5:30:41", "duration": "5:30:41",
     "name": "Вечер Ретро Игр (ВРИ) #8 / Final Fantasy VII / Castlevania: Symphony of the Night / The Adventures of Lomax",
     "date": "2022-10-07",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1614024019.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1614024019.torrent",
     "games": ["retro", "first-2022"]
   },
   "1618459269": {
-    "abs_start": "0:00", "abs_end": "7:30:40", "duration": "0:00",
+    "youtube": "Uu7yEaUNDTE", "abs_start": "0:00", "abs_end": "7:30:34", "duration": "7:30:34",
     "name": "Chasm: The Rift (демо) / Dredge (демо) / Scars Above (демо) / Unusual Findings (демо) / Tales of Terror / Horrors of Space #1 / Half Dead - Часть 3 #2 / Sign of Silence #3 / Escape Memoirs: Mini Stories",
     "date": "2022-10-08",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1618459269.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1618459269.torrent",
     "games": ["first-2022", "single", "co-op", "horrors-of-space", "half-dead", "sign-of-silence"]
   }
