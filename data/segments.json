@@ -9575,7 +9575,6 @@
     "youtube": "qDJ6j3Jsdpo", "abs_start": "0:00", "abs_end": "5:51:20", "duration": "5:51:20",
     "name": "Self-Delusion / Noch - Релиз / Escape the Backrooms / MONSTRUM 2 #2",
     "date": "2022-08-16",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1563545448.torrent",
     "games": ["first-2022", "noch", "monstrum-2"]
   },
   "1564505950": {
@@ -9820,5 +9819,14 @@
     "date": "2022-10-08",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1618459269.torrent",
     "games": ["first-2022", "single", "co-op", "horrors-of-space", "half-dead", "sign-of-silence"]
+  },
+  "1619465701": {
+    "abs_start": "0:00", "abs_end": "6:14:36", "duration": "0:00",
+    "name": "Kona II: Brume (демо) / The Classrooms (демо) / Quo (демо) / The Polaris Incident / Broken Through / The Chaput's Baby / Anthology of Fear (демо) / On One's Own",
+    "date": "2022-10-09",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1619465701.mp4",
+    "cuts": [[13924, 13955]],
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1619465701.torrent",
+    "games": ["single", "first-2022"]
   }
 }
