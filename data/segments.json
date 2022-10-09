@@ -4113,22 +4113,22 @@
     "games": ["pubg", "e3_2019"]
   },
   "436769739.1": {
+    "abs_start": "0:00", "abs_end": "2:33:17", "duration": "0:00",
+    "name": "неПрофессиональный E3 2019 - Devolver Digital",
+    "date": "2019-06-10",
+    "direct": "https://bsufiles.thedrhax.pw/streams/436769739.mp4",
+    "games": ["e3_2019"]
+  },
+  "436769739.2": {
     "youtube": "0T-W0GETxHc", "abs_start": "2:33:17", "abs_end": "5:21:43", "duration": "2:48:26",
     "name": "PlayerUnknown's Battlegrounds #4 (часть 2) / Своя Игра #13 / Крокодил #5",
     "date": "2019-06-10",
     "games": ["pubg", "sigame", "crocodile"]
   },
-  "436769739.2": {
+  "436769739.3": {
     "youtube": "_YgUJu85-Vk", "abs_start": "5:25:36", "abs_end": "6:49:46", "duration": "1:24:10",
     "name": "неПрофессиональный E3 2019 - Bethesda",
     "date": "2019-06-10",
-    "games": ["e3_2019"]
-  },
-  "436769739.3": {
-    "abs_start": "0:00", "abs_end": "7:25:50", "duration": "0:00",
-    "name": "неПрофессиональный E3 2019 - Devolver Digital",
-    "date": "2019-06-10",
-    "direct": "https://bsufiles.thedrhax.pw/streams/436769739.mp4",
     "games": ["e3_2019"]
   },
   "437135971": {
