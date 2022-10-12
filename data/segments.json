@@ -475,10 +475,9 @@
     "games": ["hitman"]
   },
   "001607030": {
-    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
+    "youtube": "gU8s-7orIqU", "official": false, "abs_start": "0:00", "abs_end": "4:00:06", "duration": "4:00:06",
     "name": "Dark Souls 3 #7",
     "date": "2016-07-03",
-    "direct": "https://bsufiles.thedrhax.pw/streams/001607030.mp4",
     "games": ["ds3"]
   },
   "001607100": {
@@ -9581,7 +9580,6 @@
     "youtube": "9-J3hJeP7co", "abs_start": "0:00", "abs_end": "5:08:49", "duration": "5:08:49",
     "name": "Way of the Hunter",
     "date": "2022-08-17",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1564505950.torrent",
     "games": ["co-op"]
   },
   "1570142913": {
@@ -9815,18 +9813,25 @@
   },
   "1618459269": {
     "youtube": "Uu7yEaUNDTE", "abs_start": "0:00", "abs_end": "7:30:34", "duration": "7:30:34",
-    "name": "Chasm: The Rift (демо) / Dredge (демо) / Scars Above (демо) / Unusual Findings (демо) / Tales of Terror / Horrors of Space #1 / Half Dead - Часть 3 #2 / Sign of Silence #3 / Escape Memoirs: Mini Stories",
+    "name": "Chasm: The Rift (демо) / Dredge (демо) / Scars Above (демо) / Unusual Findings - Демо / Tales of Terror / Horrors of Space #1 / Half Dead - Часть 3 #2 / Sign of Silence #3 / Escape Memoirs: Mini Stories",
     "date": "2022-10-08",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1618459269.torrent",
-    "games": ["first-2022", "single", "co-op", "horrors-of-space", "half-dead", "sign-of-silence"]
+    "games": ["first-2022", "unusual-findings", "co-op", "horrors-of-space", "half-dead", "sign-of-silence"]
   },
   "1619465701": {
-    "abs_start": "0:00", "abs_end": "6:14:36", "duration": "0:00",
+    "youtube": "Hn2loNKBAFQ", "abs_start": "0:00", "abs_end": "6:14:36", "duration": "6:14:05",
     "name": "Kona II: Brume (демо) / The Classrooms (демо) / Quo (демо) / The Polaris Incident / Broken Through / The Chaput's Baby / Anthology of Fear (демо) / On One's Own",
     "date": "2022-10-09",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1619465701.mp4",
     "cuts": [[13924, 13955]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1619465701.torrent",
     "games": ["single", "first-2022"]
+  },
+  "1622143449": {
+    "abs_start": "0:00", "abs_end": "5:24:19", "duration": "0:00",
+    "name": "Forever Skies (демо) / Unusual Findings #1",
+    "date": "2022-10-12",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1622143449.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1622143449.torrent",
+    "games": ["single", "unusual-findings"]
   }
 }
