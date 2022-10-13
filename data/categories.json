@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "red-bridge", "segment": "1603602197", "name": "The Fridge Is Red - Прохождение / Trash Horror Collection 2 - Poop Killer 4", "start": 0},
       {"id": "first-2022", "segment": "1604386613", "name": "Deathverse: Let It Die / Valkyrie Elysium", "start": 0},
       {"id": "yakuza-0", "segment": "1605248642", "name": "Yakuza 0 #3", "start": 0},
       {"id": "single", "segment": "1607244038", "name": "Scorn (пролог) / Go Home Annie: An SCP Game (демо) / Convenient / Lazaret (демо) / Late Night Mop / The Death: Than Trung", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "retro", "segment": "1614024019", "name": "Вечер Ретро Игр (ВРИ) #8 / Final Fantasy VII / Castlevania: Symphony of the Night / The Adventures of Lomax", "start": 0},
       {"id": "first-2022", "segment": "1618459269", "name": "Chasm: The Rift (демо) / Dredge (демо) / Scars Above (демо) / Unusual Findings - Демо / Tales of Terror / Horrors of Space #1 / Half Dead - Часть 3 #2 / Sign of Silence #3 / Escape Memoirs: Mini Stories", "start": 0},
       {"id": "single", "segment": "1619465701", "name": "Kona II: Brume (демо) / The Classrooms (демо) / Quo (демо) / The Polaris Incident / Broken Through / The Chaput's Baby / Anthology of Fear (демо) / On One's Own", "start": 0},
-      {"id": "single", "segment": "1622143449", "name": "Forever Skies (демо) / Unusual Findings #1", "start": 0}
+      {"id": "single", "segment": "1622143449", "name": "Forever Skies (демо) / Unusual Findings #1", "start": 0},
+      {"id": "co-op", "segment": "1623036890", "name": "Overwatch 2", "start": 0}
     ]
   },
   "finished": {
@@ -1338,7 +1338,8 @@
       {"id": "co-op", "segment": "1564505950", "name": "Way of the Hunter", "start": 267},
       {"id": "co-op", "segment": "1587098639", "name": "The Long Drive", "start": 4752},
       {"id": "co-op", "segment": "1618459269", "name": "Tales of Terror", "start": 13316},
-      {"id": "co-op", "segment": "1618459269", "name": "Escape Memoirs: Mini Stories", "start": 21583}
+      {"id": "co-op", "segment": "1618459269", "name": "Escape Memoirs: Mini Stories", "start": 21583},
+      {"id": "co-op", "segment": "1623036890", "name": "Overwatch 2", "start": 3251}
     ]
   },
   "other": {
