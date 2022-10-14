@@ -3,16 +3,16 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "first-2022", "segment": "1604386613", "name": "Deathverse: Let It Die / Valkyrie Elysium", "start": 0},
       {"id": "yakuza-0", "segment": "1605248642", "name": "Yakuza 0 #3", "start": 0},
-      {"id": "single", "segment": "1607244038", "name": "Scorn (пролог) / Go Home Annie: An SCP Game (демо) / Convenient / Lazaret (демо) / Late Night Mop / The Death: Than Trung", "start": 0},
+      {"id": "scorn", "segment": "1607244038", "name": "Scorn - Пролог / Go Home Annie: An SCP Game (демо) / Convenient / Lazaret (демо) / Late Night Mop / The Death: Than Trung", "start": 0},
       {"id": "first-2022", "segment": "1608110648", "name": "Dark Light / Apocalyptic Vibes (демо) / Electrician Simulator / Priest Simulator / The Bathhouse", "start": 0},
       {"id": "yakuza-0", "segment": "1608964216", "name": "Yakuza 0 #4", "start": 0},
       {"id": "retro", "segment": "1614024019", "name": "Вечер Ретро Игр (ВРИ) #8 / Final Fantasy VII / Castlevania: Symphony of the Night / The Adventures of Lomax", "start": 0},
       {"id": "first-2022", "segment": "1618459269", "name": "Chasm: The Rift (демо) / Dredge (демо) / Scars Above (демо) / Unusual Findings - Демо / Tales of Terror / Horrors of Space #1 / Half Dead - Часть 3 #2 / Sign of Silence #3 / Escape Memoirs: Mini Stories", "start": 0},
       {"id": "single", "segment": "1619465701", "name": "Kona II: Brume (демо) / The Classrooms (демо) / Quo (демо) / The Polaris Incident / Broken Through / The Chaput's Baby / Anthology of Fear (демо) / On One's Own", "start": 0},
       {"id": "single", "segment": "1622143449", "name": "Forever Skies (демо) / Unusual Findings #1", "start": 0},
-      {"id": "co-op", "segment": "1623036890", "name": "Overwatch 2", "start": 0}
+      {"id": "co-op", "segment": "1623036890", "name": "Overwatch 2", "start": 0},
+      {"id": "scorn", "segment": "1623827060", "name": "Scorn - Прохождение", "start": 0}
     ]
   },
   "finished": {
@@ -436,12 +436,12 @@
       {"name": "Deadly Night", "id": "deadly-night", "segment": "1588071501"},
       {"id": "single", "segment": "1594431864", "name": "Bloodwash", "start": 12626},
       {"id": "single", "segment": "1595342822", "name": "Night At the Gates of Hell", "start": 6625},
-      {"id": "single", "segment": "1607244038", "name": "Scorn (пролог)", "start": 1570},
       {"id": "single", "segment": "1607244038", "name": "Go Home Annie: An SCP Game (демо)", "start": 6453},
       {"id": "single", "segment": "1607244038", "name": "Convenient", "start": 9725},
       {"id": "single", "segment": "1607244038", "name": "Lazaret (демо)", "start": 12289},
       {"id": "single", "segment": "1607244038", "name": "Late Night Mop", "start": 15360},
       {"id": "single", "segment": "1607244038", "name": "The Death: Than Trung", "start": 16371},
+      {"name": "Scorn", "id": "scorn", "segment": "1607244038"},
       {"id": "single", "segment": "1608110648", "name": "Apocalyptic Vibes (демо)", "start": 3976},
       {"id": "single", "segment": "1608110648", "name": "The Bathhouse", "start": 14459},
       {"id": "single", "segment": "1619465701", "name": "Kona II: Brume (демо)", "start": 1408},
