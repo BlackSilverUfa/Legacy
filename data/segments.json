@@ -9593,7 +9593,6 @@
     "name": "EXP: War Trauma / Outbreak Island: Pendulum / Soulstice (демо) / Mirror Forge (демо) / Super Catboy",
     "date": "2022-08-25",
     "cuts": [[17799, 17829]],
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1572044648.torrent",
     "games": ["single", "first-2022"]
   },
   "1573052503": {
@@ -9833,19 +9832,25 @@
     "games": ["single", "unusual-findings"]
   },
   "1623036890": {
-    "abs_start": "0:00", "abs_end": "4:27:01", "duration": "0:00",
+    "youtube": "z23WJ31hqWc", "abs_start": "0:00", "abs_end": "4:26:40", "duration": "4:26:40",
     "name": "Overwatch 2",
     "date": "2022-10-13",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1623036890.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1623036890.torrent",
     "games": ["co-op"]
   },
   "1623827060": {
-    "abs_start": "0:00", "abs_end": "5:42:06", "duration": "0:00",
+    "youtube": "S66Q7T7qqxU", "abs_start": "0:00", "abs_end": "5:42:10", "duration": "5:42:10",
     "name": "Scorn - Прохождение",
     "date": "2022-10-14",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1623827060.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1623827060.torrent",
     "games": ["scorn"]
+  },
+  "1624846104": {
+    "abs_start": "0:00", "abs_end": "6:13:33", "duration": "0:00",
+    "name": "Cultic / Warhammer 40,000: Darktide (бета) / Ghostbusters: Spirits Unleashed",
+    "date": "2022-10-15",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1624846104.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1624846104.torrent",
+    "games": ["first-2022", "co-op"]
   }
 }
