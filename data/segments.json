@@ -9599,7 +9599,6 @@
     "youtube": "qFS4leOWwxM", "abs_start": "0:00", "abs_end": "6:16:24", "duration": "6:16:24",
     "name": "Вечер Ретро Игр (ВРИ) #6 / Pepsiman / Ballerburg / Dune 2000 / Driver",
     "date": "2022-08-26",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1573052503.torrent",
     "games": ["retro", "first-2022"]
   },
   "1573991268": {
@@ -9846,11 +9845,18 @@
     "games": ["scorn"]
   },
   "1624846104": {
-    "abs_start": "0:00", "abs_end": "6:13:33", "duration": "0:00",
+    "youtube": "mfkLPL-KafM", "abs_start": "0:00", "abs_end": "6:13:21", "duration": "6:13:21",
     "name": "Cultic / Warhammer 40,000: Darktide (бета) / Ghostbusters: Spirits Unleashed",
     "date": "2022-10-15",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1624846104.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1624846104.torrent",
     "games": ["first-2022", "co-op"]
+  },
+  "1625850313": {
+    "abs_start": "0:00", "abs_end": "5:56:18", "duration": "0:00",
+    "name": "Nancy Drew: Shadow at the Water's Edge (Нэнси Дрю: Тень у воды)",
+    "date": "2022-10-16",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1625850313.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1625850313.torrent",
+    "games": ["first-2022"]
   }
 }

@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "scorn", "segment": "1607244038", "name": "Scorn - Пролог / Go Home Annie: An SCP Game (демо) / Convenient / Lazaret (демо) / Late Night Mop / The Death: Than Trung", "start": 0},
       {"id": "first-2022", "segment": "1608110648", "name": "Dark Light / Apocalyptic Vibes (демо) / Electrician Simulator / Priest Simulator / The Bathhouse", "start": 0},
       {"id": "yakuza-0", "segment": "1608964216", "name": "Yakuza 0 #4", "start": 0},
       {"id": "retro", "segment": "1614024019", "name": "Вечер Ретро Игр (ВРИ) #8 / Final Fantasy VII / Castlevania: Symphony of the Night / The Adventures of Lomax", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "single", "segment": "1622143449", "name": "Forever Skies (демо) / Unusual Findings #1", "start": 0},
       {"id": "co-op", "segment": "1623036890", "name": "Overwatch 2", "start": 0},
       {"id": "scorn", "segment": "1623827060", "name": "Scorn - Прохождение", "start": 0},
-      {"id": "first-2022", "segment": "1624846104", "name": "Cultic / Warhammer 40,000: Darktide (бета) / Ghostbusters: Spirits Unleashed", "start": 0}
+      {"id": "first-2022", "segment": "1624846104", "name": "Cultic / Warhammer 40,000: Darktide (бета) / Ghostbusters: Spirits Unleashed", "start": 0},
+      {"id": "first-2022", "segment": "1625850313", "name": "Nancy Drew: Shadow at the Water's Edge (Нэнси Дрю: Тень у воды)", "start": 0}
     ]
   },
   "finished": {
@@ -953,7 +953,8 @@
       {"id": "first-2022", "segment": "1618459269", "name": "Scars Above (демо)", "start": 5921},
       {"id": "first-2022", "segment": "1619465701", "name": "The Polaris Incident", "start": 9499},
       {"id": "first-2022", "segment": "1619465701", "name": "The Chaput's Baby", "start": 16588},
-      {"id": "first-2022", "segment": "1624846104", "name": "Cultic", "start": 2062}
+      {"id": "first-2022", "segment": "1624846104", "name": "Cultic", "start": 2062},
+      {"id": "first-2022", "segment": "1625850313", "name": "Nancy Drew: Shadow at the Water's Edge (Нэнси Дрю: Тень у воды)", "start": 469}
     ]
   },
   "ongoing": {
