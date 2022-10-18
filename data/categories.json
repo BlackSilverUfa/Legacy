@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "first-2022", "segment": "1608110648", "name": "Dark Light / Apocalyptic Vibes (демо) / Electrician Simulator / Priest Simulator / The Bathhouse", "start": 0},
       {"id": "yakuza-0", "segment": "1608964216", "name": "Yakuza 0 #4", "start": 0},
       {"id": "retro", "segment": "1614024019", "name": "Вечер Ретро Игр (ВРИ) #8 / Final Fantasy VII / Castlevania: Symphony of the Night / The Adventures of Lomax", "start": 0},
       {"id": "first-2022", "segment": "1618459269", "name": "Chasm: The Rift (демо) / Dredge (демо) / Scars Above (демо) / Unusual Findings - Демо / Tales of Terror / Horrors of Space #1 / Half Dead - Часть 3 #2 / Sign of Silence #3 / Escape Memoirs: Mini Stories", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "co-op", "segment": "1623036890", "name": "Overwatch 2", "start": 0},
       {"id": "scorn", "segment": "1623827060", "name": "Scorn - Прохождение", "start": 0},
       {"id": "first-2022", "segment": "1624846104", "name": "Cultic / Warhammer 40,000: Darktide (бета) / Ghostbusters: Spirits Unleashed", "start": 0},
-      {"id": "first-2022", "segment": "1625850313", "name": "Nancy Drew: Shadow at the Water's Edge (Нэнси Дрю: Тень у воды)", "start": 0}
+      {"id": "first-2022", "segment": "1625850313", "name": "Nancy Drew: Shadow at the Water's Edge (Нэнси Дрю: Тень у воды)", "start": 0},
+      {"id": "single", "segment": "1627495658", "name": "A Plague Tale: Requiem / Purple War #2", "start": 0}
     ]
   },
   "finished": {
@@ -451,7 +451,8 @@
       {"id": "single", "segment": "1619465701", "name": "Broken Through", "start": 12673},
       {"id": "single", "segment": "1619465701", "name": "Anthology of Fear (демо)", "start": 18198},
       {"id": "single", "segment": "1619465701", "name": "On One's Own", "start": 20371},
-      {"id": "single", "segment": "1622143449", "name": "Forever Skies (демо)", "start": 10646}
+      {"id": "single", "segment": "1622143449", "name": "Forever Skies (демо)", "start": 10646},
+      {"id": "single", "segment": "1627495658", "name": "A Plague Tale: Requiem", "start": 794}
     ]
   },
   "first": {
@@ -897,7 +898,6 @@
       {"id": "first-2022", "segment": "1544246712", "name": "Nighthunt", "start": 10310},
       {"id": "first-2022", "segment": "1544246712", "name": "Loopmancer", "start": 15222},
       {"id": "first-2022", "segment": "1547156682", "name": "Survival: Fountain of Youth", "start": 5903},
-      {"id": "first-2022", "segment": "1547156682", "name": "Purple War", "start": 13895},
       {"id": "first-2022", "segment": "1548174786", "name": "Enter & Survey", "start": 11592},
       {"id": "first-2022", "segment": "1548174786", "name": "Our Lady of the Drowned Lake", "start": 12030},
       {"id": "first-2022", "segment": "1548174786", "name": "Good Boy", "start": 13885},
@@ -1014,6 +1014,7 @@
       {"name": "Daymare: 1994 Sandcastle", "id": "daymare-1994-sc", "segment": "1306396434"},
       {"name": "SCP: Nukalypse", "id": "scp-nukalypse", "segment": "1458654778"},
       {"name": "Вечер Ретро Игр (ВРИ)", "id": "retro", "segment": "1522102243"},
+      {"name": "Purple War", "id": "purple-war", "segment": "1547156682"},
       {"name": "Ghost Watchers", "id": "ghost-watchers", "segment": "1547156682"}
     ]
   },
