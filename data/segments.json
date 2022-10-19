@@ -4907,10 +4907,9 @@
     "games": ["gta-vice-city"]
   },
   "517802976": {
-    "abs_start": "0:00", "abs_end": "5:58:40", "duration": "0:00",
+    "youtube": "BBwdYelbq6w", "official": false, "abs_start": "0:00", "abs_end": "5:58:21", "duration": "5:58:21",
     "name": "Grand Theft Auto: Vice City #2",
     "date": "2019-12-06",
-    "direct": "https://bsufiles.thedrhax.pw/streams/517802976.mp4",
     "games": ["gta-vice-city"]
   },
   "518306588": {
@@ -6178,10 +6177,9 @@
     "games": ["marvel-avengers"]
   },
   "729970116": {
-    "abs_start": "0:00", "abs_end": "7:14:52", "duration": "0:00",
+    "youtube": "pzknqY5c3vw", "official": false, "abs_start": "0:00", "abs_end": "7:13:50", "duration": "7:13:50",
     "name": "Marvel's Avengers #3 / Tony Hawk's Pro Skater 1+2",
     "date": "2020-09-03",
-    "direct": "https://bsufiles.thedrhax.pw/streams/729970116.mp4",
     "games": ["marvel-avengers", "first-2020"]
   },
   "731025039": {
@@ -8337,17 +8335,15 @@
     "games": ["house-of-ashes"]
   },
   "1186535358": {
-    "abs_start": "0:00", "abs_end": "7:16:35", "duration": "0:00",
+    "youtube": "q1-PsCsDkuo", "official": false, "abs_start": "0:00", "abs_end": "7:15:57", "duration": "7:15:57",
     "name": "Marvel's Guardians of the Galaxy #1",
     "date": "2021-10-25",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1186535358.mp4",
     "games": ["marvel-gotg"]
   },
   "1187388604": {
-    "abs_start": "0:00", "abs_end": "8:08:59", "duration": "0:00",
+    "youtube": "-c0kXqn6vqU", "official": false, "abs_start": "0:00", "abs_end": "8:08:48", "duration": "8:08:48",
     "name": "Marvel's Guardians of the Galaxy #2",
     "date": "2021-10-26",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1187388604.mp4",
     "games": ["marvel-gotg"]
   },
   "1188297728": {
@@ -9848,20 +9844,26 @@
     "games": ["first-2022", "co-op"]
   },
   "1625850313": {
-    "abs_start": "0:00", "abs_end": "5:56:18", "duration": "0:00",
+    "youtube": "Q4f2BtMtNW8", "abs_start": "0:00", "abs_end": "5:56:15", "duration": "5:56:15",
     "name": "Nancy Drew: Shadow at the Water's Edge (Нэнси Дрю: Тень у воды)",
     "date": "2022-10-16",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1625850313.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1625850313.torrent",
     "games": ["first-2022"]
   },
   "1627495658": {
-    "abs_start": "0:00", "abs_end": "9:10:37", "duration": "0:00",
-    "name": "A Plague Tale: Requiem / Purple War #2",
+    "youtube": "1J38tnv4oio", "abs_start": "0:00", "abs_end": "9:10:12", "duration": "9:09:42",
+    "name": "A Plague Tale: Requiem #1 / Purple War #2",
     "date": "2022-10-18",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1627495658.mp4",
     "cuts": [[48, 78]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1627495658.torrent",
-    "games": ["single", "purple-war"]
+    "games": ["plague-tale-req", "purple-war"]
+  },
+  "1628359023": {
+    "abs_start": "0:00", "abs_end": "10:41:42", "duration": "0:00",
+    "name": "A Plague Tale: Requiem #2",
+    "date": "2022-10-19",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1628359023.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1628359023.torrent",
+    "games": ["plague-tale-req"]
   }
 }
