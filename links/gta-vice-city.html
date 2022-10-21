@@ -174,9 +174,9 @@
         <i class="fas fa-comments"></i> 22585
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=BBwdYelbq6w" target="_blank">
-        <i class="fab fa-youtube"></i> BBwdYelbq6w
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.thedrhax.pw/streams/517802976.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -202,6 +202,7 @@
       <li>Проблемы с правообладателями:</li>
   <ul>
     <li><a data-value="3077">51:17</a> - <a data-value="3149">52:29</a> — Tito Puente & His Orchestra - Mambo Gozon</li>
+    <li><a data-value="4676">1:17:56</a> - <a data-value="4691">1:18:11</a> — Nena - 99 Luftballons</li>
     <li><a data-value="12173">3:22:53</a> - <a data-value="12253">3:24:13</a> — Autograph - Turn up the Radio</li>
     <li><a data-value="14407">4:00:07</a> - <a data-value="14418">4:00:18</a> — Oliver Cheatham - Get Down Saturday Night</li>
     <li><a data-value="16206">4:30:06</a> - <a data-value="16334">4:32:14</a> — Herbie Hancock - Rockit</li>
@@ -227,13 +228,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="1" data-hash="517802976" data-subtitles="https://bsu.drhx.ru/chats/2019/v517802976.ass" data-name="2" data-youtube="BBwdYelbq6w" />
+  <p class="stream" data-id="1" data-hash="517802976" data-subtitles="https://bsu.drhx.ru/chats/2019/v517802976.ass" data-name="2" data-direct="https://bsufiles.thedrhax.pw/streams/517802976.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2019/v517802976.ass ytdl://BBwdYelbq6w
+  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2019/v517802976.ass https://bsufiles.thedrhax.pw/streams/517802976.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://bsu.drhx.ru/chats/2019/v517802976.ass" --player-passthrough hls twitch.tv/videos/517802976 best
 </code></pre>
 </div>
 

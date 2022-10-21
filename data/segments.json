@@ -3241,9 +3241,10 @@
     "games": ["subnautica"]
   },
   "358681563": {
-    "youtube": "Vst4aWBUyGA", "abs_start": "0:00", "abs_end": "6:06:59", "duration": "6:06:59",
+    "abs_start": "0:00", "abs_end": "6:06:50", "duration": "0:00",
     "name": "Subnautica #5",
     "date": "2019-01-04",
+    "direct": "https://bsufiles.thedrhax.pw/streams/358681563.mp4",
     "games": ["subnautica"]
   },
   "359212700": {
@@ -4907,9 +4908,10 @@
     "games": ["gta-vice-city"]
   },
   "517802976": {
-    "youtube": "BBwdYelbq6w", "official": false, "abs_start": "0:00", "abs_end": "5:58:21", "duration": "5:58:21",
+    "abs_start": "0:00", "abs_end": "5:58:40", "duration": "0:00",
     "name": "Grand Theft Auto: Vice City #2",
     "date": "2019-12-06",
+    "direct": "https://bsufiles.thedrhax.pw/streams/517802976.mp4",
     "games": ["gta-vice-city"]
   },
   "518306588": {
@@ -5698,9 +5700,10 @@
     "games": ["mafia-2-definitive", "first-2020", "geoguessr"]
   },
   "628517071": {
-    "youtube": "Vf-lQOvAryc", "abs_start": "0:00", "abs_end": "6:13:41", "duration": "6:13:41",
+    "abs_start": "0:00", "abs_end": "6:14:39", "duration": "0:00",
     "name": "Maneater #1 / Saints Row: The Third / Streets of Rage 4 #2 / SnowRunner #8",
     "date": "2020-05-22",
+    "direct": "https://bsufiles.thedrhax.pw/streams/628517071.mp4",
     "games": ["maneater", "first-2020", "streets-of-rage-4", "snowrunner"]
   },
   "629544387": {
@@ -6816,9 +6819,10 @@
     "games": ["subnautica-bz"]
   },
   "873197357": {
-    "youtube": "AinWqdkN7Mc", "official": false, "abs_start": "0:00", "abs_end": "6:14:36", "duration": "6:14:36",
+    "abs_start": "0:00", "abs_end": "6:14:34", "duration": "0:00",
     "name": "Subnautica: Below Zero #7",
     "date": "2021-01-14",
+    "direct": "https://bsufiles.thedrhax.pw/streams/873197357.mp4",
     "games": ["subnautica-bz"]
   },
   "877211836": {
@@ -8347,9 +8351,10 @@
     "games": ["marvel-gotg"]
   },
   "1188297728": {
-    "youtube": "k9NfsOVExJk", "official": false, "abs_start": "0:00", "abs_end": "4:16:06", "duration": "4:16:06",
+    "abs_start": "0:00", "abs_end": "4:16:09", "duration": "0:00",
     "name": "Marvel's Guardians of the Galaxy #3",
     "date": "2021-10-27",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1188297728.mp4",
     "games": ["marvel-gotg"]
   },
   "1190164000": {
@@ -9642,7 +9647,6 @@
     "name": "The Last of Us: Part I #2",
     "date": "2022-09-03",
     "cuts": [[17744, 17776]],
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1580576439.torrent",
     "games": ["tlou"]
   },
   "1581571795": {

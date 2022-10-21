@@ -1039,9 +1039,9 @@
         <i class="fas fa-comments"></i> 15655
       </a>
     </span>
-    <span class="badge badge-success">
-      <a href="https://www.youtube.com/watch?v=Vf-lQOvAryc" target="_blank">
-        <i class="fab fa-youtube"></i> Vf-lQOvAryc
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.thedrhax.pw/streams/628517071.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -1081,6 +1081,11 @@
     <li><a data-value="2830">47:10</a> — Челюсти</li>
   </ul>
 
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li><a data-value="5567">1:32:47</a> - <a data-value="5809">1:36:49</a> — Ramin Djawadi, Tom Morello - Pacific Rim (feat. Tom Morello)</li>
+  </ul>
+
     <li><a data-value="7271">2:01:11</a> — <a href="https://youtu.be/b02D7BVDX4w">KirillRedin - Упоротый Saints Row: Де Пфёрд #1</a></li>
     <li><a data-value="7391">2:03:11</a> — Артём</li>
       <li>Saints Row: The Third:</li>
@@ -1112,13 +1117,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="10" data-hash="628517071" data-subtitles="https://bsu.drhx.ru/chats/2020/v628517071.ass" data-start="7457" data-name="Saints Row: The Third" data-youtube="Vf-lQOvAryc" />
+  <p class="stream" data-id="10" data-hash="628517071" data-subtitles="https://bsu.drhx.ru/chats/2020/v628517071.ass" data-start="7457" data-name="Saints Row: The Third" data-direct="https://bsufiles.thedrhax.pw/streams/628517071.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2020/v628517071.ass --start=7457 ytdl://Vf-lQOvAryc
+  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2020/v628517071.ass --start=7457 https://bsufiles.thedrhax.pw/streams/628517071.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://bsu.drhx.ru/chats/2020/v628517071.ass --start=7457" --player-passthrough hls twitch.tv/videos/628517071 best
 </code></pre>
 </div>
 
