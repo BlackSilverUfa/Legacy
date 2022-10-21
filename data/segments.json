@@ -9635,7 +9635,6 @@
     "youtube": "Iak_0yOzItE", "abs_start": "0:00", "abs_end": "8:40:27", "duration": "8:40:27",
     "name": "The Last of Us: Part I #1",
     "date": "2022-09-02",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1579576285.torrent",
     "games": ["tlou"]
   },
   "1580576439": {
@@ -9859,11 +9858,18 @@
     "games": ["plague-tale-req", "purple-war"]
   },
   "1628359023": {
-    "abs_start": "0:00", "abs_end": "10:41:42", "duration": "0:00",
+    "youtube": "smfYgDuCvRs", "abs_start": "0:00", "abs_end": "10:41:18", "duration": "10:41:18",
     "name": "A Plague Tale: Requiem #2",
     "date": "2022-10-19",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1628359023.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1628359023.torrent",
     "games": ["plague-tale-req"]
+  },
+  "1630171647": {
+    "abs_start": "0:00", "abs_end": "9:11:55", "duration": "0:00",
+    "name": "Call of Duty: Modern Warfare II / Resident Evil Village - Замок (демо от 3-го лица)",
+    "date": "2022-10-21",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1630171647.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1630171647.torrent",
+    "games": ["single", "re8"]
   }
 }
