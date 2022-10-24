@@ -818,9 +818,9 @@
         <i class="fas fa-comments"></i> 27004
       </a>
     </span>
-    <span class="badge badge-success">
-      <a href="https://www.youtube.com/watch?v=FgPSfUrrDCs" target="_blank">
-        <i class="fab fa-youtube"></i> FgPSfUrrDCs
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.thedrhax.pw/streams/916293705.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -857,6 +857,11 @@
     <li><a data-value="2637">43:57</a> — Игра</li>
   </ul>
 
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li><a data-value="3131">52:11</a> - <a data-value="3230">53:50</a> — Ramin Djawadi, Tom Morello - Pacific Rim (feat. Tom Morello)</li>
+  </ul>
+
     <li><a data-value="3849">1:04:09</a> — Вход в Discord</li>
       <li>Valheim:</li>
   <ul>
@@ -884,13 +889,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="8" data-hash="916293705" data-subtitles="https://bsu.drhx.ru/chats/2021/v916293705.ass" data-start="17863" data-name="9" data-youtube="FgPSfUrrDCs" />
+  <p class="stream" data-id="8" data-hash="916293705" data-subtitles="https://bsu.drhx.ru/chats/2021/v916293705.ass" data-start="17863" data-name="9" data-direct="https://bsufiles.thedrhax.pw/streams/916293705.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2021/v916293705.ass --start=17863 ytdl://FgPSfUrrDCs
+  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2021/v916293705.ass --start=17863 https://bsufiles.thedrhax.pw/streams/916293705.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://bsu.drhx.ru/chats/2021/v916293705.ass --start=17863" --player-passthrough hls twitch.tv/videos/916293705 best
 </code></pre>
 </div>
 
