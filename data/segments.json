@@ -9872,5 +9872,13 @@
     "date": "2022-10-21",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1630171647.torrent",
     "games": ["single", "re8"]
+  },
+  "1633962812": {
+    "abs_start": "0:00", "abs_end": "6:09:27", "duration": "0:00",
+    "name": "Resident Evil Remake Remake / The Shadow over Route 80 / Off Shore (демо) / Father's Day / Silence Channel 2 (демо)",
+    "date": "2022-10-25",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1633962812.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1633962812.torrent",
+    "games": ["first-2022", "single"]
   }
 }
