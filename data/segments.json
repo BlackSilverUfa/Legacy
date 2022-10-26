@@ -9874,11 +9874,18 @@
     "games": ["single", "re8"]
   },
   "1633962812": {
-    "abs_start": "0:00", "abs_end": "6:09:27", "duration": "0:00",
+    "youtube": "SrTRY5PhDR0", "abs_start": "0:00", "abs_end": "6:08:55", "duration": "6:08:55",
     "name": "Resident Evil Remake Remake / The Shadow over Route 80 / Off Shore (демо) / Father's Day / Silence Channel 2 (демо)",
     "date": "2022-10-25",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1633962812.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1633962812.torrent",
     "games": ["first-2022", "single"]
+  },
+  "1634888055": {
+    "abs_start": "0:00", "abs_end": "5:44:22", "duration": "0:00",
+    "name": "Suffer The Night (демо) / Please Don't Litter / Endoparasitic / Death Relives (демо) / The Trench / Stay Out of the House",
+    "date": "2022-10-26",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1634888055.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1634888055.torrent",
+    "games": ["single", "first-2022"]
   }
 }
