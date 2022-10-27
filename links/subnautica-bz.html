@@ -649,12 +649,9 @@
       <li>Проблемы с правообладателями:</li>
   <ul>
     <li>
-      <a data-value="18603">5:10:03</a> - <a data-value="18785">5:13:05</a>,
-      <a data-value="18786">5:13:06</a> - <a data-value="18891">5:14:51</a>,
-      <a data-value="18890">5:14:50</a> - <a data-value="19050">5:17:30</a>,
-      <a data-value="20741">5:45:41</a> - <a data-value="20923">5:48:43</a>,
-      <a data-value="20922">5:48:42</a> - <a data-value="21027">5:50:27</a>,
-      <a data-value="21029">5:50:29</a> - <a data-value="21188">5:53:08</a>
+      <a data-value="18603">5:10:03</a> - <a data-value="19095">5:18:15</a>,
+      <a data-value="20670">5:44:30</a> - <a data-value="20712">5:45:12</a>,
+      <a data-value="20741">5:45:41</a> - <a data-value="21281">5:54:41</a>
       — Ramin Djawadi, Tom Morello - Pacific Rim (feat. Tom Morello)
     </li>
   </ul>
@@ -703,9 +700,9 @@
         <i class="fas fa-comments"></i> 14390
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=w4F6IQSX6XA" target="_blank">
-        <i class="fab fa-youtube"></i> w4F6IQSX6XA
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.thedrhax.pw/streams/1021117640.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -809,19 +806,30 @@
     <li><a data-value="17752">4:55:52</a> — Игра</li>
   </ul>
 
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li><a data-value="17990">4:59:50</a> - <a data-value="18248">5:04:08</a> — Ramin Djawadi, Tom Morello - Pacific Rim (feat. Tom Morello)</li>
+  </ul>
+
   </ul>
 
   </div>
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="8" data-hash="1021117640" data-subtitles="https://bsu.drhx.ru/chats/2021/v1021117640.ass" data-start="17696" data-name="8 (релиз)" data-youtube="w4F6IQSX6XA" />
+  <p class="stream" data-id="8" data-hash="1021117640" data-subtitles="https://bsu.drhx.ru/chats/2021/v1021117640.ass" data-start="17696" data-name="8 (релиз)" data-direct="https://bsufiles.thedrhax.pw/streams/1021117640.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2021/v1021117640.ass --start=17696 ytdl://w4F6IQSX6XA
+  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2021/v1021117640.ass --start=17696 https://bsufiles.thedrhax.pw/streams/1021117640.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://bsu.drhx.ru/chats/2021/v1021117640.ass --start=17696" --player-passthrough hls twitch.tv/videos/1021117640 best
 </code></pre>
 </div>
 

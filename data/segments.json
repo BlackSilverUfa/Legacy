@@ -7444,9 +7444,10 @@
     "games": ["unboxing", "first-2021", "metro-exodus"]
   },
   "1021117640": {
-    "youtube": "w4F6IQSX6XA", "official": false, "abs_start": "0:00", "abs_end": "5:39:59", "duration": "5:39:59",
+    "abs_start": "0:00", "abs_end": "5:40:01", "duration": "0:00",
     "name": "Until We Die - Демо / Severed Steel (демо) / In Sound Mind #2 (демо) / Happy Game (демо) / Gravewood High (демо) / SCP: Escape Together / Wreckfest #6 / Subnautica: Below Zero #8 (релиз)",
     "date": "2021-05-13",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1021117640.mp4",
     "games": ["until-we-die", "first-2021", "in-sound-mind", "wreckfest", "subnautica-bz"]
   },
   "1022192586": {
