@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "single", "segment": "1622143449", "name": "Forever Skies (демо) / Unusual Findings #1", "start": 0},
       {"id": "co-op", "segment": "1623036890", "name": "Overwatch 2", "start": 0},
       {"id": "scorn", "segment": "1623827060", "name": "Scorn - Прохождение", "start": 0},
       {"id": "first-2022", "segment": "1624846104", "name": "Cultic / Warhammer 40,000: Darktide (бета) / Ghostbusters: Spirits Unleashed", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "plague-tale-req", "segment": "1628359023", "name": "A Plague Tale: Requiem #2", "start": 0},
       {"id": "single", "segment": "1630171647", "name": "Call of Duty: Modern Warfare II / Resident Evil Village - Замок (демо от 3-го лица)", "start": 0},
       {"id": "first-2022", "segment": "1633962812", "name": "Resident Evil Remake Remake / The Shadow over Route 80 / Off Shore (демо) / Father's Day / Silence Channel 2 (демо)", "start": 0},
-      {"id": "single", "segment": "1634888055", "name": "Suffer The Night (демо) / Please Don't Litter / Endoparasitic / Death Relives (демо) / The Trench / Stay Out of the House", "start": 0}
+      {"id": "single", "segment": "1634888055", "name": "Suffer The Night (демо) / Please Don't Litter / Endoparasitic / Death Relives (демо) / The Trench / Stay Out of the House", "start": 0},
+      {"id": "single", "segment": "1635763389", "name": "Luto (демо) / Bughouse / Lunacy: Saint Rhodes (демо) / Skinned Alive / Night Delivery / The Lies We Tell Ourselves (демо)", "start": 0}
     ]
   },
   "finished": {
@@ -459,7 +459,13 @@
       {"id": "single", "segment": "1633962812", "name": "Silence Channel 2 (демо)", "start": 18975},
       {"id": "single", "segment": "1634888055", "name": "Suffer The Night (демо)", "start": 812},
       {"id": "single", "segment": "1634888055", "name": "Please Don't Litter", "start": 6994},
-      {"id": "single", "segment": "1634888055", "name": "Death Relives (демо)", "start": 10723}
+      {"id": "single", "segment": "1634888055", "name": "Death Relives (демо)", "start": 10723},
+      {"id": "single", "segment": "1635763389", "name": "Luto (демо)", "start": 1281},
+      {"id": "single", "segment": "1635763389", "name": "Bughouse", "start": 5111},
+      {"id": "single", "segment": "1635763389", "name": "Lunacy: Saint Rhodes (демо)", "start": 7517},
+      {"id": "single", "segment": "1635763389", "name": "Skinned Alive", "start": 9647},
+      {"id": "single", "segment": "1635763389", "name": "Night Delivery", "start": 12098},
+      {"id": "single", "segment": "1635763389", "name": "The Lies We Tell Ourselves (демо)", "start": 16319}
     ]
   },
   "first": {

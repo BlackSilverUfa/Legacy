@@ -5068,10 +5068,9 @@
     "games": ["life-is-strange-2"]
   },
   "533269694": {
-    "abs_start": "0:00", "abs_end": "5:59:58", "duration": "0:00",
+    "youtube": "mXMdAD6HnLY", "official": false, "abs_start": "0:00", "abs_end": "5:59:47", "duration": "5:59:47",
     "name": "Grand Theft Auto: San Andreas #1",
     "date": "2020-01-09",
-    "direct": "https://bsufiles.thedrhax.pw/streams/533269694.mp4",
     "games": ["gta-san-andreas"]
   },
   "533755753": {
@@ -6647,10 +6646,9 @@
     "games": ["cyberpunk-2077"]
   },
   "832197729.1": {
-    "abs_start": "12:00:00", "abs_end": "15:55:35", "duration": "0:00",
+    "youtube": "dKxTqtSfHSE", "official": false, "abs_start": "12:00:00", "abs_end": "15:55:38", "duration": "3:55:38",
     "name": "Cyberpunk 2077 #2 (часть 2) / The Game Awards #2020",
     "date": "2020-12-10",
-    "direct": "https://bsufiles.thedrhax.pw/streams/832197729.1.mp4",
     "games": ["cyberpunk-2077", "tga"]
   },
   "833444670": {
@@ -9651,7 +9649,6 @@
     "youtube": "WsUGfIVEJ-g", "abs_start": "0:00", "abs_end": "5:10:54", "duration": "5:10:54",
     "name": "The Last of Us: Part I #3 / The Last of Us: Part I - DLC: Left Behind",
     "date": "2022-09-04",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1581571795.torrent",
     "games": ["tlou"]
   },
   "1582452440": {
@@ -9881,11 +9878,18 @@
     "games": ["first-2022", "single"]
   },
   "1634888055": {
-    "abs_start": "0:00", "abs_end": "5:44:22", "duration": "0:00",
+    "youtube": "Z_AmuSRHkh4", "abs_start": "0:00", "abs_end": "5:44:16", "duration": "5:44:16",
     "name": "Suffer The Night (демо) / Please Don't Litter / Endoparasitic / Death Relives (демо) / The Trench / Stay Out of the House",
     "date": "2022-10-26",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1634888055.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1634888055.torrent",
     "games": ["single", "first-2022"]
+  },
+  "1635763389": {
+    "abs_start": "0:00", "abs_end": "5:25:19", "duration": "0:00",
+    "name": "Luto (демо) / Bughouse / Lunacy: Saint Rhodes (демо) / Skinned Alive / Night Delivery / The Lies We Tell Ourselves (демо)",
+    "date": "2022-10-27",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1635763389.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1635763389.torrent",
+    "games": ["single"]
   }
 }
