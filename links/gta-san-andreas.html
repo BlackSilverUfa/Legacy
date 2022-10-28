@@ -395,9 +395,9 @@
         <i class="fas fa-comments"></i> 26601
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=zX6_n66fFSA" target="_blank">
-        <i class="fab fa-youtube"></i> zX6_n66fFSA
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.thedrhax.pw/streams/535374681.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -415,6 +415,7 @@
   <ul>
     <li><a data-value="2200">36:40</a> - <a data-value="2268">37:48</a> — Toto - Hold the Line</li>
     <li><a data-value="4293">1:11:33</a> - <a data-value="4375">1:12:55</a> — Eddie Money - Two Tickets To Paradise</li>
+    <li><a data-value="8645">2:24:05</a> - <a data-value="8824">2:27:04</a> — The Stone Roses - Fools Gold (Remastered Edit)</li>
     <li><a data-value="10204">2:50:04</a> - <a data-value="10394">2:53:14</a> — Ozzy Osbourne - Hellraiser (много небольших фрагментов)</li>
     <li><a data-value="13782">3:49:42</a> - <a data-value="13797">3:49:57</a> — Frankie Knuckles - It's a Cold World</li>
     <li><a data-value="18460">5:07:40</a> - <a data-value="18484">5:08:04</a> — Public Enemy - Rebel Without A Pause</li>
@@ -443,13 +444,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="4" data-hash="535374681" data-subtitles="https://bsu.drhx.ru/chats/2020/v535374681.ass" data-name="4" data-youtube="zX6_n66fFSA" />
+  <p class="stream" data-id="4" data-hash="535374681" data-subtitles="https://bsu.drhx.ru/chats/2020/v535374681.ass" data-name="4" data-direct="https://bsufiles.thedrhax.pw/streams/535374681.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2020/v535374681.ass ytdl://zX6_n66fFSA
+  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2020/v535374681.ass https://bsufiles.thedrhax.pw/streams/535374681.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://bsu.drhx.ru/chats/2020/v535374681.ass" --player-passthrough hls twitch.tv/videos/535374681 best
 </code></pre>
 </div>
 

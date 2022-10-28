@@ -553,9 +553,9 @@
         <i class="fas fa-comments"></i> 19878
       </a>
     </span>
-    <span class="badge badge-success">
-      <a href="https://www.youtube.com/watch?v=pWllHf0z1vE" target="_blank">
-        <i class="fab fa-youtube"></i> pWllHf0z1vE
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.thedrhax.pw/streams/508178551.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -579,6 +579,11 @@
     <li><a data-value="1499">24:59</a> - <a data-value="1629">27:09</a> — Новый победитель</li>
   </ul>
 
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li><a data-value="1677">27:57</a> - <a data-value="1800">30:00</a> — Foo Fighters - Best of You</li>
+  </ul>
+
       <li>Superliminal:</li>
   <ul>
     <li><a data-value="1969">32:49</a> — Меню</li>
@@ -598,13 +603,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="6" data-hash="508178551" data-subtitles="https://bsu.drhx.ru/chats/2019/v508178551.ass" data-name="Розыгрыш Asus ROG Strix SCAR II" data-youtube="pWllHf0z1vE" />
+  <p class="stream" data-id="6" data-hash="508178551" data-subtitles="https://bsu.drhx.ru/chats/2019/v508178551.ass" data-name="Розыгрыш Asus ROG Strix SCAR II" data-direct="https://bsufiles.thedrhax.pw/streams/508178551.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2019/v508178551.ass ytdl://pWllHf0z1vE
+  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2019/v508178551.ass https://bsufiles.thedrhax.pw/streams/508178551.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://bsu.drhx.ru/chats/2019/v508178551.ass" --player-passthrough hls twitch.tv/videos/508178551 best
 </code></pre>
 </div>
 

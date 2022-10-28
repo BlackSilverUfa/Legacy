@@ -357,9 +357,9 @@
         <i class="fas fa-comments"></i> 15767
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=68BvYwQzb5A" target="_blank">
-        <i class="fab fa-youtube"></i> 68BvYwQzb5A
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.thedrhax.pw/streams/499849877.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -395,6 +395,7 @@
 
       <li>Проблемы с правообладателями:</li>
   <ul>
+    <li><a data-value="4910">1:21:50</a> - <a data-value="5154">1:25:54</a> — Daft Punk - Get Lucky (Radio Edit)</li>
     <li><a data-value="7026">1:57:06</a> - <a data-value="7294">2:01:34</a> — amazarashi - Play Goodbye</li>
   </ul>
 
@@ -412,13 +413,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="4" data-hash="499849877" data-subtitles="https://bsu.drhx.ru/chats/2019/v499849877.ass" data-name="5" data-youtube="68BvYwQzb5A" />
+  <p class="stream" data-id="4" data-hash="499849877" data-subtitles="https://bsu.drhx.ru/chats/2019/v499849877.ass" data-name="5" data-direct="https://bsufiles.thedrhax.pw/streams/499849877.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2019/v499849877.ass ytdl://68BvYwQzb5A
+  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2019/v499849877.ass https://bsufiles.thedrhax.pw/streams/499849877.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://bsu.drhx.ru/chats/2019/v499849877.ass" --player-passthrough hls twitch.tv/videos/499849877 best
 </code></pre>
 </div>
 
