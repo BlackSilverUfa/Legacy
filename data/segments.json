@@ -9892,5 +9892,13 @@
     "date": "2022-10-27",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1635763389.torrent",
     "games": ["single"]
+  },
+  "1636658103": {
+    "abs_start": "0:00", "abs_end": "5:45:35", "duration": "0:00",
+    "name": "Resident Evil Village - DLC: Shadows of Rose",
+    "date": "2022-10-28",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1636658103.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1636658103.torrent",
+    "games": ["re8"]
   }
 }

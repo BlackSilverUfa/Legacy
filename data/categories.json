@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "co-op", "segment": "1623036890", "name": "Overwatch 2", "start": 0},
       {"id": "scorn", "segment": "1623827060", "name": "Scorn - Прохождение", "start": 0},
       {"id": "first-2022", "segment": "1624846104", "name": "Cultic / Warhammer 40,000: Darktide (бета) / Ghostbusters: Spirits Unleashed", "start": 0},
       {"id": "first-2022", "segment": "1625850313", "name": "Nancy Drew: Shadow at the Water's Edge (Нэнси Дрю: Тень у воды)", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "single", "segment": "1630171647", "name": "Call of Duty: Modern Warfare II / Resident Evil Village - Замок (демо от 3-го лица)", "start": 0},
       {"id": "first-2022", "segment": "1633962812", "name": "Resident Evil Remake Remake / The Shadow over Route 80 / Off Shore (демо) / Father's Day / Silence Channel 2 (демо)", "start": 0},
       {"id": "single", "segment": "1634888055", "name": "Suffer The Night (демо) / Please Don't Litter / Endoparasitic / Death Relives (демо) / The Trench / Stay Out of the House", "start": 0},
-      {"id": "single", "segment": "1635763389", "name": "Luto (демо) / Bughouse / Lunacy: Saint Rhodes (демо) / Skinned Alive / Night Delivery / The Lies We Tell Ourselves (демо)", "start": 0}
+      {"id": "single", "segment": "1635763389", "name": "Luto (демо) / Bughouse / Lunacy: Saint Rhodes (демо) / Skinned Alive / Night Delivery / The Lies We Tell Ourselves (демо)", "start": 0},
+      {"id": "re8", "segment": "1636658103", "name": "Resident Evil Village - DLC: Shadows of Rose", "start": 0}
     ]
   },
   "finished": {
