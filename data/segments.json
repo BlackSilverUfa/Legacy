@@ -9665,7 +9665,6 @@
     "name": "Gloomwood - Ранний доступ",
     "date": "2022-09-06",
     "cuts": [[10349, 10379]],
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1583467635.torrent",
     "games": ["gloomwood"]
   },
   "1585224225": {
@@ -9845,10 +9844,10 @@
   },
   "1625850313": {
     "youtube": "Q4f2BtMtNW8", "abs_start": "0:00", "abs_end": "5:56:15", "duration": "5:56:15",
-    "name": "Nancy Drew: Shadow at the Water's Edge (Нэнси Дрю: Тень у воды)",
+    "name": "Nancy Drew: Shadow at the Water's Edge (Нэнси Дрю: Тень у воды) #1",
     "date": "2022-10-16",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1625850313.torrent",
-    "games": ["first-2022"]
+    "games": ["nancy-drew-satwe"]
   },
   "1627495658": {
     "youtube": "1J38tnv4oio", "abs_start": "0:00", "abs_end": "9:10:12", "duration": "9:09:42",
@@ -9894,11 +9893,18 @@
     "games": ["single"]
   },
   "1636658103": {
-    "abs_start": "0:00", "abs_end": "5:45:35", "duration": "0:00",
+    "youtube": "CSo_N7itsyc", "abs_start": "0:00", "abs_end": "5:45:35", "duration": "5:45:35",
     "name": "Resident Evil Village - DLC: Shadows of Rose",
     "date": "2022-10-28",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1636658103.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1636658103.torrent",
     "games": ["re8"]
+  },
+  "1637667923": {
+    "abs_start": "0:00", "abs_end": "4:04:37", "duration": "0:00",
+    "name": "Nancy Drew: Shadow at the Water's Edge (Нэнси Дрю: Тень у воды) #2",
+    "date": "2022-10-29",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1637667923.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1637667923.torrent",
+    "games": ["nancy-drew-satwe"]
   }
 }
