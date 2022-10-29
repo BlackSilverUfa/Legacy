@@ -4980,9 +4980,10 @@
     "games": ["spore", "jump-king"]
   },
   "524415764": {
-    "youtube": "KM7Das5OP4Y", "official": false, "abs_start": "0:00", "abs_end": "2:05:09", "duration": "2:05:09",
+    "abs_start": "0:00", "abs_end": "2:05:09", "duration": "0:00",
     "name": "Jump King #3",
     "date": "2019-12-21",
+    "direct": "https://bsufiles.thedrhax.pw/streams/524415764.mp4",
     "games": ["jump-king"]
   },
   "524415764.1": {
