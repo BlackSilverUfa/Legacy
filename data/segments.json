@@ -4750,10 +4750,9 @@
     "games": ["outer-worlds"]
   },
   "499849877": {
-    "abs_start": "0:00", "abs_end": "3:54:24", "duration": "0:00",
+    "youtube": "6Mr_NAsML4w", "official": false, "abs_start": "0:00", "abs_end": "3:54:40", "duration": "3:54:40",
     "name": "Благотворительные стримы #5 / Cooking Simulator / House Flipper",
     "date": "2019-10-26",
-    "direct": "https://bsufiles.thedrhax.pw/streams/499849877.mp4",
     "games": ["charity", "first-2019"]
   },
   "500334713": {
@@ -5095,10 +5094,9 @@
     "games": ["gta-san-andreas"]
   },
   "535374681": {
-    "abs_start": "0:00", "abs_end": "5:42:10", "duration": "0:00",
+    "youtube": "zfXgarhT6oE", "official": false, "abs_start": "0:00", "abs_end": "5:41:58", "duration": "5:41:58",
     "name": "Grand Theft Auto: San Andreas #4",
     "date": "2020-01-13",
-    "direct": "https://bsufiles.thedrhax.pw/streams/535374681.mp4",
     "games": ["gta-san-andreas"]
   },
   "535873254": {
@@ -7013,10 +7011,9 @@
     "games": ["song-of-horror", "valheim"]
   },
   "916293705": {
-    "abs_start": "0:00", "abs_end": "6:08:16", "duration": "0:00",
+    "youtube": "l7rbbsmXfpM", "official": false, "abs_start": "0:00", "abs_end": "6:07:51", "duration": "6:07:51",
     "name": "What Lives Below (демо) / Valheim (с Дашей и Джеком) #2 / Boris The Rocket #2 / Dead Cells #9",
     "date": "2021-02-16",
-    "direct": "https://bsufiles.thedrhax.pw/streams/916293705.mp4",
     "games": ["first-2021", "valheim", "boris-rocket", "dead-cells"]
   },
   "917504095": {
@@ -9672,7 +9669,6 @@
     "youtube": "LUm5rA1b2D8", "abs_start": "0:00", "abs_end": "5:23:14", "duration": "5:23:14",
     "name": "The Hobbit #3",
     "date": "2022-09-08",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1585224225.torrent",
     "games": ["hobbit"]
   },
   "1586147183": {
@@ -9680,7 +9676,6 @@
     "name": "Вечер Ретро Игр (ВРИ) #7 / NHL 2001 / Monster Bass / Revelations: Persona / Carmageddon II",
     "date": "2022-09-09",
     "cuts": [[10519, 10550]],
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1586147183.torrent",
     "games": ["retro", "first-2022"]
   },
   "1587098639": {
@@ -9907,5 +9902,13 @@
     "direct": "https://bsufiles.thedrhax.pw/streams/1637667923.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1637667923.torrent",
     "games": ["nancy-drew-satwe"]
+  },
+  "1638619619": {
+    "abs_start": "0:00", "abs_end": "7:11:15", "duration": "0:00",
+    "name": "Alien: Isolation (мод AlienS IsolatioN)",
+    "date": "2022-10-30",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1638619619.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1638619619.torrent",
+    "games": ["first-2022"]
   }
 }
