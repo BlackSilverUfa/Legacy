@@ -3247,9 +3247,10 @@
     "games": ["subnautica"]
   },
   "359212700": {
-    "youtube": "30OIEcd3hrk", "abs_start": "0:00", "abs_end": "7:09:43", "duration": "7:09:43",
+    "abs_start": "0:00", "abs_end": "7:09:50", "duration": "0:00",
     "name": "Subnautica #6",
     "date": "2019-01-05",
+    "direct": "https://bsufiles.thedrhax.pw/streams/359212700.mp4",
     "games": ["subnautica"]
   },
   "360763825": {
@@ -4828,10 +4829,9 @@
     "games": ["death-stranding"]
   },
   "508178551": {
-    "abs_start": "0:00", "abs_end": "4:43:58", "duration": "0:00",
+    "youtube": "8vRQoRnmrWU", "official": false, "abs_start": "0:00", "abs_end": "4:43:55", "duration": "4:43:55",
     "name": "Розыгрыш Asus ROG Strix SCAR II / Superliminal / Untitled Goose Game - Первый взгляд",
     "date": "2019-11-14",
-    "direct": "https://bsufiles.thedrhax.pw/streams/508178551.mp4",
     "games": ["events", "single", "goose"]
   },
   "508580428": {
@@ -4979,10 +4979,9 @@
     "games": ["spore", "jump-king"]
   },
   "524415764": {
-    "abs_start": "0:00", "abs_end": "2:05:09", "duration": "0:00",
+    "youtube": "JHKz63TlQDA", "official": false, "abs_start": "0:00", "abs_end": "2:05:09", "duration": "2:05:09",
     "name": "Jump King #3",
     "date": "2019-12-21",
-    "direct": "https://bsufiles.thedrhax.pw/streams/524415764.mp4",
     "games": ["jump-king"]
   },
   "524415764.1": {
@@ -7444,10 +7443,9 @@
     "games": ["unboxing", "first-2021", "metro-exodus"]
   },
   "1021117640": {
-    "abs_start": "0:00", "abs_end": "5:40:01", "duration": "0:00",
+    "youtube": "AZx108g-JJo", "official": false, "abs_start": "0:00", "abs_end": "5:39:59", "duration": "5:39:59",
     "name": "Until We Die - Демо / Severed Steel (демо) / In Sound Mind #2 (демо) / Happy Game (демо) / Gravewood High (демо) / SCP: Escape Together / Wreckfest #6 / Subnautica: Below Zero #8 (релиз)",
     "date": "2021-05-13",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1021117640.mp4",
     "games": ["until-we-die", "first-2021", "in-sound-mind", "wreckfest", "subnautica-bz"]
   },
   "1022192586": {
@@ -9896,18 +9894,16 @@
     "games": ["re8"]
   },
   "1637667923": {
-    "abs_start": "0:00", "abs_end": "4:04:37", "duration": "0:00",
+    "youtube": "-kE_vwFuzhc", "abs_start": "0:00", "abs_end": "4:04:33", "duration": "4:04:33",
     "name": "Nancy Drew: Shadow at the Water's Edge (Нэнси Дрю: Тень у воды) #2",
     "date": "2022-10-29",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1637667923.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1637667923.torrent",
     "games": ["nancy-drew-satwe"]
   },
   "1638619619": {
-    "abs_start": "0:00", "abs_end": "7:11:15", "duration": "0:00",
+    "youtube": "9pN9lVPpVWk", "abs_start": "0:00", "abs_end": "7:11:00", "duration": "7:11:00",
     "name": "Alien: Isolation (мод AlienS IsolatioN)",
     "date": "2022-10-30",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1638619619.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1638619619.torrent",
     "games": ["first-2022"]
   }
