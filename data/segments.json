@@ -9906,5 +9906,14 @@
     "date": "2022-10-30",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1638619619.torrent",
     "games": ["first-2022"]
+  },
+  "1642266888": {
+    "abs_start": "0:00", "abs_end": "3:04:54", "duration": "0:00",
+    "name": "Bramble: The Mountain (демо) / Trash Horror Collection 2 - Poop Killer: Origins / Forlorn: The Mysteries of Highshadowland / Trash Horror Collection 2 - Legend Hunters",
+    "date": "2022-11-03",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1642266888.mp4",
+    "cuts": [[681, 709], [817, 840], [7654, 7750]],
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1642266888.torrent",
+    "games": ["single", "trash-horror-2", "first-2022"]
   }
 }
