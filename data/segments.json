@@ -9680,7 +9680,6 @@
     "youtube": "sa4oa_tolxc", "abs_start": "0:00", "abs_end": "5:24:53", "duration": "5:24:53",
     "name": "The Long Drive / Devour #5 / Tricky Towers #33",
     "date": "2022-09-10",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1587098639.torrent",
     "games": ["co-op", "devour", "tricky-towers"]
   },
   "1588071501": {
@@ -9925,13 +9924,20 @@
     "games": []
   },
   "1642266888,1642407202": {
-    "abs_start": "0:00", "abs_end": "5:23:40", "duration": "0:00",
+    "youtube": "uBxmIhqIJwg", "abs_start": "0:00", "abs_end": "5:22:44", "duration": "5:20:06",
     "name": "Bramble: The Mountain (демо) / Trash Horror Collection 2 - Poop Killer: Origins / Forlorn: The Mysteries of Highshadowland / Trash Horror Collection 2 - Legend Hunters / Blood West #1",
     "date": "2022-11-03",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1642266888,1642407202.mp4",
     "offsets": [0, 10902],
     "cuts": [[681, 709], [817, 840], [7654, 7761]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1642266888,1642407202.torrent",
     "games": ["single", "trash-horror-2", "first-2022", "blood-west"]
+  },
+  "1643172831": {
+    "abs_start": "0:00", "abs_end": "7:49:33", "duration": "0:00",
+    "name": "The Chant",
+    "date": "2022-11-04",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1643172831.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1643172831.torrent",
+    "games": ["single"]
   }
 }
