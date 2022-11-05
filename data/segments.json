@@ -9686,7 +9686,6 @@
     "youtube": "6kaWdRktmtM", "abs_start": "0:00", "abs_end": "5:10:16", "duration": "5:10:16",
     "name": "The Complex: Found Footage / Lempo (демо) / Mega / The Horrors Recrudesce (демо) / Bias (демо) / Deadly Night #1 / Don't Look",
     "date": "2022-09-11",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1588071501.torrent",
     "games": ["first-2022", "single", "deadly-night"]
   },
   "1592425669": {
@@ -9939,5 +9938,13 @@
     "direct": "https://bsufiles.thedrhax.pw/streams/1643172831.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1643172831.torrent",
     "games": ["single"]
+  },
+  "1644149200": {
+    "abs_start": "0:00", "abs_end": "5:49:47", "duration": "0:00",
+    "name": "Nancy Drew: Shadow at the Water's Edge (Нэнси Дрю: Тень у воды) #3",
+    "date": "2022-11-05",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1644149200.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1644149200.torrent",
+    "games": ["nancy-drew-satwe"]
   }
 }
