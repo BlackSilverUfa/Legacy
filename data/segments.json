@@ -9699,7 +9699,6 @@
     "youtube": "zuTxAe0SHH0", "abs_start": "0:00", "abs_end": "5:51:47", "duration": "5:51:47",
     "name": "SCP: Secret Files - Прохождение",
     "date": "2022-09-17",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1593427175.torrent",
     "games": ["scp-sf"]
   },
   "1594431864": {
@@ -9707,7 +9706,6 @@
     "name": "Deadly Night #2 / Bloodwash / Curley Laboratory",
     "date": "2022-09-18",
     "cuts": [[10339, 10369], [11145, 11660]],
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1594431864.torrent",
     "games": ["deadly-night", "single", "first-2022"]
   },
   "1595342822": {
@@ -9952,5 +9950,14 @@
     "direct": "https://bsufiles.thedrhax.pw/streams/1645086849.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1645086849.torrent",
     "games": ["aliens-isolation"]
+  },
+  "1647687213": {
+    "abs_start": "0:00", "abs_end": "10:37:07", "duration": "0:00",
+    "name": "God of War Ragnarok #1",
+    "date": "2022-11-09",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1647687213.mp4",
+    "cuts": [[25325, 25382]],
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1647687213.torrent",
+    "games": ["gow-ragnarok"]
   }
 }

@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "first-2022", "segment": "1633962812", "name": "Resident Evil Remake Remake / The Shadow over Route 80 / Off Shore (демо) / Father's Day / Silence Channel 2 (демо)", "start": 0},
       {"id": "single", "segment": "1634888055", "name": "Suffer The Night (демо) / Please Don't Litter / Endoparasitic / Death Relives (демо) / The Trench / Stay Out of the House", "start": 0},
       {"id": "single", "segment": "1635763389", "name": "Luto (демо) / Bughouse / Lunacy: Saint Rhodes (демо) / Skinned Alive / Night Delivery / The Lies We Tell Ourselves (демо)", "start": 0},
       {"id": "re8", "segment": "1636658103", "name": "Resident Evil Village - DLC: Shadows of Rose", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "single", "segment": "1642266888,1642407202", "name": "Bramble: The Mountain (демо) / Trash Horror Collection 2 - Poop Killer: Origins / Forlorn: The Mysteries of Highshadowland / Trash Horror Collection 2 - Legend Hunters / Blood West #1", "start": 0},
       {"id": "single", "segment": "1643172831", "name": "The Chant", "start": 0},
       {"id": "nancy-drew-satwe", "segment": "1644149200", "name": "Nancy Drew: Shadow at the Water's Edge (Нэнси Дрю: Тень у воды) #3", "start": 0},
-      {"id": "aliens-isolation", "segment": "1645086849", "name": "Alien: Isolation (мод AlienS IsolatioN) #2", "start": 0}
+      {"id": "aliens-isolation", "segment": "1645086849", "name": "Alien: Isolation (мод AlienS IsolatioN) #2", "start": 0},
+      {"id": "gow-ragnarok", "segment": "1647687213", "name": "God of War Ragnarok #1", "start": 0}
     ]
   },
   "finished": {
@@ -983,7 +983,8 @@
       {"name": "Blood West", "id": "blood-west", "segment": "1299859703"},
       {"name": "Trash Horror Collection 2", "id": "trash-horror-2", "segment": "1596223040"},
       {"name": "Unusual Findings", "id": "unusual-findings", "segment": "1618459269"},
-      {"name": "Alien: Isolation (мод AlienS IsolatioN)", "id": "aliens-isolation", "segment": "1638619619"}
+      {"name": "Alien: Isolation (мод AlienS IsolatioN)", "id": "aliens-isolation", "segment": "1638619619"},
+      {"name": "God of War Ragnarok", "id": "gow-ragnarok", "segment": "1647687213"}
     ]
   },
   "infinite": {
