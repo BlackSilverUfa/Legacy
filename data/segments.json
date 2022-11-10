@@ -9712,7 +9712,6 @@
     "youtube": "Juj_D7Vmmks", "abs_start": "0:00", "abs_end": "6:00:03", "duration": "6:00:03",
     "name": "Whateverland / S.P.A.T. / Night At the Gates of Hell",
     "date": "2022-09-19",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1595342822.torrent",
     "games": ["first-2022", "single"]
   },
   "1596223040": {
@@ -9958,6 +9957,15 @@
     "direct": "https://bsufiles.thedrhax.pw/streams/1647687213.mp4",
     "cuts": [[25325, 25382]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1647687213.torrent",
+    "games": ["gow-ragnarok"]
+  },
+  "1648729903": {
+    "abs_start": "0:00", "abs_end": "4:54:51", "duration": "0:00",
+    "name": "God of War Ragnarok #2",
+    "date": "2022-11-10",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1648729903.mp4",
+    "cuts": [[6305, 6373]],
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1648729903.torrent",
     "games": ["gow-ragnarok"]
   }
 }
