@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "single", "segment": "1635763389", "name": "Luto (демо) / Bughouse / Lunacy: Saint Rhodes (демо) / Skinned Alive / Night Delivery / The Lies We Tell Ourselves (демо)", "start": 0},
       {"id": "re8", "segment": "1636658103", "name": "Resident Evil Village - DLC: Shadows of Rose", "start": 0},
       {"id": "nancy-drew-satwe", "segment": "1637667923", "name": "Nancy Drew: Shadow at the Water's Edge (Нэнси Дрю: Тень у воды) #2", "start": 0},
       {"id": "aliens-isolation", "segment": "1638619619", "name": "Alien: Isolation (мод AlienS IsolatioN) #1", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "nancy-drew-satwe", "segment": "1644149200", "name": "Nancy Drew: Shadow at the Water's Edge (Нэнси Дрю: Тень у воды) #3", "start": 0},
       {"id": "aliens-isolation", "segment": "1645086849", "name": "Alien: Isolation (мод AlienS IsolatioN) #2", "start": 0},
       {"id": "gow-ragnarok", "segment": "1647687213", "name": "God of War Ragnarok #1", "start": 0},
-      {"id": "gow-ragnarok", "segment": "1648729903", "name": "God of War Ragnarok #2", "start": 0}
+      {"id": "gow-ragnarok", "segment": "1648729903", "name": "God of War Ragnarok #2", "start": 0},
+      {"id": "gow-ragnarok", "segment": "1649523175", "name": "God of War Ragnarok #3", "start": 0}
     ]
   },
   "finished": {
