@@ -539,9 +539,9 @@
         <i class="fas fa-comments"></i> 23188
       </a>
     </span>
-    <span class="badge badge-success">
-      <a href="https://www.youtube.com/watch?v=2l4pML5bH4Y" target="_blank">
-        <i class="fab fa-youtube"></i> 2l4pML5bH4Y
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.thedrhax.pw/streams/360763825.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -561,6 +561,11 @@
 
     <li><a data-value="1060">17:40</a> — Меню</li>
     <li><a data-value="1219">20:19</a> — Игра</li>
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li><a data-value="1812">30:12</a> - <a data-value="2534">42:14</a> — Ramin Djawadi, Tom Morello - Pacific Rim (feat. Tom Morello)</li>
+  </ul>
+
     <li><a data-value="3149">52:29</a> — Главный изоляционный комплекс</li>
     <li><a data-value="3997">1:06:37</a> — Вививививи</li>
     <li><a data-value="6518">1:48:38</a> — Морской император</li>
@@ -596,13 +601,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="6" data-hash="360763825" data-subtitles="https://bsu.drhx.ru/chats/2019/v360763825.ass" data-name="7 (финал)" data-youtube="2l4pML5bH4Y" />
+  <p class="stream" data-id="6" data-hash="360763825" data-subtitles="https://bsu.drhx.ru/chats/2019/v360763825.ass" data-name="7 (финал)" data-direct="https://bsufiles.thedrhax.pw/streams/360763825.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2019/v360763825.ass ytdl://2l4pML5bH4Y
+  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2019/v360763825.ass https://bsufiles.thedrhax.pw/streams/360763825.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://bsu.drhx.ru/chats/2019/v360763825.ass" --player-passthrough hls twitch.tv/videos/360763825 best
 </code></pre>
 </div>
 

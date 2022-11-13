@@ -3254,9 +3254,10 @@
     "games": ["subnautica"]
   },
   "360763825": {
-    "youtube": "2l4pML5bH4Y", "abs_start": "0:00", "abs_end": "5:17:02", "duration": "5:17:02",
+    "abs_start": "0:00", "abs_end": "5:17:18", "duration": "0:00",
     "name": "Subnautica #7 (финал)",
     "date": "2019-01-08",
+    "direct": "https://bsufiles.thedrhax.pw/streams/360763825.mp4",
     "games": ["subnautica"]
   },
   "361716902": {
@@ -9932,27 +9933,23 @@
     "games": ["single"]
   },
   "1644149200": {
-    "abs_start": "0:00", "abs_end": "5:49:47", "duration": "0:00",
+    "youtube": "gg12DzsM4fY", "abs_start": "0:00", "abs_end": "5:49:37", "duration": "5:49:37",
     "name": "Nancy Drew: Shadow at the Water's Edge (Нэнси Дрю: Тень у воды) #3",
     "date": "2022-11-05",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1644149200.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1644149200.torrent",
     "games": ["nancy-drew-satwe"]
   },
   "1645086849": {
-    "abs_start": "0:00", "abs_end": "6:30:25", "duration": "0:00",
+    "youtube": "_CtwDMmbyio", "abs_start": "0:00", "abs_end": "6:30:00", "duration": "6:30:00",
     "name": "Alien: Isolation (мод AlienS IsolatioN) #2",
     "date": "2022-11-06",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1645086849.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1645086849.torrent",
     "games": ["aliens-isolation"]
   },
   "1647687213": {
-    "abs_start": "0:00", "abs_end": "10:37:07", "duration": "0:00",
+    "youtube": "_KbmKmMImnc", "abs_start": "0:00", "abs_end": "10:35:22", "duration": "10:35:22",
     "name": "God of War Ragnarok #1",
     "date": "2022-11-09",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1647687213.mp4",
-    "cuts": [[25325, 25382]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1647687213.torrent",
     "games": ["gow-ragnarok"]
   },
