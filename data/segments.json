@@ -9738,14 +9738,12 @@
     "youtube": "RJd4UBU6yCg", "abs_start": "0:00", "abs_end": "5:08:11", "duration": "5:08:11",
     "name": "The Fridge Is Red - Прохождение / Trash Horror Collection 2 - Poop Killer 4",
     "date": "2022-09-28",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1603602197.torrent",
     "games": ["red-bridge", "trash-horror-2"]
   },
   "1604386613": {
     "youtube": "Uc5sW9srWzI", "abs_start": "0:00", "abs_end": "4:24:15", "duration": "4:24:15",
     "name": "Deathverse: Let It Die / Valkyrie Elysium",
     "date": "2022-09-29",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1604386613.torrent",
     "games": ["first-2022"]
   },
   "1605248642": {
@@ -9976,6 +9974,14 @@
     "date": "2022-11-12",
     "direct": "https://bsufiles.thedrhax.pw/streams/1650543457.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1650543457.torrent",
+    "games": ["gow-ragnarok"]
+  },
+  "1651511764": {
+    "abs_start": "0:00", "abs_end": "9:25:18", "duration": "0:00",
+    "name": "God of War Ragnarok #5",
+    "date": "2022-11-13",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1651511764.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1651511764.torrent",
     "games": ["gow-ragnarok"]
   }
 }
