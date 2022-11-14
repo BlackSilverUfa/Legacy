@@ -6913,9 +6913,10 @@
     "games": ["at-dead-of-night"]
   },
   "899289707": {
-    "youtube": "8dnotxfs7Us", "abs_start": "0:00", "abs_end": "3:44:23", "duration": "3:44:23",
+    "abs_start": "0:00", "abs_end": "3:44:40", "duration": "0:00",
     "name": "Destruction AllStars",
     "date": "2021-02-03",
+    "direct": "https://bsufiles.thedrhax.pw/streams/899289707.mp4",
     "games": ["first-2021"]
   },
   "901835689": {
@@ -9931,7 +9932,7 @@
     "games": ["single"]
   },
   "1644149200": {
-    "youtube": "gg12DzsM4fY", "abs_start": "0:00", "abs_end": "5:49:37", "duration": "5:49:37",
+    "youtube": "GUDA3ukdDxo", "abs_start": "0:00", "abs_end": "5:49:37", "duration": "5:49:37",
     "name": "Nancy Drew: Shadow at the Water's Edge (Нэнси Дрю: Тень у воды) #3",
     "date": "2022-11-05",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1644149200.torrent",

@@ -375,9 +375,9 @@
         <i class="fas fa-comments"></i> 11317
       </a>
     </span>
-    <span class="badge badge-success">
-      <a href="https://www.youtube.com/watch?v=8dnotxfs7Us" target="_blank">
-        <i class="fab fa-youtube"></i> 8dnotxfs7Us
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.thedrhax.pw/streams/899289707.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -413,6 +413,7 @@
       <li>Проблемы с правообладателями:</li>
   <ul>
     <li><a data-value="2929">48:49</a> - <a data-value="3015">50:15</a> — The Nevers</li>
+    <li><a data-value="9797">2:43:17</a> - <a data-value="11676">3:14:36</a> — Ramin Djawadi, Tom Morello - Pacific Rim (feat. Tom Morello)</li>
   </ul>
 
     <li><a data-value="3130">52:10</a> — Меню</li>
@@ -423,13 +424,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="3" data-hash="899289707" data-subtitles="https://bsu.drhx.ru/chats/2021/v899289707.ass" data-name="Destruction AllStars" data-youtube="8dnotxfs7Us" />
+  <p class="stream" data-id="3" data-hash="899289707" data-subtitles="https://bsu.drhx.ru/chats/2021/v899289707.ass" data-name="Destruction AllStars" data-direct="https://bsufiles.thedrhax.pw/streams/899289707.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2021/v899289707.ass ytdl://8dnotxfs7Us
+  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2021/v899289707.ass https://bsufiles.thedrhax.pw/streams/899289707.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://bsu.drhx.ru/chats/2021/v899289707.ass" --player-passthrough hls twitch.tv/videos/899289707 best
 </code></pre>
 </div>
 
