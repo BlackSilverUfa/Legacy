@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "aliens-isolation", "segment": "1638619619", "name": "Alien: Isolation (мод AlienS IsolatioN) #1", "start": 0},
       {"id": "single", "segment": "1642266888,1642407202", "name": "Bramble: The Mountain (демо) / Trash Horror Collection 2 - Poop Killer: Origins / Forlorn: The Mysteries of Highshadowland / Trash Horror Collection 2 - Legend Hunters / Blood West #1", "start": 0},
       {"id": "single", "segment": "1643172831", "name": "The Chant", "start": 0},
       {"id": "nancy-drew-satwe", "segment": "1644149200", "name": "Nancy Drew: Shadow at the Water's Edge (Нэнси Дрю: Тень у воды) #3", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "gow-ragnarok", "segment": "1648729903", "name": "God of War Ragnarok #2", "start": 0},
       {"id": "gow-ragnarok", "segment": "1649523175", "name": "God of War Ragnarok #3", "start": 0},
       {"id": "gow-ragnarok", "segment": "1650543457", "name": "God of War Ragnarok #4", "start": 0},
-      {"id": "gow-ragnarok", "segment": "1651511764", "name": "God of War Ragnarok #5", "start": 0}
+      {"id": "gow-ragnarok", "segment": "1651511764", "name": "God of War Ragnarok #5", "start": 0},
+      {"id": "gow-ragnarok", "segment": "1652434783", "name": "God of War Ragnarok #6", "start": 0}
     ]
   },
   "finished": {
