@@ -3254,10 +3254,9 @@
     "games": ["subnautica"]
   },
   "360763825": {
-    "abs_start": "0:00", "abs_end": "5:17:18", "duration": "0:00",
+    "youtube": "2l4pML5bH4Y", "abs_start": "0:00", "abs_end": "5:17:02", "duration": "5:17:02",
     "name": "Subnautica #7 (финал)",
     "date": "2019-01-08",
-    "direct": "https://bsufiles.thedrhax.pw/streams/360763825.mp4",
     "games": ["subnautica"]
   },
   "361716902": {
@@ -9758,7 +9757,6 @@
     "youtube": "fl-l8EVRTRM", "abs_start": "0:00", "abs_end": "7:22:00", "duration": "7:22:00",
     "name": "Scorn - Пролог / Go Home Annie: An SCP Game (демо) / Convenient / Lazaret (демо) / Late Night Mop / The Death: Than Trung",
     "date": "2022-10-02",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1607244038.torrent",
     "games": ["scorn", "single"]
   },
   "1608110648": {
@@ -9952,44 +9950,46 @@
     "games": ["gow-ragnarok"]
   },
   "1648729903": {
-    "abs_start": "0:00", "abs_end": "4:54:51", "duration": "0:00",
+    "youtube": "9Sz-MffJSWo", "abs_start": "0:00", "abs_end": "4:53:12", "duration": "4:53:12",
     "name": "God of War Ragnarok #2",
     "date": "2022-11-10",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1648729903.mp4",
-    "cuts": [[6305, 6373]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1648729903.torrent",
     "games": ["gow-ragnarok"]
   },
   "1649523175": {
-    "abs_start": "0:00", "abs_end": "8:16:22", "duration": "0:00",
+    "youtube": "FTU9OEAmrkI", "abs_start": "0:00", "abs_end": "8:16:07", "duration": "8:16:07",
     "name": "God of War Ragnarok #3",
     "date": "2022-11-11",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1649523175.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1649523175.torrent",
     "games": ["gow-ragnarok"]
   },
   "1650543457": {
-    "abs_start": "0:00", "abs_end": "8:13:43", "duration": "0:00",
+    "youtube": "QLsmvlycpyw", "abs_start": "0:00", "abs_end": "8:12:44", "duration": "8:12:44",
     "name": "God of War Ragnarok #4",
     "date": "2022-11-12",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1650543457.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1650543457.torrent",
     "games": ["gow-ragnarok"]
   },
   "1651511764": {
-    "abs_start": "0:00", "abs_end": "9:25:18", "duration": "0:00",
+    "youtube": "UyU3xcOQrWY", "abs_start": "0:00", "abs_end": "9:25:02", "duration": "9:25:02",
     "name": "God of War Ragnarok #5",
     "date": "2022-11-13",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1651511764.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1651511764.torrent",
     "games": ["gow-ragnarok"]
   },
   "1652434783": {
-    "abs_start": "0:00", "abs_end": "8:50:06", "duration": "0:00",
+    "youtube": "_qutlrfH7SI", "abs_start": "0:00", "abs_end": "8:49:41", "duration": "8:49:41",
     "name": "God of War Ragnarok #6",
     "date": "2022-11-14",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1652434783.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1652434783.torrent",
+    "games": ["gow-ragnarok"]
+  },
+  "1653285370": {
+    "abs_start": "0:00", "abs_end": "7:51:03", "duration": "0:00",
+    "name": "God of War Ragnarok #7",
+    "date": "2022-11-15",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1653285370.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1653285370.torrent",
     "games": ["gow-ragnarok"]
   }
 }
