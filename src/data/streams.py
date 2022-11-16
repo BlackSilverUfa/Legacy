@@ -39,7 +39,6 @@ class Segment:
     _offset: Timecode = attr.ib(0, converter=Timecode)
     offsets: Timecodes = attr.ib(factory=list, converter=Timecodes)  # for joined streams
     _duration: Timecode = attr.ib(0, converter=Timecode)
-    source_cuts: Timecodes = attr.ib(factory=list, converter=Timecodes)
     _cuts: Timecodes = attr.ib(factory=list, converter=Timecodes)
 
     stream: 'Stream' = attr.ib()  # depends on _offset
@@ -96,7 +95,7 @@ class Segment:
 
         for stream, offset in zip(self.stream.streams, self.offsets):
             offset += sum(t.duration for t in cuts if t < offset)
-            cuts.update(stream[0].source_cuts + offset)
+            cuts.update(stream.cuts + offset)
 
         return cuts
 
@@ -106,7 +105,7 @@ class Segment:
 
     @property
     def all_cuts(self) -> Timecodes:
-        return Timecodes(list(self.source_cuts) + list(self.cuts))
+        return Timecodes(list(self.stream.cuts) + list(self.cuts))
 
     def offset(self, t: Timecode = Timecode(0)) -> Timecode:
         cuts = sum([cut.duration for cut in self._cuts if cut <= t])
@@ -323,7 +322,13 @@ class Segment:
 
         first = True
         for key in keys:
-            value = get_attr(key)
+            if key == 'source_cuts':
+                if self.segment != 0:
+                    continue
+
+                value = self.stream.cuts
+            else:
+                value = get_attr(key)
 
             if value is None:
                 continue
@@ -331,7 +336,7 @@ class Segment:
             if key in fields and fields[key].default == value:
                 continue
 
-            if key in ['_cuts', 'source_cuts']:
+            if isinstance(value, Timecodes):
                 if len(value) == 0:
                     continue
 
@@ -750,7 +755,8 @@ class Stream:
     type: StreamType = attr.ib(init=False)
     games: List[Tuple['Game', SegmentReference]] = attr.ib(init=False)
     segments: List[Segment] = attr.ib(init=False)
-    timecodes: Timecodes = attr.ib(init=False)
+    timecodes: Timecodes = attr.ib(factory=list, converter=Timecodes)
+    cuts: Timecodes = attr.ib(factory=list, converter=Timecodes)
 
     @staticmethod
     def _segment_key(s) -> int:
@@ -773,7 +779,6 @@ class Stream:
 
         self.games = []
         self.segments = SortedKeyList(key=self._segment_key)
-        self.timecodes = Timecodes(timecodes.get(self.twitch) or {})
 
         for segment in self._data:
             Segment(stream=self, **segment)
@@ -974,13 +979,20 @@ class Streams(dict):
             if not isinstance(stream, list):
                 raise TypeError(type(stream))
 
+            if 'source_cuts' in stream[0]:
+                cuts = stream[0].pop('source_cuts')
+            else:
+                cuts = []
+
             if ',' in twitch_id:
                 targets = list([self[key] for key in twitch_id.split(',')])
             else:
                 targets = []
 
             self[twitch_id] = Stream(data=stream, key=twitch_id,
-                                     streams=targets, meta=meta)
+                                     streams=targets, meta=meta,
+                                     timecodes=timecodes.get(twitch_id),
+                                     cuts=cuts)
 
     def enable_fallbacks(self):
         items = list(self.items())
