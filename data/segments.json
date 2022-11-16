@@ -6912,10 +6912,9 @@
     "games": ["at-dead-of-night"]
   },
   "899289707": {
-    "abs_start": "0:00", "abs_end": "3:44:40", "duration": "0:00",
+    "youtube": "YYbI7M0E1CM", "official": false, "abs_start": "0:00", "abs_end": "3:44:23", "duration": "3:44:23",
     "name": "Destruction AllStars",
     "date": "2021-02-03",
-    "direct": "https://bsufiles.thedrhax.pw/streams/899289707.mp4",
     "games": ["first-2021"]
   },
   "901835689": {
@@ -9943,16 +9942,18 @@
     "games": ["aliens-isolation"]
   },
   "1647687213": {
-    "youtube": "_KbmKmMImnc", "abs_start": "0:00", "abs_end": "10:35:22", "duration": "10:35:22",
+    "youtube": "_KbmKmMImnc", "abs_start": "0:00", "abs_end": "10:36:19", "duration": "10:35:22",
     "name": "God of War Ragnarok #1",
     "date": "2022-11-09",
+    "cuts": [[25325, 25382]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1647687213.torrent",
     "games": ["gow-ragnarok"]
   },
   "1648729903": {
-    "youtube": "9Sz-MffJSWo", "abs_start": "0:00", "abs_end": "4:53:12", "duration": "4:53:12",
+    "youtube": "9Sz-MffJSWo", "abs_start": "0:00", "abs_end": "4:54:20", "duration": "4:53:12",
     "name": "God of War Ragnarok #2",
     "date": "2022-11-10",
+    "cuts": [[6305, 6373]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1648729903.torrent",
     "games": ["gow-ragnarok"]
   },
@@ -9985,10 +9986,9 @@
     "games": ["gow-ragnarok"]
   },
   "1653285370": {
-    "abs_start": "0:00", "abs_end": "7:51:03", "duration": "0:00",
+    "youtube": "hj4sQ0QsIWo", "abs_start": "0:00", "abs_end": "7:50:43", "duration": "7:50:43",
     "name": "God of War Ragnarok #7",
     "date": "2022-11-15",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1653285370.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1653285370.torrent",
     "games": ["gow-ragnarok"]
   }
