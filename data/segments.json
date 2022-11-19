@@ -3250,7 +3250,6 @@
     "abs_start": "0:00", "abs_end": "7:09:50", "duration": "0:00",
     "name": "Subnautica #6",
     "date": "2019-01-05",
-    "direct": "https://bsufiles.thedrhax.pw/streams/359212700.mp4",
     "games": ["subnautica"]
   },
   "360763825": {
@@ -9818,10 +9817,10 @@
   },
   "1624846104": {
     "youtube": "mfkLPL-KafM", "abs_start": "0:00", "abs_end": "6:13:21", "duration": "6:13:21",
-    "name": "Cultic / Warhammer 40,000: Darktide (бета) / Ghostbusters: Spirits Unleashed",
+    "name": "Cultic / Warhammer 40,000: Darktide - Бета 1 (кооп) / Ghostbusters: Spirits Unleashed",
     "date": "2022-10-15",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1624846104.torrent",
-    "games": ["first-2022", "co-op"]
+    "games": ["first-2022", "darktide", "co-op"]
   },
   "1625850313": {
     "youtube": "Q4f2BtMtNW8", "abs_start": "0:00", "abs_end": "5:56:15", "duration": "5:56:15",
@@ -9993,11 +9992,18 @@
     "games": ["gow-ragnarok"]
   },
   "1656106367": {
-    "abs_start": "0:00", "abs_end": "5:54:57", "duration": "0:00",
+    "youtube": "nuD4eXw2YMQ", "abs_start": "0:00", "abs_end": "5:54:51", "duration": "5:54:51",
     "name": "Somerville",
     "date": "2022-11-18",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1656106367.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1656106367.torrent",
     "games": ["single"]
+  },
+  "1657037267": {
+    "abs_start": "0:00", "abs_end": "10:52:36", "duration": "0:00",
+    "name": "Warhammer 40,000: Darktide - Бета 2 (соло) / The Dark Pictures: The Devil in Me",
+    "date": "2022-11-19",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1657037267.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1657037267.torrent",
+    "games": ["darktide", "single"]
   }
 }

@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "nancy-drew-satwe", "segment": "1644149200", "name": "Nancy Drew: Shadow at the Water's Edge (Нэнси Дрю: Тень у воды) #3", "start": 0},
       {"id": "aliens-isolation", "segment": "1645086849", "name": "Alien: Isolation (мод AlienS IsolatioN) #2", "start": 0},
       {"id": "gow-ragnarok", "segment": "1647687213", "name": "God of War Ragnarok #1", "start": 0},
       {"id": "gow-ragnarok", "segment": "1648729903", "name": "God of War Ragnarok #2", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "gow-ragnarok", "segment": "1651511764", "name": "God of War Ragnarok #5", "start": 0},
       {"id": "gow-ragnarok", "segment": "1652434783", "name": "God of War Ragnarok #6", "start": 0},
       {"id": "gow-ragnarok", "segment": "1653285370", "name": "God of War Ragnarok #7", "start": 0},
-      {"id": "single", "segment": "1656106367", "name": "Somerville", "start": 0}
+      {"id": "single", "segment": "1656106367", "name": "Somerville", "start": 0},
+      {"id": "darktide", "segment": "1657037267", "name": "Warhammer 40,000: Darktide - Бета 2 (соло) / The Dark Pictures: The Devil in Me", "start": 0}
     ]
   },
   "finished": {
@@ -470,7 +470,8 @@
       {"id": "single", "segment": "1642266888,1642407202", "name": "Bramble: The Mountain (демо)", "start": 3183},
       {"id": "single", "segment": "1643172831", "name": "The Chant", "start": 1637},
       {"name": "God of War Ragnarok", "id": "gow-ragnarok", "segment": "1647687213"},
-      {"id": "single", "segment": "1656106367", "name": "Somerville", "start": 6152}
+      {"id": "single", "segment": "1656106367", "name": "Somerville", "start": 6152},
+      {"id": "single", "segment": "1657037267", "name": "The Dark Pictures: The Devil in Me", "start": 10268}
     ]
   },
   "first": {
@@ -1037,7 +1038,8 @@
       {"name": "SCP: Nukalypse", "id": "scp-nukalypse", "segment": "1458654778"},
       {"name": "Вечер Ретро Игр (ВРИ)", "id": "retro", "segment": "1522102243"},
       {"name": "Purple War", "id": "purple-war", "segment": "1547156682"},
-      {"name": "Ghost Watchers", "id": "ghost-watchers", "segment": "1547156682"}
+      {"name": "Ghost Watchers", "id": "ghost-watchers", "segment": "1547156682"},
+      {"name": "Warhammer 40,000: Darktide", "id": "darktide", "segment": "1624846104"}
     ]
   },
   "abandoned": {
@@ -1367,7 +1369,6 @@
       {"id": "co-op", "segment": "1618459269", "name": "Tales of Terror", "start": 13316},
       {"id": "co-op", "segment": "1618459269", "name": "Escape Memoirs: Mini Stories", "start": 21583},
       {"id": "co-op", "segment": "1623036890", "name": "Overwatch 2", "start": 3251},
-      {"id": "co-op", "segment": "1624846104", "name": "Warhammer 40,000: Darktide (бета)", "start": 8443},
       {"id": "co-op", "segment": "1624846104", "name": "Ghostbusters: Spirits Unleashed", "start": 16061}
     ]
   },
