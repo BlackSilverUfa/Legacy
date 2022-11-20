@@ -9762,7 +9762,6 @@
     "name": "Dark Light / Apocalyptic Vibes (демо) / Electrician Simulator / Priest Simulator / The Bathhouse",
     "date": "2022-10-03",
     "cuts": [[17676, 17706]],
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1608110648.torrent",
     "games": ["first-2022", "single"]
   },
   "1608964216": {
@@ -10005,5 +10004,13 @@
     "direct": "https://bsufiles.thedrhax.pw/streams/1657037267.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1657037267.torrent",
     "games": ["darktide", "single"]
+  },
+  "1658062393": {
+    "abs_start": "0:00", "abs_end": "6:05:49", "duration": "0:00",
+    "name": "Alien: Isolation (мод AlienS IsolatioN) #3",
+    "date": "2022-11-20",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1658062393.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1658062393.torrent",
+    "games": ["aliens-isolation"]
   }
 }

@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "aliens-isolation", "segment": "1645086849", "name": "Alien: Isolation (мод AlienS IsolatioN) #2", "start": 0},
       {"id": "gow-ragnarok", "segment": "1647687213", "name": "God of War Ragnarok #1", "start": 0},
       {"id": "gow-ragnarok", "segment": "1648729903", "name": "God of War Ragnarok #2", "start": 0},
       {"id": "gow-ragnarok", "segment": "1649523175", "name": "God of War Ragnarok #3", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "gow-ragnarok", "segment": "1652434783", "name": "God of War Ragnarok #6", "start": 0},
       {"id": "gow-ragnarok", "segment": "1653285370", "name": "God of War Ragnarok #7", "start": 0},
       {"id": "single", "segment": "1656106367", "name": "Somerville", "start": 0},
-      {"id": "darktide", "segment": "1657037267", "name": "Warhammer 40,000: Darktide - Бета 2 (соло) / The Dark Pictures: The Devil in Me", "start": 0}
+      {"id": "darktide", "segment": "1657037267", "name": "Warhammer 40,000: Darktide - Бета 2 (соло) / The Dark Pictures: The Devil in Me", "start": 0},
+      {"id": "aliens-isolation", "segment": "1658062393", "name": "Alien: Isolation (мод AlienS IsolatioN) #3", "start": 0}
     ]
   },
   "finished": {
