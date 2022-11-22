@@ -9998,19 +9998,32 @@
     "games": ["single"]
   },
   "1657037267": {
-    "abs_start": "0:00", "abs_end": "10:52:36", "duration": "0:00",
-    "name": "Warhammer 40,000: Darktide - Бета 2 (соло) / The Dark Pictures: The Devil in Me",
+    "youtube": "Kj7RKQB_jgI", "abs_start": "0:00", "abs_end": "2:45:02", "duration": "2:45:02",
+    "name": "Warhammer 40,000: Darktide - Бета 2 (соло)",
     "date": "2022-11-19",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1657037267.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1657037267.torrent",
-    "games": ["darktide", "single"]
+    "games": ["darktide"]
+  },
+  "1657037267.1": {
+    "youtube": "TYDJXMvqT6g", "abs_start": "2:45:04", "abs_end": "10:52:17", "duration": "8:07:13",
+    "name": "The Dark Pictures: The Devil in Me",
+    "date": "2022-11-19",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1657037267.torrent",
+    "games": ["single"]
   },
   "1658062393": {
-    "abs_start": "0:00", "abs_end": "6:05:49", "duration": "0:00",
+    "youtube": "ptfAE_6v5vQ", "abs_start": "0:00", "abs_end": "6:05:30", "duration": "6:05:30",
     "name": "Alien: Isolation (мод AlienS IsolatioN) #3",
     "date": "2022-11-20",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1658062393.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1658062393.torrent",
     "games": ["aliens-isolation"]
+  },
+  "1659790980": {
+    "abs_start": "0:00", "abs_end": "4:32:49", "duration": "0:00",
+    "name": "Evil West / Goat Simulator 3",
+    "date": "2022-11-22",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1659790980.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1659790980.torrent",
+    "games": ["first-2022"]
   }
 }

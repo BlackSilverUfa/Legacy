@@ -3,16 +3,16 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "gow-ragnarok", "segment": "1647687213", "name": "God of War Ragnarok #1", "start": 0},
-      {"id": "gow-ragnarok", "segment": "1648729903", "name": "God of War Ragnarok #2", "start": 0},
       {"id": "gow-ragnarok", "segment": "1649523175", "name": "God of War Ragnarok #3", "start": 0},
       {"id": "gow-ragnarok", "segment": "1650543457", "name": "God of War Ragnarok #4", "start": 0},
       {"id": "gow-ragnarok", "segment": "1651511764", "name": "God of War Ragnarok #5", "start": 0},
       {"id": "gow-ragnarok", "segment": "1652434783", "name": "God of War Ragnarok #6", "start": 0},
       {"id": "gow-ragnarok", "segment": "1653285370", "name": "God of War Ragnarok #7", "start": 0},
       {"id": "single", "segment": "1656106367", "name": "Somerville", "start": 0},
-      {"id": "darktide", "segment": "1657037267", "name": "Warhammer 40,000: Darktide - Бета 2 (соло) / The Dark Pictures: The Devil in Me", "start": 0},
-      {"id": "aliens-isolation", "segment": "1658062393", "name": "Alien: Isolation (мод AlienS IsolatioN) #3", "start": 0}
+      {"id": "darktide", "segment": "1657037267", "name": "Warhammer 40,000: Darktide - Бета 2 (соло)", "start": 0},
+      {"id": "single", "segment": "1657037267.1", "name": "The Dark Pictures: The Devil in Me", "start": 0},
+      {"id": "aliens-isolation", "segment": "1658062393", "name": "Alien: Isolation (мод AlienS IsolatioN) #3", "start": 0},
+      {"id": "first-2022", "segment": "1659790980", "name": "Evil West / Goat Simulator 3", "start": 0}
     ]
   },
   "finished": {
@@ -471,7 +471,7 @@
       {"id": "single", "segment": "1643172831", "name": "The Chant", "start": 1637},
       {"name": "God of War Ragnarok", "id": "gow-ragnarok", "segment": "1647687213"},
       {"id": "single", "segment": "1656106367", "name": "Somerville", "start": 6152},
-      {"id": "single", "segment": "1657037267", "name": "The Dark Pictures: The Devil in Me", "start": 10268}
+      {"id": "single", "segment": "1657037267.1", "name": "The Dark Pictures: The Devil in Me", "start": 10268}
     ]
   },
   "first": {
@@ -977,7 +977,9 @@
       {"id": "first-2022", "segment": "1634888055", "name": "Endoparasitic", "start": 8371},
       {"id": "first-2022", "segment": "1634888055", "name": "The Trench", "start": 12558},
       {"id": "first-2022", "segment": "1634888055", "name": "Stay Out of the House", "start": 15276},
-      {"id": "first-2022", "segment": "1642266888,1642407202", "name": "Forlorn: The Mysteries of Highshadowland", "start": 6907}
+      {"id": "first-2022", "segment": "1642266888,1642407202", "name": "Forlorn: The Mysteries of Highshadowland", "start": 6907},
+      {"id": "first-2022", "segment": "1659790980", "name": "Evil West", "start": 1240},
+      {"id": "first-2022", "segment": "1659790980", "name": "Goat Simulator 3", "start": 8776}
     ]
   },
   "ongoing": {
