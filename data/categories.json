@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "gow-ragnarok", "segment": "1649523175", "name": "God of War Ragnarok #3", "start": 0},
       {"id": "gow-ragnarok", "segment": "1650543457", "name": "God of War Ragnarok #4", "start": 0},
       {"id": "gow-ragnarok", "segment": "1651511764", "name": "God of War Ragnarok #5", "start": 0},
       {"id": "gow-ragnarok", "segment": "1652434783", "name": "God of War Ragnarok #6", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "darktide", "segment": "1657037267", "name": "Warhammer 40,000: Darktide - Бета 2 (соло)", "start": 0},
       {"id": "single", "segment": "1657037267.1", "name": "The Dark Pictures: The Devil in Me", "start": 0},
       {"id": "aliens-isolation", "segment": "1658062393", "name": "Alien: Isolation (мод AlienS IsolatioN) #3", "start": 0},
-      {"id": "first-2022", "segment": "1659790980", "name": "Evil West / Goat Simulator 3", "start": 0}
+      {"id": "first-2022", "segment": "1659790980", "name": "Evil West / Goat Simulator 3", "start": 0},
+      {"id": "aliens-isolation", "segment": "1660650293", "name": "Alien: Isolation (мод AlienS IsolatioN) #4", "start": 0}
     ]
   },
   "finished": {
@@ -467,6 +467,7 @@
       {"id": "single", "segment": "1635763389", "name": "Skinned Alive", "start": 9647},
       {"id": "single", "segment": "1635763389", "name": "Night Delivery", "start": 12098},
       {"id": "single", "segment": "1635763389", "name": "The Lies We Tell Ourselves (демо)", "start": 16319},
+      {"name": "Alien: Isolation (мод AlienS IsolatioN)", "id": "aliens-isolation", "segment": "1638619619"},
       {"id": "single", "segment": "1642266888,1642407202", "name": "Bramble: The Mountain (демо)", "start": 3183},
       {"id": "single", "segment": "1643172831", "name": "The Chant", "start": 1637},
       {"name": "God of War Ragnarok", "id": "gow-ragnarok", "segment": "1647687213"},
@@ -986,8 +987,7 @@
     "name": "Активные",
     "games": [
       {"name": "Blood West", "id": "blood-west", "segment": "1299859703"},
-      {"name": "Trash Horror Collection 2", "id": "trash-horror-2", "segment": "1596223040"},
-      {"name": "Alien: Isolation (мод AlienS IsolatioN)", "id": "aliens-isolation", "segment": "1638619619"}
+      {"name": "Trash Horror Collection 2", "id": "trash-horror-2", "segment": "1596223040"}
     ]
   },
   "infinite": {
