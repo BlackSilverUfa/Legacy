@@ -571,9 +571,10 @@
     "games": ["fallout-2"]
   },
   "001610070": {
-    "youtube": "1UP4FwTOt_I", "official": false, "abs_start": "0:00", "abs_end": "5:56:24", "duration": "5:56:24",
+    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
     "name": "Mafia III #1",
     "date": "2016-10-07",
+    "direct": "https://bsufiles.thedrhax.pw/streams/001610070.mp4",
     "games": ["mafia-3"]
   },
   "001610100": {
@@ -2779,9 +2780,10 @@
     "games": ["super-seducer-2", "first-2018"]
   },
   "312042770": {
-    "youtube": "xlTxDGQCqxE", "abs_start": "-0:05", "abs_end": "5:16:06", "duration": "5:16:11",
+    "abs_start": "0:00", "abs_end": "5:16:20", "duration": "0:00",
     "name": "S.T.A.L.K.E.R.: Left 2 Die",
     "date": "2018-09-19",
+    "direct": "https://bsufiles.thedrhax.pw/streams/312042770.mp4",
     "games": ["first-2018"]
   },
   "312840878": {
@@ -10019,10 +10021,9 @@
     "games": ["aliens-isolation"]
   },
   "1659790980": {
-    "abs_start": "0:00", "abs_end": "4:32:49", "duration": "0:00",
+    "youtube": "xNo2UZCk1VY", "abs_start": "0:00", "abs_end": "4:32:48", "duration": "4:32:48",
     "name": "Evil West / Goat Simulator 3",
     "date": "2022-11-22",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1659790980.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1659790980.torrent",
     "games": ["first-2022"]
   }

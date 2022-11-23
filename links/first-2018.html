@@ -2274,9 +2274,9 @@
         <i class="fas fa-comments"></i> 14873
       </a>
     </span>
-    <span class="badge badge-success">
-      <a href="https://www.youtube.com/watch?v=xlTxDGQCqxE" target="_blank">
-        <i class="fab fa-youtube"></i> xlTxDGQCqxE
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.thedrhax.pw/streams/312042770.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -2286,20 +2286,32 @@
   <div class="timecodes" data-id="36">
     <li>Таймкоды:</li>
   <ul>
-    <li><a data-value="780">13:00</a> — Игра</li>
+    <li><a data-value="775">12:55</a> — Игра</li>
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li><a data-value="10927">3:02:07</a> - <a data-value="10980">3:03:00</a> — Света - Я люблю</li>
+    <li><a data-value="14281">3:58:01</a> - <a data-value="14337">3:58:57</a> — Света - Синеглазые дельфины</li>
+  </ul>
+
   </ul>
 
   </div>
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="36" data-hash="312042770" data-offset="-5" data-subtitles="https://bsu.drhx.ru/chats/2018/v312042770.ass" data-name="S.T.A.L.K.E.R.: Left 2 Die" data-youtube="xlTxDGQCqxE" />
+  <p class="stream" data-id="36" data-hash="312042770" data-subtitles="https://bsu.drhx.ru/chats/2018/v312042770.ass" data-name="S.T.A.L.K.E.R.: Left 2 Die" data-direct="https://bsufiles.thedrhax.pw/streams/312042770.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2018/v312042770.ass --sub-delay=5 ytdl://xlTxDGQCqxE
+  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2018/v312042770.ass https://bsufiles.thedrhax.pw/streams/312042770.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://bsu.drhx.ru/chats/2018/v312042770.ass" --player-passthrough hls twitch.tv/videos/312042770 best
 </code></pre>
 </div>
 
