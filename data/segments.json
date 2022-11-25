@@ -571,17 +571,15 @@
     "games": ["fallout-2"]
   },
   "001610070": {
-    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
+    "youtube": "tGeDEEARrMU", "official": false, "abs_start": "0:00", "abs_end": "5:56:24", "duration": "5:56:24",
     "name": "Mafia III #1",
     "date": "2016-10-07",
-    "direct": "https://bsufiles.thedrhax.pw/streams/001610070.mp4",
     "games": ["mafia-3"]
   },
   "001610100": {
-    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
+    "youtube": "aMzB3OqCJg4", "official": false, "abs_start": "0:00", "abs_end": "3:22:37", "duration": "3:22:37",
     "name": "Mafia III #2",
     "date": "2016-10-10",
-    "direct": "https://bsufiles.thedrhax.pw/streams/001610100.mp4",
     "games": ["mafia-3"]
   },
   "001610190": {
@@ -2781,10 +2779,9 @@
     "games": ["super-seducer-2", "first-2018"]
   },
   "312042770": {
-    "abs_start": "0:00", "abs_end": "5:16:20", "duration": "0:00",
+    "youtube": "RvOGmKfbEsY", "official": false, "abs_start": "-0:05", "abs_end": "5:16:06", "duration": "5:16:11",
     "name": "S.T.A.L.K.E.R.: Left 2 Die",
     "date": "2018-09-19",
-    "direct": "https://bsufiles.thedrhax.pw/streams/312042770.mp4",
     "games": ["first-2018"]
   },
   "312840878": {
@@ -4903,10 +4900,9 @@
     "games": ["suffering-2"]
   },
   "516941489": {
-    "abs_start": "0:00", "abs_end": "6:05:58", "duration": "0:00",
+    "youtube": "Ei6rgRuGNv4", "official": false, "abs_start": "0:00", "abs_end": "6:04:57", "duration": "6:04:57",
     "name": "Grand Theft Auto: Vice City #1",
     "date": "2019-12-04",
-    "direct": "https://bsufiles.thedrhax.pw/streams/516941489.mp4",
     "games": ["gta-vice-city"]
   },
   "517802976": {
@@ -10032,5 +10028,13 @@
     "date": "2022-11-23",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1660650293.torrent",
     "games": ["aliens-isolation"]
+  },
+  "1662262853": {
+    "abs_start": "0:00", "abs_end": "6:14:56", "duration": "0:00",
+    "name": "Apsulov: End of Gods",
+    "date": "2022-11-25",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1662262853.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1662262853.torrent",
+    "games": ["first-2022"]
   }
 }

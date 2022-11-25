@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "gow-ragnarok", "segment": "1650543457", "name": "God of War Ragnarok #4", "start": 0},
       {"id": "gow-ragnarok", "segment": "1651511764", "name": "God of War Ragnarok #5", "start": 0},
       {"id": "gow-ragnarok", "segment": "1652434783", "name": "God of War Ragnarok #6", "start": 0},
       {"id": "gow-ragnarok", "segment": "1653285370", "name": "God of War Ragnarok #7", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "single", "segment": "1657037267.1", "name": "The Dark Pictures: The Devil in Me", "start": 0},
       {"id": "aliens-isolation", "segment": "1658062393", "name": "Alien: Isolation (мод AlienS IsolatioN) #3", "start": 0},
       {"id": "first-2022", "segment": "1659790980", "name": "Evil West / Goat Simulator 3", "start": 0},
-      {"id": "aliens-isolation", "segment": "1660650293", "name": "Alien: Isolation (мод AlienS IsolatioN) #4", "start": 0}
+      {"id": "aliens-isolation", "segment": "1660650293", "name": "Alien: Isolation (мод AlienS IsolatioN) #4", "start": 0},
+      {"id": "first-2022", "segment": "1662262853", "name": "Apsulov: End of Gods", "start": 0}
     ]
   },
   "finished": {
@@ -980,7 +980,8 @@
       {"id": "first-2022", "segment": "1634888055", "name": "Stay Out of the House", "start": 15276},
       {"id": "first-2022", "segment": "1642266888,1642407202", "name": "Forlorn: The Mysteries of Highshadowland", "start": 6907},
       {"id": "first-2022", "segment": "1659790980", "name": "Evil West", "start": 1240},
-      {"id": "first-2022", "segment": "1659790980", "name": "Goat Simulator 3", "start": 8776}
+      {"id": "first-2022", "segment": "1659790980", "name": "Goat Simulator 3", "start": 8776},
+      {"id": "first-2022", "segment": "1662262853", "name": "Apsulov: End of Gods", "start": 2606}
     ]
   },
   "ongoing": {
