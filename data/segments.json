@@ -1262,9 +1262,9 @@
   },
   "180397849": {
     "youtube": "x5KwWrLRpEg", "abs_start": "0:00", "abs_end": "4:48:57", "duration": "4:48:57",
-    "name": "Road Redemption / Battle Chasers / Stardew Valley #1",
+    "name": "Road Redemption #1 / Battle Chasers / Stardew Valley #1",
     "date": "2017-10-15",
-    "games": ["first-2017", "stardew-walley"]
+    "games": ["road-redempion", "first-2017", "stardew-walley"]
   },
   "180663832": {
     "youtube": "y2PitYePsOU", "abs_start": "0:00", "abs_end": "5:56:10", "duration": "5:56:10",
@@ -1460,9 +1460,9 @@
   },
   "213247693": {
     "youtube": "GPga2h4UUXc", "abs_start": "0:00", "abs_end": "4:22:43", "duration": "4:22:43",
-    "name": "The Hunter: Call of the Wild #3 / Road Redemption",
+    "name": "The Hunter: Call of the Wild #3 / Road Redemption #2",
     "date": "2017-12-28",
-    "games": ["the-hunter", "co-op"]
+    "games": ["the-hunter", "road-redempion"]
   },
   "213846142": {
     "youtube": "8GFZF96owuA", "abs_start": "0:00", "abs_end": "6:02:37", "duration": "6:02:37",
@@ -7437,9 +7437,9 @@
   },
   "1017725694": {
     "youtube": "NyNrYaCj928", "official": false, "abs_start": "0:00", "abs_end": "3:45:22", "duration": "3:45:22",
-    "name": "ROG Gladius III / Starless / War Mongrels / Metro Exodus - Enhanced Edition",
+    "name": "ROG Gladius III / Starless #1 / War Mongrels / Metro Exodus - Enhanced Edition",
     "date": "2021-05-10",
-    "games": ["unboxing", "first-2021", "metro-exodus"]
+    "games": ["unboxing", "starless", "first-2021", "metro-exodus"]
   },
   "1021117640": {
     "youtube": "AZx108g-JJo", "official": false, "abs_start": "0:00", "abs_end": "5:39:59", "duration": "5:39:59",
@@ -7711,9 +7711,9 @@
   },
   "1061050549": {
     "youtube": "so-xSwlGgLQ", "official": false, "abs_start": "0:00", "abs_end": "6:18:55", "duration": "6:18:55",
-    "name": "They Are Here (демо) / Last Village (демо) / Rocket Stop Incident (демо) / Dagon (демо) / Interference (демо) / Tormented Souls / Ebola 2 Survival (демо) / Horrors of Space - Демо / Rabbit Hole (демо)",
+    "name": "They Are Here (демо) / Last Village (демо) / Rocket Stop Incident (демо) / Dagon (демо) #1 / Interference (демо) / Tormented Souls / Ebola 2 Survival (демо) / Horrors of Space - Демо / Rabbit Hole (демо)",
     "date": "2021-06-19",
-    "games": ["single", "horrors-of-space", "first-2021"]
+    "games": ["single", "dagon", "horrors-of-space", "first-2021"]
   },
   "1062093790": {
     "youtube": "Z92K2EttmSc", "official": false, "abs_start": "0:00", "abs_end": "3:32:27", "duration": "3:32:27",
@@ -8212,9 +8212,9 @@
   },
   "1162515299": {
     "youtube": "knROpftWh_Q", "abs_start": "0:00", "abs_end": "6:32:06", "duration": "6:32:06",
-    "name": "Outbreak Island (демо) / Dagon (демо) / Inscryption - Демо / UnMetal #2",
+    "name": "Outbreak Island (демо) / Dagon (демо) #2 / Inscryption - Демо / UnMetal #2",
     "date": "2021-09-29",
-    "games": ["first-2021", "inscryption", "unmetal"]
+    "games": ["first-2021", "dagon", "inscryption", "unmetal"]
   },
   "1163417606": {
     "youtube": "-Cle9LpAJkk", "abs_start": "0:00", "abs_end": "7:27:09", "duration": "7:27:09",
@@ -9619,10 +9619,10 @@
   },
   "1575034539,1575155040": {
     "youtube": "bIXSB1b5Mrs", "abs_start": "0:00", "abs_end": "6:01:56", "duration": "6:01:56",
-    "name": "Vilomah (демо) / Sinner 97 / Dead Beacon (демо) / The Door You Can Never Open (демо) / Open Door (демо) / Solitude Underwater / Unreasoning Fear / Traumada / Starless",
+    "name": "Vilomah (демо) / Sinner 97 / Dead Beacon (демо) / The Door You Can Never Open (демо) / Open Door (демо) / Solitude Underwater / Unreasoning Fear / Traumada / Starless #2",
     "date": "2022-08-28",
     "offsets": [0, 10523],
-    "games": ["single", "first-2022"]
+    "games": ["single", "first-2022", "starless"]
   },
   "1578740848": {
     "youtube": "8VTlHD1tfXA", "abs_start": "0:00", "abs_end": "6:03:24", "duration": "6:03:24",
@@ -9784,11 +9784,11 @@
   },
   "1619465701": {
     "youtube": "Hn2loNKBAFQ", "abs_start": "0:00", "abs_end": "6:14:36", "duration": "6:14:05",
-    "name": "Kona II: Brume (демо) / The Classrooms (демо) / Quo (демо) / The Polaris Incident / Broken Through / The Chaput's Baby / Anthology of Fear (демо) / On One's Own",
+    "name": "Kona II: Brume (демо) / The Classrooms (демо) / Quo (демо) / The Polaris Incident - Первый взгляд / The Polaris Incident - Прохождение / Broken Through / The Chaput's Baby / Anthology of Fear (демо) / On One's Own",
     "date": "2022-10-09",
     "cuts": [[13924, 13955]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1619465701.torrent",
-    "games": ["single", "first-2022"]
+    "games": ["single", "polaris-incident", "polaris-incident", "first-2022"]
   },
   "1622143449": {
     "youtube": "KPgSLnxiL0E", "abs_start": "0:00", "abs_end": "5:24:04", "duration": "5:24:04",
