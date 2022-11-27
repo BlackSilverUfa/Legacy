@@ -367,9 +367,10 @@
     "games": ["first-2016"]
   },
   "001604050": {
-    "youtube": "850MY5iRbog", "abs_start": "0:00", "abs_end": "4:11:40", "duration": "4:11:40",
+    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
     "name": "Quantum Break #1",
     "date": "2016-04-05",
+    "direct": "https://bsufiles.thedrhax.pw/streams/001604050.mp4",
     "games": ["quantum-break"]
   },
   "001604051": {
@@ -7484,9 +7485,10 @@
     "games": ["days-gone", "snowrunner"]
   },
   "1028999291": {
-    "youtube": "eHotbN5SRQs", "official": false, "abs_start": "0:00", "abs_end": "4:21:55", "duration": "4:21:55",
+    "abs_start": "0:00", "abs_end": "4:21:05", "duration": "0:00",
     "name": "Subnautica: Below Zero #9",
     "date": "2021-05-20",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1028999291.mp4",
     "games": ["subnautica-bz"]
   },
   "1030127769": {
