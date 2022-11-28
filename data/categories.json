@@ -3,16 +3,16 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "gow-ragnarok", "segment": "1653285370", "name": "God of War Ragnarok #7", "start": 0},
       {"id": "single", "segment": "1656106367", "name": "Somerville", "start": 0},
       {"id": "darktide", "segment": "1657037267", "name": "Warhammer 40,000: Darktide - Бета 2 (соло)", "start": 0},
       {"id": "single", "segment": "1657037267.1", "name": "The Dark Pictures: The Devil in Me", "start": 0},
       {"id": "aliens-isolation", "segment": "1658062393", "name": "Alien: Isolation (мод AlienS IsolatioN) #3", "start": 0},
       {"id": "first-2022", "segment": "1659790980", "name": "Evil West / Goat Simulator 3", "start": 0},
       {"id": "aliens-isolation", "segment": "1660650293", "name": "Alien: Isolation (мод AlienS IsolatioN) #4", "start": 0},
-      {"id": "first-2022", "segment": "1662262853", "name": "Apsulov: End of Gods", "start": 0},
+      {"id": "apsulov", "segment": "1662262853", "name": "Apsulov: End of Gods #1", "start": 0},
       {"id": "single", "segment": "1663155573", "name": "Help Me! (демо) / The House / Oakwood / Night Signal / Countryside 1999 / Something Nefarious Below / Heartworm / Trash Horror Collection 2 - Poop Killer 5", "start": 0},
-      {"id": "first-2022", "segment": "1664055210", "name": "Nancy Drew: Curse of Blackmoor Manor", "start": 0}
+      {"id": "first-2022", "segment": "1664055210", "name": "Nancy Drew: Curse of Blackmoor Manor", "start": 0},
+      {"id": "apsulov", "segment": "1664862476", "name": "Apsulov: End of Gods #2", "start": 0}
     ]
   },
   "finished": {
@@ -473,6 +473,7 @@
       {"name": "God of War Ragnarok", "id": "gow-ragnarok", "segment": "1647687213"},
       {"id": "single", "segment": "1656106367", "name": "Somerville", "start": 6152},
       {"id": "single", "segment": "1657037267.1", "name": "The Dark Pictures: The Devil in Me", "start": 10268},
+      {"name": "Apsulov: End of Gods", "id": "apsulov", "segment": "1662262853"},
       {"id": "single", "segment": "1663155573", "name": "Help Me! (демо)", "start": 1861},
       {"id": "single", "segment": "1663155573", "name": "The House", "start": 5782},
       {"id": "single", "segment": "1663155573", "name": "Oakwood", "start": 8789},
@@ -980,7 +981,6 @@
       {"id": "first-2022", "segment": "1642266888,1642407202", "name": "Forlorn: The Mysteries of Highshadowland", "start": 6907},
       {"id": "first-2022", "segment": "1659790980", "name": "Evil West", "start": 1240},
       {"id": "first-2022", "segment": "1659790980", "name": "Goat Simulator 3", "start": 8776},
-      {"id": "first-2022", "segment": "1662262853", "name": "Apsulov: End of Gods", "start": 2606},
       {"id": "first-2022", "segment": "1663155573", "name": "Night Signal", "start": 12999},
       {"id": "first-2022", "segment": "1663155573", "name": "Something Nefarious Below", "start": 15811},
       {"id": "first-2022", "segment": "1663155573", "name": "Heartworm", "start": 16471},
@@ -1111,9 +1111,9 @@
       {"name": "Mafia II: Definitive Edition", "id": "mafia-2-definitive", "segment": "625606171"},
       {"name": "Beyond Blue", "id": "beyond-blue", "segment": "647778850"},
       {"name": "In Sound Mind", "id": "in-sound-mind", "segment": "650534841"},
-      {"name": "Gloomwood", "id": "gloomwood", "segment": "653411860"},
       {"name": "Hardspace: Shipbreaker", "id": "hardspace-shipbreaker", "segment": "653411860"},
       {"name": "Haven", "id": "haven", "segment": "653411860"},
+      {"name": "Gloomwood", "id": "gloomwood", "segment": "653411860"},
       {"name": "Mortal Shell", "id": "mortal-shell", "segment": "669777336"},
       {"name": "Destroy All Humans!", "id": "destroy-all-humans", "segment": "675494632"},
       {"name": "Far Cry 3", "id": "far-cry-3", "segment": "678368491"},
