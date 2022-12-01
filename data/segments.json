@@ -10061,5 +10061,13 @@
     "date": "2022-11-29",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1665724993.torrent",
     "games": ["first-2022"]
+  },
+  "1667371234": {
+    "abs_start": "0:00", "abs_end": "5:46:25", "duration": "0:00",
+    "name": "Do Not Open / Psych",
+    "date": "2022-12-01",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1667371234.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1667371234.torrent",
+    "games": ["first-2022", "single"]
   }
 }

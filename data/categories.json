@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "darktide", "segment": "1657037267", "name": "Warhammer 40,000: Darktide - Бета 2 (соло)", "start": 0},
       {"id": "single", "segment": "1657037267.1", "name": "The Dark Pictures: The Devil in Me", "start": 0},
       {"id": "aliens-isolation", "segment": "1658062393", "name": "Alien: Isolation (мод AlienS IsolatioN) #3", "start": 0},
       {"id": "first-2022", "segment": "1659790980", "name": "Evil West / Goat Simulator 3", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "single", "segment": "1663155573", "name": "Help Me! (демо) / The House / Oakwood / Night Signal / Countryside 1999 / Something Nefarious Below / Heartworm / Trash Horror Collection 2 - Poop Killer 5", "start": 0},
       {"id": "first-2022", "segment": "1664055210", "name": "Nancy Drew: Curse of Blackmoor Manor", "start": 0},
       {"id": "apsulov", "segment": "1664862476", "name": "Apsulov: End of Gods #2", "start": 0},
-      {"id": "first-2022", "segment": "1665724993", "name": "Need for Speed Unbound", "start": 0}
+      {"id": "first-2022", "segment": "1665724993", "name": "Need for Speed Unbound", "start": 0},
+      {"id": "first-2022", "segment": "1667371234", "name": "Do Not Open / Psych", "start": 0}
     ]
   },
   "finished": {
@@ -477,7 +477,8 @@
       {"id": "single", "segment": "1663155573", "name": "Help Me! (демо)", "start": 1861},
       {"id": "single", "segment": "1663155573", "name": "The House", "start": 5782},
       {"id": "single", "segment": "1663155573", "name": "Oakwood", "start": 8789},
-      {"id": "single", "segment": "1663155573", "name": "Countryside 1999", "start": 14067}
+      {"id": "single", "segment": "1663155573", "name": "Countryside 1999", "start": 14067},
+      {"id": "single", "segment": "1667371234", "name": "Psych", "start": 5746}
     ]
   },
   "first": {
@@ -985,7 +986,8 @@
       {"id": "first-2022", "segment": "1663155573", "name": "Something Nefarious Below", "start": 15811},
       {"id": "first-2022", "segment": "1663155573", "name": "Heartworm", "start": 16471},
       {"id": "first-2022", "segment": "1664055210", "name": "Nancy Drew: Curse of Blackmoor Manor", "start": 1369},
-      {"id": "first-2022", "segment": "1665724993", "name": "Need for Speed Unbound", "start": 1214}
+      {"id": "first-2022", "segment": "1665724993", "name": "Need for Speed Unbound", "start": 1214},
+      {"id": "first-2022", "segment": "1667371234", "name": "Do Not Open", "start": 3122}
     ]
   },
   "ongoing": {
