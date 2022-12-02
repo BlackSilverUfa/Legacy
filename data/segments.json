@@ -9799,14 +9799,12 @@
     "youtube": "z23WJ31hqWc", "abs_start": "0:00", "abs_end": "4:26:40", "duration": "4:26:40",
     "name": "Overwatch 2",
     "date": "2022-10-13",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1623036890.torrent",
     "games": ["co-op"]
   },
   "1623827060": {
     "youtube": "S66Q7T7qqxU", "abs_start": "0:00", "abs_end": "5:42:10", "duration": "5:42:10",
     "name": "Scorn - Прохождение",
     "date": "2022-10-14",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1623827060.torrent",
     "games": ["scorn"]
   },
   "1624846104": {
@@ -10069,5 +10067,13 @@
     "direct": "https://bsufiles.thedrhax.pw/streams/1667371234.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1667371234.torrent",
     "games": ["first-2022", "single"]
+  },
+  "1668107750": {
+    "abs_start": "0:00", "abs_end": "9:18:39", "duration": "0:00",
+    "name": "The Callisto Procotol",
+    "date": "2022-12-02",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1668107750.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1668107750.torrent",
+    "games": ["first-2022"]
   }
 }
