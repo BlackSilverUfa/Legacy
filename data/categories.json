@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "aliens-isolation", "segment": "1658062393", "name": "Alien: Isolation (мод AlienS IsolatioN) #3", "start": 0},
       {"id": "first-2022", "segment": "1659790980", "name": "Evil West / Goat Simulator 3", "start": 0},
       {"id": "aliens-isolation", "segment": "1660650293", "name": "Alien: Isolation (мод AlienS IsolatioN) #4", "start": 0},
       {"id": "apsulov", "segment": "1662262853", "name": "Apsulov: End of Gods #1", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "apsulov", "segment": "1664862476", "name": "Apsulov: End of Gods #2", "start": 0},
       {"id": "first-2022", "segment": "1665724993", "name": "Need for Speed Unbound", "start": 0},
       {"id": "first-2022", "segment": "1667371234", "name": "Do Not Open / Psych", "start": 0},
-      {"id": "first-2022", "segment": "1668107750", "name": "The Callisto Procotol", "start": 0}
+      {"id": "callisto-protocol", "segment": "1668107750", "name": "The Callisto Procotol #1", "start": 0},
+      {"id": "callisto-protocol", "segment": "1669015522", "name": "The Callisto Procotol #2", "start": 0}
     ]
   },
   "finished": {
@@ -478,7 +478,8 @@
       {"id": "single", "segment": "1663155573", "name": "The House", "start": 5782},
       {"id": "single", "segment": "1663155573", "name": "Oakwood", "start": 8789},
       {"id": "single", "segment": "1663155573", "name": "Countryside 1999", "start": 14067},
-      {"id": "single", "segment": "1667371234", "name": "Psych", "start": 5746}
+      {"id": "single", "segment": "1667371234", "name": "Psych", "start": 5746},
+      {"name": "The Callisto Procotol", "id": "callisto-protocol", "segment": "1668107750"}
     ]
   },
   "first": {
@@ -987,8 +988,7 @@
       {"id": "first-2022", "segment": "1663155573", "name": "Heartworm", "start": 16471},
       {"id": "first-2022", "segment": "1664055210", "name": "Nancy Drew: Curse of Blackmoor Manor", "start": 1369},
       {"id": "first-2022", "segment": "1665724993", "name": "Need for Speed Unbound", "start": 1214},
-      {"id": "first-2022", "segment": "1667371234", "name": "Do Not Open", "start": 3122},
-      {"id": "first-2022", "segment": "1668107750", "name": "The Callisto Procotol", "start": 584}
+      {"id": "first-2022", "segment": "1667371234", "name": "Do Not Open", "start": 3122}
     ]
   },
   "ongoing": {
