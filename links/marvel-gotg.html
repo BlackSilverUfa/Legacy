@@ -232,9 +232,9 @@
         <i class="fas fa-comments"></i> 9626
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=k9NfsOVExJk" target="_blank">
-        <i class="fab fa-youtube"></i> k9NfsOVExJk
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.thedrhax.pw/streams/1188297728.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -252,6 +252,7 @@
   <ul>
     <li><a data-value="11222">3:07:02</a> - <a data-value="11322">3:08:42</a> — A Flock Of Seagulls - I Ran (So Far Away)</li>
     <li><a data-value="12645">3:30:45</a> - <a data-value="12854">3:34:14</a> — Не указано</li>
+    <li><a data-value="13747">3:49:07</a> - <a data-value="13901">3:51:41</a> — Europe - The Final Countdown</li>
   </ul>
 
   </ul>
@@ -260,13 +261,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="2" data-hash="1188297728" data-subtitles="https://bsu.drhx.ru/chats/2021/v1188297728.ass" data-name="3" data-youtube="k9NfsOVExJk" />
+  <p class="stream" data-id="2" data-hash="1188297728" data-subtitles="https://bsu.drhx.ru/chats/2021/v1188297728.ass" data-name="3" data-direct="https://bsufiles.thedrhax.pw/streams/1188297728.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2021/v1188297728.ass ytdl://k9NfsOVExJk
+  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2021/v1188297728.ass https://bsufiles.thedrhax.pw/streams/1188297728.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://bsu.drhx.ru/chats/2021/v1188297728.ass" --player-passthrough hls twitch.tv/videos/1188297728 best
 </code></pre>
 </div>
 

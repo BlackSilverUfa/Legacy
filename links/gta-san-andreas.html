@@ -880,9 +880,9 @@
         <i class="fas fa-comments"></i> 15629
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=-pEoOsG0mqM" target="_blank">
-        <i class="fab fa-youtube"></i> -pEoOsG0mqM
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.thedrhax.pw/streams/554432443.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -910,6 +910,7 @@
       <li>Проблемы с правообладателями:</li>
   <ul>
     <li><a data-value="8641">2:24:01</a> - <a data-value="8744">2:25:44</a> — Toto - Hold the Line</li>
+    <li><a data-value="20825">5:47:05</a> - <a data-value="21114">5:51:54</a> — Rocky Orchestra - Gonna Fly Now</li>
   </ul>
 
     <li><a data-value="15461">4:17:41</a> — Паркур</li>
@@ -920,13 +921,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="9" data-hash="554432443" data-subtitles="https://bsu.drhx.ru/chats/2020/v554432443.ass" data-name="9" data-youtube="-pEoOsG0mqM" />
+  <p class="stream" data-id="9" data-hash="554432443" data-subtitles="https://bsu.drhx.ru/chats/2020/v554432443.ass" data-name="9" data-direct="https://bsufiles.thedrhax.pw/streams/554432443.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2020/v554432443.ass ytdl://-pEoOsG0mqM
+  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2020/v554432443.ass https://bsufiles.thedrhax.pw/streams/554432443.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://bsu.drhx.ru/chats/2020/v554432443.ass" --player-passthrough hls twitch.tv/videos/554432443 best
 </code></pre>
 </div>
 

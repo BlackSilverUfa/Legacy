@@ -304,9 +304,9 @@
         <i class="fas fa-comments"></i> 22406
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=8nApocBMM08" target="_blank">
-        <i class="fab fa-youtube"></i> 8nApocBMM08
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.thedrhax.pw/streams/263472196.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -359,6 +359,7 @@
 
       <li>Проблемы с правообладателями:</li>
   <ul>
+    <li><a data-value="8700">2:25:00</a> - <a data-value="8876">2:27:56</a> — Lordi - Hard Rock Hallelujah</li>
     <li><a data-value="16374">4:32:54</a> - <a data-value="16746">4:39:06</a> — Life Will Change - Lollia and Sleeping Forest (Twitch вырезал звук)</li>
   </ul>
 
@@ -368,13 +369,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="3" data-hash="263472196" data-subtitles="https://bsu.drhx.ru/chats/2018/v263472196.ass" data-start="6611" data-name="3" data-youtube="8nApocBMM08" />
+  <p class="stream" data-id="3" data-hash="263472196" data-subtitles="https://bsu.drhx.ru/chats/2018/v263472196.ass" data-start="6611" data-name="3" data-direct="https://bsufiles.thedrhax.pw/streams/263472196.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2018/v263472196.ass --start=6611 ytdl://8nApocBMM08
+  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2018/v263472196.ass --start=6611 https://bsufiles.thedrhax.pw/streams/263472196.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://bsu.drhx.ru/chats/2018/v263472196.ass --start=6611" --player-passthrough hls twitch.tv/videos/263472196 best
 </code></pre>
 </div>
 
