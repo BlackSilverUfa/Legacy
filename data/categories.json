@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "first-2022", "segment": "1659790980", "name": "Evil West / Goat Simulator 3", "start": 0},
       {"id": "aliens-isolation", "segment": "1660650293", "name": "Alien: Isolation (мод AlienS IsolatioN) #4", "start": 0},
       {"id": "apsulov", "segment": "1662262853", "name": "Apsulov: End of Gods #1", "start": 0},
       {"id": "single", "segment": "1663155573", "name": "Help Me! (демо) / The House / Oakwood / Night Signal / Countryside 1999 / Something Nefarious Below / Heartworm / Trash Horror Collection 2 - Poop Killer 5", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "first-2022", "segment": "1665724993", "name": "Need for Speed Unbound", "start": 0},
       {"id": "first-2022", "segment": "1667371234", "name": "Do Not Open / Psych", "start": 0},
       {"id": "callisto-protocol", "segment": "1668107750", "name": "The Callisto Protocol #1", "start": 0},
-      {"id": "callisto-protocol", "segment": "1669015522", "name": "The Callisto Protocol #2", "start": 0}
+      {"id": "callisto-protocol", "segment": "1669015522", "name": "The Callisto Protocol #2", "start": 0},
+      {"id": "yakuza-0", "segment": "1670961161", "name": "Yakuza 0 #5", "start": 0}
     ]
   },
   "finished": {
@@ -994,7 +994,8 @@
   "ongoing": {
     "name": "Активные",
     "games": [
-      {"name": "Trash Horror Collection 2", "id": "trash-horror-2", "segment": "1596223040"}
+      {"name": "Trash Horror Collection 2", "id": "trash-horror-2", "segment": "1596223040"},
+      {"name": "Yakuza 0", "id": "yakuza-0", "segment": "1598875892"}
     ]
   },
   "infinite": {
@@ -1170,7 +1171,6 @@
       {"name": "Cult of the Lamb", "id": "cult-ot-lamb", "segment": "1502569152"},
       {"name": "Barbie: Explorer", "id": "barbie-explorer", "segment": "1522102243"},
       {"name": "Peepo Island", "id": "peepo-island", "segment": "1542254440"},
-      {"name": "Yakuza 0", "id": "yakuza-0", "segment": "1598875892"},
       {"name": "Unusual Findings", "id": "unusual-findings", "segment": "1618459269"}
     ]
   },
