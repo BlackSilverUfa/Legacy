@@ -5338,10 +5338,9 @@
     "games": ["dead-cells", "ori-wotw"]
   },
   "563856575": {
-    "abs_start": "0:00", "abs_end": "6:08:11", "duration": "0:00",
+    "youtube": "iJxPAPXNbYQ", "official": false, "abs_start": "0:00", "abs_end": "6:07:35", "duration": "6:07:35",
     "name": "Halo: Combat Evolved Anniversary / Walking Simulator / Stilt Fella / The Longing #1 (400) / Yes, Your Grace #1",
     "date": "2020-03-08",
-    "direct": "https://bsufiles.thedrhax.pw/streams/563856575.mp4",
     "games": ["first-2020", "single", "the-longing", "yes-your-grace"]
   },
   "564858921": {
@@ -10076,10 +10075,9 @@
     "games": ["callisto-protocol"]
   },
   "1669015522": {
-    "abs_start": "0:00", "abs_end": "6:37:27", "duration": "0:00",
+    "youtube": "6kKIE0hoTVY", "abs_start": "0:00", "abs_end": "6:37:25", "duration": "6:37:25",
     "name": "The Callisto Protocol #2",
     "date": "2022-12-03",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1669015522.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1669015522.torrent",
     "games": ["callisto-protocol"]
   }
