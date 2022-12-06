@@ -3247,10 +3247,9 @@
     "games": ["subnautica"]
   },
   "359212700": {
-    "abs_start": "0:00", "abs_end": "7:09:50", "duration": "0:00",
+    "youtube": "T-kC4IDBln8", "official": false, "abs_start": "0:00", "abs_end": "7:09:43", "duration": "7:09:43",
     "name": "Subnautica #6",
     "date": "2019-01-05",
-    "direct": "https://bsufiles.thedrhax.pw/streams/359212700.mp4",
     "games": ["subnautica"]
   },
   "360763825": {
@@ -8349,10 +8348,9 @@
     "games": ["marvel-gotg"]
   },
   "1188297728": {
-    "abs_start": "0:00", "abs_end": "4:16:09", "duration": "0:00",
+    "youtube": "fT9AbjJqAQk", "official": false, "abs_start": "0:00", "abs_end": "4:16:06", "duration": "4:16:06",
     "name": "Marvel's Guardians of the Galaxy #3",
     "date": "2021-10-27",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1188297728.mp4",
     "games": ["marvel-gotg"]
   },
   "1190164000": {
@@ -10082,11 +10080,18 @@
     "games": ["callisto-protocol"]
   },
   "1670961161": {
-    "abs_start": "0:00", "abs_end": "6:21:28", "duration": "0:00",
+    "youtube": "o6ibzfDyvYk", "abs_start": "0:00", "abs_end": "6:21:21", "duration": "6:21:21",
     "name": "Yakuza 0 #5",
     "date": "2022-12-05",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1670961161.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1670961161.torrent",
+    "games": ["yakuza-0"]
+  },
+  "1671788984": {
+    "abs_start": "0:00", "abs_end": "5:13:37", "duration": "0:00",
+    "name": "Yakuza 0 #6",
+    "date": "2022-12-06",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1671788984.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1671788984.torrent",
     "games": ["yakuza-0"]
   }
 }

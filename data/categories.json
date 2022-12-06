@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "aliens-isolation", "segment": "1660650293", "name": "Alien: Isolation (мод AlienS IsolatioN) #4", "start": 0},
       {"id": "apsulov", "segment": "1662262853", "name": "Apsulov: End of Gods #1", "start": 0},
       {"id": "single", "segment": "1663155573", "name": "Help Me! (демо) / The House / Oakwood / Night Signal / Countryside 1999 / Something Nefarious Below / Heartworm / Trash Horror Collection 2 - Poop Killer 5", "start": 0},
       {"id": "first-2022", "segment": "1664055210", "name": "Nancy Drew: Curse of Blackmoor Manor", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "first-2022", "segment": "1667371234", "name": "Do Not Open / Psych", "start": 0},
       {"id": "callisto-protocol", "segment": "1668107750", "name": "The Callisto Protocol #1", "start": 0},
       {"id": "callisto-protocol", "segment": "1669015522", "name": "The Callisto Protocol #2", "start": 0},
-      {"id": "yakuza-0", "segment": "1670961161", "name": "Yakuza 0 #5", "start": 0}
+      {"id": "yakuza-0", "segment": "1670961161", "name": "Yakuza 0 #5", "start": 0},
+      {"id": "yakuza-0", "segment": "1671788984", "name": "Yakuza 0 #6", "start": 0}
     ]
   },
   "finished": {
@@ -1115,9 +1115,9 @@
       {"name": "Mafia II: Definitive Edition", "id": "mafia-2-definitive", "segment": "625606171"},
       {"name": "Beyond Blue", "id": "beyond-blue", "segment": "647778850"},
       {"name": "In Sound Mind", "id": "in-sound-mind", "segment": "650534841"},
+      {"name": "Gloomwood", "id": "gloomwood", "segment": "653411860"},
       {"name": "Hardspace: Shipbreaker", "id": "hardspace-shipbreaker", "segment": "653411860"},
       {"name": "Haven", "id": "haven", "segment": "653411860"},
-      {"name": "Gloomwood", "id": "gloomwood", "segment": "653411860"},
       {"name": "Mortal Shell", "id": "mortal-shell", "segment": "669777336"},
       {"name": "Destroy All Humans!", "id": "destroy-all-humans", "segment": "675494632"},
       {"name": "Far Cry 3", "id": "far-cry-3", "segment": "678368491"},
