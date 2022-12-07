@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "apsulov", "segment": "1662262853", "name": "Apsulov: End of Gods #1", "start": 0},
       {"id": "single", "segment": "1663155573", "name": "Help Me! (демо) / The House / Oakwood / Night Signal / Countryside 1999 / Something Nefarious Below / Heartworm / Trash Horror Collection 2 - Poop Killer 5", "start": 0},
       {"id": "first-2022", "segment": "1664055210", "name": "Nancy Drew: Curse of Blackmoor Manor", "start": 0},
       {"id": "apsulov", "segment": "1664862476", "name": "Apsulov: End of Gods #2", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "callisto-protocol", "segment": "1668107750", "name": "The Callisto Protocol #1", "start": 0},
       {"id": "callisto-protocol", "segment": "1669015522", "name": "The Callisto Protocol #2", "start": 0},
       {"id": "yakuza-0", "segment": "1670961161", "name": "Yakuza 0 #5", "start": 0},
-      {"id": "yakuza-0", "segment": "1671788984", "name": "Yakuza 0 #6", "start": 0}
+      {"id": "yakuza-0", "segment": "1671788984", "name": "Yakuza 0 #6", "start": 0},
+      {"id": "hello-neighbor-2", "segment": "1672653498", "name": "Hello Neighbor 2 #1 (релиз)", "start": 0}
     ]
   },
   "finished": {
@@ -994,6 +994,7 @@
   "ongoing": {
     "name": "Активные",
     "games": [
+      {"name": "Hello Neighbor 2", "id": "hello-neighbor-2", "segment": "690295728"},
       {"name": "Trash Horror Collection 2", "id": "trash-horror-2", "segment": "1596223040"},
       {"name": "Yakuza 0", "id": "yakuza-0", "segment": "1598875892"}
     ]
@@ -1030,7 +1031,6 @@
       {"name": "Maneater", "id": "maneater", "segment": "628517071"},
       {"name": "Alien: Hope for the Future", "id": "alien-hope-for-the-future", "segment": "629544387"},
       {"name": "The Elder Scrolls Online", "id": "teso", "segment": "633403643"},
-      {"name": "Hello Neighbor 2", "id": "hello-neighbor-2", "segment": "690295728"},
       {"name": "Grounded", "id": "grounded", "segment": "694197234"},
       {"name": "Forgotten Tunnels", "id": "forgotten-tunnels", "segment": "697191590"},
       {"name": "Hades", "id": "hades", "segment": "747742325"},

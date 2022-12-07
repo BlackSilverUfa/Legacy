@@ -457,10 +457,9 @@
     "games": ["ds3"]
   },
   "001605240": {
-    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
+    "youtube": "-_9vZHF-plc", "official": false, "abs_start": "0:00", "abs_end": "5:31:34", "duration": "5:31:34",
     "name": "Dark Souls 3 #5",
     "date": "2016-05-24",
-    "direct": "https://bsufiles.thedrhax.pw/streams/001605240.mp4",
     "games": ["ds3"]
   },
   "001605270": {
@@ -9847,7 +9846,6 @@
     "youtube": "SrTRY5PhDR0", "abs_start": "0:00", "abs_end": "6:08:55", "duration": "6:08:55",
     "name": "Resident Evil Remake Remake / The Shadow over Route 80 / Off Shore (демо) / Father's Day / Silence Channel 2 (демо)",
     "date": "2022-10-25",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1633962812.torrent",
     "games": ["first-2022", "single"]
   },
   "1634888055": {
@@ -10095,5 +10093,13 @@
     "direct": "https://bsufiles.thedrhax.pw/streams/1671788984.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1671788984.torrent",
     "games": ["yakuza-0"]
+  },
+  "1672653498": {
+    "abs_start": "0:00", "abs_end": "6:19:17", "duration": "0:00",
+    "name": "Hello Neighbor 2 #1 (релиз)",
+    "date": "2022-12-07",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1672653498.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1672653498.torrent",
+    "games": ["hello-neighbor-2"]
   }
 }
