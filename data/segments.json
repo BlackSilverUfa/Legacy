@@ -457,9 +457,10 @@
     "games": ["ds3"]
   },
   "001605240": {
-    "youtube": "-_9vZHF-plc", "official": false, "abs_start": "0:00", "abs_end": "5:31:34", "duration": "5:31:34",
+    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
     "name": "Dark Souls 3 #5",
     "date": "2016-05-24",
+    "direct": "https://bsufiles.thedrhax.pw/streams/001605240.mp4",
     "games": ["ds3"]
   },
   "001605270": {
@@ -4720,9 +4721,10 @@
     "games": ["mafia"]
   },
   "496714817": {
-    "youtube": "pbyXQH4Q9qQ", "official": false, "abs_start": "0:00", "abs_end": "4:22:09", "duration": "4:22:09",
+    "abs_start": "0:00", "abs_end": "4:22:25", "duration": "0:00",
     "name": "Farming Simulator 19 #2",
     "date": "2019-10-19",
+    "direct": "https://bsufiles.thedrhax.pw/streams/496714817.mp4",
     "games": ["farming-simulator-19"]
   },
   "497190114": {
