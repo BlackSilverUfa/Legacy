@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "single", "segment": "1663155573", "name": "Help Me! (демо) / The House / Oakwood / Night Signal / Countryside 1999 / Something Nefarious Below / Heartworm / Trash Horror Collection 2 - Poop Killer 5", "start": 0},
       {"id": "first-2022", "segment": "1664055210", "name": "Nancy Drew: Curse of Blackmoor Manor", "start": 0},
       {"id": "apsulov", "segment": "1664862476", "name": "Apsulov: End of Gods #2", "start": 0},
       {"id": "first-2022", "segment": "1665724993", "name": "Need for Speed Unbound", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "callisto-protocol", "segment": "1669015522", "name": "The Callisto Protocol #2", "start": 0},
       {"id": "yakuza-0", "segment": "1670961161", "name": "Yakuza 0 #5", "start": 0},
       {"id": "yakuza-0", "segment": "1671788984", "name": "Yakuza 0 #6", "start": 0},
-      {"id": "hello-neighbor-2", "segment": "1672653498", "name": "Hello Neighbor 2 #1 (релиз)", "start": 0}
+      {"id": "hello-neighbor-2", "segment": "1672653498", "name": "Hello Neighbor 2 #1 (релиз)", "start": 0},
+      {"id": "hello-neighbor-2", "segment": "1673532308", "name": "Hello Neighbor 2 #2 / IXION - Релиз", "start": 0}
     ]
   },
   "finished": {
@@ -192,6 +192,7 @@
       {"id": "single", "segment": "677524120", "name": "Devolverland Expo", "start": 0},
       {"name": "Ghost of Tsushima", "id": "tsushima", "segment": "681457263,682267155,683282462"},
       {"name": "Carrion", "id": "carrion", "segment": "688270341"},
+      {"name": "Hello Neighbor 2", "id": "hello-neighbor-2", "segment": "690295728"},
       {"name": "Maid of Sker", "id": "maid-of-sker", "segment": "693186645"},
       {"id": "single", "segment": "695229266", "name": "House on the Hill", "start": 7618},
       {"id": "single", "segment": "697191590", "name": "There Are Ghosts in These Stalls", "start": 4656},
@@ -861,7 +862,6 @@
       {"id": "first-2022", "segment": "1307474557", "name": "The Bridge Curse: Road to Salvation (демо)", "start": 5644},
       {"id": "first-2022", "segment": "1307474557", "name": "My Friendly Neighborhood (демо)", "start": 8439},
       {"id": "first-2022", "segment": "1307474557", "name": "SCP: Pandemic (демо)", "start": 11879},
-      {"id": "first-2022", "segment": "1307474557", "name": "IXION (демо)", "start": 15483},
       {"id": "first-2022", "segment": "1415016033", "name": "Gran Turismo 7", "start": 0},
       {"id": "first-2022", "segment": "1444100764", "name": "Weird West", "start": 16810},
       {"id": "first-2022", "segment": "1445142982", "name": "Remnants of R'lyeh (демо)", "start": 0},
@@ -994,7 +994,7 @@
   "ongoing": {
     "name": "Активные",
     "games": [
-      {"name": "Hello Neighbor 2", "id": "hello-neighbor-2", "segment": "690295728"},
+      {"name": "IXION", "id": "ixion", "segment": "1307474557"},
       {"name": "Trash Horror Collection 2", "id": "trash-horror-2", "segment": "1596223040"},
       {"name": "Yakuza 0", "id": "yakuza-0", "segment": "1598875892"}
     ]
