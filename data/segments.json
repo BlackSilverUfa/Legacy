@@ -138,7 +138,7 @@
     "games": ["mgs-v"]
   },
   "001510050": {
-    "youtube": "NfHaLdpT4wI", "abs_start": "0:00", "abs_end": "4:34:07", "duration": "4:34:07",
+    "youtube": "jmK_ckHASnM", "official": false, "abs_start": "0:00", "abs_end": "4:34:08", "duration": "4:34:08",
     "name": "Metal Gear Solid V: Phantom Pain #13",
     "date": "2015-10-05",
     "games": ["mgs-v"]
@@ -150,7 +150,7 @@
     "games": ["mgs-v"]
   },
   "001510120": {
-    "youtube": "OeGwElTNeE8", "abs_start": "0:00", "abs_end": "4:31:16", "duration": "4:31:16",
+    "youtube": "8hE523NvBF4", "official": false, "abs_start": "0:00", "abs_end": "4:31:16", "duration": "4:31:16",
     "name": "Metal Gear Solid V: Phantom Pain #15",
     "date": "2015-10-12",
     "games": ["mgs-v"]
@@ -186,9 +186,10 @@
     "games": ["dishonored"]
   },
   "001511210": {
-    "youtube": "UE2N7gxKb2w", "official": false, "abs_start": "0:00", "abs_end": "4:28:02", "duration": "4:28:02",
+    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
     "name": "Dishonored #3",
     "date": "2015-11-21",
+    "direct": "https://bsufiles.thedrhax.pw/streams/001511210.mp4",
     "games": ["dishonored"]
   },
   "001511250": {
