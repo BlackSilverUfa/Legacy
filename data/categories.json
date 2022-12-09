@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "first-2022", "segment": "1664055210", "name": "Nancy Drew: Curse of Blackmoor Manor", "start": 0},
       {"id": "apsulov", "segment": "1664862476", "name": "Apsulov: End of Gods #2", "start": 0},
       {"id": "first-2022", "segment": "1665724993", "name": "Need for Speed Unbound", "start": 0},
       {"id": "first-2022", "segment": "1667371234", "name": "Do Not Open / Psych", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "yakuza-0", "segment": "1670961161", "name": "Yakuza 0 #5", "start": 0},
       {"id": "yakuza-0", "segment": "1671788984", "name": "Yakuza 0 #6", "start": 0},
       {"id": "hello-neighbor-2", "segment": "1672653498", "name": "Hello Neighbor 2 #1 (релиз)", "start": 0},
-      {"id": "hello-neighbor-2", "segment": "1673532308", "name": "Hello Neighbor 2 #2 / IXION - Релиз", "start": 0}
+      {"id": "hello-neighbor-2", "segment": "1673532308", "name": "Hello Neighbor 2 #2 / IXION - Релиз", "start": 0},
+      {"id": "tga", "segment": "1674396025", "name": "The Game Awards #2022 (обзор) / Forspoken (демо)", "start": 0}
     ]
   },
   "finished": {
@@ -988,7 +988,8 @@
       {"id": "first-2022", "segment": "1663155573", "name": "Heartworm", "start": 16471},
       {"id": "first-2022", "segment": "1664055210", "name": "Nancy Drew: Curse of Blackmoor Manor", "start": 1369},
       {"id": "first-2022", "segment": "1665724993", "name": "Need for Speed Unbound", "start": 1214},
-      {"id": "first-2022", "segment": "1667371234", "name": "Do Not Open", "start": 3122}
+      {"id": "first-2022", "segment": "1667371234", "name": "Do Not Open", "start": 3122},
+      {"id": "first-2022", "segment": "1674396025", "name": "Forspoken (демо)", "start": 9871}
     ]
   },
   "ongoing": {
