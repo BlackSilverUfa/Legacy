@@ -138,9 +138,10 @@
     "games": ["mgs-v"]
   },
   "001510050": {
-    "youtube": "jmK_ckHASnM", "official": false, "abs_start": "0:00", "abs_end": "4:34:08", "duration": "4:34:08",
+    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
     "name": "Metal Gear Solid V: Phantom Pain #13",
     "date": "2015-10-05",
+    "direct": "https://bsufiles.thedrhax.pw/streams/001510050.mp4",
     "games": ["mgs-v"]
   },
   "001510060": {
@@ -2018,9 +2019,10 @@
     "games": ["first-2018", "ds-remastered"]
   },
   "260957900": {
-    "youtube": "P6_Yye8aNrY", "official": false, "abs_start": "0:00", "abs_end": "3:56:14", "duration": "3:56:14",
+    "abs_start": "0:00", "abs_end": "3:57:19", "duration": "0:00",
     "name": "Dark Souls 2: Scholar of the First Sin #1",
     "date": "2018-05-13",
+    "direct": "https://bsufiles.thedrhax.pw/streams/260957900.mp4",
     "games": ["ds2-scholar"]
   },
   "262352362": {
@@ -5069,9 +5071,10 @@
     "games": ["life-is-strange-2"]
   },
   "533269694": {
-    "youtube": "mXMdAD6HnLY", "official": false, "abs_start": "0:00", "abs_end": "5:59:47", "duration": "5:59:47",
+    "abs_start": "0:00", "abs_end": "5:59:58", "duration": "0:00",
     "name": "Grand Theft Auto: San Andreas #1",
     "date": "2020-01-09",
+    "direct": "https://bsufiles.thedrhax.pw/streams/533269694.mp4",
     "games": ["gta-san-andreas"]
   },
   "533755753": {
@@ -5124,9 +5127,10 @@
     "games": ["gta-san-andreas", "crazy-ls"]
   },
   "542106142": {
-    "youtube": "GoYy_OIYiy8", "official": false, "abs_start": "0:00", "abs_end": "5:50:31", "duration": "5:50:31",
+    "abs_start": "0:00", "abs_end": "5:51:09", "duration": "0:00",
     "name": "Grand Theft Auto: San Andreas #6",
     "date": "2020-01-26",
+    "direct": "https://bsufiles.thedrhax.pw/streams/542106142.mp4",
     "games": ["gta-san-andreas"]
   },
   "542613780": {
@@ -8482,9 +8486,10 @@
     "games": ["bf-2042"]
   },
   "1206191026": {
-    "youtube": "AJBtaawXqPc", "official": false, "abs_start": "0:00", "abs_end": "5:58:32", "duration": "5:57:57",
+    "abs_start": "0:00", "abs_end": "5:58:42", "duration": "0:00",
     "name": "Grand Theft Auto III - Definitive Edition / Grand Theft Auto: Vice City - Definitive Edition #1 / Grand Theft Auto: San Andreas - Definitive Edition #1",
     "date": "2021-11-15",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1206191026.mp4",
     "cuts": [[14958, 14993]],
     "games": ["first-2021", "gta-vice-city", "gta-san-andreas"]
   },
@@ -9837,7 +9842,6 @@
     "youtube": "jJJ6hgn1Iow", "abs_start": "0:00", "abs_end": "9:11:53", "duration": "9:11:53",
     "name": "Call of Duty: Modern Warfare II / Resident Evil Village - Замок (демо от 3-го лица)",
     "date": "2022-10-21",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1630171647.torrent",
     "games": ["single", "re8"]
   },
   "1633962812": {
