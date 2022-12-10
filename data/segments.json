@@ -10115,5 +10115,14 @@
     "direct": "https://bsufiles.thedrhax.pw/streams/1674396025.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1674396025.torrent",
     "games": ["tga", "first-2022"]
+  },
+  "1675304239": {
+    "abs_start": "0:00", "abs_end": "4:45:10", "duration": "0:00",
+    "name": "Choo-Choo Charles",
+    "date": "2022-12-10",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1675304239.mp4",
+    "cuts": [[2584, 2611]],
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1675304239.torrent",
+    "games": ["single"]
   }
 }
