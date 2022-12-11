@@ -138,10 +138,9 @@
     "games": ["mgs-v"]
   },
   "001510050": {
-    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
+    "youtube": "jmK_ckHASnM", "official": false, "abs_start": "0:00", "abs_end": "4:34:08", "duration": "4:34:08",
     "name": "Metal Gear Solid V: Phantom Pain #13",
     "date": "2015-10-05",
-    "direct": "https://bsufiles.thedrhax.pw/streams/001510050.mp4",
     "games": ["mgs-v"]
   },
   "001510060": {
@@ -8486,10 +8485,9 @@
     "games": ["bf-2042"]
   },
   "1206191026": {
-    "abs_start": "0:00", "abs_end": "5:58:42", "duration": "0:00",
+    "youtube": "AJBtaawXqPc", "official": false, "abs_start": "0:00", "abs_end": "5:58:32", "duration": "5:57:57",
     "name": "Grand Theft Auto III - Definitive Edition / Grand Theft Auto: Vice City - Definitive Edition #1 / Grand Theft Auto: San Andreas - Definitive Edition #1",
     "date": "2021-11-15",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1206191026.mp4",
     "cuts": [[14958, 14993]],
     "games": ["first-2021", "gta-vice-city", "gta-san-andreas"]
   },
@@ -9860,7 +9858,6 @@
     "youtube": "N1jNVlcFp2s", "abs_start": "0:00", "abs_end": "5:25:00", "duration": "5:25:00",
     "name": "Luto (демо) / Bughouse / Lunacy: Saint Rhodes (демо) / Skinned Alive / Night Delivery / The Lies We Tell Ourselves (демо)",
     "date": "2022-10-27",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1635763389.torrent",
     "games": ["single"]
   },
   "1636658103": {
@@ -10124,5 +10121,14 @@
     "cuts": [[2584, 2611]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1675304239.torrent",
     "games": ["single"]
+  },
+  "1676189043": {
+    "abs_start": "0:00", "abs_end": "4:20:32", "duration": "0:00",
+    "name": "Portal RTX / Phasmophobia #16 (с Куплиновым и Дангаром)",
+    "date": "2022-12-11",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1676189043.mp4",
+    "cuts": [[4294, 4324]],
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1676189043.torrent",
+    "games": ["first-2022", "phasmophobia"]
   }
 }

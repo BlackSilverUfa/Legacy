@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "first-2022", "segment": "1665724993", "name": "Need for Speed Unbound", "start": 0},
       {"id": "first-2022", "segment": "1667371234", "name": "Do Not Open / Psych", "start": 0},
       {"id": "callisto-protocol", "segment": "1668107750", "name": "The Callisto Protocol #1", "start": 0},
       {"id": "callisto-protocol", "segment": "1669015522", "name": "The Callisto Protocol #2", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "hello-neighbor-2", "segment": "1672653498", "name": "Hello Neighbor 2 #1 (релиз)", "start": 0},
       {"id": "hello-neighbor-2", "segment": "1673532308", "name": "Hello Neighbor 2 #2 / IXION - Релиз", "start": 0},
       {"id": "tga", "segment": "1674396025", "name": "The Game Awards #2022 (обзор) / Forspoken (демо)", "start": 0},
-      {"id": "single", "segment": "1675304239", "name": "Choo-Choo Charles", "start": 0}
+      {"id": "single", "segment": "1675304239", "name": "Choo-Choo Charles", "start": 0},
+      {"id": "first-2022", "segment": "1676189043", "name": "Portal RTX / Phasmophobia #16 (с Куплиновым и Дангаром)", "start": 0}
     ]
   },
   "finished": {
@@ -990,7 +990,8 @@
       {"id": "first-2022", "segment": "1664055210", "name": "Nancy Drew: Curse of Blackmoor Manor", "start": 1369},
       {"id": "first-2022", "segment": "1665724993", "name": "Need for Speed Unbound", "start": 1214},
       {"id": "first-2022", "segment": "1667371234", "name": "Do Not Open", "start": 3122},
-      {"id": "first-2022", "segment": "1674396025", "name": "Forspoken (демо)", "start": 9871}
+      {"id": "first-2022", "segment": "1674396025", "name": "Forspoken (демо)", "start": 9871},
+      {"id": "first-2022", "segment": "1676189043", "name": "Portal RTX", "start": 1759}
     ]
   },
   "ongoing": {
