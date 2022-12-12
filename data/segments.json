@@ -9864,7 +9864,6 @@
     "youtube": "CSo_N7itsyc", "abs_start": "0:00", "abs_end": "5:45:35", "duration": "5:45:35",
     "name": "Resident Evil Village - DLC: Shadows of Rose",
     "date": "2022-10-28",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1636658103.torrent",
     "games": ["re8"]
   },
   "1637667923": {
@@ -10106,29 +10105,35 @@
     "games": ["hello-neighbor-2", "ixion"]
   },
   "1674396025": {
-    "abs_start": "0:00", "abs_end": "4:06:31", "duration": "0:00",
+    "youtube": "RdKsS8Wu9kM", "abs_start": "0:00", "abs_end": "4:06:21", "duration": "4:06:21",
     "name": "The Game Awards #2022 (обзор) / Forspoken (демо)",
     "date": "2022-12-09",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1674396025.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1674396025.torrent",
     "games": ["tga", "first-2022"]
   },
   "1675304239": {
-    "abs_start": "0:00", "abs_end": "4:45:10", "duration": "0:00",
+    "youtube": "DZwnIPcX2eM", "abs_start": "0:00", "abs_end": "4:44:46", "duration": "4:44:19",
     "name": "Choo-Choo Charles",
     "date": "2022-12-10",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1675304239.mp4",
     "cuts": [[2584, 2611]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1675304239.torrent",
     "games": ["single"]
   },
   "1676189043": {
-    "abs_start": "0:00", "abs_end": "4:20:32", "duration": "0:00",
-    "name": "Portal RTX / Phasmophobia #16 (с Куплиновым и Дангаром)",
+    "youtube": "hJsiwQaWPHg", "abs_start": "0:00", "abs_end": "4:22:10", "duration": "4:21:40",
+    "name": "Portal RTX #1 / Phasmophobia #16 (с Куплиновым и Дангаром)",
     "date": "2022-12-11",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1676189043.mp4",
     "cuts": [[4294, 4324]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1676189043.torrent",
-    "games": ["first-2022", "phasmophobia"]
+    "games": ["portal", "phasmophobia"]
+  },
+  "1677050957": {
+    "abs_start": "0:00", "abs_end": "6:56:48", "duration": "0:00",
+    "name": "Portal RTX #2 / Portal 2",
+    "date": "2022-12-12",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1677050957.mp4",
+    "cuts": [[11315, 11344], [13180, 13209]],
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1677050957.torrent",
+    "games": ["portal", "first-2022"]
   }
 }
