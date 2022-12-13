@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "callisto-protocol", "segment": "1668107750", "name": "The Callisto Protocol #1", "start": 0},
       {"id": "callisto-protocol", "segment": "1669015522", "name": "The Callisto Protocol #2", "start": 0},
       {"id": "yakuza-0", "segment": "1670961161", "name": "Yakuza 0 #5", "start": 0},
       {"id": "yakuza-0", "segment": "1671788984", "name": "Yakuza 0 #6", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "tga", "segment": "1674396025", "name": "The Game Awards #2022 (обзор) / Forspoken (демо)", "start": 0},
       {"id": "single", "segment": "1675304239", "name": "Choo-Choo Charles", "start": 0},
       {"id": "portal", "segment": "1676189043", "name": "Portal RTX #1 / Phasmophobia #16 (с Куплиновым и Дангаром)", "start": 0},
-      {"id": "portal", "segment": "1677050957", "name": "Portal RTX #2 / Portal 2", "start": 0}
+      {"id": "portal", "segment": "1677050957", "name": "Portal RTX #2 / Portal 2 #1", "start": 0},
+      {"id": "portal-2", "segment": "1677975869", "name": "Portal 2 #2", "start": 0}
     ]
   },
   "finished": {
@@ -482,7 +482,8 @@
       {"id": "single", "segment": "1667371234", "name": "Psych", "start": 5746},
       {"name": "The Callisto Protocol", "id": "callisto-protocol", "segment": "1668107750"},
       {"id": "single", "segment": "1675304239", "name": "Choo-Choo Charles", "start": 2450},
-      {"name": "Portal RTX", "id": "portal", "segment": "1676189043"}
+      {"name": "Portal RTX", "id": "portal", "segment": "1676189043"},
+      {"name": "Portal 2", "id": "portal-2", "segment": "1677050957"}
     ]
   },
   "first": {
@@ -991,8 +992,7 @@
       {"id": "first-2022", "segment": "1664055210", "name": "Nancy Drew: Curse of Blackmoor Manor", "start": 1369},
       {"id": "first-2022", "segment": "1665724993", "name": "Need for Speed Unbound", "start": 1214},
       {"id": "first-2022", "segment": "1667371234", "name": "Do Not Open", "start": 3122},
-      {"id": "first-2022", "segment": "1674396025", "name": "Forspoken (демо)", "start": 9871},
-      {"id": "first-2022", "segment": "1677050957", "name": "Portal 2", "start": 5565}
+      {"id": "first-2022", "segment": "1674396025", "name": "Forspoken (демо)", "start": 9871}
     ]
   },
   "ongoing": {

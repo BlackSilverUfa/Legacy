@@ -186,10 +186,9 @@
     "games": ["dishonored"]
   },
   "001511210": {
-    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
+    "youtube": "kidodm3zooI", "official": false, "abs_start": "0:00", "abs_end": "4:28:02", "duration": "4:28:02",
     "name": "Dishonored #3",
     "date": "2015-11-21",
-    "direct": "https://bsufiles.thedrhax.pw/streams/001511210.mp4",
     "games": ["dishonored"]
   },
   "001511250": {
@@ -2018,10 +2017,9 @@
     "games": ["first-2018", "ds-remastered"]
   },
   "260957900": {
-    "abs_start": "0:00", "abs_end": "3:57:19", "duration": "0:00",
+    "youtube": "iELyHG4xwzg", "official": false, "abs_start": "0:00", "abs_end": "3:56:14", "duration": "3:56:14",
     "name": "Dark Souls 2: Scholar of the First Sin #1",
     "date": "2018-05-13",
-    "direct": "https://bsufiles.thedrhax.pw/streams/260957900.mp4",
     "games": ["ds2-scholar"]
   },
   "262352362": {
@@ -5070,10 +5068,9 @@
     "games": ["life-is-strange-2"]
   },
   "533269694": {
-    "abs_start": "0:00", "abs_end": "5:59:58", "duration": "0:00",
+    "youtube": "wqaPnxizceM", "official": false, "abs_start": "0:00", "abs_end": "5:59:47", "duration": "5:59:47",
     "name": "Grand Theft Auto: San Andreas #1",
     "date": "2020-01-09",
-    "direct": "https://bsufiles.thedrhax.pw/streams/533269694.mp4",
     "games": ["gta-san-andreas"]
   },
   "533755753": {
@@ -10129,11 +10126,19 @@
   },
   "1677050957": {
     "abs_start": "0:00", "abs_end": "6:56:48", "duration": "0:00",
-    "name": "Portal RTX #2 / Portal 2",
+    "name": "Portal RTX #2 / Portal 2 #1",
     "date": "2022-12-12",
     "direct": "https://bsufiles.thedrhax.pw/streams/1677050957.mp4",
     "cuts": [[11315, 11344], [13180, 13209]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1677050957.torrent",
-    "games": ["portal", "first-2022"]
+    "games": ["portal", "portal-2"]
+  },
+  "1677975869": {
+    "abs_start": "0:00", "abs_end": "2:51:24", "duration": "0:00",
+    "name": "Portal 2 #2",
+    "date": "2022-12-13",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1677975869.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1677975869.torrent",
+    "games": ["portal-2"]
   }
 }
