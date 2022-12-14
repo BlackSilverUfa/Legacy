@@ -9902,7 +9902,6 @@
     "date": "2022-11-03",
     "offsets": [0, 10902],
     "cuts": [[681, 709], [817, 840], [7654, 7761]],
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1642266888,1642407202.torrent",
     "games": ["single", "trash-horror-2", "first-2022", "blood-west"]
   },
   "1643172831": {
@@ -10140,5 +10139,13 @@
     "date": "2022-12-13",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1677975869.torrent",
     "games": ["portal-2"]
+  },
+  "1678795130": {
+    "abs_start": "0:00", "abs_end": "6:04:37", "duration": "0:00",
+    "name": "The Witcher 3: Wild Hunt",
+    "date": "2022-12-14",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1678795130.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1678795130.torrent",
+    "games": ["first-2022"]
   }
 }
