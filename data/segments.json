@@ -2155,9 +2155,10 @@
     "games": ["worms-wmd", "raft", "co-op"]
   },
   "268900992": {
-    "youtube": "uopqo7R-zxI", "official": false, "abs_start": "0:00", "abs_end": "5:06:53", "duration": "5:06:53",
+    "abs_start": "0:00", "abs_end": "5:07:40", "duration": "0:00",
     "name": "Immortal Redneck #1 / Clone Drone in the Danger Zone #1 / Choice Chamber",
     "date": "2018-06-03",
+    "direct": "https://bsufiles.thedrhax.pw/streams/268900992.mp4",
     "games": ["immortal-redneck", "clone-drone", "first-2018"]
   },
   "270816212": {
@@ -8335,21 +8336,24 @@
     "games": ["house-of-ashes"]
   },
   "1186535358": {
-    "youtube": "q1-PsCsDkuo", "official": false, "abs_start": "0:00", "abs_end": "7:15:57", "duration": "7:15:57",
+    "abs_start": "0:00", "abs_end": "7:16:35", "duration": "0:00",
     "name": "Marvel's Guardians of the Galaxy #1",
     "date": "2021-10-25",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1186535358.mp4",
     "games": ["marvel-gotg"]
   },
   "1187388604": {
-    "youtube": "-c0kXqn6vqU", "official": false, "abs_start": "0:00", "abs_end": "8:08:48", "duration": "8:08:48",
+    "abs_start": "0:00", "abs_end": "8:08:59", "duration": "0:00",
     "name": "Marvel's Guardians of the Galaxy #2",
     "date": "2021-10-26",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1187388604.mp4",
     "games": ["marvel-gotg"]
   },
   "1188297728": {
-    "youtube": "fT9AbjJqAQk", "official": false, "abs_start": "0:00", "abs_end": "4:16:06", "duration": "4:16:06",
+    "abs_start": "0:00", "abs_end": "4:16:09", "duration": "0:00",
     "name": "Marvel's Guardians of the Galaxy #3",
     "date": "2021-10-27",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1188297728.mp4",
     "games": ["marvel-gotg"]
   },
   "1190164000": {
@@ -9867,14 +9871,12 @@
     "youtube": "-kE_vwFuzhc", "abs_start": "0:00", "abs_end": "4:04:33", "duration": "4:04:33",
     "name": "Nancy Drew: Shadow at the Water's Edge (Нэнси Дрю: Тень у воды) #2",
     "date": "2022-10-29",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1637667923.torrent",
     "games": ["nancy-drew-satwe"]
   },
   "1638619619": {
     "youtube": "9pN9lVPpVWk", "abs_start": "0:00", "abs_end": "7:11:00", "duration": "7:11:00",
     "name": "Alien: Isolation (мод AlienS IsolatioN) #1",
     "date": "2022-10-30",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1638619619.torrent",
     "games": ["aliens-isolation"]
   },
   "1642266888": {
@@ -10125,19 +10127,17 @@
     "games": ["portal", "phasmophobia"]
   },
   "1677050957": {
-    "abs_start": "0:00", "abs_end": "6:56:48", "duration": "0:00",
+    "youtube": "2wdQYLqb4zE", "abs_start": "0:00", "abs_end": "6:56:30", "duration": "6:55:32",
     "name": "Portal RTX #2 / Portal 2 #1",
     "date": "2022-12-12",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1677050957.mp4",
     "cuts": [[11315, 11344], [13180, 13209]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1677050957.torrent",
     "games": ["portal", "portal-2"]
   },
   "1677975869": {
-    "abs_start": "0:00", "abs_end": "2:51:24", "duration": "0:00",
+    "youtube": "dR8aWy90Pjs", "abs_start": "0:00", "abs_end": "2:51:10", "duration": "2:51:10",
     "name": "Portal 2 #2",
     "date": "2022-12-13",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1677975869.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1677975869.torrent",
     "games": ["portal-2"]
   }
