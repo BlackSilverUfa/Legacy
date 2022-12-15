@@ -8544,10 +8544,10 @@
   },
   "1212756532": {
     "youtube": "_D7O_UTbIsw", "abs_start": "0:00", "abs_end": "6:27:21", "duration": "6:26:58",
-    "name": "Darkwood #3 / Farming Simulator 22",
+    "name": "Darkwood #3 / Farming Simulator 22 #1",
     "date": "2021-11-22",
     "cuts": [[18031, 18054]],
-    "games": ["darkwood", "co-op"]
+    "games": ["darkwood", "farming-simulator-22"]
   },
   "1213619188": {
     "youtube": "WJXrOMben4s", "abs_start": "0:00", "abs_end": "5:59:57", "duration": "5:59:57",
@@ -9883,9 +9883,7 @@
     "abs_start": "0:00", "abs_end": "3:04:54", "duration": "0:00",
     "name": "",
     "date": "2022-11-03",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1642266888.mp4",
     "cuts": [[681, 709], [817, 840], [7654, 7761]],
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1642266888.torrent",
     "games": []
   },
   "1642407202": {
@@ -10147,5 +10145,13 @@
     "direct": "https://bsufiles.thedrhax.pw/streams/1678795130.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1678795130.torrent",
     "games": ["first-2022"]
+  },
+  "1679659879": {
+    "abs_start": "0:00", "abs_end": "6:04:39", "duration": "0:00",
+    "name": "Farming Simulator 22 #2 (соло) / Pummel Party #15 (4D) / Tricky Towers #34",
+    "date": "2022-12-15",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1679659879.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1679659879.torrent",
+    "games": ["farming-simulator-22", "pummel-party", "tricky-towers"]
   }
 }

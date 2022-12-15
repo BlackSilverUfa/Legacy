@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "yakuza-0", "segment": "1670961161", "name": "Yakuza 0 #5", "start": 0},
       {"id": "yakuza-0", "segment": "1671788984", "name": "Yakuza 0 #6", "start": 0},
       {"id": "hello-neighbor-2", "segment": "1672653498", "name": "Hello Neighbor 2 #1 (релиз)", "start": 0},
       {"id": "hello-neighbor-2", "segment": "1673532308", "name": "Hello Neighbor 2 #2 / IXION - Релиз", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "portal", "segment": "1676189043", "name": "Portal RTX #1 / Phasmophobia #16 (с Куплиновым и Дангаром)", "start": 0},
       {"id": "portal", "segment": "1677050957", "name": "Portal RTX #2 / Portal 2 #1", "start": 0},
       {"id": "portal-2", "segment": "1677975869", "name": "Portal 2 #2", "start": 0},
-      {"id": "first-2022", "segment": "1678795130", "name": "The Witcher 3: Wild Hunt", "start": 0}
+      {"id": "first-2022", "segment": "1678795130", "name": "The Witcher 3: Wild Hunt", "start": 0},
+      {"id": "farming-simulator-22", "segment": "1679659879", "name": "Farming Simulator 22 #2 (соло) / Pummel Party #15 (4D) / Tricky Towers #34", "start": 0}
     ]
   },
   "finished": {
@@ -1371,7 +1371,7 @@
       {"id": "co-op", "segment": "1194875760", "name": "Apex Legends", "start": 0},
       {"name": "Arena of Valor", "id": "arena-of-valor", "segment": "1195666882"},
       {"name": "Warframe", "id": "warframe", "segment": "1201428986"},
-      {"id": "co-op", "segment": "1212756532", "name": "Farming Simulator 22", "start": 14277},
+      {"name": "Farming Simulator 22", "id": "farming-simulator-22", "segment": "1212756532"},
       {"name": "Forewarned (с Куплиновым и Дангаром)", "id": "forewarned", "segment": "1223700316"},
       {"id": "co-op", "segment": "1230440174", "name": "Heavenly Bodies", "start": 14769},
       {"name": "Hellcoming", "id": "hellcoming", "segment": "1238591362"},
