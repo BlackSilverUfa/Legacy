@@ -2155,10 +2155,9 @@
     "games": ["worms-wmd", "raft", "co-op"]
   },
   "268900992": {
-    "abs_start": "0:00", "abs_end": "5:07:40", "duration": "0:00",
+    "youtube": "uopqo7R-zxI", "official": false, "abs_start": "0:00", "abs_end": "5:06:53", "duration": "5:06:53",
     "name": "Immortal Redneck #1 / Clone Drone in the Danger Zone #1 / Choice Chamber",
     "date": "2018-06-03",
-    "direct": "https://bsufiles.thedrhax.pw/streams/268900992.mp4",
     "games": ["immortal-redneck", "clone-drone", "first-2018"]
   },
   "270816212": {
@@ -5124,10 +5123,9 @@
     "games": ["gta-san-andreas", "crazy-ls"]
   },
   "542106142": {
-    "abs_start": "0:00", "abs_end": "5:51:09", "duration": "0:00",
+    "youtube": "HRjTiFcRFSw", "official": false, "abs_start": "0:00", "abs_end": "5:50:31", "duration": "5:50:31",
     "name": "Grand Theft Auto: San Andreas #6",
     "date": "2020-01-26",
-    "direct": "https://bsufiles.thedrhax.pw/streams/542106142.mp4",
     "games": ["gta-san-andreas"]
   },
   "542613780": {
@@ -10147,10 +10145,9 @@
     "games": ["first-2022"]
   },
   "1679659879": {
-    "abs_start": "0:00", "abs_end": "6:04:39", "duration": "0:00",
+    "youtube": "v9WnKLA6WfU", "abs_start": "0:00", "abs_end": "6:04:33", "duration": "6:04:33",
     "name": "Farming Simulator 22 #2 (соло) / Pummel Party #15 (4D) / Tricky Towers #34",
     "date": "2022-12-15",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1679659879.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1679659879.torrent",
     "games": ["farming-simulator-22", "pummel-party", "tricky-towers"]
   }
