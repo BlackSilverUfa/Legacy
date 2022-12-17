@@ -8340,17 +8340,15 @@
     "games": ["marvel-gotg"]
   },
   "1187388604": {
-    "abs_start": "0:00", "abs_end": "8:08:59", "duration": "0:00",
+    "youtube": "cp-JLHNhhiA", "official": false, "abs_start": "0:00", "abs_end": "8:08:48", "duration": "8:08:48",
     "name": "Marvel's Guardians of the Galaxy #2",
     "date": "2021-10-26",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1187388604.mp4",
     "games": ["marvel-gotg"]
   },
   "1188297728": {
-    "abs_start": "0:00", "abs_end": "4:16:09", "duration": "0:00",
+    "youtube": "s0YqpQzZ2gA", "official": false, "abs_start": "0:00", "abs_end": "4:16:06", "duration": "4:16:06",
     "name": "Marvel's Guardians of the Galaxy #3",
     "date": "2021-10-27",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1188297728.mp4",
     "games": ["marvel-gotg"]
   },
   "1190164000": {
@@ -10029,10 +10027,10 @@
   },
   "1664055210": {
     "youtube": "SDLw_0KdGSI", "abs_start": "0:00", "abs_end": "6:05:51", "duration": "6:05:51",
-    "name": "Nancy Drew: Curse of Blackmoor Manor",
+    "name": "Nancy Drew: Curse of Blackmoor Manor #1",
     "date": "2022-11-27",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1664055210.torrent",
-    "games": ["first-2022"]
+    "games": ["nancy-drew-cobm"]
   },
   "1664862476": {
     "youtube": "bm9Fyp_882I", "abs_start": "0:00", "abs_end": "2:02:51", "duration": "2:02:51",
@@ -10136,10 +10134,9 @@
     "games": ["portal-2"]
   },
   "1678795130": {
-    "abs_start": "0:00", "abs_end": "6:04:37", "duration": "0:00",
+    "youtube": "nEgriRaE2W4", "abs_start": "0:00", "abs_end": "6:04:20", "duration": "6:04:20",
     "name": "The Witcher 3: Wild Hunt",
     "date": "2022-12-14",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1678795130.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1678795130.torrent",
     "games": ["first-2022"]
   },
@@ -10151,12 +10148,19 @@
     "games": ["farming-simulator-22", "pummel-party", "tricky-towers"]
   },
   "1680525211": {
-    "abs_start": "0:00", "abs_end": "5:52:02", "duration": "0:00",
+    "youtube": "Lj8TXFX4B0U", "abs_start": "0:00", "abs_end": "5:51:54", "duration": "5:51:23",
     "name": "Crisis Core: Final Fantasy VII - Reunion",
     "date": "2022-12-16",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1680525211.mp4",
     "cuts": [[3531, 3562]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1680525211.torrent",
     "games": ["first-2022"]
+  },
+  "1681441434": {
+    "abs_start": "0:00", "abs_end": "5:24:25", "duration": "0:00",
+    "name": "Nancy Drew: Curse of Blackmoor Manor #2",
+    "date": "2022-12-17",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1681441434.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1681441434.torrent",
+    "games": ["nancy-drew-cobm"]
   }
 }
