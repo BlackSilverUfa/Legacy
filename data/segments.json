@@ -10156,11 +10156,18 @@
     "games": ["first-2022"]
   },
   "1681441434": {
-    "abs_start": "0:00", "abs_end": "5:24:25", "duration": "0:00",
+    "youtube": "eRYOAASQ2Vo", "abs_start": "0:00", "abs_end": "5:24:16", "duration": "5:24:16",
     "name": "Nancy Drew: Curse of Blackmoor Manor #2",
     "date": "2022-12-17",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1681441434.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1681441434.torrent",
     "games": ["nancy-drew-cobm"]
+  },
+  "1682351697": {
+    "abs_start": "0:00", "abs_end": "6:20:43", "duration": "0:00",
+    "name": "Verwandlung / Stay Still (демо) / 1 Bit Survivor / Those Who Crawl / Deathwatch / The Madvent Calendar 3: Necrosis / Scary Pictures: Yacez - Seven Deadly Sins / Psychosis: Teaser / Hell is Others",
+    "date": "2022-12-18",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1682351697.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1682351697.torrent",
+    "games": ["single", "first-2022"]
   }
 }

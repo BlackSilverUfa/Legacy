@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "hello-neighbor-2", "segment": "1673532308", "name": "Hello Neighbor 2 #2 / IXION - Релиз", "start": 0},
       {"id": "tga", "segment": "1674396025", "name": "The Game Awards #2022 (обзор) / Forspoken (демо)", "start": 0},
       {"id": "single", "segment": "1675304239", "name": "Choo-Choo Charles", "start": 0},
       {"id": "portal", "segment": "1676189043", "name": "Portal RTX #1 / Phasmophobia #16 (с Куплиновым и Дангаром)", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "first-2022", "segment": "1678795130", "name": "The Witcher 3: Wild Hunt", "start": 0},
       {"id": "farming-simulator-22", "segment": "1679659879", "name": "Farming Simulator 22 #2 (соло) / Pummel Party #15 (4D) / Tricky Towers #34", "start": 0},
       {"id": "first-2022", "segment": "1680525211", "name": "Crisis Core: Final Fantasy VII - Reunion", "start": 0},
-      {"id": "nancy-drew-cobm", "segment": "1681441434", "name": "Nancy Drew: Curse of Blackmoor Manor #2", "start": 0}
+      {"id": "nancy-drew-cobm", "segment": "1681441434", "name": "Nancy Drew: Curse of Blackmoor Manor #2", "start": 0},
+      {"id": "single", "segment": "1682351697", "name": "Verwandlung / Stay Still (демо) / 1 Bit Survivor / Those Who Crawl / Deathwatch / The Madvent Calendar 3: Necrosis / Scary Pictures: Yacez - Seven Deadly Sins / Psychosis: Teaser / Hell is Others", "start": 0}
     ]
   },
   "finished": {
@@ -484,7 +484,10 @@
       {"name": "The Callisto Protocol", "id": "callisto-protocol", "segment": "1668107750"},
       {"id": "single", "segment": "1675304239", "name": "Choo-Choo Charles", "start": 2450},
       {"name": "Portal RTX", "id": "portal", "segment": "1676189043"},
-      {"name": "Portal 2", "id": "portal-2", "segment": "1677050957"}
+      {"name": "Portal 2", "id": "portal-2", "segment": "1677050957"},
+      {"id": "single", "segment": "1682351697", "name": "Verwandlung", "start": 1812},
+      {"id": "single", "segment": "1682351697", "name": "Those Who Crawl", "start": 6175},
+      {"id": "single", "segment": "1682351697", "name": "Psychosis: Teaser", "start": 16397}
     ]
   },
   "first": {
@@ -994,7 +997,13 @@
       {"id": "first-2022", "segment": "1667371234", "name": "Do Not Open", "start": 3122},
       {"id": "first-2022", "segment": "1674396025", "name": "Forspoken (демо)", "start": 9871},
       {"id": "first-2022", "segment": "1678795130", "name": "The Witcher 3: Wild Hunt", "start": 1237},
-      {"id": "first-2022", "segment": "1680525211", "name": "Crisis Core: Final Fantasy VII - Reunion", "start": 827}
+      {"id": "first-2022", "segment": "1680525211", "name": "Crisis Core: Final Fantasy VII - Reunion", "start": 827},
+      {"id": "first-2022", "segment": "1682351697", "name": "Stay Still (демо)", "start": 2667},
+      {"id": "first-2022", "segment": "1682351697", "name": "1 Bit Survivor", "start": 4013},
+      {"id": "first-2022", "segment": "1682351697", "name": "Deathwatch", "start": 8508},
+      {"id": "first-2022", "segment": "1682351697", "name": "The Madvent Calendar 3: Necrosis", "start": 13503},
+      {"id": "first-2022", "segment": "1682351697", "name": "Scary Pictures: Yacez - Seven Deadly Sins", "start": 15149},
+      {"id": "first-2022", "segment": "1682351697", "name": "Hell is Others", "start": 20430}
     ]
   },
   "ongoing": {
