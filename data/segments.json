@@ -9885,8 +9885,6 @@
     "abs_start": "0:00", "abs_end": "2:18:46", "duration": "0:00",
     "name": "",
     "date": "2022-11-03",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1642407202.mp4",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1642407202.torrent",
     "games": []
   },
   "1642266888,1642407202": {
@@ -9901,7 +9899,6 @@
     "youtube": "5EtrZ3Ei26I", "abs_start": "0:00", "abs_end": "7:49:27", "duration": "7:49:27",
     "name": "The Chant",
     "date": "2022-11-04",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1643172831.torrent",
     "games": ["single"]
   },
   "1644149200": {
@@ -10149,11 +10146,11 @@
   },
   "1680525211": {
     "youtube": "Lj8TXFX4B0U", "abs_start": "0:00", "abs_end": "5:51:54", "duration": "5:51:23",
-    "name": "Crisis Core: Final Fantasy VII - Reunion",
+    "name": "Crisis Core: Final Fantasy VII - Reunion #1",
     "date": "2022-12-16",
     "cuts": [[3531, 3562]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1680525211.torrent",
-    "games": ["first-2022"]
+    "games": ["cc-ff-7"]
   },
   "1681441434": {
     "youtube": "eRYOAASQ2Vo", "abs_start": "0:00", "abs_end": "5:24:16", "duration": "5:24:16",
@@ -10169,5 +10166,14 @@
     "direct": "https://bsufiles.thedrhax.pw/streams/1682351697.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1682351697.torrent",
     "games": ["single", "first-2022"]
+  },
+  "1683157129": {
+    "abs_start": "0:00", "abs_end": "5:48:00", "duration": "0:00",
+    "name": "Crisis Core: Final Fantasy VII - Reunion #2",
+    "date": "2022-12-19",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1683157129.mp4",
+    "cuts": [[44, 64]],
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1683157129.torrent",
+    "games": ["cc-ff-7"]
   }
 }
