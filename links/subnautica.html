@@ -634,9 +634,9 @@
         <i class="fas fa-comments"></i> 17263
       </a>
     </span>
-    <span class="badge badge-success">
-      <a href="https://www.youtube.com/watch?v=p6I17isvAmg" target="_blank">
-        <i class="fab fa-youtube"></i> p6I17isvAmg
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.thedrhax.pw/streams/363313548.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -652,6 +652,16 @@
     <li><a data-value="3449">57:29</a> — Морские топтуны</li>
     <li><a data-value="4324">1:12:04</a> - <a data-value="4394">1:13:14</a> — Перерыв на подписки</li>
     <li><a data-value="4916">1:21:56</a> — Детеныш морского императора</li>
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li>
+      <a data-value="5058">1:24:18</a> - <a data-value="5516">1:31:56</a>,
+      <a data-value="6931">1:55:31</a> - <a data-value="7097">1:58:17</a>,
+      <a data-value="12212">3:23:32</a> - <a data-value="12409">3:26:49</a>
+      — Ramin Djawadi, Tom Morello - Pacific Rim (feat. Tom Morello)
+    </li>
+  </ul>
+
     <li><a data-value="7288">2:01:28</a> — Метеоритный кратер</li>
     <li><a data-value="7359">2:02:39</a> - <a data-value="7511">2:05:11</a> — Святилище 1</li>
     <li><a data-value="8582">2:23:02</a> - <a data-value="9467">2:37:47</a> — Святилище 2 (Альфа)</li>
@@ -670,13 +680,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="7" data-hash="363313548" data-subtitles="https://bsu.drhx.ru/chats/2019/v363313548.ass" data-name="8" data-youtube="p6I17isvAmg" />
+  <p class="stream" data-id="7" data-hash="363313548" data-subtitles="https://bsu.drhx.ru/chats/2019/v363313548.ass" data-name="8" data-direct="https://bsufiles.thedrhax.pw/streams/363313548.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2019/v363313548.ass ytdl://p6I17isvAmg
+  <pre class="highlight"><code>mpv --sub-file=https://bsu.drhx.ru/chats/2019/v363313548.ass https://bsufiles.thedrhax.pw/streams/363313548.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://bsu.drhx.ru/chats/2019/v363313548.ass" --player-passthrough hls twitch.tv/videos/363313548 best
 </code></pre>
 </div>
 

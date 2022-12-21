@@ -3289,9 +3289,10 @@
     "games": ["nsmbu"]
   },
   "363313548": {
-    "youtube": "p6I17isvAmg", "abs_start": "0:00", "abs_end": "4:48:56", "duration": "4:48:56",
+    "abs_start": "0:00", "abs_end": "4:48:50", "duration": "0:00",
     "name": "Subnautica #8",
     "date": "2019-01-13",
+    "direct": "https://bsufiles.thedrhax.pw/streams/363313548.mp4",
     "games": ["subnautica"]
   },
   "364318283": {
@@ -10160,18 +10161,16 @@
     "games": ["nancy-drew-cobm"]
   },
   "1682351697": {
-    "abs_start": "0:00", "abs_end": "6:20:43", "duration": "0:00",
+    "youtube": "eLkQ-hr_hJ4", "abs_start": "0:00", "abs_end": "6:20:37", "duration": "6:20:37",
     "name": "Verwandlung / Stay Still (демо) / 1 Bit Survivor / Those Who Crawl / Deathwatch / The Madvent Calendar 3: Necrosis / Scary Pictures: Yacez - Seven Deadly Sins / Psychosis: Teaser / Hell is Others",
     "date": "2022-12-18",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1682351697.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1682351697.torrent",
     "games": ["single", "first-2022"]
   },
   "1683157129": {
-    "abs_start": "0:00", "abs_end": "5:48:00", "duration": "0:00",
+    "youtube": "ybXJR7BN60M", "abs_start": "0:00", "abs_end": "5:47:37", "duration": "5:47:17",
     "name": "Crisis Core: Final Fantasy VII - Reunion #2",
     "date": "2022-12-19",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1683157129.mp4",
     "cuts": [[44, 64]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1683157129.torrent",
     "games": ["cc-ff-7"]
