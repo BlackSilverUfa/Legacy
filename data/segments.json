@@ -5153,10 +5153,9 @@
     "games": ["dark-messiah"]
   },
   "545136550": {
-    "abs_start": "0:00", "abs_end": "5:44:23", "duration": "0:00",
+    "youtube": "Sbqw9FY5rgI", "official": false, "abs_start": "0:00", "abs_end": "5:43:58", "duration": "5:43:58",
     "name": "Spore #4 / The Sims 4 #2",
     "date": "2020-02-01",
-    "direct": "https://bsufiles.thedrhax.pw/streams/545136550.mp4",
     "games": ["spore", "sims-4"]
   },
   "545709814": {
@@ -9906,7 +9905,6 @@
     "youtube": "GUDA3ukdDxo", "abs_start": "0:00", "abs_end": "5:49:37", "duration": "5:49:37",
     "name": "Nancy Drew: Shadow at the Water's Edge (Нэнси Дрю: Тень у воды) #3",
     "date": "2022-11-05",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1644149200.torrent",
     "games": ["nancy-drew-satwe"]
   },
   "1645086849": {
@@ -10162,10 +10160,10 @@
   },
   "1682351697": {
     "youtube": "eLkQ-hr_hJ4", "abs_start": "0:00", "abs_end": "6:20:37", "duration": "6:20:37",
-    "name": "Verwandlung / Stay Still (демо) / 1 Bit Survivor / Those Who Crawl / Deathwatch / The Madvent Calendar 3: Necrosis / Scary Pictures: Yacez - Seven Deadly Sins / Psychosis: Teaser / Hell is Others",
+    "name": "Verwandlung / Stay Still (демо) / 1 Bit Survivor / Those Who Crawl / Deathwatch #1 / The Madvent Calendar 3: Necrosis / Scary Pictures: Yacez - Seven Deadly Sins / Psychosis: Teaser / Hell is Others",
     "date": "2022-12-18",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1682351697.torrent",
-    "games": ["single", "first-2022"]
+    "games": ["single", "first-2022", "deathwatch"]
   },
   "1683157129": {
     "youtube": "ybXJR7BN60M", "abs_start": "0:00", "abs_end": "5:47:37", "duration": "5:47:17",
@@ -10174,5 +10172,13 @@
     "cuts": [[44, 64]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1683157129.torrent",
     "games": ["cc-ff-7"]
+  },
+  "1686763712": {
+    "abs_start": "0:00", "abs_end": "6:05:09", "duration": "0:00",
+    "name": "Duke Nukem Forever (2001) / Mirror Forge / Deathwatch #2 / Sleep Paralysis: The Uncanny Valley",
+    "date": "2022-12-23",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1686763712.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1686763712.torrent",
+    "games": ["first-2022", "deathwatch"]
   }
 }
