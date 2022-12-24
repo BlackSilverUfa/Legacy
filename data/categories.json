@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "portal", "segment": "1676189043", "name": "Portal RTX #1 / Phasmophobia #16 (с Куплиновым и Дангаром)", "start": 0},
       {"id": "portal", "segment": "1677050957", "name": "Portal RTX #2 / Portal 2 #1", "start": 0},
       {"id": "portal-2", "segment": "1677975869", "name": "Portal 2 #2", "start": 0},
       {"id": "first-2022", "segment": "1678795130", "name": "The Witcher 3: Wild Hunt", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "nancy-drew-cobm", "segment": "1681441434", "name": "Nancy Drew: Curse of Blackmoor Manor #2", "start": 0},
       {"id": "single", "segment": "1682351697", "name": "Verwandlung / Stay Still (демо) / 1 Bit Survivor / Those Who Crawl / Deathwatch #1 / The Madvent Calendar 3: Necrosis / Scary Pictures: Yacez - Seven Deadly Sins / Psychosis: Teaser / Hell is Others", "start": 0},
       {"id": "cc-ff-7", "segment": "1683157129", "name": "Crisis Core: Final Fantasy VII - Reunion #2", "start": 0},
-      {"id": "first-2022", "segment": "1686763712", "name": "Duke Nukem Forever (2001) / Mirror Forge / Deathwatch #2 / Sleep Paralysis: The Uncanny Valley", "start": 0}
+      {"id": "first-2022", "segment": "1686763712", "name": "Duke Nukem Forever (2001) / Mirror Forge #1 / Deathwatch #2 / Sleep Paralysis: The Uncanny Valley #1", "start": 0},
+      {"id": "sleep-paralysis", "segment": "1687663796", "name": "Sleep Paralysis: The Uncanny Valley #2 / FAITH / Deathwatch #3 / Mirror Forge #2", "start": 0}
     ]
   },
   "finished": {
@@ -489,7 +489,7 @@
       {"id": "single", "segment": "1682351697", "name": "Verwandlung", "start": 1812},
       {"id": "single", "segment": "1682351697", "name": "Those Who Crawl", "start": 6175},
       {"id": "single", "segment": "1682351697", "name": "Psychosis: Teaser", "start": 16397},
-      {"name": "Deathwatch", "id": "deathwatch", "segment": "1682351697"}
+      {"id": "single", "segment": "1687663796", "name": "FAITH", "start": 12127}
     ]
   },
   "first": {
@@ -1004,9 +1004,7 @@
       {"id": "first-2022", "segment": "1682351697", "name": "The Madvent Calendar 3: Necrosis", "start": 13503},
       {"id": "first-2022", "segment": "1682351697", "name": "Scary Pictures: Yacez - Seven Deadly Sins", "start": 15149},
       {"id": "first-2022", "segment": "1682351697", "name": "Hell is Others", "start": 20430},
-      {"id": "first-2022", "segment": "1686763712", "name": "Duke Nukem Forever (2001)", "start": 1783},
-      {"id": "first-2022", "segment": "1686763712", "name": "Mirror Forge", "start": 2459},
-      {"id": "first-2022", "segment": "1686763712", "name": "Sleep Paralysis: The Uncanny Valley", "start": 18439}
+      {"id": "first-2022", "segment": "1686763712", "name": "Duke Nukem Forever (2001)", "start": 1783}
     ]
   },
   "ongoing": {
@@ -1014,7 +1012,9 @@
     "games": [
       {"name": "IXION", "id": "ixion", "segment": "1307474557"},
       {"name": "Trash Horror Collection 2", "id": "trash-horror-2", "segment": "1596223040"},
-      {"name": "Yakuza 0", "id": "yakuza-0", "segment": "1598875892"}
+      {"name": "Yakuza 0", "id": "yakuza-0", "segment": "1598875892"},
+      {"name": "Mirror Forge", "id": "mirror-forge", "segment": "1686763712"},
+      {"name": "Sleep Paralysis: The Uncanny Valley", "id": "sleep-paralysis", "segment": "1686763712"}
     ]
   },
   "infinite": {
@@ -1068,7 +1068,8 @@
       {"name": "Вечер Ретро Игр (ВРИ)", "id": "retro", "segment": "1522102243"},
       {"name": "Purple War", "id": "purple-war", "segment": "1547156682"},
       {"name": "Ghost Watchers", "id": "ghost-watchers", "segment": "1547156682"},
-      {"name": "Warhammer 40,000: Darktide", "id": "darktide", "segment": "1624846104"}
+      {"name": "Warhammer 40,000: Darktide", "id": "darktide", "segment": "1624846104"},
+      {"name": "Deathwatch", "id": "deathwatch", "segment": "1682351697"}
     ]
   },
   "abandoned": {
