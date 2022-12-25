@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "portal", "segment": "1677050957", "name": "Portal RTX #2 / Portal 2 #1", "start": 0},
       {"id": "portal-2", "segment": "1677975869", "name": "Portal 2 #2", "start": 0},
       {"id": "first-2022", "segment": "1678795130", "name": "The Witcher 3: Wild Hunt", "start": 0},
       {"id": "farming-simulator-22", "segment": "1679659879", "name": "Farming Simulator 22 #2 (соло) / Pummel Party #15 (4D) / Tricky Towers #34", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "single", "segment": "1682351697", "name": "Verwandlung / Stay Still (демо) / 1 Bit Survivor / Those Who Crawl / Deathwatch #1 / The Madvent Calendar 3: Necrosis / Scary Pictures: Yacez - Seven Deadly Sins / Psychosis: Teaser / Hell is Others", "start": 0},
       {"id": "cc-ff-7", "segment": "1683157129", "name": "Crisis Core: Final Fantasy VII - Reunion #2", "start": 0},
       {"id": "first-2022", "segment": "1686763712", "name": "Duke Nukem Forever (2001) / Mirror Forge #1 / Deathwatch #2 / Sleep Paralysis: The Uncanny Valley #1", "start": 0},
-      {"id": "sleep-paralysis", "segment": "1687663796", "name": "Sleep Paralysis: The Uncanny Valley #2 / FAITH / Deathwatch #3 / Mirror Forge #2", "start": 0}
+      {"id": "sleep-paralysis", "segment": "1687663796", "name": "Sleep Paralysis: The Uncanny Valley #2 / FAITH / Deathwatch #3 / Mirror Forge #2", "start": 0},
+      {"id": "first-2022", "segment": "1688348940,1688400760", "name": "Half-Life: Blue Shift Remake / Pummel Party #16 (4D) / Escape Memoirs: Mini Stories #2", "start": 0}
     ]
   },
   "finished": {
@@ -1004,7 +1004,8 @@
       {"id": "first-2022", "segment": "1682351697", "name": "The Madvent Calendar 3: Necrosis", "start": 13503},
       {"id": "first-2022", "segment": "1682351697", "name": "Scary Pictures: Yacez - Seven Deadly Sins", "start": 15149},
       {"id": "first-2022", "segment": "1682351697", "name": "Hell is Others", "start": 20430},
-      {"id": "first-2022", "segment": "1686763712", "name": "Duke Nukem Forever (2001)", "start": 1783}
+      {"id": "first-2022", "segment": "1686763712", "name": "Duke Nukem Forever (2001)", "start": 1783},
+      {"id": "first-2022", "segment": "1688348940,1688400760", "name": "Half-Life: Blue Shift Remake", "start": 826}
     ]
   },
   "ongoing": {
@@ -1397,7 +1398,7 @@
       {"id": "co-op", "segment": "1564505950", "name": "Way of the Hunter", "start": 267},
       {"id": "co-op", "segment": "1587098639", "name": "The Long Drive", "start": 4752},
       {"id": "co-op", "segment": "1618459269", "name": "Tales of Terror", "start": 13316},
-      {"id": "co-op", "segment": "1618459269", "name": "Escape Memoirs: Mini Stories", "start": 21583},
+      {"name": "Escape Memoirs: Mini Stories", "id": "escape-memoirs", "segment": "1618459269"},
       {"id": "co-op", "segment": "1623036890", "name": "Overwatch 2", "start": 3251},
       {"id": "co-op", "segment": "1624846104", "name": "Ghostbusters: Spirits Unleashed", "start": 16061}
     ]

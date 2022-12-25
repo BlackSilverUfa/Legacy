@@ -9778,9 +9778,9 @@
   },
   "1618459269": {
     "youtube": "Uu7yEaUNDTE", "abs_start": "0:00", "abs_end": "7:30:34", "duration": "7:30:34",
-    "name": "Chasm: The Rift (демо) / Dredge (демо) / Scars Above (демо) / Unusual Findings - Демо / Tales of Terror / Horrors of Space #1 / Half Dead - Часть 3 #2 / Sign of Silence #3 / Escape Memoirs: Mini Stories",
+    "name": "Chasm: The Rift (демо) / Dredge (демо) / Scars Above (демо) / Unusual Findings - Демо / Tales of Terror / Horrors of Space #1 / Half Dead - Часть 3 #2 / Sign of Silence #3 / Escape Memoirs: Mini Stories #1",
     "date": "2022-10-08",
-    "games": ["first-2022", "unusual-findings", "co-op", "horrors-of-space", "half-dead", "sign-of-silence"]
+    "games": ["first-2022", "unusual-findings", "co-op", "horrors-of-space", "half-dead", "sign-of-silence", "escape-memoirs"]
   },
   "1619465701": {
     "youtube": "Hn2loNKBAFQ", "abs_start": "0:00", "abs_end": "6:14:36", "duration": "6:14:05",
@@ -9918,7 +9918,6 @@
     "name": "God of War Ragnarok #1",
     "date": "2022-11-09",
     "cuts": [[25325, 25382]],
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1647687213.torrent",
     "games": ["gow-ragnarok"]
   },
   "1648729903": {
@@ -10173,19 +10172,42 @@
     "games": ["cc-ff-7"]
   },
   "1686763712": {
-    "abs_start": "0:00", "abs_end": "6:05:09", "duration": "0:00",
+    "youtube": "aiUssqVLvg0", "abs_start": "0:00", "abs_end": "6:04:36", "duration": "6:04:36",
     "name": "Duke Nukem Forever (2001) / Mirror Forge #1 / Deathwatch #2 / Sleep Paralysis: The Uncanny Valley #1",
     "date": "2022-12-23",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1686763712.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1686763712.torrent",
     "games": ["first-2022", "mirror-forge", "deathwatch", "sleep-paralysis"]
   },
   "1687663796": {
-    "abs_start": "0:00", "abs_end": "5:33:47", "duration": "0:00",
+    "youtube": "GQNlNY_pSKA", "abs_start": "0:00", "abs_end": "5:33:24", "duration": "5:33:24",
     "name": "Sleep Paralysis: The Uncanny Valley #2 / FAITH / Deathwatch #3 / Mirror Forge #2",
     "date": "2022-12-24",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1687663796.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1687663796.torrent",
     "games": ["sleep-paralysis", "single", "deathwatch", "mirror-forge"]
+  },
+  "1688348940": {
+    "abs_start": "0:00", "abs_end": "2:02:26", "duration": "0:00",
+    "name": "",
+    "date": "2022-12-25",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1688348940.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1688348940.torrent",
+    "games": []
+  },
+  "1688400760": {
+    "abs_start": "0:00", "abs_end": "6:35:42", "duration": "0:00",
+    "name": "",
+    "date": "2022-12-25",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1688400760.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1688400760.torrent",
+    "games": []
+  },
+  "1688348940,1688400760": {
+    "abs_start": "0:00", "abs_end": "8:38:08", "duration": "0:00",
+    "name": "Half-Life: Blue Shift Remake / Pummel Party #16 (4D) / Escape Memoirs: Mini Stories #2",
+    "date": "2022-12-25",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1688348940,1688400760.mp4",
+    "offsets": [0, 7276],
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1688348940,1688400760.torrent",
+    "games": ["first-2022", "pummel-party", "escape-memoirs"]
   }
 }
