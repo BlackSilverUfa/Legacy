@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "portal-2", "segment": "1677975869", "name": "Portal 2 #2", "start": 0},
       {"id": "first-2022", "segment": "1678795130", "name": "The Witcher 3: Wild Hunt", "start": 0},
       {"id": "farming-simulator-22", "segment": "1679659879", "name": "Farming Simulator 22 #2 (соло) / Pummel Party #15 (4D) / Tricky Towers #34", "start": 0},
       {"id": "cc-ff-7", "segment": "1680525211", "name": "Crisis Core: Final Fantasy VII - Reunion #1", "start": 0},
@@ -11,14 +10,16 @@
       {"id": "single", "segment": "1682351697", "name": "Verwandlung / Stay Still (демо) / 1 Bit Survivor / Those Who Crawl / Deathwatch #1 / The Madvent Calendar 3: Necrosis / Scary Pictures: Yacez - Seven Deadly Sins / Psychosis: Teaser / Hell is Others", "start": 0},
       {"id": "cc-ff-7", "segment": "1683157129", "name": "Crisis Core: Final Fantasy VII - Reunion #2", "start": 0},
       {"id": "first-2022", "segment": "1686763712", "name": "Duke Nukem Forever (2001) / Mirror Forge #1 / Deathwatch #2 / Sleep Paralysis: The Uncanny Valley #1", "start": 0},
-      {"id": "sleep-paralysis", "segment": "1687663796", "name": "Sleep Paralysis: The Uncanny Valley #2 / FAITH / Deathwatch #3 / Mirror Forge #2", "start": 0},
-      {"id": "first-2022", "segment": "1688348940,1688400760", "name": "Half-Life: Blue Shift Remake / Pummel Party #16 (4D) / Escape Memoirs: Mini Stories #2", "start": 0}
+      {"id": "sleep-paralysis", "segment": "1687663796", "name": "Sleep Paralysis: The Uncanny Valley #2 / FAITH: Chapter One / Deathwatch #3 / Mirror Forge #2", "start": 0},
+      {"id": "hl-bs-r", "segment": "1688348940,1688400760", "name": "Half-Life: Blue Shift Remake #1 / Pummel Party #16 (4D) / Escape Memoirs: Mini Stories #2", "start": 0},
+      {"id": "hl-bs-r", "segment": "1689107812", "name": "Half-Life: Blue Shift Remake #2 / Nightmare House 2 - Прохождение", "start": 0}
     ]
   },
   "finished": {
     "name": "Завершённые прохождения",
     "games": [
       {"name": "Metro 2033 Redux", "id": "metro-2033", "segment": "001508100"},
+      {"name": "Nightmare House 2", "id": "nightmare-house-2", "segment": "001508120"},
       {"name": "Zombi", "id": "zombi", "segment": "001508180"},
       {"name": "Until Dawn", "id": "until-dawn", "segment": "001508250"},
       {"name": "Metal Gear Solid V: Phantom Pain", "id": "mgs-v", "segment": "001508310"},
@@ -489,14 +490,14 @@
       {"id": "single", "segment": "1682351697", "name": "Verwandlung", "start": 1812},
       {"id": "single", "segment": "1682351697", "name": "Those Who Crawl", "start": 6175},
       {"id": "single", "segment": "1682351697", "name": "Psychosis: Teaser", "start": 16397},
-      {"id": "single", "segment": "1687663796", "name": "FAITH", "start": 12127}
+      {"id": "single", "segment": "1687663796", "name": "FAITH: Chapter One", "start": 12127},
+      {"name": "Half-Life: Blue Shift Remake", "id": "hl-bs-r", "segment": "1688348940,1688400760"}
     ]
   },
   "first": {
     "name": "Первый взгляд",
     "games": [
       {"id": "first", "segment": "001508100", "name": "Bloodborne", "start": 3737},
-      {"id": "first", "segment": "001508120", "name": "Nightmare House 2", "start": 0},
       {"id": "first", "segment": "001508120", "name": "Bioshock Infinite", "start": 4309},
       {"id": "first-2016", "segment": "001603300", "name": "Freelancer", "start": 0},
       {"id": "first-2016", "segment": "001607210", "name": "Deus Ex: Human Revolution - Director's Cut", "start": 0},
@@ -1004,8 +1005,7 @@
       {"id": "first-2022", "segment": "1682351697", "name": "The Madvent Calendar 3: Necrosis", "start": 13503},
       {"id": "first-2022", "segment": "1682351697", "name": "Scary Pictures: Yacez - Seven Deadly Sins", "start": 15149},
       {"id": "first-2022", "segment": "1682351697", "name": "Hell is Others", "start": 20430},
-      {"id": "first-2022", "segment": "1686763712", "name": "Duke Nukem Forever (2001)", "start": 1783},
-      {"id": "first-2022", "segment": "1688348940,1688400760", "name": "Half-Life: Blue Shift Remake", "start": 826}
+      {"id": "first-2022", "segment": "1686763712", "name": "Duke Nukem Forever (2001)", "start": 1783}
     ]
   },
   "ongoing": {

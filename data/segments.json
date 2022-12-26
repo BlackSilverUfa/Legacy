@@ -7,9 +7,9 @@
   },
   "001508120": {
     "youtube": "0V9nf6mlc_4", "official": false, "abs_start": "0:00", "abs_end": "2:19:42", "duration": "2:19:42",
-    "name": "Первые стримы #2 / Nightmare House 2 / Bioshock Infinite",
+    "name": "Первые стримы #2 / Nightmare House 2 - Первый взгляд / Bioshock Infinite",
     "date": "2015-08-12",
-    "games": ["testing", "first"]
+    "games": ["testing", "nightmare-house-2", "first"]
   },
   "001508170": {
     "youtube": "X2nXOSSFnoQ", "official": false, "abs_start": "0:00", "abs_end": "2:21:35", "duration": "2:21:35",
@@ -9925,14 +9925,12 @@
     "name": "God of War Ragnarok #2",
     "date": "2022-11-10",
     "cuts": [[6305, 6373]],
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1648729903.torrent",
     "games": ["gow-ragnarok"]
   },
   "1649523175": {
     "youtube": "FTU9OEAmrkI", "abs_start": "0:00", "abs_end": "8:16:07", "duration": "8:16:07",
     "name": "God of War Ragnarok #3",
     "date": "2022-11-11",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1649523175.torrent",
     "games": ["gow-ragnarok"]
   },
   "1650543457": {
@@ -10180,7 +10178,7 @@
   },
   "1687663796": {
     "youtube": "GQNlNY_pSKA", "abs_start": "0:00", "abs_end": "5:33:24", "duration": "5:33:24",
-    "name": "Sleep Paralysis: The Uncanny Valley #2 / FAITH / Deathwatch #3 / Mirror Forge #2",
+    "name": "Sleep Paralysis: The Uncanny Valley #2 / FAITH: Chapter One / Deathwatch #3 / Mirror Forge #2",
     "date": "2022-12-24",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1687663796.torrent",
     "games": ["sleep-paralysis", "single", "deathwatch", "mirror-forge"]
@@ -10202,12 +10200,19 @@
     "games": []
   },
   "1688348940,1688400760": {
-    "abs_start": "0:00", "abs_end": "8:38:08", "duration": "0:00",
-    "name": "Half-Life: Blue Shift Remake / Pummel Party #16 (4D) / Escape Memoirs: Mini Stories #2",
+    "youtube": "oAT1c3fUmzU", "abs_start": "0:00", "abs_end": "8:36:43", "duration": "8:36:43",
+    "name": "Half-Life: Blue Shift Remake #1 / Pummel Party #16 (4D) / Escape Memoirs: Mini Stories #2",
     "date": "2022-12-25",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1688348940,1688400760.mp4",
     "offsets": [0, 7276],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1688348940,1688400760.torrent",
-    "games": ["first-2022", "pummel-party", "escape-memoirs"]
+    "games": ["hl-bs-r", "pummel-party", "escape-memoirs"]
+  },
+  "1689107812": {
+    "abs_start": "0:00", "abs_end": "6:42:54", "duration": "0:00",
+    "name": "Half-Life: Blue Shift Remake #2 / Nightmare House 2 - Прохождение",
+    "date": "2022-12-26",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1689107812.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1689107812.torrent",
+    "games": ["hl-bs-r", "nightmare-house-2"]
   }
 }
