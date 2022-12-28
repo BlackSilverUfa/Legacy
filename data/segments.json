@@ -9937,7 +9937,6 @@
     "youtube": "QLsmvlycpyw", "abs_start": "0:00", "abs_end": "8:12:44", "duration": "8:12:44",
     "name": "God of War Ragnarok #4",
     "date": "2022-11-12",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1650543457.torrent",
     "games": ["gow-ragnarok"]
   },
   "1651511764": {
@@ -10215,11 +10214,19 @@
     "games": ["hl-bs-r", "nightmare-house-2"]
   },
   "1690022559": {
-    "abs_start": "0:00", "abs_end": "6:05:30", "duration": "0:00",
+    "youtube": "W1uP8zuIHwc", "abs_start": "0:00", "abs_end": "6:05:17", "duration": "6:05:17",
     "name": "Симулятор Прыгания по Гаражам / Creature Lab (демо) / Who Knocks / FAITH - Chapter II",
     "date": "2022-12-27",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1690022559.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1690022559.torrent",
     "games": ["first-2022", "faith"]
+  },
+  "1690952607": {
+    "abs_start": "0:00", "abs_end": "5:52:44", "duration": "0:00",
+    "name": "The Thing: Station Survival / The Thing / The Thing (by PanzerCat) / The Thing - P.T. (by Stefano Cagnani)",
+    "date": "2022-12-28",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1690952607.mp4",
+    "cuts": [[3621, 3652]],
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1690952607.torrent",
+    "games": ["single", "first-2022"]
   }
 }

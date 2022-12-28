@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "farming-simulator-22", "segment": "1679659879", "name": "Farming Simulator 22 #2 (соло) / Pummel Party #15 (4D) / Tricky Towers #34", "start": 0},
       {"id": "cc-ff-7", "segment": "1680525211", "name": "Crisis Core: Final Fantasy VII - Reunion #1", "start": 0},
       {"id": "nancy-drew-cobm", "segment": "1681441434", "name": "Nancy Drew: Curse of Blackmoor Manor #2", "start": 0},
       {"id": "single", "segment": "1682351697", "name": "Verwandlung / Stay Still (демо) / 1 Bit Survivor / Those Who Crawl / Deathwatch #1 / The Madvent Calendar 3: Necrosis / Scary Pictures: Yacez - Seven Deadly Sins / Psychosis: Teaser / Hell is Others", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "sleep-paralysis", "segment": "1687663796", "name": "Sleep Paralysis: The Uncanny Valley #2 / FAITH - Chapter I / Deathwatch #3 / Mirror Forge #2", "start": 0},
       {"id": "hl-bs-r", "segment": "1688348940,1688400760", "name": "Half-Life: Blue Shift Remake #1 / Pummel Party #16 (4D) / Escape Memoirs: Mini Stories #2", "start": 0},
       {"id": "hl-bs-r", "segment": "1689107812", "name": "Half-Life: Blue Shift Remake #2 / Nightmare House 2 - Прохождение", "start": 0},
-      {"id": "first-2022", "segment": "1690022559", "name": "Симулятор Прыгания по Гаражам / Creature Lab (демо) / Who Knocks / FAITH - Chapter II", "start": 0}
+      {"id": "first-2022", "segment": "1690022559", "name": "Симулятор Прыгания по Гаражам / Creature Lab (демо) / Who Knocks / FAITH - Chapter II", "start": 0},
+      {"id": "single", "segment": "1690952607", "name": "The Thing: Station Survival / The Thing / The Thing (by PanzerCat) / The Thing - P.T. (by Stefano Cagnani)", "start": 0}
     ]
   },
   "finished": {
@@ -490,7 +490,9 @@
       {"id": "single", "segment": "1682351697", "name": "Verwandlung", "start": 1812},
       {"id": "single", "segment": "1682351697", "name": "Those Who Crawl", "start": 6175},
       {"id": "single", "segment": "1682351697", "name": "Psychosis: Teaser", "start": 16397},
-      {"name": "Half-Life: Blue Shift Remake", "id": "hl-bs-r", "segment": "1688348940,1688400760"}
+      {"name": "Half-Life: Blue Shift Remake", "id": "hl-bs-r", "segment": "1688348940,1688400760"},
+      {"id": "single", "segment": "1690952607", "name": "The Thing: Station Survival", "start": 1131},
+      {"id": "single", "segment": "1690952607", "name": "The Thing - P.T. (by Stefano Cagnani)", "start": 20305}
     ]
   },
   "first": {
@@ -1007,7 +1009,9 @@
       {"id": "first-2022", "segment": "1686763712", "name": "Duke Nukem Forever (2001)", "start": 1783},
       {"id": "first-2022", "segment": "1690022559", "name": "Симулятор Прыгания по Гаражам", "start": 1872},
       {"id": "first-2022", "segment": "1690022559", "name": "Creature Lab (демо)", "start": 3597},
-      {"id": "first-2022", "segment": "1690022559", "name": "Who Knocks", "start": 6425}
+      {"id": "first-2022", "segment": "1690022559", "name": "Who Knocks", "start": 6425},
+      {"id": "first-2022", "segment": "1690952607", "name": "The Thing", "start": 2298},
+      {"id": "first-2022", "segment": "1690952607", "name": "The Thing (by PanzerCat)", "start": 14049}
     ]
   },
   "ongoing": {
