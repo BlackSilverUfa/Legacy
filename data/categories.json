@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "nancy-drew-cobm", "segment": "1681441434", "name": "Nancy Drew: Curse of Blackmoor Manor #2", "start": 0},
       {"id": "single", "segment": "1682351697", "name": "Verwandlung / Stay Still (демо) / 1 Bit Survivor / Those Who Crawl / Deathwatch #1 / The Madvent Calendar 3: Necrosis / Scary Pictures: Yacez - Seven Deadly Sins / Psychosis: Teaser / Hell is Others", "start": 0},
       {"id": "cc-ff-7", "segment": "1683157129", "name": "Crisis Core: Final Fantasy VII - Reunion #2", "start": 0},
       {"id": "first-2022", "segment": "1686763712", "name": "Duke Nukem Forever (2001) / Mirror Forge #1 / Deathwatch #2 / Sleep Paralysis: The Uncanny Valley #1", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "hl-bs-r", "segment": "1689107812", "name": "Half-Life: Blue Shift Remake #2 / Nightmare House 2 - Прохождение", "start": 0},
       {"id": "first-2022", "segment": "1690022559", "name": "Симулятор Прыгания по Гаражам / Creature Lab (демо) / Who Knocks / FAITH - Chapter II", "start": 0},
       {"id": "single", "segment": "1690952607", "name": "The Thing: Station Survival / The Thing #1 / The Thing (by PanzerCat) / The Thing - P.T. (by Stefano Cagnani)", "start": 0},
-      {"id": "the-thing", "segment": "1691914672", "name": "The Thing #2 / Pummel Party #17 (6D)", "start": 0}
+      {"id": "the-thing", "segment": "1691914672", "name": "The Thing #2 / Pummel Party #17 (6D)", "start": 0},
+      {"id": "the-thing", "segment": "1692856301", "name": "The Thing #3 / FAITH - Chapter III", "start": 0}
     ]
   },
   "finished": {
@@ -492,7 +492,8 @@
       {"id": "single", "segment": "1682351697", "name": "Psychosis: Teaser", "start": 16397},
       {"name": "Half-Life: Blue Shift Remake", "id": "hl-bs-r", "segment": "1688348940,1688400760"},
       {"id": "single", "segment": "1690952607", "name": "The Thing: Station Survival", "start": 1131},
-      {"id": "single", "segment": "1690952607", "name": "The Thing - P.T. (by Stefano Cagnani)", "start": 20305}
+      {"id": "single", "segment": "1690952607", "name": "The Thing - P.T. (by Stefano Cagnani)", "start": 20305},
+      {"name": "The Thing", "id": "the-thing", "segment": "1690952607"}
     ]
   },
   "first": {
@@ -1020,8 +1021,7 @@
       {"name": "Yakuza 0", "id": "yakuza-0", "segment": "1598875892"},
       {"name": "Mirror Forge", "id": "mirror-forge", "segment": "1686763712"},
       {"name": "Sleep Paralysis: The Uncanny Valley", "id": "sleep-paralysis", "segment": "1686763712"},
-      {"name": "FAITH", "id": "faith", "segment": "1687663796"},
-      {"name": "The Thing", "id": "the-thing", "segment": "1690952607"}
+      {"name": "FAITH", "id": "faith", "segment": "1687663796"}
     ]
   },
   "infinite": {
