@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "single", "segment": "1682351697", "name": "Verwandlung / Stay Still (демо) / 1 Bit Survivor / Those Who Crawl / Deathwatch #1 / The Madvent Calendar 3: Necrosis / Scary Pictures: Yacez - Seven Deadly Sins / Psychosis: Teaser / Hell is Others", "start": 0},
       {"id": "cc-ff-7", "segment": "1683157129", "name": "Crisis Core: Final Fantasy VII - Reunion #2", "start": 0},
       {"id": "first-2022", "segment": "1686763712", "name": "Duke Nukem Forever (2001) / Mirror Forge #1 / Deathwatch #2 / Sleep Paralysis: The Uncanny Valley #1", "start": 0},
       {"id": "sleep-paralysis", "segment": "1687663796", "name": "Sleep Paralysis: The Uncanny Valley #2 / FAITH - Chapter I / Deathwatch #3 / Mirror Forge #2", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "first-2022", "segment": "1690022559", "name": "Симулятор Прыгания по Гаражам / Creature Lab (демо) / Who Knocks / FAITH - Chapter II", "start": 0},
       {"id": "single", "segment": "1690952607", "name": "The Thing: Station Survival / The Thing #1 / The Thing (by PanzerCat) / The Thing - P.T. (by Stefano Cagnani)", "start": 0},
       {"id": "the-thing", "segment": "1691914672", "name": "The Thing #2 / Pummel Party #17 (6D)", "start": 0},
-      {"id": "the-thing", "segment": "1692856301", "name": "The Thing #3 / FAITH - Chapter III", "start": 0}
+      {"id": "the-thing", "segment": "1692856301", "name": "The Thing #3 / FAITH - Chapter III", "start": 0},
+      {"id": "single", "segment": "1693798502", "name": "Crimson Snow / Peepo Island #7", "start": 0}
     ]
   },
   "finished": {
@@ -493,7 +493,8 @@
       {"name": "Half-Life: Blue Shift Remake", "id": "hl-bs-r", "segment": "1688348940,1688400760"},
       {"id": "single", "segment": "1690952607", "name": "The Thing: Station Survival", "start": 1131},
       {"id": "single", "segment": "1690952607", "name": "The Thing - P.T. (by Stefano Cagnani)", "start": 20305},
-      {"name": "The Thing", "id": "the-thing", "segment": "1690952607"}
+      {"name": "The Thing", "id": "the-thing", "segment": "1690952607"},
+      {"id": "single", "segment": "1693798502", "name": "Crimson Snow", "start": 5953}
     ]
   },
   "first": {
