@@ -57,14 +57,12 @@ steps:
   - ./bsu venv update
   - ./bsu repo pull --force
 
-  - ./bsu generate --download-chats
-  - ./bsu webpack
-  # - ./bsu npm test
-
-  - './bsu pages commit "Drone: Обновление статичных файлов"'
+  - ./bsu download-chats
+  - ./bsu build
 
   # Do not push chats
   # Chat archives are managed by TheDrHax/BlackSilverUfa
+  - './bsu pages commit "Drone: Обновление статичных файлов"'
   - ./bsu pages push _site
 
   - ./bsu repo prune --optional
