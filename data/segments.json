@@ -9955,7 +9955,6 @@
     "youtube": "hj4sQ0QsIWo", "abs_start": "0:00", "abs_end": "7:50:43", "duration": "7:50:43",
     "name": "God of War Ragnarok #7",
     "date": "2022-11-15",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1653285370.torrent",
     "games": ["gow-ragnarok"]
   },
   "1656106367": {
@@ -10248,5 +10247,14 @@
     "cuts": [[3638, 3669]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1693798502.torrent",
     "games": ["single", "peepo-island"]
+  },
+  "1699296271": {
+    "abs_start": "0:00", "abs_end": "6:19:52", "duration": "0:00",
+    "name": "Return to Castle Wolfenstein",
+    "date": "2023-01-06",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1699296271.mp4",
+    "cuts": [[3495, 3526]],
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1699296271.torrent",
+    "games": ["first-2023"]
   }
 }
