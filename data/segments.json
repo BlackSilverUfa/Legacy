@@ -10242,10 +10242,9 @@
     "games": ["the-thing", "faith"]
   },
   "1693798502": {
-    "abs_start": "0:00", "abs_end": "5:02:12", "duration": "0:00",
+    "youtube": "M-_po2bEVoo", "abs_start": "0:00", "abs_end": "5:01:43", "duration": "5:01:12",
     "name": "Crimson Snow / Peepo Island #7",
     "date": "2022-12-31",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1693798502.mp4",
     "cuts": [[3638, 3669]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1693798502.torrent",
     "games": ["single", "peepo-island"]
