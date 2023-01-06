@@ -9,6 +9,9 @@ volumes:
 - name: cache
   host:
     path: /data/drone/workspaces/blackufa-legacy
+- name: base_repo
+  host:
+    path: /data/drone/workspaces/blackufa
 
 clone:
   disable: true
@@ -25,16 +28,19 @@ steps:
   - name: cache
     path: /drone/cached
   commands:
-  - chown -R 1000:1000 /drone/cached
+  - chown 1000:1000 /drone/cached
 
 - name: build
   image: thedrhax/buildenv-blackufa
   volumes:
   - name: cache
     path: /drone/cached
+  - name: base_repo
+    path: /drone/base
   environment:
     SSH_KEY:
       from_secret: ssh_key
+    PYTHONUNBUFFERED: 1
   commands:
   - |
     mkdir ~/.ssh
@@ -48,7 +54,14 @@ steps:
       git clone $DRONE_GIT_SSH_URL .
       git config --local user.email "the.dr.hax@gmail.com"
       git config --local user.name "Drone"
+
+      mkdir -p .git/objects/info
+      echo /drone/base/.git/objects > .git/objects/info/alternates
     else
+      if [ ! -e .git/objects/info/alternates ]; then
+        echo /drone/base/.git/objects > .git/objects/info/alternates
+      fi
+
       git fetch
     fi
 
