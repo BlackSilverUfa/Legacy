@@ -9961,7 +9961,6 @@
     "youtube": "nuD4eXw2YMQ", "abs_start": "0:00", "abs_end": "5:54:51", "duration": "5:54:51",
     "name": "Somerville",
     "date": "2022-11-18",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1656106367.torrent",
     "games": ["single"]
   },
   "1657037267": {
@@ -10250,10 +10249,18 @@
   },
   "1699296271": {
     "youtube": "8sr-pxUN1uM", "abs_start": "0:00", "abs_end": "6:19:32", "duration": "6:19:01",
-    "name": "Return to Castle Wolfenstein",
+    "name": "Return to Castle Wolfenstein (RealRTCW) #1",
     "date": "2023-01-06",
     "cuts": [[3495, 3526]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1699296271.torrent",
-    "games": ["first-2023"]
+    "games": ["rrtcw"]
+  },
+  "1700264823": {
+    "abs_start": "0:00", "abs_end": "6:28:52", "duration": "0:00",
+    "name": "Return to Castle Wolfenstein (RealRTCW) #2",
+    "date": "2023-01-07",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1700264823.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1700264823.torrent",
+    "games": ["rrtcw"]
   }
 }
