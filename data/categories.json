@@ -1019,7 +1019,6 @@
   "ongoing": {
     "name": "Активные",
     "games": [
-      {"name": "IXION", "id": "ixion", "segment": "1307474557"},
       {"name": "Mirror Forge", "id": "mirror-forge", "segment": "1686763712"},
       {"name": "Sleep Paralysis: The Uncanny Valley", "id": "sleep-paralysis", "segment": "1686763712"},
       {"name": "FAITH", "id": "faith", "segment": "1687663796"}
@@ -1193,6 +1192,7 @@
       {"name": "Five Nights At Freddy's: Security Breach", "id": "fnaf-sb", "segment": "1238591362"},
       {"name": "Fobia - St. Dinfna Hotel", "id": "fobia", "segment": "1239503220"},
       {"name": "Blood West", "id": "blood-west", "segment": "1299859703"},
+      {"name": "IXION", "id": "ixion", "segment": "1307474557"},
       {"name": "The Heilwald Loophole", "id": "heilwald", "segment": "1445142982"},
       {"name": "V Rising", "id": "v-rising", "segment": "1312161316"},
       {"name": "Cult of the Lamb", "id": "cult-ot-lamb", "segment": "1502569152"},

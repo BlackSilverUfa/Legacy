@@ -10256,10 +10256,9 @@
     "games": ["rrtcw"]
   },
   "1700264823": {
-    "abs_start": "0:00", "abs_end": "6:28:52", "duration": "0:00",
+    "youtube": "9V9BemAHuns", "abs_start": "0:00", "abs_end": "6:28:26", "duration": "6:28:26",
     "name": "Return to Castle Wolfenstein (RealRTCW) #2",
     "date": "2023-01-07",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1700264823.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1700264823.torrent",
     "games": ["rrtcw"]
   }
