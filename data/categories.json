@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "sleep-paralysis", "segment": "1687663796", "name": "Sleep Paralysis: The Uncanny Valley #2 / FAITH - Chapter I / Deathwatch #3 / Mirror Forge #2", "start": 0},
       {"id": "hl-bs-r", "segment": "1688348940,1688400760", "name": "Half-Life: Blue Shift Remake #1 / Pummel Party #16 (4D) / Escape Memoirs: Mini Stories #2", "start": 0},
       {"id": "hl-bs-r", "segment": "1689107812", "name": "Half-Life: Blue Shift Remake #2 / Nightmare House 2 - Прохождение", "start": 0},
       {"id": "first-2022", "segment": "1690022559", "name": "Симулятор Прыгания по Гаражам / Creature Lab (демо) / Who Knocks / FAITH - Chapter II", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "the-thing", "segment": "1692856301", "name": "The Thing #3 / FAITH - Chapter III", "start": 0},
       {"id": "single", "segment": "1693798502", "name": "Crimson Snow / Peepo Island #7", "start": 0},
       {"id": "rrtcw", "segment": "1699296271", "name": "Return to Castle Wolfenstein (RealRTCW) #1", "start": 0},
-      {"id": "rrtcw", "segment": "1700264823", "name": "Return to Castle Wolfenstein (RealRTCW) #2", "start": 0}
+      {"id": "rrtcw", "segment": "1700264823", "name": "Return to Castle Wolfenstein (RealRTCW) #2", "start": 0},
+      {"id": "single", "segment": "1701325068", "name": "September 7th / The 9th Charnel (демо) / Smile / Input6 / Park Lane / Elevated Dread / The Interpid Explorer / There is Something in the Pipes / The Maker of Masks", "start": 0}
     ]
   },
   "finished": {
@@ -495,7 +495,16 @@
       {"id": "single", "segment": "1690952607", "name": "The Thing - P.T. (by Stefano Cagnani)", "start": 20305},
       {"name": "The Thing", "id": "the-thing", "segment": "1690952607"},
       {"id": "single", "segment": "1693798502", "name": "Crimson Snow", "start": 5953},
-      {"name": "Return to Castle Wolfenstein (RealRTCW)", "id": "rrtcw", "segment": "1699296271"}
+      {"name": "Return to Castle Wolfenstein (RealRTCW)", "id": "rrtcw", "segment": "1699296271"},
+      {"id": "single", "segment": "1701325068", "name": "September 7th", "start": 1921},
+      {"id": "single", "segment": "1701325068", "name": "The 9th Charnel (демо)", "start": 6363},
+      {"id": "single", "segment": "1701325068", "name": "Smile", "start": 8528},
+      {"id": "single", "segment": "1701325068", "name": "Input6", "start": 8896},
+      {"id": "single", "segment": "1701325068", "name": "Park Lane", "start": 12783},
+      {"id": "single", "segment": "1701325068", "name": "Elevated Dread", "start": 13190},
+      {"id": "single", "segment": "1701325068", "name": "The Interpid Explorer", "start": 15307},
+      {"id": "single", "segment": "1701325068", "name": "There is Something in the Pipes", "start": 16703},
+      {"id": "single", "segment": "1701325068", "name": "The Maker of Masks", "start": 19849}
     ]
   },
   "first": {
