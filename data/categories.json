@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "first-2022", "segment": "1690022559", "name": "Симулятор Прыгания по Гаражам / Creature Lab (демо) / Who Knocks / FAITH - Chapter II", "start": 0},
       {"id": "single", "segment": "1690952607", "name": "The Thing: Station Survival / The Thing #1 / The Thing (by PanzerCat) / The Thing - P.T. (by Stefano Cagnani)", "start": 0},
       {"id": "the-thing", "segment": "1691914672", "name": "The Thing #2 / Pummel Party #17 (6D)", "start": 0},
       {"id": "the-thing", "segment": "1692856301", "name": "The Thing #3 / FAITH - Chapter III", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "rrtcw", "segment": "1700264823", "name": "Return to Castle Wolfenstein (RealRTCW) #2", "start": 0},
       {"id": "single", "segment": "1701325068", "name": "September 7th / The 9th Charnel (демо) / Smile / Input6 / Park Lane / Elevated Dread / The Interpid Explorer / There is Something in the Pipes / The Maker of Masks", "start": 0},
       {"id": "wolfenstein", "segment": "1702266111", "name": "Wolfenstein #1", "start": 0},
-      {"id": "fears-to-fathom", "segment": "1703188749", "name": "Fears to Fathom - Episode 3 - Carson House / Wolfenstein #2", "start": 0}
+      {"id": "fears-to-fathom", "segment": "1703188749", "name": "Fears to Fathom - Episode 3 - Carson House / Wolfenstein #2", "start": 0},
+      {"id": "wolfenstein", "segment": "1704133402", "name": "Wolfenstein #3", "start": 0}
     ]
   },
   "finished": {
@@ -504,7 +504,8 @@
       {"id": "single", "segment": "1701325068", "name": "Elevated Dread", "start": 13190},
       {"id": "single", "segment": "1701325068", "name": "The Interpid Explorer", "start": 15307},
       {"id": "single", "segment": "1701325068", "name": "There is Something in the Pipes", "start": 16703},
-      {"id": "single", "segment": "1701325068", "name": "The Maker of Masks", "start": 19849}
+      {"id": "single", "segment": "1701325068", "name": "The Maker of Masks", "start": 19849},
+      {"name": "Wolfenstein", "id": "wolfenstein", "segment": "1702266111"}
     ]
   },
   "first": {
@@ -1030,8 +1031,7 @@
     "games": [
       {"name": "Mirror Forge", "id": "mirror-forge", "segment": "1686763712"},
       {"name": "Sleep Paralysis: The Uncanny Valley", "id": "sleep-paralysis", "segment": "1686763712"},
-      {"name": "FAITH", "id": "faith", "segment": "1687663796"},
-      {"name": "Wolfenstein", "id": "wolfenstein", "segment": "1702266111"}
+      {"name": "FAITH", "id": "faith", "segment": "1687663796"}
     ]
   },
   "infinite": {

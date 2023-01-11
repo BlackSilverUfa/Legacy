@@ -5153,7 +5153,7 @@
     "games": ["dark-messiah"]
   },
   "545136550": {
-    "youtube": "R6qnd6Ur-98", "official": false, "abs_start": "0:00", "abs_end": "5:43:58", "duration": "5:43:58",
+    "youtube": "Sbqw9FY5rgI", "official": false, "abs_start": "0:00", "abs_end": "5:43:58", "duration": "5:43:58",
     "name": "Spore #4 / The Sims 4 #2",
     "date": "2020-02-01",
     "games": ["spore", "sims-4"]
@@ -9985,7 +9985,6 @@
     "youtube": "xNo2UZCk1VY", "abs_start": "0:00", "abs_end": "4:32:48", "duration": "4:32:48",
     "name": "Evil West / Goat Simulator 3",
     "date": "2022-11-22",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1659790980.torrent",
     "games": ["first-2022"]
   },
   "1660650293": {
@@ -10280,5 +10279,13 @@
     "date": "2023-01-10",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1703188749.torrent",
     "games": ["fears-to-fathom", "wolfenstein"]
+  },
+  "1704133402": {
+    "abs_start": "0:00", "abs_end": "5:02:07", "duration": "0:00",
+    "name": "Wolfenstein #3",
+    "date": "2023-01-11",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1704133402.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1704133402.torrent",
+    "games": ["wolfenstein"]
   }
 }
