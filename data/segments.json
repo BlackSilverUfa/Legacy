@@ -10281,10 +10281,9 @@
     "games": ["fears-to-fathom", "wolfenstein"]
   },
   "1704133402": {
-    "abs_start": "0:00", "abs_end": "5:02:07", "duration": "0:00",
+    "youtube": "1II0nLE4ibM", "abs_start": "0:00", "abs_end": "5:02:01", "duration": "5:02:01",
     "name": "Wolfenstein #3",
     "date": "2023-01-11",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1704133402.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1704133402.torrent",
     "games": ["wolfenstein"]
   }
