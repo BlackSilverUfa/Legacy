@@ -9991,14 +9991,12 @@
     "youtube": "6VK-K1cGDMU", "abs_start": "0:00", "abs_end": "4:35:36", "duration": "4:35:36",
     "name": "Alien: Isolation (мод AlienS IsolatioN) #4",
     "date": "2022-11-23",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1660650293.torrent",
     "games": ["aliens-isolation"]
   },
   "1662262853": {
     "youtube": "3uf_3xSHOpw", "abs_start": "0:00", "abs_end": "6:14:53", "duration": "6:14:53",
     "name": "Apsulov: End of Gods #1",
     "date": "2022-11-25",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1662262853.torrent",
     "games": ["apsulov"]
   },
   "1663155573": {
@@ -10286,5 +10284,13 @@
     "date": "2023-01-11",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1704133402.torrent",
     "games": ["wolfenstein"]
+  },
+  "1707073235": {
+    "abs_start": "0:00", "abs_end": "6:26:10", "duration": "0:00",
+    "name": "Sanri / You Will Die Here Tonight (демо) / Driving Home / Deep Fear (by Nicolas Olivares) / Garten of Banban / Dead Man's Fault / Where's Mom? / Within",
+    "date": "2023-01-14",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1707073235.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1707073235.torrent",
+    "games": ["first-2023", "single"]
   }
 }
