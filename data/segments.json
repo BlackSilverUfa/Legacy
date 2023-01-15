@@ -10286,10 +10286,9 @@
     "games": ["wolfenstein"]
   },
   "1707073235": {
-    "abs_start": "0:00", "abs_end": "6:26:10", "duration": "0:00",
+    "youtube": "wCtprQuTeBM", "abs_start": "0:00", "abs_end": "6:26:00", "duration": "6:26:00",
     "name": "Sanri / You Will Die Here Tonight (демо) / Driving Home / Deep Fear (by Nicolas Olivares) / Garten of Banban / Dead Man's Fault / Where's Mom? / Within",
     "date": "2023-01-14",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1707073235.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1707073235.torrent",
     "games": ["first-2023", "single"]
   }
