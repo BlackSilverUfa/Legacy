@@ -10291,5 +10291,13 @@
     "date": "2023-01-14",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1707073235.torrent",
     "games": ["first-2023", "single"]
+  },
+  "1708111286": {
+    "abs_start": "0:00", "abs_end": "5:55:09", "duration": "0:00",
+    "name": "Barnyard (Рога и копыта)",
+    "date": "2023-01-15",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1708111286.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1708111286.torrent",
+    "games": ["first-2023"]
   }
 }
