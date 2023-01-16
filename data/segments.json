@@ -10003,7 +10003,6 @@
     "youtube": "vCJc61QOklc", "abs_start": "0:00", "abs_end": "5:59:37", "duration": "5:59:37",
     "name": "Help Me! (демо) / The House / Oakwood / Night Signal / Countryside 1999 / Something Nefarious Below / Heartworm / Trash Horror Collection 2 - Poop Killer 5",
     "date": "2022-11-26",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1663155573.torrent",
     "games": ["single", "first-2022", "trash-horror-2"]
   },
   "1664055210": {
@@ -10298,5 +10297,14 @@
     "date": "2023-01-15",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1708111286.torrent",
     "games": ["first-2023"]
+  },
+  "1709052941": {
+    "abs_start": "0:00", "abs_end": "4:50:27", "duration": "0:00",
+    "name": "Yakuza 0 #7",
+    "date": "2023-01-16",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1709052941.mp4",
+    "cuts": [[16551, 16583]],
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1709052941.torrent",
+    "games": ["yakuza-0"]
   }
 }
