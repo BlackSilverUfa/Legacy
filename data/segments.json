@@ -10016,7 +10016,6 @@
     "youtube": "bm9Fyp_882I", "abs_start": "0:00", "abs_end": "2:02:51", "duration": "2:02:51",
     "name": "Apsulov: End of Gods #2",
     "date": "2022-11-28",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1664862476.torrent",
     "games": ["apsulov"]
   },
   "1665724993": {
@@ -10306,5 +10305,14 @@
     "cuts": [[16551, 16583]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1709052941.torrent",
     "games": ["yakuza-0"]
+  },
+  "1711981237": {
+    "abs_start": "0:00", "abs_end": "5:54:51", "duration": "0:00",
+    "name": "Alone in the Dark",
+    "date": "2023-01-19",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1711981237.mp4",
+    "cuts": [[12945, 12974]],
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1711981237.torrent",
+    "games": ["first-2023"]
   }
 }
