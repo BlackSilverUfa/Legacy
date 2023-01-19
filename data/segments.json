@@ -2017,9 +2017,10 @@
     "games": ["first-2018", "ds-remastered"]
   },
   "260957900": {
-    "youtube": "iELyHG4xwzg", "official": false, "abs_start": "0:00", "abs_end": "3:56:14", "duration": "3:56:14",
+    "abs_start": "0:00", "abs_end": "3:57:19", "duration": "0:00",
     "name": "Dark Souls 2: Scholar of the First Sin #1",
     "date": "2018-05-13",
+    "direct": "https://bsufiles.thedrhax.pw/streams/260957900.mp4",
     "games": ["ds2-scholar"]
   },
   "262352362": {
@@ -10009,7 +10010,6 @@
     "youtube": "SDLw_0KdGSI", "abs_start": "0:00", "abs_end": "6:05:51", "duration": "6:05:51",
     "name": "Nancy Drew: Curse of Blackmoor Manor #1",
     "date": "2022-11-27",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1664055210.torrent",
     "games": ["nancy-drew-cobm"]
   },
   "1664862476": {
