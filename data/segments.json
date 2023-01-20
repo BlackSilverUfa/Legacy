@@ -10021,14 +10021,12 @@
     "youtube": "eOjnmIq8qt0", "abs_start": "0:00", "abs_end": "2:55:28", "duration": "2:55:28",
     "name": "Need for Speed Unbound",
     "date": "2022-11-29",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1665724993.torrent",
     "games": ["first-2022"]
   },
   "1667371234": {
     "youtube": "YxcP3BoJis0", "abs_start": "0:00", "abs_end": "5:46:15", "duration": "5:46:15",
     "name": "Do Not Open / Psych",
     "date": "2022-12-01",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1667371234.torrent",
     "games": ["first-2022", "single"]
   },
   "1668107750": {
@@ -10307,11 +10305,19 @@
   },
   "1711981237": {
     "abs_start": "0:00", "abs_end": "5:54:51", "duration": "0:00",
-    "name": "Alone in the Dark",
+    "name": "Alone in the Dark: Inferno #1",
     "date": "2023-01-19",
     "direct": "https://bsufiles.thedrhax.pw/streams/1711981237.mp4",
     "cuts": [[12945, 12974]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1711981237.torrent",
-    "games": ["first-2023"]
+    "games": ["aitd"]
+  },
+  "1712949815": {
+    "abs_start": "0:00", "abs_end": "6:39:43", "duration": "0:00",
+    "name": "Alone in the Dark: Inferno #2",
+    "date": "2023-01-20",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1712949815.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1712949815.torrent",
+    "games": ["aitd"]
   }
 }

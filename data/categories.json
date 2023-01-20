@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "rrtcw", "segment": "1699296271", "name": "Return to Castle Wolfenstein (RealRTCW) #1", "start": 0},
       {"id": "rrtcw", "segment": "1700264823", "name": "Return to Castle Wolfenstein (RealRTCW) #2", "start": 0},
       {"id": "single", "segment": "1701325068", "name": "September 7th / The 9th Charnel (демо) / Smile / Input6 / Park Lane / Elevated Dread / The Interpid Explorer / There is Something in the Pipes / The Maker of Masks", "start": 0},
       {"id": "wolfenstein", "segment": "1702266111", "name": "Wolfenstein #1", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "first-2023", "segment": "1707073235", "name": "Sanri / You Will Die Here Tonight (демо) / Driving Home / Deep Fear (by Nicolas Olivares) / Garten of Banban / Dead Man's Fault / Where's Mom? / Within", "start": 0},
       {"id": "first-2023", "segment": "1708111286", "name": "Barnyard (Рога и копыта)", "start": 0},
       {"id": "yakuza-0", "segment": "1709052941", "name": "Yakuza 0 #7", "start": 0},
-      {"id": "first-2023", "segment": "1711981237", "name": "Alone in the Dark", "start": 0}
+      {"id": "aitd", "segment": "1711981237", "name": "Alone in the Dark: Inferno #1", "start": 0},
+      {"id": "aitd", "segment": "1712949815", "name": "Alone in the Dark: Inferno #2", "start": 0}
     ]
   },
   "finished": {
@@ -1032,8 +1032,7 @@
       {"id": "first-2022", "segment": "1690022559", "name": "Who Knocks", "start": 6425},
       {"id": "first-2022", "segment": "1690952607", "name": "The Thing (by PanzerCat)", "start": 14049},
       {"id": "first-2023", "segment": "1707073235", "name": "Sanri", "start": 4984},
-      {"id": "first-2023", "segment": "1708111286", "name": "Barnyard (Рога и копыта)", "start": 1490},
-      {"id": "first-2023", "segment": "1711981237", "name": "Alone in the Dark", "start": 2132}
+      {"id": "first-2023", "segment": "1708111286", "name": "Barnyard (Рога и копыта)", "start": 1490}
     ]
   },
   "ongoing": {
@@ -1042,7 +1041,8 @@
       {"name": "Yakuza 0", "id": "yakuza-0", "segment": "1598875892"},
       {"name": "Mirror Forge", "id": "mirror-forge", "segment": "1686763712"},
       {"name": "Sleep Paralysis: The Uncanny Valley", "id": "sleep-paralysis", "segment": "1686763712"},
-      {"name": "FAITH", "id": "faith", "segment": "1687663796"}
+      {"name": "FAITH", "id": "faith", "segment": "1687663796"},
+      {"name": "Alone in the Dark: Inferno", "id": "aitd", "segment": "1711981237"}
     ]
   },
   "infinite": {
