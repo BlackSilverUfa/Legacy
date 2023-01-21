@@ -10034,7 +10034,6 @@
     "youtube": "0SecE0lPCVM", "abs_start": "0:00", "abs_end": "9:18:14", "duration": "9:18:14",
     "name": "The Callisto Protocol #1",
     "date": "2022-12-02",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1668107750.torrent",
     "games": ["callisto-protocol"]
   },
   "1669015522": {
@@ -10290,10 +10289,10 @@
   },
   "1708111286": {
     "youtube": "jEEeHqJsvVU", "abs_start": "0:00", "abs_end": "5:54:55", "duration": "5:54:55",
-    "name": "Barnyard (Рога и копыта)",
+    "name": "Barnyard (Рога и копыта) #1",
     "date": "2023-01-15",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1708111286.torrent",
-    "games": ["first-2023"]
+    "games": ["barnyard"]
   },
   "1709052941": {
     "abs_start": "0:00", "abs_end": "4:50:27", "duration": "0:00",
@@ -10320,5 +10319,13 @@
     "direct": "https://bsufiles.thedrhax.pw/streams/1712949815.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1712949815.torrent",
     "games": ["aitd"]
+  },
+  "1713959344": {
+    "abs_start": "0:00", "abs_end": "7:16:29", "duration": "0:00",
+    "name": "Barnyard (Рога и копыта) #2",
+    "date": "2023-01-21",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1713959344.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1713959344.torrent",
+    "games": ["barnyard"]
   }
 }
