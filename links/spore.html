@@ -374,9 +374,9 @@
         <i class="fas fa-comments"></i> 24266
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=Sbqw9FY5rgI" target="_blank">
-        <i class="fab fa-youtube"></i> Sbqw9FY5rgI
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.thedrhax.pw/streams/545136550.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -407,6 +407,7 @@
 
       <li>Проблемы с правообладателями:</li>
   <ul>
+    <li><a data-value="7347">2:02:27</a> - <a data-value="7601">2:06:41</a> — Whitney Houston - I Will Always Love You</li>
     <li><a data-value="7616">2:06:56</a> - <a data-value="7836">2:10:36</a> — CeeLo Green - Fuck You</li>
     <li><a data-value="11795">3:16:35</a> - <a data-value="12068">3:21:08</a> — Ice Nine Kills - IT Is The End</li>
     <li><a data-value="13823">3:50:23</a> - <a data-value="14094">3:54:54</a> — Hiroyuki Sawano - No Differences</li>
@@ -426,13 +427,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="3" data-hash="545136550" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v545136550.ass" data-name="4" data-youtube="Sbqw9FY5rgI" />
+  <p class="stream" data-id="3" data-hash="545136550" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v545136550.ass" data-name="4" data-direct="https://bsufiles.thedrhax.pw/streams/545136550.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v545136550.ass ytdl://Sbqw9FY5rgI
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v545136550.ass https://bsufiles.thedrhax.pw/streams/545136550.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v545136550.ass" --player-passthrough hls twitch.tv/videos/545136550 best
 </code></pre>
 </div>
 
