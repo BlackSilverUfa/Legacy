@@ -10317,10 +10317,9 @@
     "games": ["aitd"]
   },
   "1713959344": {
-    "abs_start": "0:00", "abs_end": "7:16:29", "duration": "0:00",
+    "youtube": "EWnRUtHAiIA", "abs_start": "0:00", "abs_end": "7:16:09", "duration": "7:16:09",
     "name": "Barnyard (Рога и копыта) #2",
     "date": "2023-01-21",
-    "direct": "https://bsufiles.thedrhax.pw/streams/1713959344.mp4",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1713959344.torrent",
     "games": ["barnyard"]
   }
