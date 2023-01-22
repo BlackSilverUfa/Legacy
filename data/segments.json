@@ -10322,5 +10322,14 @@
     "date": "2023-01-21",
     "torrent": "https://bsufiles.thedrhax.pw/streams/1713959344.torrent",
     "games": ["barnyard"]
+  },
+  "1715060185": {
+    "abs_start": "0:00", "abs_end": "6:11:54", "duration": "0:00",
+    "name": "Jawbreaker (демо) / No Strings Attached / Bram The Toymaker / Agora / Lake Haven: Chrysalis",
+    "date": "2023-01-22",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1715060185.mp4",
+    "cuts": [[12819, 12850]],
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1715060185.torrent",
+    "games": ["first-2023", "single"]
   }
 }
