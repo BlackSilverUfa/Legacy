@@ -10039,7 +10039,6 @@
     "youtube": "6kKIE0hoTVY", "abs_start": "0:00", "abs_end": "6:37:25", "duration": "6:37:25",
     "name": "The Callisto Protocol #2",
     "date": "2022-12-03",
-    "torrent": "https://bsufiles.thedrhax.pw/streams/1669015522.torrent",
     "games": ["callisto-protocol"]
   },
   "1670961161": {
@@ -10330,5 +10329,13 @@
     "cuts": [[12819, 12850]],
     "torrent": "https://bsufiles.thedrhax.pw/streams/1715060185.torrent",
     "games": ["first-2023", "single"]
+  },
+  "1716026704": {
+    "abs_start": "0:00", "abs_end": "4:30:16", "duration": "0:00",
+    "name": "Alone in the Dark: Inferno #3",
+    "date": "2023-01-23",
+    "direct": "https://bsufiles.thedrhax.pw/streams/1716026704.mp4",
+    "torrent": "https://bsufiles.thedrhax.pw/streams/1716026704.torrent",
+    "games": ["aitd"]
   }
 }
