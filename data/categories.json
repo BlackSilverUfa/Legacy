@@ -1044,8 +1044,6 @@
     "name": "Активные",
     "games": [
       {"name": "Yakuza 0", "id": "yakuza-0", "segment": "1598875892"},
-      {"name": "Mirror Forge", "id": "mirror-forge", "segment": "1686763712"},
-      {"name": "Sleep Paralysis: The Uncanny Valley", "id": "sleep-paralysis", "segment": "1686763712"},
       {"name": "FAITH", "id": "faith", "segment": "1687663796"},
       {"name": "Barnyard (Рога и копыта)", "id": "barnyard", "segment": "1708111286"}
     ]
@@ -1225,7 +1223,9 @@
       {"name": "Barbie: Explorer", "id": "barbie-explorer", "segment": "1522102243"},
       {"name": "Peepo Island", "id": "peepo-island", "segment": "1542254440"},
       {"name": "Trash Horror Collection 2", "id": "trash-horror-2", "segment": "1596223040"},
-      {"name": "Unusual Findings", "id": "unusual-findings", "segment": "1618459269"}
+      {"name": "Unusual Findings", "id": "unusual-findings", "segment": "1618459269"},
+      {"name": "Mirror Forge", "id": "mirror-forge", "segment": "1686763712"},
+      {"name": "Sleep Paralysis: The Uncanny Valley", "id": "sleep-paralysis", "segment": "1686763712"}
     ]
   },
   "co-op": {
