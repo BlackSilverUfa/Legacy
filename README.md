@@ -1,6 +1,6 @@
 # Архив стримов BlackUFA [![Build Status](https://ci.drhx.ru/api/badges/BlackSilverUfa/Legacy/status.svg)](https://ci.drhx.ru/BlackSilverUfa/Legacy)
 
-Перейдите на [GitHub Pages](https://blackufa.thedrhax.pw) для доступа ко всем функциям ![](https://static-cdn.jtvnw.net/emoticons/v1/81274/1.0)
+Перейдите на [GitHub Pages](https://old.bsu.drhx.ru) для доступа ко всем функциям ![](https://static-cdn.jtvnw.net/emoticons/v1/81274/1.0)
 
 ### Зависимости
 
