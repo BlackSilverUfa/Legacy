@@ -10045,7 +10045,6 @@
     "youtube": "o6ibzfDyvYk", "abs_start": "0:00", "abs_end": "6:21:21", "duration": "6:21:21",
     "name": "Yakuza 0 #5",
     "date": "2022-12-05",
-    "torrent": "https://bsufiles.drhx.ru/streams/1670961161.torrent",
     "games": ["yakuza-0"]
   },
   "1671788984": {
@@ -10071,10 +10070,10 @@
   },
   "1674396025": {
     "youtube": "RdKsS8Wu9kM", "abs_start": "0:00", "abs_end": "4:06:21", "duration": "4:06:21",
-    "name": "The Game Awards #2022 (обзор) / Forspoken (демо)",
+    "name": "The Game Awards #2022 (обзор) / Forspoken - Демо",
     "date": "2022-12-09",
     "torrent": "https://bsufiles.drhx.ru/streams/1674396025.torrent",
-    "games": ["tga", "first-2022"]
+    "games": ["tga", "forspoken"]
   },
   "1675304239": {
     "youtube": "DZwnIPcX2eM", "abs_start": "0:00", "abs_end": "4:44:46", "duration": "4:44:19",
@@ -10337,5 +10336,13 @@
     "direct": "https://bsufiles.drhx.ru/streams/1716026704.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1716026704.torrent",
     "games": ["aitd"]
+  },
+  "1716951120": {
+    "abs_start": "0:00", "abs_end": "5:24:54", "duration": "0:00",
+    "name": "Forspoken - Релиз",
+    "date": "2023-01-24",
+    "direct": "https://bsufiles.drhx.ru/streams/1716951120.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1716951120.torrent",
+    "games": ["forspoken"]
   }
 }

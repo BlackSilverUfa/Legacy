@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "fears-to-fathom", "segment": "1703188749", "name": "Fears to Fathom - Episode 3 - Carson House / Wolfenstein #2", "start": 0},
       {"id": "wolfenstein", "segment": "1704133402", "name": "Wolfenstein #3", "start": 0},
       {"id": "first-2023", "segment": "1707073235", "name": "Sanri / You Will Die Here Tonight (демо) / Driving Home / Deep Fear (by Nicolas Olivares) / Garten of Banban / Dead Man's Fault / Where's Mom? / Within", "start": 0},
       {"id": "barnyard", "segment": "1708111286", "name": "Barnyard (Рога и копыта) #1", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "aitd", "segment": "1712949815", "name": "Alone in the Dark: Inferno #2", "start": 0},
       {"id": "barnyard", "segment": "1713959344", "name": "Barnyard (Рога и копыта) #2", "start": 0},
       {"id": "first-2023", "segment": "1715060185", "name": "Jawbreaker (демо) / No Strings Attached / Bram The Toymaker / Agora / Lake Haven: Chrysalis", "start": 0},
-      {"id": "aitd", "segment": "1716026704", "name": "Alone in the Dark: Inferno #3", "start": 0}
+      {"id": "aitd", "segment": "1716026704", "name": "Alone in the Dark: Inferno #3", "start": 0},
+      {"id": "forspoken", "segment": "1716951120", "name": "Forspoken - Релиз", "start": 0}
     ]
   },
   "finished": {
@@ -1024,7 +1024,6 @@
       {"id": "first-2022", "segment": "1663155573", "name": "Heartworm", "start": 16471},
       {"id": "first-2022", "segment": "1665724993", "name": "Need for Speed Unbound", "start": 1214},
       {"id": "first-2022", "segment": "1667371234", "name": "Do Not Open", "start": 3122},
-      {"id": "first-2022", "segment": "1674396025", "name": "Forspoken (демо)", "start": 9871},
       {"id": "first-2022", "segment": "1678795130", "name": "The Witcher 3: Wild Hunt", "start": 1237},
       {"id": "first-2022", "segment": "1682351697", "name": "Stay Still (демо)", "start": 2667},
       {"id": "first-2022", "segment": "1682351697", "name": "1 Bit Survivor", "start": 4013},
@@ -1044,6 +1043,7 @@
     "name": "Активные",
     "games": [
       {"name": "Yakuza 0", "id": "yakuza-0", "segment": "1598875892"},
+      {"name": "Forspoken", "id": "forspoken", "segment": "1674396025"},
       {"name": "FAITH", "id": "faith", "segment": "1687663796"},
       {"name": "Barnyard (Рога и копыта)", "id": "barnyard", "segment": "1708111286"}
     ]
