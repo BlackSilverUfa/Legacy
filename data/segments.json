@@ -10338,10 +10338,9 @@
     "games": ["aitd"]
   },
   "1716951120": {
-    "abs_start": "0:00", "abs_end": "5:24:54", "duration": "0:00",
+    "youtube": "dEuE0sU9HXo", "abs_start": "0:00", "abs_end": "5:24:53", "duration": "5:24:53",
     "name": "Forspoken - Релиз",
     "date": "2023-01-24",
-    "direct": "https://bsufiles.drhx.ru/streams/1716951120.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1716951120.torrent",
     "games": ["forspoken"]
   }
