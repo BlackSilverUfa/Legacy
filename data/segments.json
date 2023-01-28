@@ -10069,7 +10069,6 @@
     "youtube": "RdKsS8Wu9kM", "abs_start": "0:00", "abs_end": "4:06:21", "duration": "4:06:21",
     "name": "The Game Awards #2022 (обзор) / Forspoken - Демо",
     "date": "2022-12-09",
-    "torrent": "https://bsufiles.drhx.ru/streams/1674396025.torrent",
     "games": ["tga", "forspoken"]
   },
   "1675304239": {
@@ -10353,5 +10352,13 @@
     "date": "2023-01-27",
     "torrent": "https://bsufiles.drhx.ru/streams/1719885871.torrent",
     "games": ["dead-space", "dead-space-remake"]
+  },
+  "1720890176": {
+    "abs_start": "0:00", "abs_end": "8:06:47", "duration": "0:00",
+    "name": "Dead Space Remake #2",
+    "date": "2023-01-28",
+    "direct": "https://bsufiles.drhx.ru/streams/1720890176.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1720890176.torrent",
+    "games": ["dead-space-remake"]
   }
 }
