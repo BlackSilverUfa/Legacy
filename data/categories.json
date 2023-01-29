@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "yakuza-0", "segment": "1709052941", "name": "Yakuza 0 #7", "start": 0},
       {"id": "aitd", "segment": "1711981237", "name": "Alone in the Dark: Inferno #1", "start": 0},
       {"id": "aitd", "segment": "1712949815", "name": "Alone in the Dark: Inferno #2", "start": 0},
       {"id": "barnyard", "segment": "1713959344", "name": "Barnyard (Рога и копыта) #2", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "forspoken", "segment": "1716951120", "name": "Forspoken - Релиз", "start": 0},
       {"id": "first-2023", "segment": "1718922216", "name": "Hi-Fi Rush", "start": 0},
       {"id": "dead-space", "segment": "1719885871", "name": "Dead Space - Перед Remake / Dead Space Remake #1", "start": 0},
-      {"id": "dead-space-remake", "segment": "1720890176", "name": "Dead Space Remake #2", "start": 0}
+      {"id": "dead-space-remake", "segment": "1720890176", "name": "Dead Space Remake #2", "start": 0},
+      {"id": "dead-space-remake", "segment": "1721949320", "name": "Dead Space Remake #3", "start": 0}
     ]
   },
   "finished": {
@@ -517,7 +517,8 @@
       {"id": "single", "segment": "1715060185", "name": "No Strings Attached", "start": 7532},
       {"id": "single", "segment": "1715060185", "name": "Bram The Toymaker", "start": 8922},
       {"id": "single", "segment": "1715060185", "name": "Agora", "start": 13298},
-      {"id": "single", "segment": "1715060185", "name": "Lake Haven: Chrysalis", "start": 15909}
+      {"id": "single", "segment": "1715060185", "name": "Lake Haven: Chrysalis", "start": 15909},
+      {"name": "Dead Space Remake", "id": "dead-space-remake", "segment": "1719885871"}
     ]
   },
   "first": {
@@ -1045,9 +1046,7 @@
     "games": [
       {"name": "Yakuza 0", "id": "yakuza-0", "segment": "1598875892"},
       {"name": "Forspoken", "id": "forspoken", "segment": "1674396025"},
-      {"name": "FAITH", "id": "faith", "segment": "1687663796"},
-      {"name": "Barnyard (Рога и копыта)", "id": "barnyard", "segment": "1708111286"},
-      {"name": "Dead Space Remake", "id": "dead-space-remake", "segment": "1719885871"}
+      {"name": "Barnyard (Рога и копыта)", "id": "barnyard", "segment": "1708111286"}
     ]
   },
   "infinite": {
@@ -1227,7 +1226,8 @@
       {"name": "Trash Horror Collection 2", "id": "trash-horror-2", "segment": "1596223040"},
       {"name": "Unusual Findings", "id": "unusual-findings", "segment": "1618459269"},
       {"name": "Mirror Forge", "id": "mirror-forge", "segment": "1686763712"},
-      {"name": "Sleep Paralysis: The Uncanny Valley", "id": "sleep-paralysis", "segment": "1686763712"}
+      {"name": "Sleep Paralysis: The Uncanny Valley", "id": "sleep-paralysis", "segment": "1686763712"},
+      {"name": "FAITH", "id": "faith", "segment": "1687663796"}
     ]
   },
   "co-op": {

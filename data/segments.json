@@ -10076,7 +10076,6 @@
     "name": "Choo-Choo Charles",
     "date": "2022-12-10",
     "cuts": [[2584, 2611]],
-    "torrent": "https://bsufiles.drhx.ru/streams/1675304239.torrent",
     "games": ["single"]
   },
   "1676189043": {
@@ -10084,7 +10083,6 @@
     "name": "Portal RTX #1 / Phasmophobia #16 (с Куплиновым и Дангаром)",
     "date": "2022-12-11",
     "cuts": [[4294, 4324]],
-    "torrent": "https://bsufiles.drhx.ru/streams/1676189043.torrent",
     "games": ["portal", "phasmophobia"]
   },
   "1677050957": {
@@ -10359,6 +10357,14 @@
     "date": "2023-01-28",
     "cuts": [[20108, 20139]],
     "torrent": "https://bsufiles.drhx.ru/streams/1720890176.torrent",
+    "games": ["dead-space-remake"]
+  },
+  "1721949320": {
+    "abs_start": "0:00", "abs_end": "10:10:58", "duration": "0:00",
+    "name": "Dead Space Remake #3",
+    "date": "2023-01-29",
+    "direct": "https://bsufiles.drhx.ru/streams/1721949320.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1721949320.torrent",
     "games": ["dead-space-remake"]
   }
 }
