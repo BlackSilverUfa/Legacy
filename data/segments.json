@@ -10354,10 +10354,9 @@
     "games": ["dead-space", "dead-space-remake"]
   },
   "1720890176": {
-    "abs_start": "0:00", "abs_end": "8:06:47", "duration": "0:00",
+    "youtube": "nulCdJME-4E", "abs_start": "0:00", "abs_end": "8:06:23", "duration": "8:05:52",
     "name": "Dead Space Remake #2",
     "date": "2023-01-28",
-    "direct": "https://bsufiles.drhx.ru/streams/1720890176.mp4",
     "cuts": [[20108, 20139]],
     "torrent": "https://bsufiles.drhx.ru/streams/1720890176.torrent",
     "games": ["dead-space-remake"]
