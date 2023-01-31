@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "aitd", "segment": "1711981237", "name": "Alone in the Dark: Inferno #1", "start": 0},
       {"id": "aitd", "segment": "1712949815", "name": "Alone in the Dark: Inferno #2", "start": 0},
       {"id": "barnyard", "segment": "1713959344", "name": "Barnyard (Рога и копыта) #2", "start": 0},
       {"id": "first-2023", "segment": "1715060185", "name": "Jawbreaker (демо) / No Strings Attached / Bram The Toymaker / Agora / Lake Haven: Chrysalis", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "first-2023", "segment": "1718922216", "name": "Hi-Fi Rush", "start": 0},
       {"id": "dead-space", "segment": "1719885871", "name": "Dead Space - Перед Remake / Dead Space Remake #1", "start": 0},
       {"id": "dead-space-remake", "segment": "1720890176", "name": "Dead Space Remake #2", "start": 0},
-      {"id": "dead-space-remake", "segment": "1721949320", "name": "Dead Space Remake #3", "start": 0}
+      {"id": "dead-space-remake", "segment": "1721949320", "name": "Dead Space Remake #3", "start": 0},
+      {"id": "first-2023", "segment": "1723929865", "name": "SpongeBob SquarePants: The Cosmic Shake / Dead Space Remake - Костюм 6-го уровня", "start": 0}
     ]
   },
   "finished": {
@@ -1038,7 +1038,8 @@
       {"id": "first-2022", "segment": "1690952607", "name": "The Thing (by PanzerCat)", "start": 14049},
       {"id": "first-2023", "segment": "1707073235", "name": "Sanri", "start": 4984},
       {"id": "first-2023", "segment": "1715060185", "name": "Jawbreaker (демо)", "start": 2149},
-      {"id": "first-2023", "segment": "1718922216", "name": "Hi-Fi Rush", "start": 3542}
+      {"id": "first-2023", "segment": "1718922216", "name": "Hi-Fi Rush", "start": 3542},
+      {"id": "first-2023", "segment": "1723929865", "name": "SpongeBob SquarePants: The Cosmic Shake", "start": 1965}
     ]
   },
   "ongoing": {

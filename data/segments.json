@@ -10099,7 +10099,6 @@
     "youtube": "dR8aWy90Pjs", "abs_start": "0:00", "abs_end": "2:51:10", "duration": "2:51:10",
     "name": "Portal 2 #2",
     "date": "2022-12-13",
-    "torrent": "https://bsufiles.drhx.ru/streams/1677975869.torrent",
     "games": ["portal-2"]
   },
   "1678795130": {
@@ -10367,5 +10366,13 @@
     "date": "2023-01-29",
     "torrent": "https://bsufiles.drhx.ru/streams/1721949320.torrent",
     "games": ["dead-space-remake"]
+  },
+  "1723929865": {
+    "abs_start": "0:00", "abs_end": "2:47:07", "duration": "0:00",
+    "name": "SpongeBob SquarePants: The Cosmic Shake / Dead Space Remake - Костюм 6-го уровня",
+    "date": "2023-01-31",
+    "direct": "https://bsufiles.drhx.ru/streams/1723929865.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1723929865.torrent",
+    "games": ["first-2023", "dead-space-remake"]
   }
 }
