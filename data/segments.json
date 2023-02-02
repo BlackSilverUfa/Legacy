@@ -10371,5 +10371,13 @@
     "direct": "https://bsufiles.drhx.ru/streams/1723929865.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1723929865.torrent",
     "games": ["first-2023", "dead-space-remake"]
+  },
+  "1725890606": {
+    "abs_start": "0:00", "abs_end": "5:53:12", "duration": "0:00",
+    "name": "Heart Attack / Robotization: The Last Human (демо) / The Director's Disorder: Pilot Episode / Arrogation: Unlight of Day / NOX: Chapter I",
+    "date": "2023-02-02",
+    "direct": "https://bsufiles.drhx.ru/streams/1725890606.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1725890606.torrent",
+    "games": ["single", "first-2023"]
   }
 }
