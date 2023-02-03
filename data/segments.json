@@ -10102,7 +10102,6 @@
     "youtube": "nEgriRaE2W4", "abs_start": "0:00", "abs_end": "6:04:20", "duration": "6:04:20",
     "name": "The Witcher 3: Wild Hunt",
     "date": "2022-12-14",
-    "torrent": "https://bsufiles.drhx.ru/streams/1678795130.torrent",
     "games": ["first-2022"]
   },
   "1679659879": {
@@ -10377,5 +10376,14 @@
     "date": "2023-02-02",
     "torrent": "https://bsufiles.drhx.ru/streams/1725890606.torrent",
     "games": ["single", "first-2023"]
+  },
+  "1726837212": {
+    "abs_start": "0:00", "abs_end": "6:11:31", "duration": "0:00",
+    "name": "Deliver Us Mars",
+    "date": "2023-02-03",
+    "direct": "https://bsufiles.drhx.ru/streams/1726837212.mp4",
+    "cuts": [[16449, 16479]],
+    "torrent": "https://bsufiles.drhx.ru/streams/1726837212.torrent",
+    "games": ["first-2023"]
   }
 }
