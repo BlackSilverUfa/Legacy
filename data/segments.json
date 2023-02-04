@@ -10108,7 +10108,6 @@
     "youtube": "v9WnKLA6WfU", "abs_start": "0:00", "abs_end": "6:04:33", "duration": "6:04:33",
     "name": "Farming Simulator 22 #2 (соло) / Pummel Party #15 (4D) / Tricky Towers #34",
     "date": "2022-12-15",
-    "torrent": "https://bsufiles.drhx.ru/streams/1679659879.torrent",
     "games": ["farming-simulator-22", "pummel-party", "tricky-towers"]
   },
   "1680525211": {
@@ -10379,11 +10378,19 @@
   },
   "1726837212": {
     "abs_start": "0:00", "abs_end": "6:11:31", "duration": "0:00",
-    "name": "Deliver Us Mars",
+    "name": "Deliver Us Mars #1",
     "date": "2023-02-03",
     "direct": "https://bsufiles.drhx.ru/streams/1726837212.mp4",
     "cuts": [[16449, 16479]],
     "torrent": "https://bsufiles.drhx.ru/streams/1726837212.torrent",
-    "games": ["first-2023"]
+    "games": ["deliver-us-mars"]
+  },
+  "1727935216": {
+    "abs_start": "0:00", "abs_end": "7:22:56", "duration": "0:00",
+    "name": "Barnyard (Рога и копыта) #3 / Deliver Us Mars #2",
+    "date": "2023-02-04",
+    "direct": "https://bsufiles.drhx.ru/streams/1727935216.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1727935216.torrent",
+    "games": ["barnyard", "deliver-us-mars"]
   }
 }

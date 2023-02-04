@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "first-2023", "segment": "1715060185", "name": "Jawbreaker (демо) / No Strings Attached / Bram The Toymaker / Agora / Lake Haven: Chrysalis", "start": 0},
       {"id": "aitd", "segment": "1716026704", "name": "Alone in the Dark: Inferno #3", "start": 0},
       {"id": "forspoken", "segment": "1716951120", "name": "Forspoken - Релиз", "start": 0},
       {"id": "first-2023", "segment": "1718922216", "name": "Hi-Fi Rush", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "dead-space-remake", "segment": "1721949320", "name": "Dead Space Remake #3", "start": 0},
       {"id": "first-2023", "segment": "1723929865", "name": "SpongeBob SquarePants: The Cosmic Shake / Dead Space Remake - Костюм 6-го уровня", "start": 0},
       {"id": "single", "segment": "1725890606", "name": "Heart Attack / Robotization: The Last Human (демо) / The Director's Disorder: Pilot Episode / Arrogation: Unlight of Day / NOX: Chapter I", "start": 0},
-      {"id": "first-2023", "segment": "1726837212", "name": "Deliver Us Mars", "start": 0}
+      {"id": "deliver-us-mars", "segment": "1726837212", "name": "Deliver Us Mars #1", "start": 0},
+      {"id": "barnyard", "segment": "1727935216", "name": "Barnyard (Рога и копыта) #3 / Deliver Us Mars #2", "start": 0}
     ]
   },
   "finished": {
@@ -513,6 +513,7 @@
       {"id": "single", "segment": "1707073235", "name": "Dead Man's Fault", "start": 15950},
       {"id": "single", "segment": "1707073235", "name": "Where's Mom?", "start": 17581},
       {"id": "single", "segment": "1707073235", "name": "Within", "start": 19979},
+      {"name": "Barnyard (Рога и копыта)", "id": "barnyard", "segment": "1708111286"},
       {"name": "Alone in the Dark: Inferno", "id": "aitd", "segment": "1711981237"},
       {"id": "single", "segment": "1715060185", "name": "No Strings Attached", "start": 7532},
       {"id": "single", "segment": "1715060185", "name": "Bram The Toymaker", "start": 8922},
@@ -520,7 +521,8 @@
       {"id": "single", "segment": "1715060185", "name": "Lake Haven: Chrysalis", "start": 15909},
       {"name": "Dead Space Remake", "id": "dead-space-remake", "segment": "1719885871"},
       {"id": "single", "segment": "1725890606", "name": "Heart Attack", "start": 6119},
-      {"id": "single", "segment": "1725890606", "name": "The Director's Disorder: Pilot Episode", "start": 11430}
+      {"id": "single", "segment": "1725890606", "name": "The Director's Disorder: Pilot Episode", "start": 11430},
+      {"name": "Deliver Us Mars", "id": "deliver-us-mars", "segment": "1726837212"}
     ]
   },
   "first": {
@@ -1044,16 +1046,14 @@
       {"id": "first-2023", "segment": "1723929865", "name": "SpongeBob SquarePants: The Cosmic Shake", "start": 1965},
       {"id": "first-2023", "segment": "1725890606", "name": "Robotization: The Last Human (демо)", "start": 7946},
       {"id": "first-2023", "segment": "1725890606", "name": "Arrogation: Unlight of Day", "start": 15473},
-      {"id": "first-2023", "segment": "1725890606", "name": "NOX: Chapter I", "start": 18975},
-      {"id": "first-2023", "segment": "1726837212", "name": "Deliver Us Mars", "start": 2488}
+      {"id": "first-2023", "segment": "1725890606", "name": "NOX: Chapter I", "start": 18975}
     ]
   },
   "ongoing": {
     "name": "Активные",
     "games": [
       {"name": "Yakuza 0", "id": "yakuza-0", "segment": "1598875892"},
-      {"name": "Forspoken", "id": "forspoken", "segment": "1674396025"},
-      {"name": "Barnyard (Рога и копыта)", "id": "barnyard", "segment": "1708111286"}
+      {"name": "Forspoken", "id": "forspoken", "segment": "1674396025"}
     ]
   },
   "infinite": {
