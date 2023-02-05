@@ -10385,10 +10385,9 @@
     "games": ["deliver-us-mars"]
   },
   "1727935216": {
-    "abs_start": "0:00", "abs_end": "7:22:56", "duration": "0:00",
+    "youtube": "2SnqCTf4gDQ", "abs_start": "0:00", "abs_end": "7:22:25", "duration": "7:22:25",
     "name": "Barnyard (Рога и копыта) #3 / Deliver Us Mars #2",
     "date": "2023-02-04",
-    "direct": "https://bsufiles.drhx.ru/streams/1727935216.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1727935216.torrent",
     "games": ["barnyard", "deliver-us-mars"]
   }
