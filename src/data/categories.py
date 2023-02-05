@@ -139,7 +139,12 @@ class Categories(dict):
 
         if 'ongoing' in self and 'abandoned' in self:
             for game in self['ongoing'].games.copy():
-                if game.streams[-1].date < month_ago:
+                if isinstance(game, Game):
+                    date = game.streams[-1].date
+                else:
+                    date = game.date
+
+                if date < month_ago:
                     self['ongoing'].games.remove(game)
                     self['abandoned'].games.add(game)
 
