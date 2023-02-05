@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "aitd", "segment": "1716026704", "name": "Alone in the Dark: Inferno #3", "start": 0},
       {"id": "forspoken", "segment": "1716951120", "name": "Forspoken - Релиз", "start": 0},
       {"id": "first-2023", "segment": "1718922216", "name": "Hi-Fi Rush", "start": 0},
       {"id": "dead-space", "segment": "1719885871", "name": "Dead Space - Перед Remake / Dead Space Remake #1", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "first-2023", "segment": "1723929865", "name": "SpongeBob SquarePants: The Cosmic Shake / Dead Space Remake - Костюм 6-го уровня", "start": 0},
       {"id": "single", "segment": "1725890606", "name": "Heart Attack / Robotization: The Last Human (демо) / The Director's Disorder: Pilot Episode / Arrogation: Unlight of Day / NOX: Chapter I", "start": 0},
       {"id": "deliver-us-mars", "segment": "1726837212", "name": "Deliver Us Mars #1", "start": 0},
-      {"id": "barnyard", "segment": "1727935216", "name": "Barnyard (Рога и копыта) #3 / Deliver Us Mars #2", "start": 0}
+      {"id": "barnyard", "segment": "1727935216", "name": "Barnyard (Рога и копыта) #3 / Deliver Us Mars #2", "start": 0},
+      {"id": "single", "segment": "1728992336", "name": "Chilla's Art Complete Pack - The Karaoke / Interior Worlds (демо) / Holstin (демо) / Poop Killer 6 / In The Mountains / Project Code: Dark (демо) / Cannibal Abduction / Dias Felices", "start": 0}
     ]
   },
   "finished": {
@@ -532,7 +532,12 @@
       {"name": "Dead Space Remake", "id": "dead-space-remake", "segment": "1719885871"},
       {"id": "single", "segment": "1725890606", "name": "Heart Attack", "start": 6119},
       {"id": "single", "segment": "1725890606", "name": "The Director's Disorder: Pilot Episode", "start": 11430},
-      {"name": "Deliver Us Mars", "id": "deliver-us-mars", "segment": "1726837212"}
+      {"name": "Deliver Us Mars", "id": "deliver-us-mars", "segment": "1726837212"},
+      {"id": "single", "segment": "1728992336", "name": "Chilla's Art Complete Pack - The Karaoke", "start": 2267},
+      {"id": "single", "segment": "1728992336", "name": "Interior Worlds (демо)", "start": 7210},
+      {"id": "single", "segment": "1728992336", "name": "Project Code: Dark (демо)", "start": 12763},
+      {"id": "single", "segment": "1728992336", "name": "Cannibal Abduction", "start": 13907},
+      {"id": "single", "segment": "1728992336", "name": "Dias Felices", "start": 19466}
     ]
   },
   "first": {
@@ -1056,14 +1061,17 @@
       {"id": "first-2023", "segment": "1723929865", "name": "SpongeBob SquarePants: The Cosmic Shake", "start": 1965},
       {"id": "first-2023", "segment": "1725890606", "name": "Robotization: The Last Human (демо)", "start": 7946},
       {"id": "first-2023", "segment": "1725890606", "name": "Arrogation: Unlight of Day", "start": 15473},
-      {"id": "first-2023", "segment": "1725890606", "name": "NOX: Chapter I", "start": 18975}
+      {"id": "first-2023", "segment": "1725890606", "name": "NOX: Chapter I", "start": 18975},
+      {"id": "first-2023", "segment": "1728992336", "name": "Holstin (демо)", "start": 8529},
+      {"id": "first-2023", "segment": "1728992336", "name": "In The Mountains", "start": 12010}
     ]
   },
   "ongoing": {
     "name": "Активные",
     "games": [
       {"name": "Yakuza 0", "id": "yakuza-0", "segment": "1598875892"},
-      {"name": "Forspoken", "id": "forspoken", "segment": "1674396025"}
+      {"name": "Forspoken", "id": "forspoken", "segment": "1674396025"},
+      {"id": "trash-horror-2", "segment": "1728992336", "name": "Poop Killer 6", "start": 10202}
     ]
   },
   "infinite": {
