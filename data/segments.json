@@ -10121,7 +10121,6 @@
     "youtube": "eRYOAASQ2Vo", "abs_start": "0:00", "abs_end": "5:24:16", "duration": "5:24:16",
     "name": "Nancy Drew: Curse of Blackmoor Manor #2",
     "date": "2022-12-17",
-    "torrent": "https://bsufiles.drhx.ru/streams/1681441434.torrent",
     "games": ["nancy-drew-cobm"]
   },
   "1682351697": {
@@ -10397,5 +10396,14 @@
     "direct": "https://bsufiles.drhx.ru/streams/1728992336.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1728992336.torrent",
     "games": ["single", "first-2023", "trash-horror-2"]
+  },
+  "1729899835": {
+    "abs_start": "0:00", "abs_end": "8:23:30", "duration": "0:00",
+    "name": "Hogwarts Legacy",
+    "date": "2023-02-06",
+    "direct": "https://bsufiles.drhx.ru/streams/1729899835.mp4",
+    "cuts": [[21131, 21161]],
+    "torrent": "https://bsufiles.drhx.ru/streams/1729899835.torrent",
+    "games": ["first-2023"]
   }
 }
