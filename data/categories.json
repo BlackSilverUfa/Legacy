@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "first-2023", "segment": "1718922216", "name": "Hi-Fi Rush", "start": 0},
       {"id": "dead-space", "segment": "1719885871", "name": "Dead Space - Перед Remake / Dead Space Remake #1", "start": 0},
       {"id": "dead-space-remake", "segment": "1720890176", "name": "Dead Space Remake #2", "start": 0},
       {"id": "dead-space-remake", "segment": "1721949320", "name": "Dead Space Remake #3", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "deliver-us-mars", "segment": "1726837212", "name": "Deliver Us Mars #1", "start": 0},
       {"id": "barnyard", "segment": "1727935216", "name": "Barnyard (Рога и копыта) #3 / Deliver Us Mars #2", "start": 0},
       {"id": "single", "segment": "1728992336", "name": "Chilla's Art Complete Pack - The Karaoke / Interior Worlds (демо) / Holstin (демо) / Poop Killer 6 / In The Mountains / Project Code: Dark (демо) / Cannibal Abduction / Dias Felices", "start": 0},
-      {"id": "first-2023", "segment": "1729899835", "name": "Hogwarts Legacy", "start": 0}
+      {"id": "hogwarts", "segment": "1729899835", "name": "Hogwarts Legacy #1", "start": 0},
+      {"id": "hogwarts", "segment": "1730836289", "name": "Hogwarts Legacy #2", "start": 0}
     ]
   },
   "finished": {
@@ -1063,8 +1063,7 @@
       {"id": "first-2023", "segment": "1725890606", "name": "Arrogation: Unlight of Day", "start": 15473},
       {"id": "first-2023", "segment": "1725890606", "name": "NOX: Chapter I", "start": 18975},
       {"id": "first-2023", "segment": "1728992336", "name": "Holstin (демо)", "start": 8529},
-      {"id": "first-2023", "segment": "1728992336", "name": "In The Mountains", "start": 12010},
-      {"id": "first-2023", "segment": "1729899835", "name": "Hogwarts Legacy", "start": 1204}
+      {"id": "first-2023", "segment": "1728992336", "name": "In The Mountains", "start": 12010}
     ]
   },
   "ongoing": {
@@ -1072,7 +1071,8 @@
     "games": [
       {"name": "Yakuza 0", "id": "yakuza-0", "segment": "1598875892"},
       {"name": "Forspoken", "id": "forspoken", "segment": "1674396025"},
-      {"id": "trash-horror-2", "segment": "1728992336", "name": "Poop Killer 6", "start": 10202}
+      {"id": "trash-horror-2", "segment": "1728992336", "name": "Poop Killer 6", "start": 10202},
+      {"name": "Hogwarts Legacy", "id": "hogwarts", "segment": "1729899835"}
     ]
   },
   "infinite": {
