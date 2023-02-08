@@ -156,6 +156,11 @@
         <i class="fas fa-comments"></i> 26227
       </a>
     </span>
+    <span class="badge badge-success">
+      <a href="https://www.youtube.com/watch?v=fWAzcVTL4X0" target="_blank">
+        <i class="fab fa-youtube"></i> fWAzcVTL4X0
+      </a>
+    </span>
     <span class="badge badge-danger">
       <a href="https://bsufiles.drhx.ru/streams/1730836289.torrent">
         <i class="fas fa-download"></i> торрент
@@ -180,19 +185,13 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="1" data-hash="1730836289" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2023@master/v1730836289.ass" data-start="435" data-name="2" data-direct="https://bsufiles.drhx.ru/streams/1730836289.mp4" />
+  <p class="stream" data-id="1" data-hash="1730836289" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2023@master/v1730836289.ass" data-start="435" data-name="2" data-youtube="fWAzcVTL4X0" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2023@master/v1730836289.ass --start=435 https://bsufiles.drhx.ru/streams/1730836289.mp4
-</code></pre>
-</div>
-
-
-<div class="highlighter-rouge">
-  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2023@master/v1730836289.ass --start=435" --player-passthrough hls twitch.tv/videos/1730836289 best
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2023@master/v1730836289.ass --start=435 ytdl://fWAzcVTL4X0
 </code></pre>
 </div>
 
