@@ -10140,7 +10140,6 @@
     "youtube": "aiUssqVLvg0", "abs_start": "0:00", "abs_end": "6:04:36", "duration": "6:04:36",
     "name": "Duke Nukem Forever (2001) / Mirror Forge #1 / Deathwatch #2 / Sleep Paralysis: The Uncanny Valley #1",
     "date": "2022-12-23",
-    "torrent": "https://bsufiles.drhx.ru/streams/1686763712.torrent",
     "games": ["first-2022", "mirror-forge", "deathwatch", "sleep-paralysis"]
   },
   "1687663796": {
@@ -10407,6 +10406,14 @@
     "name": "Hogwarts Legacy #2",
     "date": "2023-02-07",
     "torrent": "https://bsufiles.drhx.ru/streams/1730836289.torrent",
+    "games": ["hogwarts"]
+  },
+  "1731887577": {
+    "abs_start": "0:00", "abs_end": "8:25:07", "duration": "0:00",
+    "name": "Hogwarts Legacy #3",
+    "date": "2023-02-08",
+    "direct": "https://bsufiles.drhx.ru/streams/1731887577.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1731887577.torrent",
     "games": ["hogwarts"]
   }
 }
