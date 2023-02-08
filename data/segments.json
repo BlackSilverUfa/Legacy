@@ -10395,10 +10395,9 @@
     "games": ["single", "first-2023", "trash-horror-2"]
   },
   "1729899835": {
-    "abs_start": "0:00", "abs_end": "8:23:30", "duration": "0:00",
+    "youtube": "YztCw9QOFPE", "abs_start": "0:00", "abs_end": "8:23:21", "duration": "8:22:51",
     "name": "Hogwarts Legacy #1",
     "date": "2023-02-06",
-    "direct": "https://bsufiles.drhx.ru/streams/1729899835.mp4",
     "cuts": [[21131, 21161]],
     "torrent": "https://bsufiles.drhx.ru/streams/1729899835.torrent",
     "games": ["hogwarts"]
