@@ -10146,15 +10146,12 @@
     "youtube": "GQNlNY_pSKA", "abs_start": "0:00", "abs_end": "5:33:24", "duration": "5:33:24",
     "name": "Sleep Paralysis: The Uncanny Valley #2 / FAITH - Chapter I / Deathwatch #3 / Mirror Forge #2",
     "date": "2022-12-24",
-    "torrent": "https://bsufiles.drhx.ru/streams/1687663796.torrent",
     "games": ["sleep-paralysis", "faith", "deathwatch", "mirror-forge"]
   },
   "1688348940": {
     "abs_start": "0:00", "abs_end": "2:02:26", "duration": "0:00",
     "name": "",
     "date": "2022-12-25",
-    "direct": "https://bsufiles.drhx.ru/streams/1688348940.mp4",
-    "torrent": "https://bsufiles.drhx.ru/streams/1688348940.torrent",
     "games": []
   },
   "1688400760": {
@@ -10413,6 +10410,15 @@
     "name": "Hogwarts Legacy #3",
     "date": "2023-02-08",
     "torrent": "https://bsufiles.drhx.ru/streams/1731887577.torrent",
+    "games": ["hogwarts"]
+  },
+  "1732877770": {
+    "abs_start": "0:00", "abs_end": "8:45:33", "duration": "0:00",
+    "name": "Hogwarts Legacy #4",
+    "date": "2023-02-09",
+    "direct": "https://bsufiles.drhx.ru/streams/1732877770.mp4",
+    "cuts": [[23080, 23117]],
+    "torrent": "https://bsufiles.drhx.ru/streams/1732877770.torrent",
     "games": ["hogwarts"]
   }
 }
