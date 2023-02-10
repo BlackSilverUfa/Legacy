@@ -10158,8 +10158,6 @@
     "abs_start": "0:00", "abs_end": "6:35:42", "duration": "0:00",
     "name": "",
     "date": "2022-12-25",
-    "direct": "https://bsufiles.drhx.ru/streams/1688400760.mp4",
-    "torrent": "https://bsufiles.drhx.ru/streams/1688400760.torrent",
     "games": []
   },
   "1688348940,1688400760": {
@@ -10419,6 +10417,14 @@
     "direct": "https://bsufiles.drhx.ru/streams/1732877770.mp4",
     "cuts": [[23080, 23117]],
     "torrent": "https://bsufiles.drhx.ru/streams/1732877770.torrent",
+    "games": ["hogwarts"]
+  },
+  "1733865086": {
+    "abs_start": "0:00", "abs_end": "2:10:13", "duration": "0:00",
+    "name": "Hogwarts Legacy #5",
+    "date": "2023-02-10",
+    "direct": "https://bsufiles.drhx.ru/streams/1733865086.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1733865086.torrent",
     "games": ["hogwarts"]
   }
 }

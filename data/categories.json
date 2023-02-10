@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "dead-space-remake", "segment": "1721949320", "name": "Dead Space Remake #3", "start": 0},
       {"id": "first-2023", "segment": "1723929865", "name": "SpongeBob SquarePants: The Cosmic Shake / Dead Space Remake - Костюм 6-го уровня", "start": 0},
       {"id": "single", "segment": "1725890606", "name": "Heart Attack / Robotization: The Last Human (демо) / The Director's Disorder: Pilot Episode / Arrogation: Unlight of Day / NOX: Chapter I", "start": 0},
       {"id": "deliver-us-mars", "segment": "1726837212", "name": "Deliver Us Mars #1", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "hogwarts", "segment": "1729899835", "name": "Hogwarts Legacy #1", "start": 0},
       {"id": "hogwarts", "segment": "1730836289", "name": "Hogwarts Legacy #2", "start": 0},
       {"id": "hogwarts", "segment": "1731887577", "name": "Hogwarts Legacy #3", "start": 0},
-      {"id": "hogwarts", "segment": "1732877770", "name": "Hogwarts Legacy #4", "start": 0}
+      {"id": "hogwarts", "segment": "1732877770", "name": "Hogwarts Legacy #4", "start": 0},
+      {"id": "hogwarts", "segment": "1733865086", "name": "Hogwarts Legacy #5", "start": 0}
     ]
   },
   "finished": {
