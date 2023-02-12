@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "single", "segment": "1725890606", "name": "Heart Attack / Robotization: The Last Human (демо) / The Director's Disorder: Pilot Episode / Arrogation: Unlight of Day / NOX: Chapter I", "start": 0},
       {"id": "deliver-us-mars", "segment": "1726837212", "name": "Deliver Us Mars #1", "start": 0},
       {"id": "barnyard", "segment": "1727935216", "name": "Barnyard (Рога и копыта) #3 / Deliver Us Mars #2", "start": 0},
       {"id": "single", "segment": "1728992336", "name": "Chilla's Art Complete Pack - The Karaoke / Interior Worlds (демо) / Holstin (демо) / Poop Killer 6 / In The Mountains / Project Code: Dark (демо) / Cannibal Abduction / Dias Felices", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "hogwarts", "segment": "1731887577", "name": "Hogwarts Legacy #3", "start": 0},
       {"id": "hogwarts", "segment": "1732877770", "name": "Hogwarts Legacy #4", "start": 0},
       {"id": "hogwarts", "segment": "1733865086", "name": "Hogwarts Legacy #5", "start": 0},
-      {"id": "hogwarts", "segment": "1734914714", "name": "Hogwarts Legacy #6", "start": 0}
+      {"id": "hogwarts", "segment": "1734914714", "name": "Hogwarts Legacy #6", "start": 0},
+      {"id": "hogwarts", "segment": "1736000179", "name": "Hogwarts Legacy #7", "start": 0}
     ]
   },
   "finished": {
