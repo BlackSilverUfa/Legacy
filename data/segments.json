@@ -10178,7 +10178,6 @@
     "youtube": "W1uP8zuIHwc", "abs_start": "0:00", "abs_end": "6:05:17", "duration": "6:05:17",
     "name": "Симулятор Прыгания по Гаражам / Creature Lab (демо) / Who Knocks / FAITH - Chapter II",
     "date": "2022-12-27",
-    "torrent": "https://bsufiles.drhx.ru/streams/1690022559.torrent",
     "games": ["first-2022", "faith"]
   },
   "1690952607": {
@@ -10186,7 +10185,6 @@
     "name": "The Thing: Station Survival / The Thing #1 / The Thing (by PanzerCat) / The Thing - P.T. (by Stefano Cagnani)",
     "date": "2022-12-28",
     "cuts": [[3621, 3652]],
-    "torrent": "https://bsufiles.drhx.ru/streams/1690952607.torrent",
     "games": ["single", "the-thing", "first-2022"]
   },
   "1691914672": {
@@ -10437,5 +10435,33 @@
     "date": "2023-02-12",
     "torrent": "https://bsufiles.drhx.ru/streams/1736000179.torrent",
     "games": ["hogwarts"]
+  },
+  "1738806096": {
+    "abs_start": "0:00", "abs_end": "4:55:31", "duration": "0:00",
+    "name": "",
+    "date": "2023-02-15",
+    "direct": "https://bsufiles.drhx.ru/streams/1738806096.mp4",
+    "cuts": [[17546, 17560], [17616, 17618]],
+    "torrent": "https://bsufiles.drhx.ru/streams/1738806096.torrent",
+    "games": []
+  },
+  "1739001121": {
+    "abs_start": "0:00", "abs_end": "1:09:32", "duration": "0:00",
+    "name": "",
+    "date": "2023-02-15",
+    "direct": "https://bsufiles.drhx.ru/streams/1739001121.mp4",
+    "cuts": [[2567, 2585]],
+    "torrent": "https://bsufiles.drhx.ru/streams/1739001121.torrent",
+    "games": []
+  },
+  "1738806096,1739001121": {
+    "abs_start": "0:00", "abs_end": "6:05:03", "duration": "0:00",
+    "name": "Wanted: Dead / Wild Hearts",
+    "date": "2023-02-15",
+    "direct": "https://bsufiles.drhx.ru/streams/1738806096,1739001121.mp4",
+    "offsets": [0, 17695],
+    "cuts": [[17546, 17560], [17616, 17618], [20278, 20296]],
+    "torrent": "https://bsufiles.drhx.ru/streams/1738806096,1739001121.torrent",
+    "games": ["first-2023"]
   }
 }
