@@ -10030,7 +10030,7 @@
     "games": ["first-2022", "single"]
   },
   "1668107750": {
-    "youtube": "0SecE0lPCVM", "abs_start": "0:00", "abs_end": "9:18:14", "duration": "9:18:14",
+    "youtube": "vxMqInL1JiY", "official": false, "abs_start": "0:00", "abs_end": "9:18:14", "duration": "9:18:14",
     "name": "The Callisto Protocol #1",
     "date": "2022-12-02",
     "games": ["callisto-protocol"]
@@ -10431,10 +10431,9 @@
     "games": ["hogwarts"]
   },
   "1736000179": {
-    "abs_start": "0:00", "abs_end": "6:10:19", "duration": "0:00",
+    "youtube": "FedYeP64Qmw", "abs_start": "0:00", "abs_end": "6:10:10", "duration": "6:10:10",
     "name": "Hogwarts Legacy #7",
     "date": "2023-02-12",
-    "direct": "https://bsufiles.drhx.ru/streams/1736000179.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1736000179.torrent",
     "games": ["hogwarts"]
   }
