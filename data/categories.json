@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "barnyard", "segment": "1727935216", "name": "Barnyard (Рога и копыта) #3 / Deliver Us Mars #2", "start": 0},
       {"id": "single", "segment": "1728992336", "name": "Chilla's Art Complete Pack - The Karaoke / Interior Worlds (демо) / Holstin (демо) / Poop Killer 6 / In The Mountains / Project Code: Dark (демо) / Cannibal Abduction / Dias Felices", "start": 0},
       {"id": "hogwarts", "segment": "1729899835", "name": "Hogwarts Legacy #1", "start": 0},
       {"id": "hogwarts", "segment": "1730836289", "name": "Hogwarts Legacy #2", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "hogwarts", "segment": "1733865086", "name": "Hogwarts Legacy #5", "start": 0},
       {"id": "hogwarts", "segment": "1734914714", "name": "Hogwarts Legacy #6", "start": 0},
       {"id": "hogwarts", "segment": "1736000179", "name": "Hogwarts Legacy #7", "start": 0},
-      {"id": "first-2023", "segment": "1738806096,1739001121", "name": "Wanted: Dead / Wild Hearts", "start": 0}
+      {"id": "first-2023", "segment": "1738806096,1739001121", "name": "Wanted: Dead / Wild Hearts", "start": 0},
+      {"id": "first-2023", "segment": "1739787468", "name": "Driftwood (демо) / Pneumata (демо) / Route 66 Simulator (демо) / DUCK: Dangerous Ultimate Cartridge Kidnapper / Shadows of Doubt (демо) / I Am Future (демо)", "start": 0}
     ]
   },
   "finished": {
@@ -537,7 +537,8 @@
       {"id": "single", "segment": "1728992336", "name": "Interior Worlds (демо)", "start": 7210},
       {"id": "single", "segment": "1728992336", "name": "Project Code: Dark (демо)", "start": 12763},
       {"id": "single", "segment": "1728992336", "name": "Cannibal Abduction", "start": 13907},
-      {"id": "single", "segment": "1728992336", "name": "Dias Felices", "start": 19466}
+      {"id": "single", "segment": "1728992336", "name": "Dias Felices", "start": 19466},
+      {"id": "single", "segment": "1739787468", "name": "Pneumata (демо)", "start": 2830}
     ]
   },
   "first": {
@@ -1065,7 +1066,12 @@
       {"id": "first-2023", "segment": "1728992336", "name": "Holstin (демо)", "start": 8529},
       {"id": "first-2023", "segment": "1728992336", "name": "In The Mountains", "start": 12010},
       {"id": "first-2023", "segment": "1738806096,1739001121", "name": "Wanted: Dead", "start": 3801},
-      {"id": "first-2023", "segment": "1738806096,1739001121", "name": "Wild Hearts", "start": 13501}
+      {"id": "first-2023", "segment": "1738806096,1739001121", "name": "Wild Hearts", "start": 13501},
+      {"id": "first-2023", "segment": "1739787468", "name": "Driftwood (демо)", "start": 1818},
+      {"id": "first-2023", "segment": "1739787468", "name": "Route 66 Simulator (демо)", "start": 4516},
+      {"id": "first-2023", "segment": "1739787468", "name": "DUCK: Dangerous Ultimate Cartridge Kidnapper", "start": 6745},
+      {"id": "first-2023", "segment": "1739787468", "name": "Shadows of Doubt (демо)", "start": 13767},
+      {"id": "first-2023", "segment": "1739787468", "name": "I Am Future (демо)", "start": 19852}
     ]
   },
   "ongoing": {

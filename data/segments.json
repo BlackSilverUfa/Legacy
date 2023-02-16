@@ -10192,7 +10192,6 @@
     "name": "The Thing #2 / Pummel Party #17 (6D)",
     "date": "2022-12-29",
     "cuts": [[18775, 18794]],
-    "torrent": "https://bsufiles.drhx.ru/streams/1691914672.torrent",
     "games": ["the-thing", "pummel-party"]
   },
   "1692856301": {
@@ -10462,5 +10461,14 @@
     "cuts": [[17546, 17560], [17616, 17618], [20278, 20296]],
     "torrent": "https://bsufiles.drhx.ru/streams/1738806096,1739001121.torrent",
     "games": ["first-2023"]
+  },
+  "1739787468": {
+    "abs_start": "0:00", "abs_end": "5:56:37", "duration": "0:00",
+    "name": "Driftwood (демо) / Pneumata (демо) / Route 66 Simulator (демо) / DUCK: Dangerous Ultimate Cartridge Kidnapper / Shadows of Doubt (демо) / I Am Future (демо)",
+    "date": "2023-02-16",
+    "direct": "https://bsufiles.drhx.ru/streams/1739787468.mp4",
+    "cuts": [[15296, 15328], [20340, 20420]],
+    "torrent": "https://bsufiles.drhx.ru/streams/1739787468.torrent",
+    "games": ["first-2023", "single"]
   }
 }
