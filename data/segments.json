@@ -10455,12 +10455,10 @@
     "games": []
   },
   "1738806096,1739001121": {
-    "abs_start": "0:00", "abs_end": "6:05:03", "duration": "0:00",
+    "youtube": "CpTky9PJEjE", "abs_start": "0:00", "abs_end": "6:04:14", "duration": "6:04:14",
     "name": "Wanted: Dead / Wild Hearts",
     "date": "2023-02-15",
-    "direct": "https://bsufiles.drhx.ru/streams/1738806096,1739001121.mp4",
-    "offsets": [0, 17695],
-    "cuts": [[17546, 17560], [17616, 17618], [20278, 20296]],
+    "offsets": [],
     "torrent": "https://bsufiles.drhx.ru/streams/1738806096,1739001121.torrent",
     "games": ["first-2023"]
   }
