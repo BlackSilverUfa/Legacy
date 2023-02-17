@@ -10198,7 +10198,6 @@
     "youtube": "heC3gDEQjn8", "abs_start": "0:00", "abs_end": "5:36:31", "duration": "5:36:31",
     "name": "The Thing #3 / FAITH - Chapter III",
     "date": "2022-12-30",
-    "torrent": "https://bsufiles.drhx.ru/streams/1692856301.torrent",
     "games": ["the-thing", "faith"]
   },
   "1693798502": {
@@ -10470,5 +10469,13 @@
     "cuts": [[15296, 15328], [20340, 20420]],
     "torrent": "https://bsufiles.drhx.ru/streams/1739787468.torrent",
     "games": ["first-2023", "single"]
+  },
+  "1740746666": {
+    "abs_start": "0:00", "abs_end": "6:17:47", "duration": "0:00",
+    "name": "Like a Dragon: Ishin! (демо) / Yakuza 0 #8",
+    "date": "2023-02-17",
+    "direct": "https://bsufiles.drhx.ru/streams/1740746666.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1740746666.torrent",
+    "games": ["single", "yakuza-0"]
   }
 }

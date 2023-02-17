@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "single", "segment": "1728992336", "name": "Chilla's Art Complete Pack - The Karaoke / Interior Worlds (демо) / Holstin (демо) / Poop Killer 6 / In The Mountains / Project Code: Dark (демо) / Cannibal Abduction / Dias Felices", "start": 0},
       {"id": "hogwarts", "segment": "1729899835", "name": "Hogwarts Legacy #1", "start": 0},
       {"id": "hogwarts", "segment": "1730836289", "name": "Hogwarts Legacy #2", "start": 0},
       {"id": "hogwarts", "segment": "1731887577", "name": "Hogwarts Legacy #3", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "hogwarts", "segment": "1734914714", "name": "Hogwarts Legacy #6", "start": 0},
       {"id": "hogwarts", "segment": "1736000179", "name": "Hogwarts Legacy #7", "start": 0},
       {"id": "first-2023", "segment": "1738806096,1739001121", "name": "Wanted: Dead / Wild Hearts", "start": 0},
-      {"id": "first-2023", "segment": "1739787468", "name": "Driftwood (демо) / Pneumata (демо) / Route 66 Simulator (демо) / DUCK: Dangerous Ultimate Cartridge Kidnapper / Shadows of Doubt (демо) / I Am Future (демо)", "start": 0}
+      {"id": "first-2023", "segment": "1739787468", "name": "Driftwood (демо) / Pneumata (демо) / Route 66 Simulator (демо) / DUCK: Dangerous Ultimate Cartridge Kidnapper / Shadows of Doubt (демо) / I Am Future (демо)", "start": 0},
+      {"id": "single", "segment": "1740746666", "name": "Like a Dragon: Ishin! (демо) / Yakuza 0 #8", "start": 0}
     ]
   },
   "finished": {
@@ -538,7 +538,8 @@
       {"id": "single", "segment": "1728992336", "name": "Project Code: Dark (демо)", "start": 12763},
       {"id": "single", "segment": "1728992336", "name": "Cannibal Abduction", "start": 13907},
       {"id": "single", "segment": "1728992336", "name": "Dias Felices", "start": 19466},
-      {"id": "single", "segment": "1739787468", "name": "Pneumata (демо)", "start": 2830}
+      {"id": "single", "segment": "1739787468", "name": "Pneumata (демо)", "start": 2830},
+      {"id": "single", "segment": "1740746666", "name": "Like a Dragon: Ishin! (демо)", "start": 2093}
     ]
   },
   "first": {
@@ -1077,6 +1078,7 @@
   "ongoing": {
     "name": "Активные",
     "games": [
+      {"name": "Yakuza 0", "id": "yakuza-0", "segment": "1598875892"},
       {"name": "Forspoken", "id": "forspoken", "segment": "1674396025"},
       {"id": "trash-horror-2", "segment": "1728992336", "name": "Poop Killer 6", "start": 10202},
       {"name": "Hogwarts Legacy", "id": "hogwarts", "segment": "1729899835"}
@@ -1258,7 +1260,6 @@
       {"name": "Peepo Island", "id": "peepo-island", "segment": "1542254440"},
       {"id": "trash-horror-2", "segment": "1596223040", "name": "We Are Not Alone", "start": 11785},
       {"id": "trash-horror-2", "segment": "1596223040", "name": "The House of Rats", "start": 13670},
-      {"name": "Yakuza 0", "id": "yakuza-0", "segment": "1598875892"},
       {"id": "trash-horror-2", "segment": "1603602197", "name": "Poop Killer 4", "start": 16874},
       {"name": "Unusual Findings", "id": "unusual-findings", "segment": "1618459269"},
       {"id": "trash-horror-2", "segment": "1642266888,1642407202", "name": "Poop Killer: Origins", "start": 5301},
