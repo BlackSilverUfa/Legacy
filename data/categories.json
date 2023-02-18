@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "hogwarts", "segment": "1729899835", "name": "Hogwarts Legacy #1", "start": 0},
       {"id": "hogwarts", "segment": "1730836289", "name": "Hogwarts Legacy #2", "start": 0},
       {"id": "hogwarts", "segment": "1731887577", "name": "Hogwarts Legacy #3", "start": 0},
       {"id": "hogwarts", "segment": "1732877770", "name": "Hogwarts Legacy #4", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "hogwarts", "segment": "1736000179", "name": "Hogwarts Legacy #7", "start": 0},
       {"id": "first-2023", "segment": "1738806096,1739001121", "name": "Wanted: Dead / Wild Hearts", "start": 0},
       {"id": "first-2023", "segment": "1739787468", "name": "Driftwood (демо) / Pneumata (демо) / Route 66 Simulator (демо) / DUCK: Dangerous Ultimate Cartridge Kidnapper / Shadows of Doubt (демо) / I Am Future (демо)", "start": 0},
-      {"id": "single", "segment": "1740746666", "name": "Like a Dragon: Ishin! (демо) / Yakuza 0 #8", "start": 0}
+      {"id": "single", "segment": "1740746666", "name": "Like a Dragon: Ishin! (демо) / Yakuza 0 #8", "start": 0},
+      {"id": "single", "segment": "1741779316", "name": "9 Childs Street / Leak (демо) / Missing Hiker / White Day 2: The Flower That Tells Lies / Paranormal VHS (демо) / Echoes of the Living (демо)", "start": 0}
     ]
   },
   "finished": {
@@ -539,7 +539,10 @@
       {"id": "single", "segment": "1728992336", "name": "Cannibal Abduction", "start": 13907},
       {"id": "single", "segment": "1728992336", "name": "Dias Felices", "start": 19466},
       {"id": "single", "segment": "1739787468", "name": "Pneumata (демо)", "start": 2830},
-      {"id": "single", "segment": "1740746666", "name": "Like a Dragon: Ishin! (демо)", "start": 2093}
+      {"id": "single", "segment": "1740746666", "name": "Like a Dragon: Ishin! (демо)", "start": 2093},
+      {"id": "single", "segment": "1741779316", "name": "9 Childs Street", "start": 3572},
+      {"id": "single", "segment": "1741779316", "name": "Leak (демо)", "start": 7863},
+      {"id": "single", "segment": "1741779316", "name": "Missing Hiker", "start": 11401}
     ]
   },
   "first": {
@@ -1072,7 +1075,10 @@
       {"id": "first-2023", "segment": "1739787468", "name": "Route 66 Simulator (демо)", "start": 4516},
       {"id": "first-2023", "segment": "1739787468", "name": "DUCK: Dangerous Ultimate Cartridge Kidnapper", "start": 6745},
       {"id": "first-2023", "segment": "1739787468", "name": "Shadows of Doubt (демо)", "start": 13767},
-      {"id": "first-2023", "segment": "1739787468", "name": "I Am Future (демо)", "start": 19852}
+      {"id": "first-2023", "segment": "1739787468", "name": "I Am Future (демо)", "start": 19852},
+      {"id": "first-2023", "segment": "1741779316", "name": "White Day 2: The Flower That Tells Lies", "start": 13068},
+      {"id": "first-2023", "segment": "1741779316", "name": "Paranormal VHS (демо)", "start": 17420},
+      {"id": "first-2023", "segment": "1741779316", "name": "Echoes of the Living (демо)", "start": 18278}
     ]
   },
   "ongoing": {
