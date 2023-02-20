@@ -10468,10 +10468,9 @@
     "games": ["first-2023", "single"]
   },
   "1740746666": {
-    "abs_start": "0:00", "abs_end": "6:17:47", "duration": "0:00",
+    "youtube": "qOheX-0_Q50", "abs_start": "0:00", "abs_end": "6:17:16", "duration": "6:17:16",
     "name": "Like a Dragon: Ishin! (демо) / Yakuza 0 #8",
     "date": "2023-02-17",
-    "direct": "https://bsufiles.drhx.ru/streams/1740746666.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1740746666.torrent",
     "games": ["single", "yakuza-0"]
   },
