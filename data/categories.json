@@ -186,7 +186,7 @@
       {"id": "single", "segment": "644774531", "name": "No One Lives Under The Lighthouse", "start": 17752},
       {"id": "single", "segment": "645734946", "name": "The Walking Fish 2: Final Frontier", "start": 15583},
       {"id": "single", "segment": "649632498", "name": "Secret Agent Barbie", "start": 0},
-      {"name": "The Last of Us: Part II", "id": "tlou2", "segment": "654380816,655265437,655528246,656257835"},
+      {"name": "The Last of Us: Part II", "id": "tlou2", "segment": "654380816"},
       {"name": "Vampire: The Masquerade - Bloodlines", "id": "vampire-masquerade", "segment": "659080815"},
       {"name": "Resident Evil 7 (Madhouse)", "id": "re7", "segment": "663012938"},
       {"id": "single", "segment": "670671274", "name": "Winx Club", "start": 0},
