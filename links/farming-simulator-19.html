@@ -94,9 +94,9 @@
         <i class="fas fa-comments"></i> 13680
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=dh9AyaB4U2A" target="_blank">
-        <i class="fab fa-youtube"></i> dh9AyaB4U2A
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/487490676.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -133,6 +133,7 @@
       <li>Проблемы с правообладателями:</li>
   <ul>
     <li><a data-value="13192">3:39:52</a> - <a data-value="13494">3:44:54</a> — Serial TV Drama - Tougenkyou Alien</li>
+    <li><a data-value="15065">4:11:05</a> - <a data-value="15204">4:13:24</a> — Не указано</li>
   </ul>
 
   </ul>
@@ -141,13 +142,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="0" data-hash="487490676" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v487490676.ass" data-start="7877" data-name="1" data-youtube="dh9AyaB4U2A" />
+  <p class="stream" data-id="0" data-hash="487490676" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v487490676.ass" data-start="7877" data-name="1" data-direct="https://bsufiles.drhx.ru/streams/487490676.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v487490676.ass --start=7877 ytdl://dh9AyaB4U2A
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v487490676.ass --start=7877 https://bsufiles.drhx.ru/streams/487490676.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v487490676.ass --start=7877" --player-passthrough hls twitch.tv/videos/487490676 best
 </code></pre>
 </div>
 

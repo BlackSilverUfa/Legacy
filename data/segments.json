@@ -457,9 +457,10 @@
     "games": ["ds3"]
   },
   "001605240": {
-    "youtube": "-_9vZHF-plc", "official": false, "abs_start": "0:00", "abs_end": "5:31:34", "duration": "5:31:34",
+    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
     "name": "Dark Souls 3 #5",
     "date": "2016-05-24",
+    "direct": "https://bsufiles.drhx.ru/streams/001605240.mp4",
     "games": ["ds3"]
   },
   "001605270": {
@@ -2023,9 +2024,10 @@
     "games": ["ds2-scholar"]
   },
   "262352362": {
-    "youtube": "B_TKtcBTHRI", "official": false, "abs_start": "0:00", "abs_end": "5:17:06", "duration": "5:17:06",
+    "abs_start": "0:00", "abs_end": "5:17:12", "duration": "0:00",
     "name": "Dark Souls 2: Scholar of the First Sin #2",
     "date": "2018-05-17",
+    "direct": "https://bsufiles.drhx.ru/streams/262352362.mp4",
     "games": ["ds2-scholar"]
   },
   "262696959": {
@@ -4605,9 +4607,10 @@
     "games": ["surge-2"]
   },
   "487490676": {
-    "youtube": "dh9AyaB4U2A", "official": false, "abs_start": "0:00", "abs_end": "5:20:01", "duration": "5:20:01",
+    "abs_start": "0:00", "abs_end": "5:20:31", "duration": "0:00",
     "name": "Lost Ark Online / Farming Simulator 19 #1",
     "date": "2019-09-28",
+    "direct": "https://bsufiles.drhx.ru/streams/487490676.mp4",
     "games": ["first-2019", "farming-simulator-19"]
   },
   "487949971": {
@@ -10210,7 +10213,6 @@
     "youtube": "9V9BemAHuns", "abs_start": "0:00", "abs_end": "6:28:26", "duration": "6:28:26",
     "name": "Return to Castle Wolfenstein (RealRTCW) #2",
     "date": "2023-01-07",
-    "torrent": "https://bsufiles.drhx.ru/streams/1700264823.torrent",
     "games": ["rrtcw"]
   },
   "1701325068": {
