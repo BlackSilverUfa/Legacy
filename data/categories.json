@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "hogwarts", "segment": "1731887577", "name": "Hogwarts Legacy #3", "start": 0},
       {"id": "hogwarts", "segment": "1732877770", "name": "Hogwarts Legacy #4", "start": 0},
       {"id": "hogwarts", "segment": "1733865086", "name": "Hogwarts Legacy #5", "start": 0},
       {"id": "hogwarts", "segment": "1734914714", "name": "Hogwarts Legacy #6", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "first-2023", "segment": "1739787468", "name": "Driftwood (демо) / Pneumata (демо) / Route 66 Simulator (демо) / DUCK: Dangerous Ultimate Cartridge Kidnapper / Shadows of Doubt (демо) / I Am Future (демо)", "start": 0},
       {"id": "single", "segment": "1740746666", "name": "Like a Dragon: Ishin! (демо) / Yakuza 0 #8", "start": 0},
       {"id": "single", "segment": "1741779316", "name": "9 Childs Street / Leak (демо) / Missing Hiker / White Day 2: The Flower That Tells Lies / Paranormal VHS (демо) / Echoes of the Living (демо)", "start": 0},
-      {"id": "first-2023", "segment": "1743703656", "name": "Atomic Heart", "start": 0}
+      {"id": "atomic-heart", "segment": "1743703656", "name": "Atomic Heart #1", "start": 0},
+      {"id": "atomic-heart", "segment": "1744660246", "name": "Atomic Heart #2", "start": 0}
     ]
   },
   "finished": {
@@ -1078,8 +1078,7 @@
       {"id": "first-2023", "segment": "1739787468", "name": "I Am Future (демо)", "start": 19852},
       {"id": "first-2023", "segment": "1741779316", "name": "White Day 2: The Flower That Tells Lies", "start": 13068},
       {"id": "first-2023", "segment": "1741779316", "name": "Paranormal VHS (демо)", "start": 17420},
-      {"id": "first-2023", "segment": "1741779316", "name": "Echoes of the Living (демо)", "start": 18278},
-      {"id": "first-2023", "segment": "1743703656", "name": "Atomic Heart", "start": 2330}
+      {"id": "first-2023", "segment": "1741779316", "name": "Echoes of the Living (демо)", "start": 18278}
     ]
   },
   "ongoing": {
@@ -1088,7 +1087,8 @@
       {"name": "Yakuza 0", "id": "yakuza-0", "segment": "1598875892"},
       {"name": "Forspoken", "id": "forspoken", "segment": "1674396025"},
       {"id": "trash-horror-2", "segment": "1728992336", "name": "Poop Killer 6", "start": 10202},
-      {"name": "Hogwarts Legacy", "id": "hogwarts", "segment": "1729899835"}
+      {"name": "Hogwarts Legacy", "id": "hogwarts", "segment": "1729899835"},
+      {"name": "Atomic Heart", "id": "atomic-heart", "segment": "1743703656"}
     ]
   },
   "infinite": {

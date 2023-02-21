@@ -10219,7 +10219,6 @@
     "youtube": "ZCK0yn4rPhQ", "abs_start": "0:00", "abs_end": "6:01:04", "duration": "6:01:04",
     "name": "September 7th / The 9th Charnel (демо) / Smile / Input6 / Park Lane / Elevated Dread / The Interpid Explorer / There is Something in the Pipes / The Maker of Masks",
     "date": "2023-01-08",
-    "torrent": "https://bsufiles.drhx.ru/streams/1701325068.torrent",
     "games": ["single"]
   },
   "1702266111": {
@@ -10227,7 +10226,6 @@
     "name": "Wolfenstein #1",
     "date": "2023-01-09",
     "cuts": [[3381, 3413]],
-    "torrent": "https://bsufiles.drhx.ru/streams/1702266111.torrent",
     "games": ["wolfenstein"]
   },
   "1703188749": {
@@ -10477,9 +10475,18 @@
   },
   "1743703656": {
     "youtube": "ac1Fiw0Xbp0", "abs_start": "0:00", "abs_end": "8:50:50", "duration": "8:50:50",
-    "name": "Atomic Heart",
+    "name": "Atomic Heart #1",
     "date": "2023-02-20",
     "torrent": "https://bsufiles.drhx.ru/streams/1743703656.torrent",
-    "games": ["first-2023"]
+    "games": ["atomic-heart"]
+  },
+  "1744660246": {
+    "abs_start": "0:00", "abs_end": "9:21:55", "duration": "0:00",
+    "name": "Atomic Heart #2",
+    "date": "2023-02-21",
+    "direct": "https://bsufiles.drhx.ru/streams/1744660246.mp4",
+    "cuts": [[30654, 30780]],
+    "torrent": "https://bsufiles.drhx.ru/streams/1744660246.torrent",
+    "games": ["atomic-heart"]
   }
 }
