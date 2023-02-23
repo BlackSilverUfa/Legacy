@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "hogwarts", "segment": "1733865086", "name": "Hogwarts Legacy #5", "start": 0},
       {"id": "hogwarts", "segment": "1734914714", "name": "Hogwarts Legacy #6", "start": 0},
       {"id": "hogwarts", "segment": "1736000179", "name": "Hogwarts Legacy #7", "start": 0},
       {"id": "first-2023", "segment": "1738806096,1739001121", "name": "Wanted: Dead / Wild Hearts", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "single", "segment": "1741779316", "name": "9 Childs Street / Leak (демо) / Missing Hiker / White Day 2: The Flower That Tells Lies / Paranormal VHS (демо) / Echoes of the Living (демо)", "start": 0},
       {"id": "atomic-heart", "segment": "1743703656", "name": "Atomic Heart #1", "start": 0},
       {"id": "atomic-heart", "segment": "1744660246", "name": "Atomic Heart #2", "start": 0},
-      {"id": "atomic-heart", "segment": "1745636782", "name": "Atomic Heart #3", "start": 0}
+      {"id": "atomic-heart", "segment": "1745636782", "name": "Atomic Heart #3", "start": 0},
+      {"id": "atomic-heart", "segment": "1746607463,1746871491", "name": "Atomic Heart #4", "start": 0}
     ]
   },
   "finished": {
@@ -542,7 +542,8 @@
       {"id": "single", "segment": "1740746666", "name": "Like a Dragon: Ishin! (демо)", "start": 2093},
       {"id": "single", "segment": "1741779316", "name": "9 Childs Street", "start": 3572},
       {"id": "single", "segment": "1741779316", "name": "Leak (демо)", "start": 7863},
-      {"id": "single", "segment": "1741779316", "name": "Missing Hiker", "start": 11401}
+      {"id": "single", "segment": "1741779316", "name": "Missing Hiker", "start": 11401},
+      {"name": "Atomic Heart", "id": "atomic-heart", "segment": "1743703656"}
     ]
   },
   "first": {
@@ -1085,10 +1086,8 @@
     "name": "Активные",
     "games": [
       {"name": "Yakuza 0", "id": "yakuza-0", "segment": "1598875892"},
-      {"name": "Forspoken", "id": "forspoken", "segment": "1674396025"},
       {"id": "trash-horror-2", "segment": "1728992336", "name": "Poop Killer 6", "start": 10202},
-      {"name": "Hogwarts Legacy", "id": "hogwarts", "segment": "1729899835"},
-      {"name": "Atomic Heart", "id": "atomic-heart", "segment": "1743703656"}
+      {"name": "Hogwarts Legacy", "id": "hogwarts", "segment": "1729899835"}
     ]
   },
   "infinite": {
@@ -1272,6 +1271,7 @@
       {"id": "trash-horror-2", "segment": "1642266888,1642407202", "name": "Poop Killer: Origins", "start": 5301},
       {"id": "trash-horror-2", "segment": "1642266888,1642407202", "name": "Legend Hunters", "start": 9288},
       {"id": "trash-horror-2", "segment": "1663155573", "name": "Poop Killer 5", "start": 18375},
+      {"name": "Forspoken", "id": "forspoken", "segment": "1674396025"},
       {"name": "Mirror Forge", "id": "mirror-forge", "segment": "1686763712"},
       {"name": "Sleep Paralysis: The Uncanny Valley", "id": "sleep-paralysis", "segment": "1686763712"},
       {"name": "FAITH", "id": "faith", "segment": "1687663796"}
