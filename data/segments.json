@@ -10257,7 +10257,6 @@
     "name": "Yakuza 0 #7",
     "date": "2023-01-16",
     "cuts": [[16551, 16583]],
-    "torrent": "https://bsufiles.drhx.ru/streams/1709052941.torrent",
     "games": ["yakuza-0"]
   },
   "1711981237": {
@@ -10514,5 +10513,13 @@
     "offsets": [0, 26314],
     "torrent": "https://bsufiles.drhx.ru/streams/1746607463,1746871491.torrent",
     "games": ["atomic-heart"]
+  },
+  "1748670859": {
+    "abs_start": "0:00", "abs_end": "3:02:56", "duration": "0:00",
+    "name": "Outstand: Episode 1 / TRONIT: Evade Red / Parasomnia / The Building 71 Incident / 28 Pixels Later",
+    "date": "2023-02-25",
+    "direct": "https://bsufiles.drhx.ru/streams/1748670859.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1748670859.torrent",
+    "games": ["first-2023", "single"]
   }
 }

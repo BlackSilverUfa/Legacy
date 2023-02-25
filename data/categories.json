@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "hogwarts", "segment": "1734914714", "name": "Hogwarts Legacy #6", "start": 0},
       {"id": "hogwarts", "segment": "1736000179", "name": "Hogwarts Legacy #7", "start": 0},
       {"id": "first-2023", "segment": "1738806096,1739001121", "name": "Wanted: Dead / Wild Hearts", "start": 0},
       {"id": "first-2023", "segment": "1739787468", "name": "Driftwood (демо) / Pneumata (демо) / Route 66 Simulator (демо) / DUCK: Dangerous Ultimate Cartridge Kidnapper / Shadows of Doubt (демо) / I Am Future (демо)", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "atomic-heart", "segment": "1743703656", "name": "Atomic Heart #1", "start": 0},
       {"id": "atomic-heart", "segment": "1744660246", "name": "Atomic Heart #2", "start": 0},
       {"id": "atomic-heart", "segment": "1745636782", "name": "Atomic Heart #3", "start": 0},
-      {"id": "atomic-heart", "segment": "1746607463,1746871491", "name": "Atomic Heart #4", "start": 0}
+      {"id": "atomic-heart", "segment": "1746607463,1746871491", "name": "Atomic Heart #4", "start": 0},
+      {"id": "first-2023", "segment": "1748670859", "name": "Outstand: Episode 1 / TRONIT: Evade Red / Parasomnia / The Building 71 Incident / 28 Pixels Later", "start": 0}
     ]
   },
   "finished": {
@@ -543,7 +543,10 @@
       {"id": "single", "segment": "1741779316", "name": "9 Childs Street", "start": 3572},
       {"id": "single", "segment": "1741779316", "name": "Leak (демо)", "start": 7863},
       {"id": "single", "segment": "1741779316", "name": "Missing Hiker", "start": 11401},
-      {"name": "Atomic Heart", "id": "atomic-heart", "segment": "1743703656"}
+      {"name": "Atomic Heart", "id": "atomic-heart", "segment": "1743703656"},
+      {"id": "single", "segment": "1748670859", "name": "TRONIT: Evade Red", "start": 5520},
+      {"id": "single", "segment": "1748670859", "name": "Parasomnia", "start": 6993},
+      {"id": "single", "segment": "1748670859", "name": "The Building 71 Incident", "start": 8855}
     ]
   },
   "first": {
@@ -1079,7 +1082,9 @@
       {"id": "first-2023", "segment": "1739787468", "name": "I Am Future (демо)", "start": 19852},
       {"id": "first-2023", "segment": "1741779316", "name": "White Day 2: The Flower That Tells Lies", "start": 13068},
       {"id": "first-2023", "segment": "1741779316", "name": "Paranormal VHS (демо)", "start": 17420},
-      {"id": "first-2023", "segment": "1741779316", "name": "Echoes of the Living (демо)", "start": 18278}
+      {"id": "first-2023", "segment": "1741779316", "name": "Echoes of the Living (демо)", "start": 18278},
+      {"id": "first-2023", "segment": "1748670859", "name": "Outstand: Episode 1", "start": 4447},
+      {"id": "first-2023", "segment": "1748670859", "name": "28 Pixels Later", "start": 10508}
     ]
   },
   "ongoing": {
