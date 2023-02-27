@@ -10264,14 +10264,12 @@
     "name": "Alone in the Dark: Inferno #1",
     "date": "2023-01-19",
     "cuts": [[12945, 12974]],
-    "torrent": "https://bsufiles.drhx.ru/streams/1711981237.torrent",
     "games": ["aitd"]
   },
   "1712949815": {
     "youtube": "pz4BzF83RMc", "abs_start": "0:00", "abs_end": "6:39:26", "duration": "6:39:26",
     "name": "Alone in the Dark: Inferno #2",
     "date": "2023-01-20",
-    "torrent": "https://bsufiles.drhx.ru/streams/1712949815.torrent",
     "games": ["aitd"]
   },
   "1713959344": {
@@ -10521,5 +10519,13 @@
     "direct": "https://bsufiles.drhx.ru/streams/1748670859.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1748670859.torrent",
     "games": ["first-2023", "single"]
+  },
+  "1750602082": {
+    "abs_start": "0:00", "abs_end": "9:05:06", "duration": "0:00",
+    "name": "Sons of the Forest (с Дашей и Джеком)",
+    "date": "2023-02-27",
+    "direct": "https://bsufiles.drhx.ru/streams/1750602082.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1750602082.torrent",
+    "games": ["co-op"]
   }
 }
