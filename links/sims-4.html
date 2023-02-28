@@ -94,16 +94,15 @@
         <i class="fas fa-comments"></i> 29662
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=QZR7oecvW5U" target="_blank">
-        <i class="fab fa-youtube"></i> QZR7oecvW5U
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/531327327.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
 </div>
 
 <ul>
-  <li>Примечание: <a href="https://youtu.be/HbZaYnkfzjw">Официальная запись</a> блокировалась, затем жалоба была отозвана. Неофициальная запись более полная (нет вырезанных участков, и только один момент без звука).</li>
   <li>Связанные игры:</li>
   <ul>
     <li><a href="/links/spore.html">Spore</a> — <a href="/links/spore.html#531327327">3 (заново)</a></li>
@@ -134,6 +133,7 @@
       <a data-value="12616">3:30:16</a> - <a data-value="12827">3:33:47</a>
       — a-ha - Take On Me
     </li>
+    <li><a data-value="17961">4:59:21</a> - <a data-value="18171">5:02:51</a> — Не указано</li>
   </ul>
 
       <li>The Sims 4:</li>
@@ -152,13 +152,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="0" data-hash="531327327" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v531327327.ass" data-start="12849" data-name="1" data-youtube="QZR7oecvW5U" />
+  <p class="stream" data-id="0" data-hash="531327327" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v531327327.ass" data-start="12849" data-name="1" data-direct="https://bsufiles.drhx.ru/streams/531327327.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v531327327.ass --start=12849 ytdl://QZR7oecvW5U
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v531327327.ass --start=12849 https://bsufiles.drhx.ru/streams/531327327.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v531327327.ass --start=12849" --player-passthrough hls twitch.tv/videos/531327327 best
 </code></pre>
 </div>
 
