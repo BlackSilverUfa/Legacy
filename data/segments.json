@@ -10276,7 +10276,6 @@
     "youtube": "EWnRUtHAiIA", "abs_start": "0:00", "abs_end": "7:16:09", "duration": "7:16:09",
     "name": "Barnyard (Рога и копыта) #2",
     "date": "2023-01-21",
-    "torrent": "https://bsufiles.drhx.ru/streams/1713959344.torrent",
     "games": ["barnyard"]
   },
   "1715060185": {
@@ -10522,10 +10521,18 @@
   },
   "1750602082": {
     "abs_start": "0:00", "abs_end": "9:05:06", "duration": "0:00",
-    "name": "Sons of the Forest (с Дашей и Джеком)",
+    "name": "Sons of the Forest (с Дашей и Джеком) #1",
     "date": "2023-02-27",
     "direct": "https://bsufiles.drhx.ru/streams/1750602082.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1750602082.torrent",
-    "games": ["co-op"]
+    "games": ["sons-forest"]
+  },
+  "1751502984": {
+    "abs_start": "0:00", "abs_end": "9:29:40", "duration": "0:00",
+    "name": "Sons of the Forest (с Дашей и Джеком) #2",
+    "date": "2023-02-28",
+    "direct": "https://bsufiles.drhx.ru/streams/1751502984.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1751502984.torrent",
+    "games": ["sons-forest"]
   }
 }
