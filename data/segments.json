@@ -457,7 +457,7 @@
     "games": ["ds3"]
   },
   "001605240": {
-    "youtube": "-_9vZHF-plc", "abs_start": "0:00", "abs_end": "5:31:34", "duration": "5:31:34",
+    "youtube": "-_9vZHF-plc", "official": false, "abs_start": "0:00", "abs_end": "5:31:34", "duration": "5:31:34",
     "name": "Dark Souls 3 #5",
     "date": "2016-05-24",
     "games": ["ds3"]
@@ -4245,7 +4245,7 @@
     "games": ["sinking-city"]
   },
   "445866715": {
-    "youtube": "7JUe2fr4qy0", "abs_start": "0:00", "abs_end": "4:58:28", "duration": "4:58:28",
+    "youtube": "7JUe2fr4qy0", "official": false, "abs_start": "0:00", "abs_end": "4:58:28", "duration": "4:58:28",
     "name": "Своя Игра #14 / Dead by Daylight #3 / Эскейп-румы - Curious Cases / Golf It! #17",
     "date": "2019-06-29",
     "games": ["sigame", "dead-by-daylight", "escape-rooms", "golf-it"]
@@ -4605,7 +4605,7 @@
     "games": ["surge-2"]
   },
   "487490676": {
-    "youtube": "dh9AyaB4U2A", "abs_start": "0:00", "abs_end": "5:20:01", "duration": "5:20:01",
+    "youtube": "dh9AyaB4U2A", "official": false, "abs_start": "0:00", "abs_end": "5:20:01", "duration": "5:20:01",
     "name": "Lost Ark Online / Farming Simulator 19 #1",
     "date": "2019-09-28",
     "games": ["first-2019", "farming-simulator-19"]
@@ -10531,6 +10531,15 @@
     "date": "2023-02-28",
     "direct": "https://bsufiles.drhx.ru/streams/1751502984.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1751502984.torrent",
+    "games": ["sons-forest"]
+  },
+  "1752454738": {
+    "abs_start": "0:00", "abs_end": "7:47:49", "duration": "0:00",
+    "name": "Sons of the Forest (с Дашей и Джеком) #3",
+    "date": "2023-03-01",
+    "direct": "https://bsufiles.drhx.ru/streams/1752454738.mp4",
+    "cuts": [[26179, 26210]],
+    "torrent": "https://bsufiles.drhx.ru/streams/1752454738.torrent",
     "games": ["sons-forest"]
   }
 }
