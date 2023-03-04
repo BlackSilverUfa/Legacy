@@ -241,11 +241,6 @@
         <i class="fas fa-comments"></i> 16181
       </a>
     </span>
-    <span class="badge badge-success">
-      <a href="https://www.youtube.com/watch?v=HNQWIRKTrvs" target="_blank">
-        <i class="fab fa-youtube"></i> HNQWIRKTrvs
-      </a>
-    </span>
     <span class="badge badge-danger">
       <a href="https://bsufiles.drhx.ru/streams/1716026704.torrent">
         <i class="fas fa-download"></i> торрент
@@ -260,6 +255,11 @@
   <ul>
     <li><a data-value="61">1:01</a> — Интро</li>
     <li><a data-value="267">4:27</a> - <a data-value="355">5:55</a> — Стримлер</li>
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li><a data-value="1251">20:51</a> - <a data-value="1284">21:24</a> — Electric Light Orchestra - Mr. Blue Sky</li>
+  </ul>
+
     <li><a data-value="1255">20:55</a> — Last of Us 2 Meme</li>
     <li><a data-value="1560">26:00</a> — Меню</li>
     <li><a data-value="1639">27:19</a> — Интро</li>
@@ -273,13 +273,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="2" data-hash="1716026704" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2023@master/v1716026704.ass" data-start="1560" data-name="3" data-youtube="HNQWIRKTrvs" />
+  <p class="stream" data-id="2" data-hash="1716026704" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2023@master/v1716026704.ass" data-start="1560" data-name="3" data-direct="https://bsufiles.drhx.ru/streams/1716026704.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2023@master/v1716026704.ass --start=1560 ytdl://HNQWIRKTrvs
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2023@master/v1716026704.ass --start=1560 https://bsufiles.drhx.ru/streams/1716026704.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2023@master/v1716026704.ass --start=1560" --player-passthrough hls twitch.tv/videos/1716026704 best
 </code></pre>
 </div>
 

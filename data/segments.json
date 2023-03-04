@@ -2143,9 +2143,10 @@
     "games": ["moonlighter"]
   },
   "268114023": {
-    "youtube": "36mVlOKf7cA", "official": false, "abs_start": "0:00", "abs_end": "5:02:43", "duration": "5:02:43",
+    "abs_start": "0:00", "abs_end": "5:03:43", "duration": "0:00",
     "name": "Dark Souls: Remastered #1 (заново, со зрителями)",
     "date": "2018-06-01",
+    "direct": "https://bsufiles.drhx.ru/streams/268114023.mp4",
     "games": ["ds-remastered"]
   },
   "268497396": {
@@ -2299,9 +2300,10 @@
     "games": ["wreckfest"]
   },
   "277001302": {
-    "youtube": "IP3xa6iBtV4", "official": false, "abs_start": "0:00", "abs_end": "5:09:08", "duration": "5:09:08",
+    "abs_start": "0:00", "abs_end": "5:09:46", "duration": "0:00",
     "name": "Dark Souls: Remastered #2 (со зрителями)",
     "date": "2018-06-24",
+    "direct": "https://bsufiles.drhx.ru/streams/277001302.mp4",
     "games": ["ds-remastered"]
   },
   "277440900": {
@@ -4720,9 +4722,10 @@
     "games": ["mafia"]
   },
   "496714817": {
-    "youtube": "p_whu_mJocs", "official": false, "abs_start": "0:00", "abs_end": "4:22:09", "duration": "4:22:09",
+    "abs_start": "0:00", "abs_end": "4:22:25", "duration": "0:00",
     "name": "Farming Simulator 19 #2",
     "date": "2019-10-19",
+    "direct": "https://bsufiles.drhx.ru/streams/496714817.mp4",
     "games": ["farming-simulator-19"]
   },
   "497190114": {
@@ -5154,9 +5157,10 @@
     "games": ["dark-messiah"]
   },
   "545136550": {
-    "youtube": "zPPB2lKx7sE", "official": false, "abs_start": "0:00", "abs_end": "5:43:58", "duration": "5:43:58",
+    "abs_start": "0:00", "abs_end": "5:44:23", "duration": "0:00",
     "name": "Spore #4 / The Sims 4 #2",
     "date": "2020-02-01",
+    "direct": "https://bsufiles.drhx.ru/streams/545136550.mp4",
     "games": ["spore", "sims-4"]
   },
   "545709814": {
@@ -10281,13 +10285,13 @@
     "name": "Jawbreaker (демо) / No Strings Attached / Bram The Toymaker / Agora / Lake Haven: Chrysalis",
     "date": "2023-01-22",
     "cuts": [[12819, 12850]],
-    "torrent": "https://bsufiles.drhx.ru/streams/1715060185.torrent",
     "games": ["first-2023", "single"]
   },
   "1716026704": {
-    "youtube": "HNQWIRKTrvs", "abs_start": "0:00", "abs_end": "4:29:55", "duration": "4:29:55",
+    "abs_start": "0:00", "abs_end": "4:30:16", "duration": "0:00",
     "name": "Alone in the Dark: Inferno #3",
     "date": "2023-01-23",
+    "direct": "https://bsufiles.drhx.ru/streams/1716026704.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1716026704.torrent",
     "games": ["aitd"]
   },
@@ -10295,7 +10299,6 @@
     "youtube": "dEuE0sU9HXo", "abs_start": "0:00", "abs_end": "5:24:53", "duration": "5:24:53",
     "name": "Forspoken - Релиз",
     "date": "2023-01-24",
-    "torrent": "https://bsufiles.drhx.ru/streams/1716951120.torrent",
     "games": ["forspoken"]
   },
   "1718922216": {

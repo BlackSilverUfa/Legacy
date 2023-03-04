@@ -174,9 +174,9 @@
         <i class="fas fa-comments"></i> 11356
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=p_whu_mJocs" target="_blank">
-        <i class="fab fa-youtube"></i> p_whu_mJocs
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/496714817.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -197,6 +197,7 @@
     <li><a data-value="8155">2:15:55</a> - <a data-value="8342">2:19:02</a> — Scooter - Bora! Bora! Bora!</li>
     <li><a data-value="8586">2:23:06</a> - <a data-value="8993">2:29:53</a> — Не указано</li>
     <li><a data-value="11770">3:16:10</a> - <a data-value="12097">3:21:37</a> — Rammstein - Deutschland</li>
+    <li><a data-value="12542">3:29:02</a> - <a data-value="12720">3:32:00</a> — The O'Jays - Love Train</li>
     <li><a data-value="13907">3:51:47</a> - <a data-value="14169">3:56:09</a> — Peter Gabriel - Big Time (2002 Remaster)</li>
   </ul>
 
@@ -220,13 +221,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="1" data-hash="496714817" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v496714817.ass" data-name="2" data-youtube="p_whu_mJocs" />
+  <p class="stream" data-id="1" data-hash="496714817" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v496714817.ass" data-name="2" data-direct="https://bsufiles.drhx.ru/streams/496714817.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v496714817.ass ytdl://p_whu_mJocs
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v496714817.ass https://bsufiles.drhx.ru/streams/496714817.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v496714817.ass" --player-passthrough hls twitch.tv/videos/496714817 best
 </code></pre>
 </div>
 
