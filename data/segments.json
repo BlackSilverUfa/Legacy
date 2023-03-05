@@ -3207,10 +3207,9 @@
     "games": ["co-op", "sigame", "human-fall-flat", "golf-it"]
   },
   "354067956": {
-    "abs_start": "0:00", "abs_end": "5:16:39", "duration": "0:00",
+    "youtube": "lVLsdWSH_h0", "abs_start": "0:00", "abs_end": "5:16:10", "duration": "5:16:10",
     "name": "Subnautica #1",
     "date": "2018-12-25",
-    "direct": "https://bsufiles.drhx.ru/streams/354067956.mp4",
     "games": ["subnautica"]
   },
   "354466172": {
