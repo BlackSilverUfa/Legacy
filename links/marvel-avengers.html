@@ -327,9 +327,9 @@
         <i class="fas fa-comments"></i> 17322
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=tG703ZdrgUs" target="_blank">
-        <i class="fab fa-youtube"></i> tG703ZdrgUs
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/729970116.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -347,6 +347,7 @@
       <li>Проблемы с правообладателями:</li>
   <ul>
     <li><a data-value="104">1:44</a> - <a data-value="220">3:40</a> — Alan Silvestri - The Avengers</li>
+    <li><a data-value="22791">6:19:51</a> - <a data-value="22867">6:21:07</a> — Rage Against The Machine - Guerrilla Radio</li>
     <li><a data-value="22877">6:21:17</a> - <a data-value="23021">6:23:41</a> — Dead Kennedys - Police Truck</li>
     <li><a data-value="23020">6:23:40</a> - <a data-value="23230">6:27:10</a> — Dub Pistols - Cyclone</li>
     <li><a data-value="23458">6:30:58</a> - <a data-value="23657">6:34:17</a> — Machine Gun Kelly - bloody valentine</li>
@@ -388,13 +389,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="3" data-hash="729970116" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v729970116.ass" data-name="3" data-youtube="tG703ZdrgUs" />
+  <p class="stream" data-id="3" data-hash="729970116" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v729970116.ass" data-name="3" data-direct="https://bsufiles.drhx.ru/streams/729970116.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v729970116.ass ytdl://tG703ZdrgUs
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v729970116.ass https://bsufiles.drhx.ru/streams/729970116.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v729970116.ass" --player-passthrough hls twitch.tv/videos/729970116 best
 </code></pre>
 </div>
 

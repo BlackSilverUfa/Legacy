@@ -1711,9 +1711,10 @@
     "games": ["first-2018"]
   },
   "233032380.2": {
-    "youtube": "IBDhRIYPURI", "abs_start": "3:32:56", "abs_end": "5:06:35", "duration": "1:33:39",
+    "abs_start": "3:32:56", "abs_end": "5:07:01", "duration": "0:00",
     "name": "Getting Over It #2",
     "date": "2018-02-26",
+    "direct": "https://bsufiles.drhx.ru/streams/233032380.2.mp4",
     "games": ["getting-over-it"]
   },
   "233355849": {
@@ -2023,9 +2024,10 @@
     "games": ["ds2-scholar"]
   },
   "262352362": {
-    "youtube": "B_TKtcBTHRI", "official": false, "abs_start": "0:00", "abs_end": "5:17:06", "duration": "5:17:06",
+    "abs_start": "0:00", "abs_end": "5:17:12", "duration": "0:00",
     "name": "Dark Souls 2: Scholar of the First Sin #2",
     "date": "2018-05-17",
+    "direct": "https://bsufiles.drhx.ru/streams/262352362.mp4",
     "games": ["ds2-scholar"]
   },
   "262696959": {
@@ -3205,9 +3207,10 @@
     "games": ["co-op", "sigame", "human-fall-flat", "golf-it"]
   },
   "354067956": {
-    "youtube": "lVLsdWSH_h0", "abs_start": "0:00", "abs_end": "5:16:10", "duration": "5:16:10",
+    "abs_start": "0:00", "abs_end": "5:16:39", "duration": "0:00",
     "name": "Subnautica #1",
     "date": "2018-12-25",
+    "direct": "https://bsufiles.drhx.ru/streams/354067956.mp4",
     "games": ["subnautica"]
   },
   "354466172": {
@@ -3499,9 +3502,10 @@
     "games": ["scp-cb"]
   },
   "373942448": {
-    "youtube": "ogq6iAV3TUE", "abs_start": "-0:08", "abs_end": "2:08:36", "duration": "2:08:44",
+    "abs_start": "0:00", "abs_end": "2:09:39", "duration": "0:00",
     "name": "Благотворительные стримы #3 / Immortal Redneck #4",
     "date": "2019-02-02",
+    "direct": "https://bsufiles.drhx.ru/streams/373942448.mp4",
     "games": ["charity", "immortal-redneck"]
   },
   "374556455": {
@@ -3932,9 +3936,10 @@
     "games": ["hollow-knight"]
   },
   "422486024": {
-    "youtube": "VEoMopOTvGg", "abs_start": "0:00", "abs_end": "3:27:44", "duration": "3:27:44",
+    "abs_start": "0:00", "abs_end": "3:28:15", "duration": "0:00",
     "name": "Благотворительные стримы #4 / Immortal Redneck #5 / Jump King #1",
     "date": "2019-05-09",
+    "direct": "https://bsufiles.drhx.ru/streams/422486024.mp4",
     "games": ["charity", "immortal-redneck", "jump-king"]
   },
   "423369283": {
@@ -4605,9 +4610,10 @@
     "games": ["surge-2"]
   },
   "487490676": {
-    "youtube": "dh9AyaB4U2A", "official": false, "abs_start": "0:00", "abs_end": "5:20:01", "duration": "5:20:01",
+    "abs_start": "0:00", "abs_end": "5:20:31", "duration": "0:00",
     "name": "Lost Ark Online / Farming Simulator 19 #1",
     "date": "2019-09-28",
+    "direct": "https://bsufiles.drhx.ru/streams/487490676.mp4",
     "games": ["first-2019", "farming-simulator-19"]
   },
   "487949971": {
@@ -4750,9 +4756,10 @@
     "games": ["outer-worlds"]
   },
   "499849877": {
-    "youtube": "6Mr_NAsML4w", "official": false, "abs_start": "0:00", "abs_end": "3:54:40", "duration": "3:54:40",
+    "abs_start": "0:00", "abs_end": "3:54:24", "duration": "0:00",
     "name": "Благотворительные стримы #5 / Cooking Simulator / House Flipper",
     "date": "2019-10-26",
+    "direct": "https://bsufiles.drhx.ru/streams/499849877.mp4",
     "games": ["charity", "first-2019"]
   },
   "500334713": {
@@ -4786,9 +4793,10 @@
     "games": ["expos", "nioh-2", "mafia-2"]
   },
   "503413959": {
-    "youtube": "DM_p50DgDUM", "official": false, "abs_start": "0:00", "abs_end": "5:14:17", "duration": "5:14:17",
+    "abs_start": "0:00", "abs_end": "5:15:05", "duration": "0:00",
     "name": "Mafia II #3",
     "date": "2019-11-03",
+    "direct": "https://bsufiles.drhx.ru/streams/503413959.mp4",
     "games": ["mafia-2"]
   },
   "504248004": {
@@ -4900,15 +4908,17 @@
     "games": ["suffering-2"]
   },
   "516941489": {
-    "youtube": "UFBXzQ4vl1I", "official": false, "abs_start": "0:00", "abs_end": "6:04:57", "duration": "6:04:57",
+    "abs_start": "0:00", "abs_end": "6:05:58", "duration": "0:00",
     "name": "Grand Theft Auto: Vice City #1",
     "date": "2019-12-04",
+    "direct": "https://bsufiles.drhx.ru/streams/516941489.mp4",
     "games": ["gta-vice-city"]
   },
   "517802976": {
-    "youtube": "Hfw7TqQOxVo", "official": false, "abs_start": "0:00", "abs_end": "5:58:20", "duration": "5:58:20",
+    "abs_start": "0:00", "abs_end": "5:58:40", "duration": "0:00",
     "name": "Grand Theft Auto: Vice City #2",
     "date": "2019-12-06",
+    "direct": "https://bsufiles.drhx.ru/streams/517802976.mp4",
     "games": ["gta-vice-city"]
   },
   "518306588": {
@@ -4936,9 +4946,10 @@
     "games": ["black-mesa-xen"]
   },
   "520025510.1": {
-    "youtube": "zUhQs9S7eMk", "official": false, "abs_start": "2:56:04", "abs_end": "6:37:11", "duration": "3:41:07",
+    "abs_start": "2:56:04", "abs_end": "6:37:49", "duration": "0:00",
     "name": "Grand Theft Auto: Vice City #3",
     "date": "2019-12-11",
+    "direct": "https://bsufiles.drhx.ru/streams/520025510.1.mp4",
     "games": ["gta-vice-city"]
   },
   "520877239": {
@@ -4978,15 +4989,17 @@
     "games": ["spore", "jump-king"]
   },
   "524415764": {
-    "youtube": "JHKz63TlQDA", "official": false, "abs_start": "0:00", "abs_end": "2:05:09", "duration": "2:05:09",
+    "abs_start": "0:00", "abs_end": "2:05:09", "duration": "0:00",
     "name": "Jump King #3",
     "date": "2019-12-21",
+    "direct": "https://bsufiles.drhx.ru/streams/524415764.mp4",
     "games": ["jump-king"]
   },
   "524415764.1": {
-    "youtube": "WQmP4j4GFo8", "official": false, "abs_start": "2:05:09", "abs_end": "6:57:25", "duration": "4:52:16",
+    "abs_start": "2:05:09", "abs_end": "6:57:47", "duration": "0:00",
     "name": "Last Year - Chapter 1: After Dark / Secret Neighbor #3 / Pummel Party #6 (6D)",
     "date": "2019-12-21",
+    "direct": "https://bsufiles.drhx.ru/streams/524415764.1.mp4",
     "games": ["last-year", "secret-neighbor", "pummel-party"]
   },
   "524865260": {
@@ -5069,9 +5082,10 @@
     "games": ["life-is-strange-2"]
   },
   "533269694": {
-    "youtube": "wqaPnxizceM", "official": false, "abs_start": "0:00", "abs_end": "5:59:47", "duration": "5:59:47",
+    "abs_start": "0:00", "abs_end": "5:59:58", "duration": "0:00",
     "name": "Grand Theft Auto: San Andreas #1",
     "date": "2020-01-09",
+    "direct": "https://bsufiles.drhx.ru/streams/533269694.mp4",
     "games": ["gta-san-andreas"]
   },
   "533755753": {
@@ -5093,9 +5107,10 @@
     "games": ["gta-san-andreas"]
   },
   "535374681": {
-    "youtube": "zfXgarhT6oE", "official": false, "abs_start": "0:00", "abs_end": "5:41:58", "duration": "5:41:58",
+    "abs_start": "0:00", "abs_end": "5:42:10", "duration": "0:00",
     "name": "Grand Theft Auto: San Andreas #4",
     "date": "2020-01-13",
+    "direct": "https://bsufiles.drhx.ru/streams/535374681.mp4",
     "games": ["gta-san-andreas"]
   },
   "535873254": {
@@ -5124,9 +5139,10 @@
     "games": ["gta-san-andreas", "crazy-ls"]
   },
   "542106142": {
-    "youtube": "HRjTiFcRFSw", "official": false, "abs_start": "0:00", "abs_end": "5:50:31", "duration": "5:50:31",
+    "abs_start": "0:00", "abs_end": "5:51:09", "duration": "0:00",
     "name": "Grand Theft Auto: San Andreas #6",
     "date": "2020-01-26",
+    "direct": "https://bsufiles.drhx.ru/streams/542106142.mp4",
     "games": ["gta-san-andreas"]
   },
   "542613780": {
@@ -5173,9 +5189,10 @@
     "games": ["dead-space-2"]
   },
   "547176657": {
-    "youtube": "N-ZURUWlVK0", "official": false, "abs_start": "0:00", "abs_end": "6:08:14", "duration": "6:08:14",
+    "abs_start": "0:00", "abs_end": "6:08:43", "duration": "0:00",
     "name": "Grand Theft Auto: San Andreas #7 / Destiny 2 #1 (с Triplewipe)",
     "date": "2020-02-05",
+    "direct": "https://bsufiles.drhx.ru/streams/547176657.mp4",
     "games": ["gta-san-andreas", "destiny-2"]
   },
   "548170121": {
@@ -5254,9 +5271,10 @@
     "games": ["dreams"]
   },
   "554432443": {
-    "youtube": "qYxVPDHlrDs", "official": false, "abs_start": "0:00", "abs_end": "6:03:35", "duration": "6:03:35",
+    "abs_start": "0:00", "abs_end": "6:03:56", "duration": "0:00",
     "name": "Grand Theft Auto: San Andreas #9",
     "date": "2020-02-19",
+    "direct": "https://bsufiles.drhx.ru/streams/554432443.mp4",
     "games": ["gta-san-andreas"]
   },
   "555473037": {
@@ -5608,9 +5626,10 @@
     "games": ["snowrunner"]
   },
   "610027262": {
-    "youtube": "xy9k6DNpZms", "official": false, "abs_start": "0:00", "abs_end": "6:04:58", "duration": "6:04:58",
+    "abs_start": "0:00", "abs_end": "6:04:53", "duration": "0:00",
     "name": "SnowRunner #4",
     "date": "2020-05-03",
+    "direct": "https://bsufiles.drhx.ru/streams/610027262.mp4",
     "games": ["snowrunner"]
   },
   "610935319": {
@@ -6170,9 +6189,10 @@
     "games": ["marvel-avengers"]
   },
   "729970116": {
-    "youtube": "tG703ZdrgUs", "official": false, "abs_start": "0:00", "abs_end": "7:13:50", "duration": "7:13:50",
+    "abs_start": "0:00", "abs_end": "7:14:52", "duration": "0:00",
     "name": "Marvel's Avengers #3 / Tony Hawk's Pro Skater 1+2",
     "date": "2020-09-03",
+    "direct": "https://bsufiles.drhx.ru/streams/729970116.mp4",
     "games": ["marvel-avengers", "first-2020"]
   },
   "731025039": {
@@ -8229,9 +8249,10 @@
     "games": ["single", "unmetal"]
   },
   "1167157790": {
-    "youtube": "yZWGYBhY7Kc", "abs_start": "0:00", "abs_end": "7:37:48", "duration": "7:37:48",
+    "abs_start": "0:00", "abs_end": "7:38:03", "duration": "0:00",
     "name": "Alan Wake Remastered #1 / Far Cry 6 #1",
     "date": "2021-10-04",
+    "direct": "https://bsufiles.drhx.ru/streams/1167157790.mp4",
     "games": ["alan-wake", "far-cry-6"]
   },
   "1168006082": {
@@ -8475,9 +8496,10 @@
     "games": ["bf-2042"]
   },
   "1206191026": {
-    "youtube": "AJBtaawXqPc", "official": false, "abs_start": "0:00", "abs_end": "5:58:32", "duration": "5:57:57",
+    "abs_start": "0:00", "abs_end": "5:58:42", "duration": "0:00",
     "name": "Grand Theft Auto III - Definitive Edition / Grand Theft Auto: Vice City - Definitive Edition #1 / Grand Theft Auto: San Andreas - Definitive Edition #1",
     "date": "2021-11-15",
+    "direct": "https://bsufiles.drhx.ru/streams/1206191026.mp4",
     "cuts": [[14958, 14993]],
     "games": ["first-2021", "gta-vice-city", "gta-san-andreas"]
   },
@@ -10168,9 +10190,10 @@
     "games": ["hl-bs-r", "nightmare-house-2"]
   },
   "1690022559": {
-    "youtube": "W1uP8zuIHwc", "abs_start": "0:00", "abs_end": "6:05:17", "duration": "6:05:17",
+    "abs_start": "0:00", "abs_end": "6:05:30", "duration": "0:00",
     "name": "Симулятор Прыгания по Гаражам / Creature Lab (демо) / Who Knocks / FAITH - Chapter II",
     "date": "2022-12-27",
+    "direct": "https://bsufiles.drhx.ru/streams/1690022559.mp4",
     "games": ["first-2022", "faith"]
   },
   "1690952607": {
@@ -10287,7 +10310,6 @@
     "youtube": "17Y8AM4BQpY", "official": false, "abs_start": "0:00", "abs_end": "4:29:55", "duration": "4:29:55",
     "name": "Alone in the Dark: Inferno #3",
     "date": "2023-01-23",
-    "torrent": "https://bsufiles.drhx.ru/streams/1716026704.torrent",
     "games": ["aitd"]
   },
   "1716951120": {
@@ -10300,14 +10322,12 @@
     "youtube": "7xTnK3PRI60", "abs_start": "0:00", "abs_end": "6:16:17", "duration": "6:16:17",
     "name": "Hi-Fi Rush",
     "date": "2023-01-26",
-    "torrent": "https://bsufiles.drhx.ru/streams/1718922216.torrent",
     "games": ["first-2023"]
   },
   "1719885871": {
     "youtube": "TKWaNknIhDA", "abs_start": "0:00", "abs_end": "6:46:13", "duration": "6:46:13",
     "name": "Dead Space - Перед Remake / Dead Space Remake #1",
     "date": "2023-01-27",
-    "torrent": "https://bsufiles.drhx.ru/streams/1719885871.torrent",
     "games": ["dead-space", "dead-space-remake"]
   },
   "1720890176": {
@@ -10315,28 +10335,24 @@
     "name": "Dead Space Remake #2",
     "date": "2023-01-28",
     "cuts": [[20108, 20139]],
-    "torrent": "https://bsufiles.drhx.ru/streams/1720890176.torrent",
     "games": ["dead-space-remake"]
   },
   "1721949320": {
     "youtube": "dLHXsnU8-Mk", "abs_start": "0:00", "abs_end": "10:10:53", "duration": "10:10:53",
     "name": "Dead Space Remake #3",
     "date": "2023-01-29",
-    "torrent": "https://bsufiles.drhx.ru/streams/1721949320.torrent",
     "games": ["dead-space-remake"]
   },
   "1723929865": {
     "youtube": "WRHqbuCONWM", "abs_start": "0:00", "abs_end": "2:46:45", "duration": "2:46:45",
     "name": "SpongeBob SquarePants: The Cosmic Shake / Dead Space Remake - Костюм 6-го уровня",
     "date": "2023-01-31",
-    "torrent": "https://bsufiles.drhx.ru/streams/1723929865.torrent",
     "games": ["first-2023", "dead-space-remake"]
   },
   "1725890606": {
     "youtube": "reyuInGxzBg", "abs_start": "0:00", "abs_end": "5:53:04", "duration": "5:53:04",
     "name": "Heart Attack / Robotization: The Last Human (демо) / The Director's Disorder: Pilot Episode / Arrogation: Unlight of Day / NOX: Chapter I",
     "date": "2023-02-02",
-    "torrent": "https://bsufiles.drhx.ru/streams/1725890606.torrent",
     "games": ["single", "first-2023"]
   },
   "1726837212": {
@@ -10344,7 +10360,6 @@
     "name": "Deliver Us Mars #1",
     "date": "2023-02-03",
     "cuts": [[16449, 16479]],
-    "torrent": "https://bsufiles.drhx.ru/streams/1726837212.torrent",
     "games": ["deliver-us-mars"]
   },
   "1727935216": {

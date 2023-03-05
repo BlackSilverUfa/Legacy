@@ -94,9 +94,9 @@
         <i class="fas fa-comments"></i> 16989
       </a>
     </span>
-    <span class="badge badge-success">
-      <a href="https://www.youtube.com/watch?v=lVLsdWSH_h0" target="_blank">
-        <i class="fab fa-youtube"></i> lVLsdWSH_h0
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/354067956.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -110,6 +110,11 @@
     <li><a data-value="208">3:28</a> — Стримлер (кродёться)</li>
     <li><a data-value="251">4:11</a> — Стримлер</li>
     <li><a data-value="1021">17:01</a> — Трейлер Beasts of Bermuda</li>
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li><a data-value="1104">18:24</a> - <a data-value="1159">19:19</a> — John Williams - Main Theme (From "Jurassic Park")</li>
+  </ul>
+
     <li><a data-value="1561">26:01</a> — Меню</li>
     <li><a data-value="1710">28:30</a> — Игра</li>
     <li><a data-value="5848">1:37:28</a> — Взрыв Авроры</li>
@@ -124,13 +129,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="0" data-hash="354067956" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v354067956.ass" data-name="1" data-youtube="lVLsdWSH_h0" />
+  <p class="stream" data-id="0" data-hash="354067956" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v354067956.ass" data-name="1" data-direct="https://bsufiles.drhx.ru/streams/354067956.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v354067956.ass ytdl://lVLsdWSH_h0
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v354067956.ass https://bsufiles.drhx.ru/streams/354067956.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v354067956.ass" --player-passthrough hls twitch.tv/videos/354067956 best
 </code></pre>
 </div>
 
