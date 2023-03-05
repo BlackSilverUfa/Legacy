@@ -10284,10 +10284,9 @@
     "games": ["first-2023", "single"]
   },
   "1716026704": {
-    "abs_start": "0:00", "abs_end": "4:30:16", "duration": "0:00",
+    "youtube": "17Y8AM4BQpY", "official": false, "abs_start": "0:00", "abs_end": "4:29:55", "duration": "4:29:55",
     "name": "Alone in the Dark: Inferno #3",
     "date": "2023-01-23",
-    "direct": "https://bsufiles.drhx.ru/streams/1716026704.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1716026704.torrent",
     "games": ["aitd"]
   },
