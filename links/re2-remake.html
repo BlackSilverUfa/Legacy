@@ -94,9 +94,9 @@
         <i class="fas fa-comments"></i> 21436
       </a>
     </span>
-    <span class="badge badge-success">
-      <a href="https://www.youtube.com/watch?v=lGf2q-aH-Nc" target="_blank">
-        <i class="fab fa-youtube"></i> lGf2q-aH-Nc
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/362192911.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -121,6 +121,11 @@
     <li><a data-value="2031">33:51</a> — Catherine</li>
   </ul>
 
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li><a data-value="1451">24:11</a> - <a data-value="1469">24:29</a> — Alice In Chains - Would?</li>
+  </ul>
+
       <li>Resident Evil 2:</li>
   <ul>
     <li><a data-value="2184">36:24</a> — Меню</li>
@@ -141,13 +146,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="0" data-hash="362192911" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v362192911.ass" data-start="15544" data-name="1-Shot Demo" data-youtube="lGf2q-aH-Nc" />
+  <p class="stream" data-id="0" data-hash="362192911" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v362192911.ass" data-start="15544" data-name="1-Shot Demo" data-direct="https://bsufiles.drhx.ru/streams/362192911.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v362192911.ass --start=15544 ytdl://lGf2q-aH-Nc
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v362192911.ass --start=15544 https://bsufiles.drhx.ru/streams/362192911.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v362192911.ass --start=15544" --player-passthrough hls twitch.tv/videos/362192911 best
 </code></pre>
 </div>
 

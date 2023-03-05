@@ -439,7 +439,7 @@
     "games": ["ds3"]
   },
   "001605120": {
-    "youtube": "YY5W9QZwTms", "official": false, "abs_start": "0:00", "abs_end": "4:10:06", "duration": "4:10:06",
+    "youtube": "TIfasrnVTtU", "official": false, "abs_start": "0:00", "abs_end": "4:10:06", "duration": "4:10:06",
     "name": "Dark Souls 3 #3",
     "date": "2016-05-12",
     "games": ["ds3"]
@@ -457,15 +457,17 @@
     "games": ["ds3"]
   },
   "001605240": {
-    "youtube": "-_9vZHF-plc", "official": false, "abs_start": "0:00", "abs_end": "5:31:34", "duration": "5:31:34",
+    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
     "name": "Dark Souls 3 #5",
     "date": "2016-05-24",
+    "direct": "https://bsufiles.drhx.ru/streams/001605240.mp4",
     "games": ["ds3"]
   },
   "001605270": {
-    "youtube": "PcBR7_DPG3A", "official": false, "abs_start": "0:00", "abs_end": "4:17:45", "duration": "4:17:45",
+    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
     "name": "Dark Souls 3 #6",
     "date": "2016-05-27",
+    "direct": "https://bsufiles.drhx.ru/streams/001605270.mp4",
     "games": ["ds3"]
   },
   "001605310": {
@@ -529,9 +531,10 @@
     "games": ["tes-morrowind"]
   },
   "001608240": {
-    "youtube": "TCp0oJB3erg", "abs_start": "0:00", "abs_end": "5:39:57", "duration": "5:39:57",
+    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
     "name": "Nioh - Бета 1 #1",
     "date": "2016-08-24",
+    "direct": "https://bsufiles.drhx.ru/streams/001608240.mp4",
     "games": ["nioh"]
   },
   "001608250": {
@@ -571,13 +574,14 @@
     "games": ["fallout-2"]
   },
   "001610070": {
-    "youtube": "tGeDEEARrMU", "official": false, "abs_start": "0:00", "abs_end": "5:56:24", "duration": "5:56:24",
+    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
     "name": "Mafia III #1",
     "date": "2016-10-07",
+    "direct": "https://bsufiles.drhx.ru/streams/001610070.mp4",
     "games": ["mafia-3"]
   },
   "001610100": {
-    "youtube": "aMzB3OqCJg4", "official": false, "abs_start": "0:00", "abs_end": "3:22:37", "duration": "3:22:37",
+    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
     "name": "Mafia III #2",
     "date": "2016-10-10",
     "games": ["mafia-3"]
@@ -2073,9 +2077,10 @@
     "games": ["ds2-scholar"]
   },
   "264290927": {
-    "youtube": "gGqgvMS4Iu8", "official": false, "abs_start": "0:00", "abs_end": "42:21", "duration": "42:21",
+    "abs_start": "0:00", "abs_end": "42:48", "duration": "0:00",
     "name": "Dark Souls 2: Scholar of the First Sin #4 (часть 4)",
     "date": "2018-05-22",
+    "direct": "https://bsufiles.drhx.ru/streams/264290927.mp4",
     "games": ["ds2-scholar"]
   },
   "264598516": {
@@ -2409,9 +2414,10 @@
     "games": ["crazy-ls"]
   },
   "284156303": {
-    "youtube": "MUpw9ehsZjg", "abs_start": "-0:04", "abs_end": "5:10:14", "duration": "5:10:18",
+    "abs_start": "-0:04", "abs_end": "5:11:06", "duration": "0:00",
     "name": "Depth #2 / Friday the 13th #3 / Drunk-Fu: Wasted Masters / Tricky Towers #2 / Golf It! #5",
     "date": "2018-07-13",
+    "direct": "https://bsufiles.drhx.ru/streams/284156303.mp4",
     "games": ["depth", "friday-13th", "co-op", "tricky-towers", "golf-it"]
   },
   "284560594": {
@@ -3267,9 +3273,10 @@
     "games": ["single"]
   },
   "362192911": {
-    "youtube": "lGf2q-aH-Nc", "abs_start": "0:00", "abs_end": "5:00:24", "duration": "5:00:24",
+    "abs_start": "0:00", "abs_end": "5:00:19", "duration": "0:00",
     "name": "Resident Evil 2 #1 / Resident Evil 2 Remake - 1-Shot Demo",
     "date": "2019-01-11",
+    "direct": "https://bsufiles.drhx.ru/streams/362192911.mp4",
     "games": ["re2", "re2-remake"]
   },
   "362701428": {
@@ -4736,9 +4743,10 @@
     "games": ["co-op", "sea-of-thieves", "tricky-towers"]
   },
   "497590135": {
-    "youtube": "L2Ett7tGTIw", "official": false, "abs_start": "0:00", "abs_end": "5:53:18", "duration": "5:53:18",
+    "abs_start": "0:00", "abs_end": "5:53:56", "duration": "0:00",
     "name": "Mafia: City of Lost Heaven #3",
     "date": "2019-10-21",
+    "direct": "https://bsufiles.drhx.ru/streams/497590135.mp4",
     "games": ["mafia"]
   },
   "498426882": {
@@ -4804,9 +4812,10 @@
     "games": ["first-2019", "mafia-2"]
   },
   "504672487": {
-    "youtube": "Ag8LclImehU", "abs_start": "0:00", "abs_end": "5:08:53", "duration": "5:08:53",
+    "abs_start": "0:00", "abs_end": "5:09:41", "duration": "0:00",
     "name": "Mafia II #5 / Planet Zoo",
     "date": "2019-11-06",
+    "direct": "https://bsufiles.drhx.ru/streams/504672487.mp4",
     "games": ["mafia-2", "first-2019"]
   },
   "505477026": {
@@ -6095,9 +6104,10 @@
     "games": ["first-2020", "remnant-from-the-ashes"]
   },
   "721969297": {
-    "youtube": "Xug4C8e05T4", "official": false, "abs_start": "0:00", "abs_end": "6:13:10", "duration": "6:13:10",
+    "abs_start": "0:00", "abs_end": "6:13:53", "duration": "0:00",
     "name": "Mafia: City of Lost Heaven #1 (заново) / Mafia: Definitive Edition - Демо",
     "date": "2020-08-26",
+    "direct": "https://bsufiles.drhx.ru/streams/721969297.mp4",
     "games": ["mafia", "mafia-de"]
   },
   "723011325": {
@@ -9595,9 +9605,10 @@
     "games": ["co-op"]
   },
   "1570142913": {
-    "youtube": "JIkK2jt6rr0", "official": false, "abs_start": "0:00", "abs_end": "10:10:05", "duration": "10:10:05",
+    "abs_start": "0:00", "abs_end": "10:10:20", "duration": "0:00",
     "name": "Saints Row (2022) / Gamescom #2022",
     "date": "2022-08-23",
+    "direct": "https://bsufiles.drhx.ru/streams/1570142913.mp4",
     "games": ["first-2022", "gamescom"]
   },
   "1572044648": {
@@ -10377,14 +10388,12 @@
     "name": "Hogwarts Legacy #1",
     "date": "2023-02-06",
     "cuts": [[21131, 21161]],
-    "torrent": "https://bsufiles.drhx.ru/streams/1729899835.torrent",
     "games": ["hogwarts"]
   },
   "1730836289": {
     "youtube": "fWAzcVTL4X0", "abs_start": "0:00", "abs_end": "9:06:49", "duration": "9:06:49",
     "name": "Hogwarts Legacy #2",
     "date": "2023-02-07",
-    "torrent": "https://bsufiles.drhx.ru/streams/1730836289.torrent",
     "games": ["hogwarts"]
   },
   "1731887577": {

@@ -927,9 +927,9 @@
         <i class="fas fa-comments"></i> 13723
       </a>
     </span>
-    <span class="badge badge-success">
-      <a href="https://www.youtube.com/watch?v=MUpw9ehsZjg" target="_blank">
-        <i class="fab fa-youtube"></i> MUpw9ehsZjg
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/284156303.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -947,6 +947,11 @@
     <li>Таймкоды:</li>
   <ul>
     <li><a data-value="92">1:32</a> — <a href="https://youtu.be/aFNfnD_snwo">Lori Anger - Миньоны Блэка</a></li>
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li><a data-value="894">14:54</a> - <a data-value="925">15:25</a> — Jay Smith - Like A Prayer</li>
+  </ul>
+
     <li><a data-value="2162">36:02</a> — Drunk-Fu: Wasted Masters (кооп не найден)</li>
       <li>Depth:</li>
   <ul>
@@ -991,13 +996,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="13" data-hash="284156303" data-offset="-4" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v284156303.ass" data-start="12417" data-name="Drunk-Fu: Wasted Masters" data-youtube="MUpw9ehsZjg" />
+  <p class="stream" data-id="13" data-hash="284156303" data-offset="-4" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v284156303.ass" data-start="12417" data-name="Drunk-Fu: Wasted Masters" data-direct="https://bsufiles.drhx.ru/streams/284156303.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v284156303.ass --sub-delay=4 --start=12417 ytdl://MUpw9ehsZjg
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v284156303.ass --sub-delay=4 --start=12417 https://bsufiles.drhx.ru/streams/284156303.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v284156303.ass --sub-delay=4 --start=12417" --player-passthrough hls twitch.tv/videos/284156303 best
 </code></pre>
 </div>
 
