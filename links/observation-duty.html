@@ -329,16 +329,15 @@
         <i class="fas fa-comments"></i> 24042
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=wMWtRxrtgg8" target="_blank">
-        <i class="fab fa-youtube"></i> wMWtRxrtgg8
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/1102702263.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
 </div>
 
 <ul>
-  <li>Примечание: <a href="https://youtu.be/O0nnLNMHF7c">Официальную запись</a> невозможно использовать на этом сайте из-за ограничений встраивания</li>
   <li>Связанные игры:</li>
   <ul>
     <li><a href="/links/first-2021.html">Первый взгляд 2021</a> — <a href="/links/first-2021.html#1102702263">Microsoft Flight Simulator / The Ascent</a></li>
@@ -361,6 +360,7 @@
     <li><a data-value="10645">2:57:25</a> — <a href="https://youtu.be/E9RKyGaeVKo">Lori Anger - Radio BDT 2</a></li>
       <li>Проблемы с правообладателями:</li>
   <ul>
+    <li><a data-value="11475">3:11:15</a> - <a data-value="11488">3:11:28</a> — Céline Dion - My Heart Will Go On</li>
     <li><a data-value="11829">3:17:09</a> - <a data-value="11886">3:18:06</a> — Иван Васильевич меняет профессию (запрещено встраивание на сайты)</li>
   </ul>
 
@@ -409,13 +409,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="2" data-hash="1102702263" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2021@master/v1102702263.ass" data-start="18643" data-name="Часть 2 #2 / Часть 3" data-youtube="wMWtRxrtgg8" />
+  <p class="stream" data-id="2" data-hash="1102702263" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2021@master/v1102702263.ass" data-start="18643" data-name="Часть 2 #2 / Часть 3" data-direct="https://bsufiles.drhx.ru/streams/1102702263.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2021@master/v1102702263.ass --start=18643 ytdl://wMWtRxrtgg8
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2021@master/v1102702263.ass --start=18643 https://bsufiles.drhx.ru/streams/1102702263.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2021@master/v1102702263.ass --start=18643" --player-passthrough hls twitch.tv/videos/1102702263 best
 </code></pre>
 </div>
 

@@ -181,9 +181,9 @@
         <i class="fas fa-comments"></i> 21892
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=CKJFAXtqNYw" target="_blank">
-        <i class="fab fa-youtube"></i> CKJFAXtqNYw
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/502940448.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -257,6 +257,11 @@
   <ul>
     <li><a data-value="9237">2:33:57</a> - <a data-value="9320">2:35:20</a> — The Andrews Sisters - Boogie Woogie Bugle Boy (Single Version)</li>
     <li>
+      <a data-value="9430">2:37:10</a> - <a data-value="9536">2:38:56</a>,
+      <a data-value="11358">3:09:18</a> - <a data-value="11474">3:11:14</a>
+      — Al Hirt - Java
+    </li>
+    <li>
       <a data-value="11895">3:18:15</a> - <a data-value="11993">3:19:53</a>,
       <a data-value="11992">3:19:52</a> - <a data-value="12056">3:20:56</a>
       — Tommy Dorsey & His Orchestra, Edythe Wright - The Dipsy Doodle
@@ -270,13 +275,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="1" data-hash="502940448" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v502940448.ass" data-start="9000" data-name="2" data-youtube="CKJFAXtqNYw" />
+  <p class="stream" data-id="1" data-hash="502940448" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v502940448.ass" data-start="9000" data-name="2" data-direct="https://bsufiles.drhx.ru/streams/502940448.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v502940448.ass --start=9000 ytdl://CKJFAXtqNYw
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v502940448.ass --start=9000 https://bsufiles.drhx.ru/streams/502940448.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v502940448.ass --start=9000" --player-passthrough hls twitch.tv/videos/502940448 best
 </code></pre>
 </div>
 

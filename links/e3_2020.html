@@ -527,9 +527,9 @@
         <i class="fas fa-comments"></i> 21452
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=v_IvB1cnhwY" target="_blank">
-        <i class="fab fa-youtube"></i> v_IvB1cnhwY
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/676500778.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -557,6 +557,12 @@
   </ul>
 
     <li><a data-value="1687">28:07</a> — Coub'ы и клипы</li>
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li><a data-value="1788">29:48</a> - <a data-value="1804">30:04</a> — Perry Como - Papa Loves Mambo</li>
+    <li><a data-value="21561">5:59:21</a> - <a data-value="21576">5:59:36</a> — Céline Dion - My Heart Will Go On</li>
+  </ul>
+
       <li>Wreckfest:</li>
   <ul>
     <li><a data-value="3518">58:38</a> — Меню</li>
@@ -592,13 +598,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="4" data-hash="676500778" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v676500778.ass" data-start="21651" data-name="Devolver Digital" data-youtube="v_IvB1cnhwY" />
+  <p class="stream" data-id="4" data-hash="676500778" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v676500778.ass" data-start="21651" data-name="Devolver Digital" data-direct="https://bsufiles.drhx.ru/streams/676500778.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v676500778.ass --start=21651 ytdl://v_IvB1cnhwY
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v676500778.ass --start=21651 https://bsufiles.drhx.ru/streams/676500778.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v676500778.ass --start=21651" --player-passthrough hls twitch.tv/videos/676500778 best
 </code></pre>
 </div>
 

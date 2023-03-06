@@ -276,9 +276,10 @@
     "games": ["alien-isolation-dw"]
   },
   "001601190": {
-    "youtube": "kq3R_votpxc", "abs_start": "0:00", "abs_end": "4:55:30", "duration": "4:55:30",
+    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
     "name": "Alien: Isolation (с Дашей) #3",
     "date": "2016-01-19",
+    "direct": "https://bsufiles.drhx.ru/streams/001601190.mp4",
     "games": ["alien-isolation-dw"]
   },
   "001601260": {
@@ -288,9 +289,10 @@
     "games": ["alien-isolation-dw"]
   },
   "001601300": {
-    "youtube": "X_6FvWLq1Xo", "abs_start": "0:00", "abs_end": "5:41:43", "duration": "5:41:43",
+    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
     "name": "Alien: Isolation (с Дашей) #5",
     "date": "2016-01-30",
+    "direct": "https://bsufiles.drhx.ru/streams/001601300.mp4",
     "games": ["alien-isolation-dw"]
   },
   "001602060": {
@@ -439,9 +441,10 @@
     "games": ["ds3"]
   },
   "001605120": {
-    "youtube": "TIfasrnVTtU", "official": false, "abs_start": "0:00", "abs_end": "4:10:06", "duration": "4:10:06",
+    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
     "name": "Dark Souls 3 #3",
     "date": "2016-05-12",
+    "direct": "https://bsufiles.drhx.ru/streams/001605120.mp4",
     "games": ["ds3"]
   },
   "001605140": {
@@ -471,9 +474,10 @@
     "games": ["ds3"]
   },
   "001605310": {
-    "youtube": "wtig_YaME6A", "official": false, "abs_start": "0:00", "abs_end": "4:24:09", "duration": "4:24:09",
+    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
     "name": "Hitman #3 - Marrakesh",
     "date": "2016-05-31",
+    "direct": "https://bsufiles.drhx.ru/streams/001605310.mp4",
     "games": ["hitman"]
   },
   "001607030": {
@@ -4345,9 +4349,10 @@
     "games": ["gears-of-war-2"]
   },
   "454019548": {
-    "youtube": "YN30SaQxsMs", "official": false, "abs_start": "0:00", "abs_end": "2:55:42", "duration": "2:55:42",
+    "abs_start": "0:00", "abs_end": "2:55:41", "duration": "0:00",
     "name": "Thief Simulator",
     "date": "2019-07-17",
+    "direct": "https://bsufiles.drhx.ru/streams/454019548.mp4",
     "games": ["first-2019"]
   },
   "454019548.1": {
@@ -4793,9 +4798,10 @@
     "games": ["mafia-2", "outlast-2"]
   },
   "502940448": {
-    "youtube": "CKJFAXtqNYw", "official": false, "abs_start": "0:00", "abs_end": "5:13:53", "duration": "5:13:53",
+    "abs_start": "0:00", "abs_end": "5:14:28", "duration": "0:00",
     "name": "BlizzCon 2019 (обзор) / Nioh 2 - Бета / Mafia II #2",
     "date": "2019-11-02",
+    "direct": "https://bsufiles.drhx.ru/streams/502940448.mp4",
     "games": ["expos", "nioh-2", "mafia-2"]
   },
   "503413959": {
@@ -5107,9 +5113,10 @@
     "games": ["gta-san-andreas"]
   },
   "534316789": {
-    "youtube": "BTcUOakBZJ0", "official": false, "abs_start": "0:00", "abs_end": "5:01:54", "duration": "5:01:54",
+    "abs_start": "0:00", "abs_end": "5:02:18", "duration": "0:00",
     "name": "Grand Theft Auto: San Andreas #3 (часть 2)",
     "date": "2020-01-11",
+    "direct": "https://bsufiles.drhx.ru/streams/534316789.mp4",
     "games": ["gta-san-andreas"]
   },
   "535374681": {
@@ -5951,9 +5958,10 @@
     "games": ["unboxing", "destroy-all-humans", "re7"]
   },
   "676500778": {
-    "youtube": "v_IvB1cnhwY", "official": false, "abs_start": "0:00", "abs_end": "6:52:23", "duration": "6:52:23",
+    "abs_start": "0:00", "abs_end": "6:52:51", "duration": "0:00",
     "name": "Розыгрыш Asus ROG Strix Scope / Wreckfest #3 / Sea of Thieves #11 / неПрофессиональный E3 2020 - Devolver Digital",
     "date": "2020-07-11",
+    "direct": "https://bsufiles.drhx.ru/streams/676500778.mp4",
     "games": ["events", "wreckfest", "sea-of-thieves", "e3_2020"]
   },
   "677524120": {
@@ -7966,9 +7974,10 @@
     "games": ["sea-of-thieves"]
   },
   "1102702263": {
-    "youtube": "wMWtRxrtgg8", "official": false, "abs_start": "0:00", "abs_end": "6:50:21", "duration": "6:50:21",
+    "abs_start": "0:00", "abs_end": "6:50:35", "duration": "0:00",
     "name": "Microsoft Flight Simulator / The Ascent / I'm on Observation Duty - Часть 2 #2 / I'm on Observation Duty - Часть 3",
     "date": "2021-07-30",
+    "direct": "https://bsufiles.drhx.ru/streams/1102702263.mp4",
     "games": ["first-2021", "observation-duty"]
   },
   "1103759348": {
@@ -8356,15 +8365,17 @@
     "games": ["house-of-ashes"]
   },
   "1186535358": {
-    "youtube": "N25h-6sOrtU", "official": false, "abs_start": "0:00", "abs_end": "7:15:57", "duration": "7:15:57",
+    "abs_start": "0:00", "abs_end": "7:16:35", "duration": "0:00",
     "name": "Marvel's Guardians of the Galaxy #1",
     "date": "2021-10-25",
+    "direct": "https://bsufiles.drhx.ru/streams/1186535358.mp4",
     "games": ["marvel-gotg"]
   },
   "1187388604": {
-    "youtube": "cp-JLHNhhiA", "official": false, "abs_start": "0:00", "abs_end": "8:08:48", "duration": "8:08:48",
+    "abs_start": "0:00", "abs_end": "8:08:59", "duration": "0:00",
     "name": "Marvel's Guardians of the Galaxy #2",
     "date": "2021-10-26",
+    "direct": "https://bsufiles.drhx.ru/streams/1187388604.mp4",
     "games": ["marvel-gotg"]
   },
   "1188297728": {
@@ -10399,7 +10410,6 @@
     "youtube": "yDa_Pno-t1o", "abs_start": "0:00", "abs_end": "8:24:50", "duration": "8:24:50",
     "name": "Hogwarts Legacy #3",
     "date": "2023-02-08",
-    "torrent": "https://bsufiles.drhx.ru/streams/1731887577.torrent",
     "games": ["hogwarts"]
   },
   "1732877770": {
@@ -10407,21 +10417,18 @@
     "name": "Hogwarts Legacy #4",
     "date": "2023-02-09",
     "cuts": [[23080, 23117]],
-    "torrent": "https://bsufiles.drhx.ru/streams/1732877770.torrent",
     "games": ["hogwarts"]
   },
   "1733865086": {
     "youtube": "gCrfWqg0rs4", "abs_start": "0:00", "abs_end": "2:09:33", "duration": "2:09:33",
     "name": "Hogwarts Legacy #5",
     "date": "2023-02-10",
-    "torrent": "https://bsufiles.drhx.ru/streams/1733865086.torrent",
     "games": ["hogwarts"]
   },
   "1734914714": {
     "youtube": "jVOxdxx45tI", "abs_start": "0:00", "abs_end": "8:52:02", "duration": "8:52:02",
     "name": "Hogwarts Legacy #6",
     "date": "2023-02-11",
-    "torrent": "https://bsufiles.drhx.ru/streams/1734914714.torrent",
     "games": ["hogwarts"]
   },
   "1736000179": {

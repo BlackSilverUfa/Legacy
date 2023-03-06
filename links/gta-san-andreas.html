@@ -341,9 +341,9 @@
         <i class="fas fa-comments"></i> 29431
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=BTcUOakBZJ0" target="_blank">
-        <i class="fab fa-youtube"></i> BTcUOakBZJ0
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/534316789.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -356,17 +356,22 @@
     <li><a data-value="277">4:37</a> — Игра</li>
     <li><a data-value="2762">46:02</a> — Парашют</li>
     <li><a data-value="3910">1:05:10</a> — Послушайте пока музыку</li>
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li>
+      <a data-value="4093">1:08:13</a> - <a data-value="4228">1:10:28</a>,
+      <a data-value="10845">3:00:45</a> - <a data-value="10920">3:02:00</a>
+      — Jerry Reed - Amos Moses
+    </li>
+    <li><a data-value="5250">1:27:30</a> - <a data-value="5310">1:28:30</a> — Conway Twitty, Loretta Lynn - Louisiana Woman, Mississippi Man (Single Version)</li>
+    <li><a data-value="10467">2:54:27</a> - <a data-value="10593">2:56:33</a> — Hank Williams - Hey Good Lookin' (Live At The Grand Ole Opry/1951)</li>
+  </ul>
+
     <li>
       <a data-value="4239">1:10:39</a>,
       <a data-value="4978">1:22:58</a>
       — Безумные трюки
     </li>
-      <li>Проблемы с правообладателями:</li>
-  <ul>
-    <li><a data-value="5250">1:27:30</a> - <a data-value="5310">1:28:30</a> — Conway Twitty, Loretta Lynn - Louisiana Woman, Mississippi Man (Single Version)</li>
-    <li><a data-value="10467">2:54:27</a> - <a data-value="10593">2:56:33</a> — Hank Williams - Hey Good Lookin' (Live At The Grand Ole Opry/1951)</li>
-  </ul>
-
     <li><a data-value="6525">1:48:45</a> - <a data-value="7516">2:05:16</a> — Перерыв на хайповоз</li>
     <li><a data-value="7200">2:00:00</a> — Оговорочка</li>
     <li><a data-value="16202">4:30:02</a> — Автошкола</li>
@@ -377,13 +382,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="3" data-hash="534316789" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v534316789.ass" data-name="3 (часть 2)" data-youtube="BTcUOakBZJ0" />
+  <p class="stream" data-id="3" data-hash="534316789" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v534316789.ass" data-name="3 (часть 2)" data-direct="https://bsufiles.drhx.ru/streams/534316789.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v534316789.ass ytdl://BTcUOakBZJ0
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v534316789.ass https://bsufiles.drhx.ru/streams/534316789.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v534316789.ass" --player-passthrough hls twitch.tv/videos/534316789 best
 </code></pre>
 </div>
 
