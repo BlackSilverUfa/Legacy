@@ -4912,10 +4912,9 @@
     "games": ["suffering-2"]
   },
   "516941489": {
-    "abs_start": "0:00", "abs_end": "6:05:58", "duration": "0:00",
+    "youtube": "MZcLL5QWVwI", "official": false, "abs_start": "0:00", "abs_end": "6:04:57", "duration": "6:04:57",
     "name": "Grand Theft Auto: Vice City #1",
     "date": "2019-12-04",
-    "direct": "https://bsufiles.drhx.ru/streams/516941489.mp4",
     "games": ["gta-vice-city"]
   },
   "517802976": {
