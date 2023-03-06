@@ -4345,10 +4345,9 @@
     "games": ["gears-of-war-2"]
   },
   "454019548": {
-    "abs_start": "0:00", "abs_end": "2:55:41", "duration": "0:00",
+    "youtube": "YN30SaQxsMs", "official": false, "abs_start": "0:00", "abs_end": "2:55:42", "duration": "2:55:42",
     "name": "Thief Simulator",
     "date": "2019-07-17",
-    "direct": "https://bsufiles.drhx.ru/streams/454019548.mp4",
     "games": ["first-2019"]
   },
   "454019548.1": {
