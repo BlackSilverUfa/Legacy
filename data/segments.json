@@ -467,10 +467,9 @@
     "games": ["ds3"]
   },
   "001605270": {
-    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
+    "youtube": "LVgf_QPbexs", "official": false, "abs_start": "0:00", "abs_end": "4:17:45", "duration": "4:17:45",
     "name": "Dark Souls 3 #6",
     "date": "2016-05-27",
-    "direct": "https://bsufiles.drhx.ru/streams/001605270.mp4",
     "games": ["ds3"]
   },
   "001605310": {
@@ -578,10 +577,9 @@
     "games": ["fallout-2"]
   },
   "001610070": {
-    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
+    "youtube": "tGeDEEARrMU", "official": false, "abs_start": "0:00", "abs_end": "5:56:24", "duration": "5:56:24",
     "name": "Mafia III #1",
     "date": "2016-10-07",
-    "direct": "https://bsufiles.drhx.ru/streams/001610070.mp4",
     "games": ["mafia-3"]
   },
   "001610100": {
