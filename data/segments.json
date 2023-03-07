@@ -289,10 +289,9 @@
     "games": ["alien-isolation-dw"]
   },
   "001601300": {
-    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
+    "youtube": "8_nAoaRSq2Q", "official": false, "abs_start": "0:00", "abs_end": "5:41:44", "duration": "5:41:44",
     "name": "Alien: Isolation (с Дашей) #5",
     "date": "2016-01-30",
-    "direct": "https://bsufiles.drhx.ru/streams/001601300.mp4",
     "games": ["alien-isolation-dw"]
   },
   "001602060": {
