@@ -365,9 +365,9 @@
         <i class="fas fa-comments"></i> 22610
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=ikmhpLk9U0g" target="_blank">
-        <i class="fab fa-youtube"></i> ikmhpLk9U0g
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/625606171.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -425,6 +425,7 @@
       <li>Проблемы с правообладателями:</li>
   <ul>
     <li><a data-value="14037">3:53:57</a> - <a data-value="14138">3:55:38</a> — The Andrews Sisters - Boogie Woogie Bugle Boy (Single Version)</li>
+    <li><a data-value="15340">4:15:40</a> - <a data-value="15493">4:18:13</a> — Kay Kyser - Praise the Lord and Pass the Ammunition</li>
     <li><a data-value="17359">4:49:19</a> - <a data-value="17542">4:52:22</a> — The Andrews Sisters - Rum And Coca-Cola (Single Version)</li>
   </ul>
 
@@ -434,13 +435,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="3" data-hash="625606171" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v625606171.ass" data-name="4" data-youtube="ikmhpLk9U0g" />
+  <p class="stream" data-id="3" data-hash="625606171" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v625606171.ass" data-name="4" data-direct="https://bsufiles.drhx.ru/streams/625606171.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v625606171.ass ytdl://ikmhpLk9U0g
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v625606171.ass https://bsufiles.drhx.ru/streams/625606171.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v625606171.ass" --player-passthrough hls twitch.tv/videos/625606171 best
 </code></pre>
 </div>
 

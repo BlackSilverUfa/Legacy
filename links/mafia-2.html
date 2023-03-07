@@ -94,9 +94,9 @@
         <i class="fas fa-comments"></i> 18315
       </a>
     </span>
-    <span class="badge badge-success">
-      <a href="https://www.youtube.com/watch?v=zDDRb0wzB-s" target="_blank">
-        <i class="fab fa-youtube"></i> zDDRb0wzB-s
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/502487271.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -127,6 +127,15 @@
     <li><a data-value="12813">3:33:33</a> — Сломано</li>
   </ul>
 
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li>
+      <a data-value="5873">1:37:53</a> - <a data-value="6000">1:40:00</a>,
+      <a data-value="6656">1:50:56</a> - <a data-value="6693">1:51:33</a>
+      — Kay Kyser - Praise the Lord and Pass the Ammunition
+    </li>
+  </ul>
+
       <li>Outlast 2:</li>
   <ul>
     <li><a data-value="12851">3:34:11</a> — Меню</li>
@@ -149,13 +158,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="0" data-hash="502487271" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v502487271.ass" data-name="1" data-youtube="zDDRb0wzB-s" />
+  <p class="stream" data-id="0" data-hash="502487271" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v502487271.ass" data-name="1" data-direct="https://bsufiles.drhx.ru/streams/502487271.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v502487271.ass ytdl://zDDRb0wzB-s
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v502487271.ass https://bsufiles.drhx.ru/streams/502487271.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v502487271.ass" --player-passthrough hls twitch.tv/videos/502487271 best
 </code></pre>
 </div>
 

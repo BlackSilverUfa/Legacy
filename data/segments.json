@@ -4783,9 +4783,10 @@
     "games": ["halloween", "luigis-mansion-3"]
   },
   "502487271": {
-    "youtube": "zDDRb0wzB-s", "abs_start": "0:00", "abs_end": "5:00:29", "duration": "5:00:29",
+    "abs_start": "0:00", "abs_end": "5:00:43", "duration": "0:00",
     "name": "Mafia II #1 / Outlast 2 - Первый взгляд",
     "date": "2019-11-01",
+    "direct": "https://bsufiles.drhx.ru/streams/502487271.mp4",
     "games": ["mafia-2", "outlast-2"]
   },
   "502940448": {
@@ -5690,9 +5691,10 @@
     "games": ["minecraft", "geoguessr"]
   },
   "620631764": {
-    "youtube": "iI9SUKEI9_4", "abs_start": "0:00", "abs_end": "5:50:52", "duration": "5:50:52",
+    "abs_start": "0:00", "abs_end": "5:51:29", "duration": "0:00",
     "name": "L.A. Noire #4",
     "date": "2020-05-14",
+    "direct": "https://bsufiles.drhx.ru/streams/620631764.mp4",
     "games": ["la-noire"]
   },
   "622728652": {
@@ -5708,9 +5710,10 @@
     "games": ["first-2020", "streets-of-rage-4", "gears-of-war-4", "snowrunner"]
   },
   "625606171": {
-    "youtube": "ikmhpLk9U0g", "official": false, "abs_start": "0:00", "abs_end": "6:03:28", "duration": "6:03:28",
+    "abs_start": "0:00", "abs_end": "6:04:09", "duration": "0:00",
     "name": "Minecraft #4 / Mafia II: Definitive Edition #1",
     "date": "2020-05-19",
+    "direct": "https://bsufiles.drhx.ru/streams/625606171.mp4",
     "games": ["minecraft", "mafia-2-definitive"]
   },
   "626564087": {
@@ -6273,9 +6276,10 @@
     "games": ["single", "fall-guys", "co-op"]
   },
   "750578050": {
-    "youtube": "qI1a0LnFxiI", "official": false, "abs_start": "0:00", "abs_end": "6:51:59", "duration": "6:51:59",
+    "abs_start": "0:00", "abs_end": "6:52:10", "duration": "0:00",
     "name": "Mafia: City of Lost Heaven #2 / Mafia: Definitive Edition #1",
     "date": "2020-09-24",
+    "direct": "https://bsufiles.drhx.ru/streams/750578050.mp4",
     "games": ["mafia", "mafia-de"]
   },
   "751534901": {
@@ -9273,9 +9277,10 @@
     "games": ["sgf-22", "backrooms-98", "first-2022", "single"]
   },
   "1495305113": {
-    "youtube": "ZOiOJGBsoqU", "abs_start": "0:00", "abs_end": "4:23:21", "duration": "4:23:21",
+    "abs_start": "0:00", "abs_end": "4:23:28", "duration": "0:00",
     "name": "Madagascar #1",
     "date": "2022-06-05",
+    "direct": "https://bsufiles.drhx.ru/streams/1495305113.mp4",
     "games": ["madagascar"]
   },
   "1497100879": {

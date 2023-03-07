@@ -193,9 +193,9 @@
         <i class="fas fa-comments"></i> 24534
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=qI1a0LnFxiI" target="_blank">
-        <i class="fab fa-youtube"></i> qI1a0LnFxiI
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/750578050.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -246,7 +246,9 @@
       <a data-value="21583">5:59:43</a> - <a data-value="21692">6:01:32</a>
       — Django Reinhardt - Darktown Strutter's Ball
     </li>
+    <li><a data-value="8488">2:21:28</a> - <a data-value="8663">2:24:23</a> — Duke Ellington - Prelude To A Kiss</li>
     <li><a data-value="8678">2:24:38</a> - <a data-value="8731">2:25:31</a> — Django Reinhardt - Belleville</li>
+    <li><a data-value="11296">3:08:16</a> - <a data-value="11351">3:09:11</a> — Harry James - Back Beat Boogie</li>
     <li><a data-value="14927">4:08:47</a> - <a data-value="15000">4:10:00</a> — Django Reinhardt, The Quintet of the Hot Club of France - A Tisket a Tasket</li>
   </ul>
 
@@ -256,13 +258,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="1" data-hash="750578050" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v750578050.ass" data-start="7233" data-name="1" data-youtube="qI1a0LnFxiI" />
+  <p class="stream" data-id="1" data-hash="750578050" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v750578050.ass" data-start="7233" data-name="1" data-direct="https://bsufiles.drhx.ru/streams/750578050.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v750578050.ass --start=7233 ytdl://qI1a0LnFxiI
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v750578050.ass --start=7233 https://bsufiles.drhx.ru/streams/750578050.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v750578050.ass --start=7233" --player-passthrough hls twitch.tv/videos/750578050 best
 </code></pre>
 </div>
 

@@ -94,9 +94,9 @@
         <i class="fas fa-comments"></i> 14162
       </a>
     </span>
-    <span class="badge badge-success">
-      <a href="https://www.youtube.com/watch?v=ZOiOJGBsoqU" target="_blank">
-        <i class="fab fa-youtube"></i> ZOiOJGBsoqU
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/1495305113.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -110,6 +110,11 @@
     <li><a data-value="292">4:52</a> - <a data-value="455">7:35</a> — Стримлер</li>
     <li><a data-value="777">12:57</a> — Меню</li>
     <li><a data-value="883">14:43</a> — Интро</li>
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li><a data-value="900">15:00</a> - <a data-value="959">15:59</a> — The Mormon Tabernacle Choir - Born Free</li>
+  </ul>
+
     <li><a data-value="957">15:57</a> — Удивление</li>
     <li><a data-value="997">16:37</a> — Игра</li>
     <li><a data-value="3677">1:01:17</a> — Что в коробке?!</li>
@@ -122,13 +127,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="0" data-hash="1495305113" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2022@master/v1495305113.ass" data-name="1" data-youtube="ZOiOJGBsoqU" />
+  <p class="stream" data-id="0" data-hash="1495305113" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2022@master/v1495305113.ass" data-name="1" data-direct="https://bsufiles.drhx.ru/streams/1495305113.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2022@master/v1495305113.ass ytdl://ZOiOJGBsoqU
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2022@master/v1495305113.ass https://bsufiles.drhx.ru/streams/1495305113.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2022@master/v1495305113.ass" --player-passthrough hls twitch.tv/videos/1495305113 best
 </code></pre>
 </div>
 
