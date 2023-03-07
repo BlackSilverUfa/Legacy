@@ -229,9 +229,9 @@
         <i class="fas fa-comments"></i> 18174
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=pLUW8VXHDNk" target="_blank">
-        <i class="fab fa-youtube"></i> pLUW8VXHDNk
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/262352362.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -266,6 +266,7 @@
     <li><a data-value="4832">1:20:32</a> - <a data-value="5010">1:23:30</a> — Не указано</li>
     <li><a data-value="7086">1:58:06</a> - <a data-value="7200">2:00:00</a> — Daryl Hall & John Oates - I Can't Go For That (No Can Do)</li>
     <li><a data-value="9377">2:36:17</a> - <a data-value="9593">2:39:53</a> — Nena - 99 Luftballons</li>
+    <li><a data-value="12208">3:23:28</a> - <a data-value="12514">3:28:34</a> — Rick Springfield - Walking on the Edge</li>
   </ul>
 
     <li><a data-value="15564">4:19:24</a> — Трейлеры Call of Duty: Black Ops 4</li>
@@ -276,13 +277,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="2" data-hash="262352362" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v262352362.ass" data-name="2" data-youtube="pLUW8VXHDNk" />
+  <p class="stream" data-id="2" data-hash="262352362" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v262352362.ass" data-name="2" data-direct="https://bsufiles.drhx.ru/streams/262352362.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v262352362.ass ytdl://pLUW8VXHDNk
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v262352362.ass https://bsufiles.drhx.ru/streams/262352362.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v262352362.ass" --player-passthrough hls twitch.tv/videos/262352362 best
 </code></pre>
 </div>
 
