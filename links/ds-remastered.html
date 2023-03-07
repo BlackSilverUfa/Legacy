@@ -411,9 +411,9 @@
         <i class="fas fa-comments"></i> 15988
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=YbN78UQjYIA" target="_blank">
-        <i class="fab fa-youtube"></i> YbN78UQjYIA
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/277001302.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -446,6 +446,7 @@
 
       <li>Проблемы с правообладателями:</li>
   <ul>
+    <li><a data-value="5910">1:38:30</a> - <a data-value="6357">1:45:57</a> — Daryl Hall & John Oates - Out of Touch</li>
     <li><a data-value="9470">2:37:50</a> - <a data-value="9597">2:39:57</a> — Roger Whittaker - New World in the Morning</li>
     <li><a data-value="10234">2:50:34</a> - <a data-value="10550">2:55:50</a> — Музыка удалена средствами YouTube</li>
     <li><a data-value="12809">3:33:29</a> - <a data-value="13003">3:36:43</a> — Good Charlotte - Break Apart Her Heart</li>
@@ -457,13 +458,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="4" data-hash="277001302" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v277001302.ass" data-name="2 (со зрителями)" data-youtube="YbN78UQjYIA" />
+  <p class="stream" data-id="4" data-hash="277001302" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v277001302.ass" data-name="2 (со зрителями)" data-direct="https://bsufiles.drhx.ru/streams/277001302.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v277001302.ass ytdl://YbN78UQjYIA
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v277001302.ass https://bsufiles.drhx.ru/streams/277001302.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v277001302.ass" --player-passthrough hls twitch.tv/videos/277001302 best
 </code></pre>
 </div>
 

@@ -96,9 +96,10 @@
     "games": ["mgs-v"]
   },
   "001509100": {
-    "youtube": "VH4EtbNV6JY", "abs_start": "0:00", "abs_end": "4:19:28", "duration": "4:19:28",
+    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
     "name": "Metal Gear Solid V: Phantom Pain #8",
     "date": "2015-09-10",
+    "direct": "https://bsufiles.drhx.ru/streams/001509100.mp4",
     "games": ["mgs-v"]
   },
   "001509120": {
@@ -150,9 +151,10 @@
     "games": ["mgs-v"]
   },
   "001510120": {
-    "youtube": "8hE523NvBF4", "official": false, "abs_start": "0:00", "abs_end": "4:31:16", "duration": "4:31:16",
+    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
     "name": "Metal Gear Solid V: Phantom Pain #15",
     "date": "2015-10-12",
+    "direct": "https://bsufiles.drhx.ru/streams/001510120.mp4",
     "games": ["mgs-v"]
   },
   "001510150": {
@@ -162,9 +164,10 @@
     "games": ["mgs-v"]
   },
   "001510151": {
-    "youtube": "LR7wbWobR5U", "official": false, "abs_start": "0:00", "abs_end": "3:51:12", "duration": "3:51:12",
+    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
     "name": "Metal Gear Solid V: Phantom Pain #16 (часть 2)",
     "date": "2015-10-15",
+    "direct": "https://bsufiles.drhx.ru/streams/001510151.mp4",
     "games": ["mgs-v"]
   },
   "001510170": {
@@ -2303,9 +2306,10 @@
     "games": ["wreckfest"]
   },
   "277001302": {
-    "youtube": "YbN78UQjYIA", "official": false, "abs_start": "0:00", "abs_end": "5:09:08", "duration": "5:09:08",
+    "abs_start": "0:00", "abs_end": "5:09:46", "duration": "0:00",
     "name": "Dark Souls: Remastered #2 (со зрителями)",
     "date": "2018-06-24",
+    "direct": "https://bsufiles.drhx.ru/streams/277001302.mp4",
     "games": ["ds-remastered"]
   },
   "277440900": {
