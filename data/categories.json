@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "single", "segment": "1740746666", "name": "Like a Dragon: Ishin! (демо) / Yakuza 0 #8", "start": 0},
       {"id": "single", "segment": "1741779316", "name": "9 Childs Street / Leak (демо) / Missing Hiker / White Day 2: The Flower That Tells Lies / Paranormal VHS (демо) / Echoes of the Living (демо)", "start": 0},
       {"id": "atomic-heart", "segment": "1743703656", "name": "Atomic Heart #1", "start": 0},
       {"id": "atomic-heart", "segment": "1744660246", "name": "Atomic Heart #2", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "first-2023", "segment": "1748670859", "name": "Outstand: Episode 1 / TRONIT: Evade Red / Parasomnia / The Building 71 Incident / 28 Pixels Later", "start": 0},
       {"id": "sons-forest", "segment": "1750602082", "name": "Sons of the Forest (с Дашей и Джеком) #1", "start": 0},
       {"id": "sons-forest", "segment": "1751502984", "name": "Sons of the Forest (с Дашей и Джеком) #2", "start": 0},
-      {"id": "sons-forest", "segment": "1752454738", "name": "Sons of the Forest (с Дашей и Джеком) #3", "start": 0}
+      {"id": "sons-forest", "segment": "1752454738", "name": "Sons of the Forest (с Дашей и Джеком) #3", "start": 0},
+      {"id": "contraband-police", "segment": "1758170289", "name": "Contraband Police - Релиз", "start": 0}
     ]
   },
   "finished": {
@@ -206,7 +206,6 @@
       {"name": "The Dark Pictures: Little Hope", "id": "little-hope", "segment": "725080998"},
       {"name": "The Last Campfire", "id": "last-campfire", "segment": "726104659"},
       {"name": "Marvel's Avengers", "id": "marvel-avengers", "segment": "728015486"},
-      {"id": "single", "segment": "749640613", "name": "Contraband Police (демо)", "start": 0},
       {"name": "Amnesia: The Dark Descent", "id": "amnesia", "segment": "761311327"},
       {"id": "single", "segment": "767249770", "name": "Xuan-Yuan Sword VII (демо)", "start": 0},
       {"id": "single", "segment": "775167526,776153173", "name": "Amnesia: Rebirth", "start": 0},
@@ -1091,8 +1090,8 @@
   "ongoing": {
     "name": "Активные",
     "games": [
+      {"name": "Contraband Police", "id": "contraband-police", "segment": "749640613"},
       {"name": "Yakuza 0", "id": "yakuza-0", "segment": "1598875892"},
-      {"id": "trash-horror-2", "segment": "1728992336", "name": "Poop Killer 6", "start": 10202},
       {"name": "Hogwarts Legacy", "id": "hogwarts", "segment": "1729899835"}
     ]
   },
@@ -1280,7 +1279,8 @@
       {"name": "Forspoken", "id": "forspoken", "segment": "1674396025"},
       {"name": "Mirror Forge", "id": "mirror-forge", "segment": "1686763712"},
       {"name": "Sleep Paralysis: The Uncanny Valley", "id": "sleep-paralysis", "segment": "1686763712"},
-      {"name": "FAITH", "id": "faith", "segment": "1687663796"}
+      {"name": "FAITH", "id": "faith", "segment": "1687663796"},
+      {"id": "trash-horror-2", "segment": "1728992336", "name": "Poop Killer 6", "start": 10202}
     ]
   },
   "co-op": {
