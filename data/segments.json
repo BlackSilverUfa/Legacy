@@ -5705,10 +5705,9 @@
     "games": ["first-2020", "streets-of-rage-4", "gears-of-war-4", "snowrunner"]
   },
   "625606171": {
-    "abs_start": "0:00", "abs_end": "6:04:09", "duration": "0:00",
+    "youtube": "B2g06koNrLc", "official": false, "abs_start": "0:00", "abs_end": "6:03:28", "duration": "6:03:28",
     "name": "Minecraft #4 / Mafia II: Definitive Edition #1",
     "date": "2020-05-19",
-    "direct": "https://bsufiles.drhx.ru/streams/625606171.mp4",
     "games": ["minecraft", "mafia-2-definitive"]
   },
   "626564087": {
