@@ -94,9 +94,9 @@
         <i class="fas fa-comments"></i> 25635
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=4QuPrgxQzCQ" target="_blank">
-        <i class="fab fa-youtube"></i> 4QuPrgxQzCQ
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/772063368.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -137,6 +137,11 @@
     <li><a data-value="9250">2:34:10</a> — Игра</li>
   </ul>
 
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li><a data-value="13306">3:41:46</a> - <a data-value="13495">3:44:55</a> — Frankie Laine - Jezebel</li>
+  </ul>
+
       <li>Noita:</li>
   <ul>
     <li><a data-value="14321">3:58:41</a> — Меню</li>
@@ -150,13 +155,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="0" data-hash="772063368" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v772063368.ass" data-start="14321" data-name="1" data-youtube="4QuPrgxQzCQ" />
+  <p class="stream" data-id="0" data-hash="772063368" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v772063368.ass" data-start="14321" data-name="1" data-direct="https://bsufiles.drhx.ru/streams/772063368.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v772063368.ass --start=14321 ytdl://4QuPrgxQzCQ
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v772063368.ass --start=14321 https://bsufiles.drhx.ru/streams/772063368.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v772063368.ass --start=14321" --player-passthrough hls twitch.tv/videos/772063368 best
 </code></pre>
 </div>
 
