@@ -5144,10 +5144,9 @@
     "games": ["gta-san-andreas", "crazy-ls"]
   },
   "542106142": {
-    "abs_start": "0:00", "abs_end": "5:51:09", "duration": "0:00",
+    "youtube": "CIPziTuzFKk", "official": false, "abs_start": "0:00", "abs_end": "5:50:31", "duration": "5:50:31",
     "name": "Grand Theft Auto: San Andreas #6",
     "date": "2020-01-26",
-    "direct": "https://bsufiles.drhx.ru/streams/542106142.mp4",
     "games": ["gta-san-andreas"]
   },
   "542613780": {
