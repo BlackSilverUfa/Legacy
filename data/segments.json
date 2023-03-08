@@ -10193,10 +10193,9 @@
     "games": ["hl-bs-r", "nightmare-house-2"]
   },
   "1690022559": {
-    "abs_start": "0:00", "abs_end": "6:05:30", "duration": "0:00",
+    "youtube": "AyDIb9U16zU", "official": false, "abs_start": "0:00", "abs_end": "6:05:17", "duration": "6:05:17",
     "name": "Симулятор Прыгания по Гаражам / Creature Lab (демо) / Who Knocks / FAITH - Chapter II",
     "date": "2022-12-27",
-    "direct": "https://bsufiles.drhx.ru/streams/1690022559.mp4",
     "games": ["first-2022", "faith"]
   },
   "1690952607": {
