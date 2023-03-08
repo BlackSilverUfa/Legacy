@@ -224,9 +224,10 @@
     "games": ["beyond-two-souls"]
   },
   "001512010": {
-    "youtube": "tOonNaDeYt8", "official": false, "abs_start": "0:00", "abs_end": "3:43:46", "duration": "3:43:46",
+    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
     "name": "Beyond: Two Souls (злое прохождение) #3",
     "date": "2015-12-01",
+    "direct": "https://bsufiles.drhx.ru/streams/001512010.mp4",
     "games": ["beyond-two-souls"]
   },
   "001512070": {
@@ -2285,7 +2286,7 @@
     "games": ["witch-hunt"]
   },
   "275418948": {
-    "youtube": "oRndFFdk-wc", "abs_start": "0:00", "abs_end": "5:36:04", "duration": "5:36:04",
+    "abs_start": "0:00", "abs_end": "5:36:15", "duration": "0:00",
     "name": "Prey #4 (Mooncrash DLC) / Sinner / Trigger / Shining Hotel: Lost in Nowhere / Midnight Awake / Pamali: Indonesian Folklore Horror - Демо",
     "date": "2018-06-20",
     "games": ["prey", "first-2018", "single", "pamali"]
@@ -4756,9 +4757,10 @@
     "games": ["outer-worlds"]
   },
   "499849877": {
-    "youtube": "gQec_qLEeCg", "official": false, "abs_start": "0:00", "abs_end": "3:54:40", "duration": "3:54:40",
+    "abs_start": "0:00", "abs_end": "3:54:24", "duration": "0:00",
     "name": "Благотворительные стримы #5 / Cooking Simulator / House Flipper",
     "date": "2019-10-26",
+    "direct": "https://bsufiles.drhx.ru/streams/499849877.mp4",
     "games": ["charity", "first-2019"]
   },
   "500334713": {
@@ -10034,9 +10036,10 @@
     "games": ["apsulov"]
   },
   "1665724993": {
-    "youtube": "eOjnmIq8qt0", "abs_start": "0:00", "abs_end": "2:55:28", "duration": "2:55:28",
+    "abs_start": "0:00", "abs_end": "2:55:42", "duration": "0:00",
     "name": "Need for Speed Unbound",
     "date": "2022-11-29",
+    "direct": "https://bsufiles.drhx.ru/streams/1665724993.mp4",
     "games": ["first-2022"]
   },
   "1667371234": {

@@ -94,11 +94,6 @@
         <i class="fas fa-comments"></i> 19049
       </a>
     </span>
-    <span class="badge badge-success">
-      <a href="https://www.youtube.com/watch?v=oRndFFdk-wc" target="_blank">
-        <i class="fab fa-youtube"></i> oRndFFdk-wc
-      </a>
-    </span>
   </div>
 </div>
 
@@ -115,6 +110,11 @@
     <li><a data-value="898">14:58</a> — Prey</li>
     <li><a data-value="8306">2:18:26</a> — Sinner</li>
     <li><a data-value="10844">3:00:44</a> — Trigger</li>
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li><a data-value="11192">3:06:32</a> - <a data-value="11303">3:08:23</a> — Overseer - Doomsday (Album Version)</li>
+  </ul>
+
     <li><a data-value="11714">3:15:14</a> — Shining Hotel: Lost in Nowhere</li>
     <li><a data-value="13042">3:37:22</a> — Midnight Awake</li>
     <li><a data-value="17216">4:46:56</a> — Pamali</li>
@@ -124,13 +124,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="0" data-hash="275418948" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v275418948.ass" data-start="17216" data-name="Демо" data-youtube="oRndFFdk-wc" />
+  <p class="stream" data-id="0" data-hash="275418948" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v275418948.ass" data-start="17216" data-name="Демо" style="display: none" />
 </div>
 
+<p>Запись этого стрима в данный момент отсутствует. Если вы попали сюда по
+прямой ссылке с YouTube, то это значит, что запись уже есть, но сайт ещё не
+обновился. Обычно на это требуется минута или около того, но я оставляю
+комментарий ещё до завершения процесса. Нажмите
+<a href="#" onclick="document.location.reload(); return false;">сюда</a>, чтобы попробовать обновить
+страницу.</p>
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v275418948.ass --start=17216 ytdl://oRndFFdk-wc
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v275418948.ass --start=17216" --player-passthrough hls twitch.tv/videos/275418948 best
 </code></pre>
 </div>
 

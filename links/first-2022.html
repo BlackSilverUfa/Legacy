@@ -6832,9 +6832,9 @@
         <i class="fas fa-comments"></i> 12966
       </a>
     </span>
-    <span class="badge badge-success">
-      <a href="https://www.youtube.com/watch?v=eOjnmIq8qt0" target="_blank">
-        <i class="fab fa-youtube"></i> eOjnmIq8qt0
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/1665724993.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -6845,17 +6845,23 @@
     <li>Таймкоды:</li>
   <ul>
     <li><a data-value="168">2:48</a> — Интро</li>
-    <li><a data-value="332">5:32</a> - <a data-value="465">7:45</a> — Стримлер</li>
-    <li><a data-value="1214">20:14</a> — Меню</li>
       <li>Проблемы с правообладателями:</li>
   <ul>
+    <li>
+      <a data-value="263">4:23</a> - <a data-value="400">6:40</a>,
+      <a data-value="9493">2:38:13</a> - <a data-value="9598">2:39:58</a>
+      — Overseer - Doomsday (Album Version)
+    </li>
     <li>
       <a data-value="1319">21:59</a> - <a data-value="1357">22:37</a>,
       <a data-value="5480">1:31:20</a> - <a data-value="5513">1:31:53</a>
       — Не указано
     </li>
+    <li><a data-value="5480">1:31:20</a> - <a data-value="5513">1:31:53</a> — Kidd Kenn - Vroom Vroom</li>
   </ul>
 
+    <li><a data-value="332">5:32</a> - <a data-value="465">7:45</a> — Стримлер</li>
+    <li><a data-value="1214">20:14</a> — Меню</li>
     <li><a data-value="1355">22:35</a> — Создание персонажа</li>
     <li><a data-value="1798">29:58</a> — Интро</li>
     <li><a data-value="1837">30:37</a> — Игра</li>
@@ -6868,13 +6874,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="65" data-hash="1665724993" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2022@master/v1665724993.ass" data-start="1214" data-name="Need for Speed Unbound" data-youtube="eOjnmIq8qt0" />
+  <p class="stream" data-id="65" data-hash="1665724993" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2022@master/v1665724993.ass" data-start="1214" data-name="Need for Speed Unbound" data-direct="https://bsufiles.drhx.ru/streams/1665724993.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2022@master/v1665724993.ass --start=1214 ytdl://eOjnmIq8qt0
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2022@master/v1665724993.ass --start=1214 https://bsufiles.drhx.ru/streams/1665724993.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2022@master/v1665724993.ass --start=1214" --player-passthrough hls twitch.tv/videos/1665724993 best
 </code></pre>
 </div>
 
