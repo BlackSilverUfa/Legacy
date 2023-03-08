@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "single", "segment": "1741779316", "name": "9 Childs Street / Leak (демо) / Missing Hiker / White Day 2: The Flower That Tells Lies / Paranormal VHS (демо) / Echoes of the Living (демо)", "start": 0},
       {"id": "atomic-heart", "segment": "1743703656", "name": "Atomic Heart #1", "start": 0},
       {"id": "atomic-heart", "segment": "1744660246", "name": "Atomic Heart #2", "start": 0},
       {"id": "atomic-heart", "segment": "1745636782", "name": "Atomic Heart #3", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "sons-forest", "segment": "1750602082", "name": "Sons of the Forest (с Дашей и Джеком) #1", "start": 0},
       {"id": "sons-forest", "segment": "1751502984", "name": "Sons of the Forest (с Дашей и Джеком) #2", "start": 0},
       {"id": "sons-forest", "segment": "1752454738", "name": "Sons of the Forest (с Дашей и Джеком) #3", "start": 0},
-      {"id": "contraband-police", "segment": "1758170289", "name": "Contraband Police - Релиз", "start": 0}
+      {"id": "contraband-police", "segment": "1758170289", "name": "Contraband Police - Релиз", "start": 0},
+      {"id": "single", "segment": "1759103392", "name": "Подводный роман / Овощи / Парень, который мне нравится? / Jurassic Heart / I Love You, Colonel Sanders! / Hatoful Boyfriend", "start": 0}
     ]
   },
   "finished": {
@@ -546,7 +546,11 @@
       {"id": "single", "segment": "1748670859", "name": "TRONIT: Evade Red", "start": 5520},
       {"id": "single", "segment": "1748670859", "name": "Parasomnia", "start": 6993},
       {"id": "single", "segment": "1748670859", "name": "The Building 71 Incident", "start": 8855},
-      {"name": "Sons of the Forest (с Дашей и Джеком)", "id": "sons-forest", "segment": "1750602082"}
+      {"name": "Sons of the Forest (с Дашей и Джеком)", "id": "sons-forest", "segment": "1750602082"},
+      {"id": "single", "segment": "1759103392", "name": "Подводный роман", "start": 3243},
+      {"id": "single", "segment": "1759103392", "name": "Овощи", "start": 4295},
+      {"id": "single", "segment": "1759103392", "name": "Парень, который мне нравится?", "start": 5616},
+      {"id": "single", "segment": "1759103392", "name": "Jurassic Heart", "start": 6952}
     ]
   },
   "first": {
@@ -1084,7 +1088,9 @@
       {"id": "first-2023", "segment": "1741779316", "name": "Paranormal VHS (демо)", "start": 17420},
       {"id": "first-2023", "segment": "1741779316", "name": "Echoes of the Living (демо)", "start": 18278},
       {"id": "first-2023", "segment": "1748670859", "name": "Outstand: Episode 1", "start": 4447},
-      {"id": "first-2023", "segment": "1748670859", "name": "28 Pixels Later", "start": 10508}
+      {"id": "first-2023", "segment": "1748670859", "name": "28 Pixels Later", "start": 10508},
+      {"id": "first-2023", "segment": "1759103392", "name": "I Love You, Colonel Sanders!", "start": 7944},
+      {"id": "first-2023", "segment": "1759103392", "name": "Hatoful Boyfriend", "start": 8461}
     ]
   },
   "ongoing": {

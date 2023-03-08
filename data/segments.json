@@ -10552,5 +10552,13 @@
     "cuts": [[19191, 19222]],
     "torrent": "https://bsufiles.drhx.ru/streams/1758170289.torrent",
     "games": ["contraband-police"]
+  },
+  "1759103392": {
+    "abs_start": "0:00", "abs_end": "4:00:26", "duration": "0:00",
+    "name": "Подводный роман / Овощи / Парень, который мне нравится? / Jurassic Heart / I Love You, Colonel Sanders! / Hatoful Boyfriend",
+    "date": "2023-03-08",
+    "direct": "https://bsufiles.drhx.ru/streams/1759103392.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1759103392.torrent",
+    "games": ["single", "first-2023"]
   }
 }
