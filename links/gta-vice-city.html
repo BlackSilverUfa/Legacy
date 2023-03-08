@@ -200,9 +200,9 @@
         <i class="fas fa-comments"></i> 22585
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=HtBcSE--Z1E" target="_blank">
-        <i class="fab fa-youtube"></i> HtBcSE--Z1E
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/517802976.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -235,6 +235,8 @@
     <li><a data-value="3077">51:17</a> - <a data-value="3149">52:29</a> — Tito Puente & His Orchestra - Mambo Gozon</li>
     <li><a data-value="3795">1:03:15</a> - <a data-value="3891">1:04:51</a> — David Lee Roth - Yankee Rose</li>
     <li><a data-value="4676">1:17:56</a> - <a data-value="4691">1:18:11</a> — Nena - 99 Luftballons</li>
+    <li><a data-value="8841">2:27:21</a> - <a data-value="8902">2:28:22</a> — Evelyn "Champagne" King - Shame</li>
+    <li><a data-value="10272">2:51:12</a> - <a data-value="10377">2:52:57</a> — The Psychedelic Furs - Love My Way</li>
     <li>
       <a data-value="10955">3:02:35</a> - <a data-value="11030">3:03:50</a>,
       <a data-value="19932">5:32:12</a> - <a data-value="19965">5:32:45</a>
@@ -267,13 +269,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="1" data-hash="517802976" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v517802976.ass" data-name="2" data-youtube="HtBcSE--Z1E" />
+  <p class="stream" data-id="1" data-hash="517802976" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v517802976.ass" data-name="2" data-direct="https://bsufiles.drhx.ru/streams/517802976.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v517802976.ass ytdl://HtBcSE--Z1E
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v517802976.ass https://bsufiles.drhx.ru/streams/517802976.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v517802976.ass" --player-passthrough hls twitch.tv/videos/517802976 best
 </code></pre>
 </div>
 

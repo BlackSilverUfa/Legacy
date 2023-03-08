@@ -371,9 +371,9 @@
         <i class="fas fa-comments"></i> 25592
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=vGRzS3cpq9g" target="_blank">
-        <i class="fab fa-youtube"></i> vGRzS3cpq9g
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/856402931.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -388,6 +388,11 @@
     <li><a data-value="646">10:46</a> - <a data-value="768">12:48</a> — Новогодние сетапы</li>
     <li><a data-value="3067">51:07</a> — А кто это?</li>
     <li><a data-value="4925">1:22:05</a> — 4221</li>
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li><a data-value="5597">1:33:17</a> - <a data-value="5655">1:34:15</a> — Darude - Sandstorm</li>
+  </ul>
+
     <li><a data-value="6238">1:43:58</a> — <a href="https://youtu.be/dVoMrCiZ27Q">Plotoiadnui Keksik - [6D Highlights] - Перевозка колбасы и сыра</a></li>
     <li><a data-value="6945">1:55:45</a> — <a href="https://youtu.be/Y2_iL4J8dg8">Quiet Man - 64. 12 месяцев Блэка</a></li>
     <li><a data-value="7279">2:01:19</a> — Трейлер S.T.A.L.K.E.R. 2</li>
@@ -405,13 +410,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="3" data-hash="856402931" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v856402931.ass" data-name="4 (новогодний выпуск)" data-youtube="vGRzS3cpq9g" />
+  <p class="stream" data-id="3" data-hash="856402931" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v856402931.ass" data-name="4 (новогодний выпуск)" data-direct="https://bsufiles.drhx.ru/streams/856402931.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v856402931.ass ytdl://vGRzS3cpq9g
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v856402931.ass https://bsufiles.drhx.ru/streams/856402931.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v856402931.ass" --player-passthrough hls twitch.tv/videos/856402931 best
 </code></pre>
 </div>
 
