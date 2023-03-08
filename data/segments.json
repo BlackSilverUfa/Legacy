@@ -1715,10 +1715,9 @@
     "games": ["first-2018"]
   },
   "233032380.2": {
-    "abs_start": "3:32:56", "abs_end": "5:07:01", "duration": "0:00",
+    "youtube": "F-LZln0bCGw", "official": false, "abs_start": "3:32:56", "abs_end": "5:06:34", "duration": "1:33:38",
     "name": "Getting Over It #2",
     "date": "2018-02-26",
-    "direct": "https://bsufiles.drhx.ru/streams/233032380.2.mp4",
     "games": ["getting-over-it"]
   },
   "233355849": {
