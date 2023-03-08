@@ -5105,9 +5105,10 @@
     "games": ["gta-san-andreas"]
   },
   "535374681": {
-    "youtube": "7J11LXhRxRY", "official": false, "abs_start": "0:00", "abs_end": "5:41:58", "duration": "5:41:58",
+    "abs_start": "0:00", "abs_end": "5:42:10", "duration": "0:00",
     "name": "Grand Theft Auto: San Andreas #4",
     "date": "2020-01-13",
+    "direct": "https://bsufiles.drhx.ru/streams/535374681.mp4",
     "games": ["gta-san-andreas"]
   },
   "535873254": {

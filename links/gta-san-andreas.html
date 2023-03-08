@@ -410,9 +410,9 @@
         <i class="fas fa-comments"></i> 26601
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=7J11LXhRxRY" target="_blank">
-        <i class="fab fa-youtube"></i> 7J11LXhRxRY
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/535374681.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -439,6 +439,12 @@
     <li><a data-value="8645">2:24:05</a> - <a data-value="8824">2:27:04</a> — The Stone Roses - Fools Gold (Remastered Edit)</li>
     <li><a data-value="10204">2:50:04</a> - <a data-value="10394">2:53:14</a> — Ozzy Osbourne - Hellraiser (много небольших фрагментов)</li>
     <li><a data-value="11791">3:16:31</a> - <a data-value="11872">3:17:52</a> — Alice In Chains - Them Bones</li>
+    <li>
+      <a data-value="12168">3:22:48</a> - <a data-value="12247">3:24:07</a>,
+      <a data-value="12554">3:29:14</a> - <a data-value="12580">3:29:40</a>,
+      <a data-value="13033">3:37:13</a> - <a data-value="13073">3:37:53</a>
+      — Compton's Most Wanted - Hood Took Me Under
+    </li>
     <li><a data-value="13782">3:49:42</a> - <a data-value="13797">3:49:57</a> — Frankie Knuckles - It's a Cold World</li>
     <li><a data-value="18460">5:07:40</a> - <a data-value="18484">5:08:04</a> — Public Enemy - Rebel Without A Pause</li>
     <li>
@@ -467,13 +473,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="4" data-hash="535374681" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v535374681.ass" data-name="4" data-youtube="7J11LXhRxRY" />
+  <p class="stream" data-id="4" data-hash="535374681" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v535374681.ass" data-name="4" data-direct="https://bsufiles.drhx.ru/streams/535374681.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v535374681.ass ytdl://7J11LXhRxRY
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v535374681.ass https://bsufiles.drhx.ru/streams/535374681.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v535374681.ass" --player-passthrough hls twitch.tv/videos/535374681 best
 </code></pre>
 </div>
 
