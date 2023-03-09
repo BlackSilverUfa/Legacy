@@ -4248,9 +4248,10 @@
     "games": ["sinking-city"]
   },
   "445866715": {
-    "youtube": "7JUe2fr4qy0", "official": false, "abs_start": "0:00", "abs_end": "4:58:28", "duration": "4:58:28",
+    "abs_start": "0:00", "abs_end": "4:58:25", "duration": "0:00",
     "name": "Своя Игра #14 / Dead by Daylight #3 / Эскейп-румы - Curious Cases / Golf It! #17",
     "date": "2019-06-29",
+    "direct": "https://bsufiles.drhx.ru/streams/445866715.mp4",
     "games": ["sigame", "dead-by-daylight", "escape-rooms", "golf-it"]
   },
   "447694923": {
@@ -5348,9 +5349,10 @@
     "games": ["dead-cells", "ori-wotw"]
   },
   "563856575": {
-    "youtube": "iJxPAPXNbYQ", "official": false, "abs_start": "0:00", "abs_end": "6:07:35", "duration": "6:07:35",
+    "abs_start": "0:00", "abs_end": "6:08:11", "duration": "0:00",
     "name": "Halo: Combat Evolved Anniversary / Walking Simulator / Stilt Fella / The Longing #1 (400) / Yes, Your Grace #1",
     "date": "2020-03-08",
+    "direct": "https://bsufiles.drhx.ru/streams/563856575.mp4",
     "games": ["first-2020", "single", "the-longing", "yes-your-grace"]
   },
   "564858921": {
