@@ -3934,10 +3934,9 @@
     "games": ["hollow-knight"]
   },
   "422486024": {
-    "abs_start": "0:00", "abs_end": "3:28:15", "duration": "0:00",
+    "youtube": "jHkUDJsMI5I", "official": false, "abs_start": "0:00", "abs_end": "3:27:44", "duration": "3:27:44",
     "name": "Благотворительные стримы #4 / Immortal Redneck #5 / Jump King #1",
     "date": "2019-05-09",
-    "direct": "https://bsufiles.drhx.ru/streams/422486024.mp4",
     "games": ["charity", "immortal-redneck", "jump-king"]
   },
   "423369283": {
