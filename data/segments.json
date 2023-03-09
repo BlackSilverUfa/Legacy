@@ -6756,10 +6756,9 @@
     "games": ["gartic", "co-op", "secret-neighbor", "pummel-party", "escape-rooms"]
   },
   "856402931": {
-    "abs_start": "0:00", "abs_end": "4:44:26", "duration": "0:00",
+    "youtube": "dPtS27ZHJbc", "official": false, "abs_start": "0:00", "abs_end": "4:44:25", "duration": "4:44:25",
     "name": "Сетапы зрителей #4 (новогодний выпуск)",
     "date": "2020-12-31",
-    "direct": "https://bsufiles.drhx.ru/streams/856402931.mp4",
     "games": ["setups"]
   },
   "858724132": {
@@ -7415,10 +7414,9 @@
     "games": ["returnal"]
   },
   "1011964836": {
-    "abs_start": "0:00", "abs_end": "4:32:01", "duration": "0:00",
+    "youtube": "1t8FpS6MKOQ", "official": false, "abs_start": "0:00", "abs_end": "4:31:45", "duration": "4:31:45",
     "name": "Returnal #5",
     "date": "2021-05-05",
-    "direct": "https://bsufiles.drhx.ru/streams/1011964836.mp4",
     "games": ["returnal"]
   },
   "1012980938": {
