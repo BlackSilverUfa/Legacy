@@ -531,10 +531,9 @@
     "games": ["tes-morrowind"]
   },
   "001608240": {
-    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
+    "youtube": "AQm9y3mJlcg", "official": false, "abs_start": "0:00", "abs_end": "5:39:57", "duration": "5:39:57",
     "name": "Nioh - Бета 1 #1",
     "date": "2016-08-24",
-    "direct": "https://bsufiles.drhx.ru/streams/001608240.mp4",
     "games": ["nioh"]
   },
   "001608250": {
