@@ -94,6 +94,11 @@
         <i class="fas fa-comments"></i> 19049
       </a>
     </span>
+    <span class="badge badge-success">
+      <a href="https://www.youtube.com/watch?v=oRndFFdk-wc" target="_blank">
+        <i class="fab fa-youtube"></i> oRndFFdk-wc
+      </a>
+    </span>
   </div>
 </div>
 
@@ -124,19 +129,13 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="0" data-hash="275418948" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v275418948.ass" data-start="17216" data-name="Демо" style="display: none" />
+  <p class="stream" data-id="0" data-hash="275418948" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v275418948.ass" data-start="17216" data-name="Демо" data-youtube="oRndFFdk-wc" />
 </div>
 
-<p>Запись этого стрима в данный момент отсутствует. Если вы попали сюда по
-прямой ссылке с YouTube, то это значит, что запись уже есть, но сайт ещё не
-обновился. Обычно на это требуется минута или около того, но я оставляю
-комментарий ещё до завершения процесса. Нажмите
-<a href="#" onclick="document.location.reload(); return false;">сюда</a>, чтобы попробовать обновить
-страницу.</p>
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v275418948.ass --start=17216" --player-passthrough hls twitch.tv/videos/275418948 best
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v275418948.ass --start=17216 ytdl://oRndFFdk-wc
 </code></pre>
 </div>
 
