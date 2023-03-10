@@ -277,9 +277,10 @@
     "games": ["alien-isolation-dw"]
   },
   "001601190": {
-    "youtube": "wFrj01xvAPc", "official": false, "abs_start": "0:00", "abs_end": "4:55:30", "duration": "4:55:30",
+    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
     "name": "Alien: Isolation (с Дашей) #3",
     "date": "2016-01-19",
+    "direct": "https://bsufiles.drhx.ru/streams/001601190.mp4",
     "games": ["alien-isolation-dw"]
   },
   "001601260": {
