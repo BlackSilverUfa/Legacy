@@ -4776,10 +4776,9 @@
     "games": ["halloween", "luigis-mansion-3"]
   },
   "502487271": {
-    "abs_start": "0:00", "abs_end": "5:00:43", "duration": "0:00",
+    "youtube": "rBST7-Hw9bU", "official": false, "abs_start": "0:00", "abs_end": "5:00:29", "duration": "5:00:29",
     "name": "Mafia II #1 / Outlast 2 - Первый взгляд",
     "date": "2019-11-01",
-    "direct": "https://bsufiles.drhx.ru/streams/502487271.mp4",
     "games": ["mafia-2", "outlast-2"]
   },
   "502940448": {
