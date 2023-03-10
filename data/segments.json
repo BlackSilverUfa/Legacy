@@ -3580,7 +3580,7 @@
   },
   "383771606": {
     "youtube": "bfz66zyAQsk", "abs_start": "0:00", "abs_end": "4:11:22", "duration": "4:11:22",
-    "name": "Devotion / Resident Evil 2 Remake #5 (DLC - Выжившие призраки)",
+    "name": "Devotion / Resident Evil 2 Remake - DLC - Выжившие призраки",
     "date": "2019-02-20",
     "games": ["single", "re2-remake"]
   },
@@ -5019,7 +5019,7 @@
   },
   "527412040": {
     "youtube": "P8Tn4c5U-aM", "abs_start": "0:00", "abs_end": "5:51:59", "duration": "5:51:59",
-    "name": "Resident Evil 2 Remake #6 (Every enemy is Mr. X) / Alien: Isolation (Extreme + новый ИИ) #3",
+    "name": "Resident Evil 2 Remake - Every enemy is Mr. X / Alien: Isolation (Extreme + новый ИИ) #3",
     "date": "2019-12-28",
     "games": ["re2-remake", "alien-isolation-ai"]
   },
@@ -7248,7 +7248,7 @@
   },
   "975061581": {
     "youtube": "1E3Pz7gkop8", "official": false, "abs_start": "0:00", "abs_end": "6:21:49", "duration": "6:21:49",
-    "name": "Resident Evil 2 Remake #7 (заново) / Игровые коллекции зрителей / Knockout City #1 (с WeLoveGames и Бейлом)",
+    "name": "Resident Evil 2 Remake - Заново / Игровые коллекции зрителей / Knockout City #1 (с WeLoveGames и Бейлом)",
     "date": "2021-04-04",
     "games": ["re2-remake", "events", "knockout-city"]
   },
@@ -9296,7 +9296,7 @@
   },
   "1503541091": {
     "youtube": "HyMdlr5onM8", "abs_start": "0:00", "abs_end": "3:17:31", "duration": "3:17:31",
-    "name": "Summer Game Fest 2022 - Capcom (обзор) / Resident Evil 2 Remake #1 (хардкор) / Summer Game Fest 2022 - Xbox Games Showcase Extended",
+    "name": "Summer Game Fest 2022 - Capcom (обзор) / Resident Evil 2 Remake - Хардкор / Summer Game Fest 2022 - Xbox Games Showcase Extended",
     "date": "2022-06-14",
     "games": ["sgf-22", "re2-remake"]
   },
@@ -10547,5 +10547,13 @@
     "direct": "https://bsufiles.drhx.ru/streams/1760013812.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1760013812.torrent",
     "games": ["first-2023"]
+  },
+  "1760910239": {
+    "abs_start": "0:00", "abs_end": "7:13:07", "duration": "0:00",
+    "name": "Resident Evil 4 Remake - Chainsaw Demo / Resident Evil 2 Remake - Survival Horror + Wandering Enemies",
+    "date": "2023-03-10",
+    "direct": "https://bsufiles.drhx.ru/streams/1760910239.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1760910239.torrent",
+    "games": ["single", "re2-remake"]
   }
 }
