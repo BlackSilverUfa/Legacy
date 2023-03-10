@@ -151,9 +151,9 @@
         <i class="fas fa-comments"></i> 20830
       </a>
     </span>
-    <span class="badge badge-success">
-      <a href="https://www.youtube.com/watch?v=VlB8waV0ec4" target="_blank">
-        <i class="fab fa-youtube"></i> VlB8waV0ec4
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/284560594.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -181,19 +181,30 @@
     <li><a data-value="13128">3:38:48</a> — Начало игры</li>
   </ul>
 
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li><a data-value="18488">5:08:08</a> - <a data-value="18658">5:10:58</a> — Darude - Sandstorm</li>
+  </ul>
+
   </ul>
 
   </div>
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="1" data-hash="284560594" data-offset="-6" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v284560594.ass" data-name="2" data-youtube="VlB8waV0ec4" />
+  <p class="stream" data-id="1" data-hash="284560594" data-offset="-6" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v284560594.ass" data-name="2" data-direct="https://bsufiles.drhx.ru/streams/284560594.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v284560594.ass --sub-delay=6 ytdl://VlB8waV0ec4
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v284560594.ass --sub-delay=6 https://bsufiles.drhx.ru/streams/284560594.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v284560594.ass --sub-delay=6" --player-passthrough hls twitch.tv/videos/284560594 best
 </code></pre>
 </div>
 

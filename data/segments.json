@@ -204,9 +204,10 @@
     "games": ["beyond-two-souls"]
   },
   "001511270": {
-    "youtube": "usI36wZRpwM", "official": false, "abs_start": "0:00", "abs_end": "3:01:12", "duration": "3:01:12",
+    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
     "name": "Beyond: Two Souls (злое прохождение) #1 (часть 1)",
     "date": "2015-11-27",
+    "direct": "https://bsufiles.drhx.ru/streams/001511270.mp4",
     "games": ["beyond-two-souls"]
   },
   "001511271": {
@@ -216,9 +217,10 @@
     "games": ["beyond-two-souls"]
   },
   "001511290": {
-    "youtube": "R9kXqVBmWuE", "official": false, "abs_start": "0:00", "abs_end": "4:09:53", "duration": "4:09:53",
+    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
     "name": "Beyond: Two Souls (злое прохождение) #2",
     "date": "2015-11-29",
+    "direct": "https://bsufiles.drhx.ru/streams/001511290.mp4",
     "games": ["beyond-two-souls"]
   },
   "001512010": {
@@ -259,9 +261,10 @@
     "games": ["dishonored"]
   },
   "001512250": {
-    "youtube": "lkHbhSecqsY", "official": false, "abs_start": "0:00", "abs_end": "3:01:25", "duration": "3:01:25",
+    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
     "name": "Dishonored #6 (The Knife of the Dunwall / The Brigmore Witches)",
     "date": "2015-12-25",
+    "direct": "https://bsufiles.drhx.ru/streams/001512250.mp4",
     "games": ["dishonored"]
   },
   "001601070": {
@@ -2415,9 +2418,10 @@
     "games": ["depth", "friday-13th", "co-op", "tricky-towers", "golf-it"]
   },
   "284560594": {
-    "youtube": "VlB8waV0ec4", "abs_start": "-0:06", "abs_end": "5:10:52", "duration": "5:10:58",
+    "abs_start": "-0:06", "abs_end": "5:11:51", "duration": "0:00",
     "name": "S.T.A.L.K.E.R.: Shadow of Chernobyl #2 / Persona 5 #12",
     "date": "2018-07-14",
+    "direct": "https://bsufiles.drhx.ru/streams/284560594.mp4",
     "games": ["stalker-soc", "persona_5"]
   },
   "284955107": {
@@ -5072,9 +5076,10 @@
     "games": ["life-is-strange-2"]
   },
   "533269694": {
-    "youtube": "wqaPnxizceM", "official": false, "abs_start": "0:00", "abs_end": "5:59:47", "duration": "5:59:47",
+    "abs_start": "0:00", "abs_end": "5:59:58", "duration": "0:00",
     "name": "Grand Theft Auto: San Andreas #1",
     "date": "2020-01-09",
+    "direct": "https://bsufiles.drhx.ru/streams/533269694.mp4",
     "games": ["gta-san-andreas"]
   },
   "533755753": {
@@ -6251,9 +6256,10 @@
     "games": ["contraband-police", "fall-guys", "co-op"]
   },
   "750578050": {
-    "youtube": "5h3z0iCDfB0", "official": false, "abs_start": "0:00", "abs_end": "6:51:59", "duration": "6:51:59",
+    "abs_start": "0:00", "abs_end": "6:52:10", "duration": "0:00",
     "name": "Mafia: City of Lost Heaven #2 / Mafia: Definitive Edition #1",
     "date": "2020-09-24",
+    "direct": "https://bsufiles.drhx.ru/streams/750578050.mp4",
     "games": ["mafia", "mafia-de"]
   },
   "751534901": {
@@ -7403,9 +7409,10 @@
     "games": ["returnal", "re8"]
   },
   "1010778171": {
-    "youtube": "K7wgkD65YcU", "official": false, "abs_start": "0:00", "abs_end": "9:58:22", "duration": "9:58:22",
+    "abs_start": "0:00", "abs_end": "9:58:26", "duration": "0:00",
     "name": "Returnal #4",
     "date": "2021-05-04",
+    "direct": "https://bsufiles.drhx.ru/streams/1010778171.mp4",
     "games": ["returnal"]
   },
   "1011964836": {

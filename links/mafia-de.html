@@ -192,9 +192,9 @@
         <i class="fas fa-comments"></i> 24534
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=5h3z0iCDfB0" target="_blank">
-        <i class="fab fa-youtube"></i> 5h3z0iCDfB0
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/750578050.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -223,7 +223,7 @@
     <li><a data-value="6284">1:44:44</a> - <a data-value="6433">1:47:13</a> — Django Reinhardt - Belleville</li>
     <li><a data-value="6434">1:47:14</a> - <a data-value="6593">1:49:53</a> — The Mills Brothers - Caravan</li>
     <li><a data-value="6594">1:49:54</a> - <a data-value="6745">1:52:25</a> — Django Reinhardt - Cavalerie</li>
-    <li><a data-value="6821">1:53:41</a> - <a data-value="6905">1:55:05</a> — The Mills Brothers - Chinatown, My Chinatown</li>
+    <li><a data-value="6747">1:52:27</a> - <a data-value="6908">1:55:08</a> — The Mills Brothers - Chinatown, My Chinatown</li>
     <li>
       <a data-value="8370">2:19:30</a> - <a data-value="8486">2:21:26</a>,
       <a data-value="21583">5:59:43</a> - <a data-value="21692">6:01:32</a>
@@ -269,13 +269,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="1" data-hash="750578050" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v750578050.ass" data-start="7233" data-name="1" data-youtube="5h3z0iCDfB0" />
+  <p class="stream" data-id="1" data-hash="750578050" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v750578050.ass" data-start="7233" data-name="1" data-direct="https://bsufiles.drhx.ru/streams/750578050.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v750578050.ass --start=7233 ytdl://5h3z0iCDfB0
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v750578050.ass --start=7233 https://bsufiles.drhx.ru/streams/750578050.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v750578050.ass --start=7233" --player-passthrough hls twitch.tv/videos/750578050 best
 </code></pre>
 </div>
 

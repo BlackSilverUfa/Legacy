@@ -280,9 +280,9 @@
         <i class="fas fa-comments"></i> 21072
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=K7wgkD65YcU" target="_blank">
-        <i class="fab fa-youtube"></i> K7wgkD65YcU
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/1010778171.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -295,19 +295,30 @@
     <li><a data-value="101">1:41</a> — Стримлер</li>
     <li><a data-value="306">5:06</a> — Заставка</li>
     <li><a data-value="333">5:33</a> — Игра</li>
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li><a data-value="22085">6:08:05</a> - <a data-value="22143">6:09:03</a> — Blue Oyster Cult - (Don't Fear) The Reaper</li>
+  </ul>
+
   </ul>
 
   </div>
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="3" data-hash="1010778171" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2021@master/v1010778171.ass" data-name="4" data-youtube="K7wgkD65YcU" />
+  <p class="stream" data-id="3" data-hash="1010778171" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2021@master/v1010778171.ass" data-name="4" data-direct="https://bsufiles.drhx.ru/streams/1010778171.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2021@master/v1010778171.ass ytdl://K7wgkD65YcU
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2021@master/v1010778171.ass https://bsufiles.drhx.ru/streams/1010778171.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2021@master/v1010778171.ass" --player-passthrough hls twitch.tv/videos/1010778171 best
 </code></pre>
 </div>
 

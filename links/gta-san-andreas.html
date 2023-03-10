@@ -94,9 +94,9 @@
         <i class="fas fa-comments"></i> 25858
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=wqaPnxizceM" target="_blank">
-        <i class="fab fa-youtube"></i> wqaPnxizceM
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/533269694.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -131,6 +131,7 @@
     <li><a data-value="16888">4:41:28</a> - <a data-value="17111">4:45:11</a> — The Stone Roses - Fools Gold (Remastered Edit)</li>
     <li><a data-value="17829">4:57:09</a> - <a data-value="17897">4:58:17</a> — Rob Base, DJ E-Z Rock - It Takes Two</li>
     <li><a data-value="19368">5:22:48</a> - <a data-value="19543">5:25:43</a> — Raze - Break 4 Love</li>
+    <li><a data-value="20032">5:33:52</a> - <a data-value="20162">5:36:02</a> — MFSB - Love Is the Message (A Tom Moulton Mix)</li>
   </ul>
 
     <li><a data-value="5396">1:29:56</a> — Заказ Биг Смоука</li>
@@ -147,13 +148,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="0" data-hash="533269694" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v533269694.ass" data-name="1" data-youtube="wqaPnxizceM" />
+  <p class="stream" data-id="0" data-hash="533269694" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v533269694.ass" data-name="1" data-direct="https://bsufiles.drhx.ru/streams/533269694.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v533269694.ass ytdl://wqaPnxizceM
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v533269694.ass https://bsufiles.drhx.ru/streams/533269694.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v533269694.ass" --player-passthrough hls twitch.tv/videos/533269694 best
 </code></pre>
 </div>
 
