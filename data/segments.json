@@ -4247,10 +4247,9 @@
     "games": ["sinking-city"]
   },
   "445866715": {
-    "abs_start": "0:00", "abs_end": "4:58:25", "duration": "0:00",
+    "youtube": "7KDb1h8Z2iA", "official": false, "abs_start": "0:00", "abs_end": "4:58:28", "duration": "4:58:28",
     "name": "Своя Игра #14 / Dead by Daylight #3 / Эскейп-румы - Curious Cases / Golf It! #17",
     "date": "2019-06-29",
-    "direct": "https://bsufiles.drhx.ru/streams/445866715.mp4",
     "games": ["sigame", "dead-by-daylight", "escape-rooms", "golf-it"]
   },
   "447694923": {
@@ -4939,10 +4938,9 @@
     "games": ["black-mesa-xen"]
   },
   "520025510.1": {
-    "abs_start": "2:56:04", "abs_end": "6:37:49", "duration": "0:00",
+    "youtube": "4kF3HTR6Ol0", "official": false, "abs_start": "2:56:04", "abs_end": "6:37:10", "duration": "3:41:06",
     "name": "Grand Theft Auto: Vice City #3",
     "date": "2019-12-11",
-    "direct": "https://bsufiles.drhx.ru/streams/520025510.1.mp4",
     "games": ["gta-vice-city"]
   },
   "520877239": {
