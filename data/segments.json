@@ -4987,18 +4987,11 @@
     "games": ["spore", "jump-king"]
   },
   "524415764": {
-    "abs_start": "0:00", "abs_end": "2:05:09", "duration": "0:00",
-    "name": "Jump King #3",
+    "abs_start": "0:00", "abs_end": "6:57:47", "duration": "0:00",
+    "name": "Jump King #3 / Last Year - Chapter 1: After Dark / Secret Neighbor #3 / Pummel Party #6 (6D)",
     "date": "2019-12-21",
     "direct": "https://bsufiles.drhx.ru/streams/524415764.mp4",
-    "games": ["jump-king"]
-  },
-  "524415764.1": {
-    "abs_start": "2:05:09", "abs_end": "6:57:47", "duration": "0:00",
-    "name": "Last Year - Chapter 1: After Dark / Secret Neighbor #3 / Pummel Party #6 (6D)",
-    "date": "2019-12-21",
-    "direct": "https://bsufiles.drhx.ru/streams/524415764.1.mp4",
-    "games": ["last-year", "secret-neighbor", "pummel-party"]
+    "games": ["jump-king", "last-year", "secret-neighbor", "pummel-party"]
   },
   "524865260": {
     "youtube": "Do6LKdxoE-k", "abs_start": "-0:05", "abs_end": "6:03:17", "duration": "6:03:22",
