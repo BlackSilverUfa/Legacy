@@ -391,9 +391,9 @@
         <i class="fas fa-comments"></i> 23147
       </a>
     </span>
-    <span class="badge badge-success">
-      <a href="https://www.youtube.com/watch?v=vRsfIGIWpT4" target="_blank">
-        <i class="fab fa-youtube"></i> vRsfIGIWpT4
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/833444670.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -407,6 +407,11 @@
     <li><a data-value="299">4:59</a> — Стримлер</li>
     <li><a data-value="414">6:54</a> — Меню</li>
     <li><a data-value="486">8:06</a> — Игра</li>
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li><a data-value="1292">21:32</a> - <a data-value="1438">23:58</a> — Miles Davis - Black Satin/What If/Agharta Prelude Dub</li>
+  </ul>
+
     <li><a data-value="6271">1:44:31</a> — Лучший напарник</li>
     <li><a data-value="6631">1:50:31</a> — T-pose</li>
     <li><a data-value="14209">3:56:49</a> — Умный пистолет</li>
@@ -418,13 +423,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="3" data-hash="833444670" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v833444670.ass" data-name="3" data-youtube="vRsfIGIWpT4" />
+  <p class="stream" data-id="3" data-hash="833444670" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v833444670.ass" data-name="3" data-direct="https://bsufiles.drhx.ru/streams/833444670.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v833444670.ass ytdl://vRsfIGIWpT4
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v833444670.ass https://bsufiles.drhx.ru/streams/833444670.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v833444670.ass" --player-passthrough hls twitch.tv/videos/833444670 best
 </code></pre>
 </div>
 

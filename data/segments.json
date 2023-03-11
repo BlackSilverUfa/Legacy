@@ -186,9 +186,10 @@
     "games": ["dishonored"]
   },
   "001511210": {
-    "youtube": "kidodm3zooI", "official": false, "abs_start": "0:00", "abs_end": "4:28:02", "duration": "4:28:02",
+    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
     "name": "Dishonored #3",
     "date": "2015-11-21",
+    "direct": "https://bsufiles.drhx.ru/streams/001511210.mp4",
     "games": ["dishonored"]
   },
   "001511250": {
@@ -1595,9 +1596,10 @@
     "games": ["sea-of-thieves"]
   },
   "224560087": {
-    "youtube": "JWvgGOuTldg", "abs_start": "0:00", "abs_end": "3:30:01", "duration": "3:30:01",
+    "abs_start": "0:00", "abs_end": "3:30:18", "duration": "0:00",
     "name": "Monster Hunter World #3",
     "date": "2018-02-01",
+    "direct": "https://bsufiles.drhx.ru/streams/224560087.mp4",
     "games": ["monster-hunter-world"]
   },
   "224600319": {
@@ -4719,9 +4721,10 @@
     "games": ["mafia"]
   },
   "496247270": {
-    "youtube": "Q4E0QtlVaGM", "abs_start": "0:00", "abs_end": "4:54:00", "duration": "4:54:00",
+    "abs_start": "0:00", "abs_end": "4:54:11", "duration": "0:00",
     "name": "Mafia: City of Lost Heaven #2",
     "date": "2019-10-18",
+    "direct": "https://bsufiles.drhx.ru/streams/496247270.mp4",
     "games": ["mafia"]
   },
   "496714817": {
@@ -4737,9 +4740,10 @@
     "games": ["co-op", "sea-of-thieves", "tricky-towers"]
   },
   "497590135": {
-    "youtube": "YKEDcG9CUY0", "official": false, "abs_start": "0:00", "abs_end": "5:53:18", "duration": "5:53:18",
+    "abs_start": "0:00", "abs_end": "5:53:56", "duration": "0:00",
     "name": "Mafia: City of Lost Heaven #3",
     "date": "2019-10-21",
+    "direct": "https://bsufiles.drhx.ru/streams/497590135.mp4",
     "games": ["mafia"]
   },
   "498426882": {
@@ -6654,9 +6658,10 @@
     "games": ["cyberpunk-2077", "tga"]
   },
   "833444670": {
-    "youtube": "vRsfIGIWpT4", "abs_start": "0:00", "abs_end": "7:37:06", "duration": "7:37:06",
+    "abs_start": "0:00", "abs_end": "7:37:36", "duration": "0:00",
     "name": "Cyberpunk 2077 #3",
     "date": "2020-12-11",
+    "direct": "https://bsufiles.drhx.ru/streams/833444670.mp4",
     "games": ["cyberpunk-2077"]
   },
   "834647659": {
@@ -8728,9 +8733,10 @@
     "games": ["single"]
   },
   "1244748634": {
-    "youtube": "R8Hv2HFmML4", "abs_start": "0:00", "abs_end": "6:04:11", "duration": "6:04:11",
+    "abs_start": "0:00", "abs_end": "6:04:17", "duration": "0:00",
     "name": "Five Nights At Freddy's: Security Breach #4 / Project Zomboid #1 (с Артёмом)",
     "date": "2021-12-27",
+    "direct": "https://bsufiles.drhx.ru/streams/1244748634.mp4",
     "games": ["fnaf-sb", "zomboid"]
   },
   "1245734451": {
@@ -10020,9 +10026,10 @@
     "games": ["apsulov"]
   },
   "1665724993": {
-    "youtube": "eOjnmIq8qt0", "abs_start": "0:00", "abs_end": "2:55:28", "duration": "2:55:28",
+    "abs_start": "0:00", "abs_end": "2:55:42", "duration": "0:00",
     "name": "Need for Speed Unbound",
     "date": "2022-11-29",
+    "direct": "https://bsufiles.drhx.ru/streams/1665724993.mp4",
     "games": ["first-2022"]
   },
   "1667371234": {

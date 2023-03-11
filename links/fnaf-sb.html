@@ -388,9 +388,9 @@
         <i class="fas fa-comments"></i> 12090
       </a>
     </span>
-    <span class="badge badge-success">
-      <a href="https://www.youtube.com/watch?v=R8Hv2HFmML4" target="_blank">
-        <i class="fab fa-youtube"></i> R8Hv2HFmML4
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/1244748634.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -408,6 +408,11 @@
     <li><a data-value="247">4:07</a> - <a data-value="674">11:14</a> — Стримлер</li>
     <li><a data-value="616">10:16</a> — Анекдот</li>
     <li><a data-value="1562">26:02</a> — Викиреальность</li>
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li><a data-value="1704">28:24</a> - <a data-value="1749">29:09</a> — Darude - Sandstorm</li>
+  </ul>
+
       <li>Five Nights At Freddy's: Security Breach:</li>
   <ul>
     <li><a data-value="1791">29:51</a> — Меню</li>
@@ -434,13 +439,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="3" data-hash="1244748634" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2021@master/v1244748634.ass" data-name="4" data-youtube="R8Hv2HFmML4" />
+  <p class="stream" data-id="3" data-hash="1244748634" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2021@master/v1244748634.ass" data-name="4" data-direct="https://bsufiles.drhx.ru/streams/1244748634.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2021@master/v1244748634.ass ytdl://R8Hv2HFmML4
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2021@master/v1244748634.ass https://bsufiles.drhx.ru/streams/1244748634.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2021@master/v1244748634.ass" --player-passthrough hls twitch.tv/videos/1244748634 best
 </code></pre>
 </div>
 

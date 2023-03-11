@@ -284,9 +284,9 @@
         <i class="fas fa-comments"></i> 4103
       </a>
     </span>
-    <span class="badge badge-success">
-      <a href="https://www.youtube.com/watch?v=JWvgGOuTldg" target="_blank">
-        <i class="fab fa-youtube"></i> JWvgGOuTldg
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/224560087.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -298,19 +298,35 @@
   <ul>
     <li><a data-value="514">8:34</a> — Начало игры</li>
     <li><a data-value="2846">47:26</a> — + Артём</li>
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li>
+      <a data-value="7903">2:11:43</a> - <a data-value="8104">2:15:04</a>,
+      <a data-value="10341">2:52:21</a> - <a data-value="10441">2:54:01</a>,
+      <a data-value="12532">3:28:52</a> - <a data-value="12592">3:29:52</a>
+      — Darude - Sandstorm
+    </li>
+  </ul>
+
   </ul>
 
   </div>
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="3" data-hash="224560087" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v224560087.ass" data-name="3" data-youtube="JWvgGOuTldg" />
+  <p class="stream" data-id="3" data-hash="224560087" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v224560087.ass" data-name="3" data-direct="https://bsufiles.drhx.ru/streams/224560087.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v224560087.ass ytdl://JWvgGOuTldg
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v224560087.ass https://bsufiles.drhx.ru/streams/224560087.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v224560087.ass" --player-passthrough hls twitch.tv/videos/224560087 best
 </code></pre>
 </div>
 
