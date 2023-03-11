@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "atomic-heart", "segment": "1745636782", "name": "Atomic Heart #3", "start": 0},
       {"id": "atomic-heart", "segment": "1746607463,1746871491", "name": "Atomic Heart #4", "start": 0},
       {"id": "first-2023", "segment": "1748670859", "name": "Outstand: Episode 1 / TRONIT: Evade Red / Parasomnia / The Building 71 Incident / 28 Pixels Later", "start": 0},
       {"id": "sons-forest", "segment": "1750602082", "name": "Sons of the Forest (с Дашей и Джеком) #1", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "contraband-police", "segment": "1758170289", "name": "Contraband Police - Релиз", "start": 0},
       {"id": "single", "segment": "1759103392", "name": "Подводный роман / Овощи / Парень, который мне нравится? / Jurassic Heart / I Love You, Colonel Sanders! / Hatoful Boyfriend", "start": 0},
       {"id": "first-2023", "segment": "1760013812", "name": "Clash: Artifacts of Chaos", "start": 0},
-      {"id": "single", "segment": "1760910239", "name": "Resident Evil 4 Remake - Chainsaw Demo / Resident Evil 2 Remake - Survival Horror + Wandering Enemies", "start": 0}
+      {"id": "single", "segment": "1760910239", "name": "Resident Evil 4 Remake - Chainsaw Demo / Resident Evil 2 Remake - Survival Horror + Wandering Enemies", "start": 0},
+      {"id": "first-2023", "segment": "1762002968", "name": "Alice: Madness Returns", "start": 0}
     ]
   },
   "finished": {
@@ -1092,7 +1092,8 @@
       {"id": "first-2023", "segment": "1748670859", "name": "28 Pixels Later", "start": 10508},
       {"id": "first-2023", "segment": "1759103392", "name": "I Love You, Colonel Sanders!", "start": 7944},
       {"id": "first-2023", "segment": "1759103392", "name": "Hatoful Boyfriend", "start": 8461},
-      {"id": "first-2023", "segment": "1760013812", "name": "Clash: Artifacts of Chaos", "start": 3293}
+      {"id": "first-2023", "segment": "1760013812", "name": "Clash: Artifacts of Chaos", "start": 3293},
+      {"id": "first-2023", "segment": "1762002968", "name": "Alice: Madness Returns", "start": 1611}
     ]
   },
   "ongoing": {

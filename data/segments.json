@@ -10555,5 +10555,13 @@
     "date": "2023-03-10",
     "torrent": "https://bsufiles.drhx.ru/streams/1760910239.torrent",
     "games": ["single", "re2-remake"]
+  },
+  "1762002968": {
+    "abs_start": "0:00", "abs_end": "6:03:10", "duration": "0:00",
+    "name": "Alice: Madness Returns",
+    "date": "2023-03-11",
+    "direct": "https://bsufiles.drhx.ru/streams/1762002968.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1762002968.torrent",
+    "games": ["first-2023"]
   }
 }
