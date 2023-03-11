@@ -280,10 +280,9 @@
     "games": ["alien-isolation-dw"]
   },
   "001601190": {
-    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
+    "youtube": "ACvIhT0tIOc", "official": false, "abs_start": "0:00", "abs_end": "4:55:30", "duration": "4:55:30",
     "name": "Alien: Isolation (с Дашей) #3",
     "date": "2016-01-19",
-    "direct": "https://bsufiles.drhx.ru/streams/001601190.mp4",
     "games": ["alien-isolation-dw"]
   },
   "001601260": {
@@ -7949,10 +7948,9 @@
     "games": ["sea-of-thieves"]
   },
   "1102702263": {
-    "abs_start": "0:00", "abs_end": "6:50:35", "duration": "0:00",
+    "youtube": "Wisp91h6klQ", "official": false, "abs_start": "0:00", "abs_end": "6:50:21", "duration": "6:50:21",
     "name": "Microsoft Flight Simulator / The Ascent / I'm on Observation Duty - Часть 2 #2 / I'm on Observation Duty - Часть 3",
     "date": "2021-07-30",
-    "direct": "https://bsufiles.drhx.ru/streams/1102702263.mp4",
     "games": ["first-2021", "observation-duty"]
   },
   "1103759348": {
