@@ -4740,10 +4740,9 @@
     "games": ["co-op", "sea-of-thieves", "tricky-towers"]
   },
   "497590135": {
-    "abs_start": "0:00", "abs_end": "5:53:56", "duration": "0:00",
+    "youtube": "YKEDcG9CUY0", "official": false, "abs_start": "0:00", "abs_end": "5:53:18", "duration": "5:53:18",
     "name": "Mafia: City of Lost Heaven #3",
     "date": "2019-10-21",
-    "direct": "https://bsufiles.drhx.ru/streams/497590135.mp4",
     "games": ["mafia"]
   },
   "498426882": {
