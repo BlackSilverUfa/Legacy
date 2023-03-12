@@ -1595,10 +1595,9 @@
     "games": ["sea-of-thieves"]
   },
   "224560087": {
-    "abs_start": "0:00", "abs_end": "3:30:18", "duration": "0:00",
+    "youtube": "ykuJH7mcBQY", "official": false, "abs_start": "0:00", "abs_end": "3:30:00", "duration": "3:30:00",
     "name": "Monster Hunter World #3",
     "date": "2018-02-01",
-    "direct": "https://bsufiles.drhx.ru/streams/224560087.mp4",
     "games": ["monster-hunter-world"]
   },
   "224600319": {
@@ -8721,10 +8720,9 @@
     "games": ["single"]
   },
   "1244748634": {
-    "abs_start": "0:00", "abs_end": "6:04:17", "duration": "0:00",
+    "youtube": "HZQrw0UGzkk", "official": false, "abs_start": "0:00", "abs_end": "6:04:11", "duration": "6:04:11",
     "name": "Five Nights At Freddy's: Security Breach #4 / Project Zomboid #1 (с Артёмом)",
     "date": "2021-12-27",
-    "direct": "https://bsufiles.drhx.ru/streams/1244748634.mp4",
     "games": ["fnaf-sb", "zomboid"]
   },
   "1245734451": {
