@@ -186,10 +186,9 @@
     "games": ["dishonored"]
   },
   "001511210": {
-    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
+    "youtube": "_dO1_1LWovg", "official": false, "abs_start": "0:00", "abs_end": "4:28:02", "duration": "4:28:02",
     "name": "Dishonored #3",
     "date": "2015-11-21",
-    "direct": "https://bsufiles.drhx.ru/streams/001511210.mp4",
     "games": ["dishonored"]
   },
   "001511250": {
@@ -6648,10 +6647,9 @@
     "games": ["cyberpunk-2077", "tga"]
   },
   "833444670": {
-    "abs_start": "0:00", "abs_end": "7:37:36", "duration": "0:00",
+    "youtube": "HQ_Y7N5BEK4", "official": false, "abs_start": "0:00", "abs_end": "7:37:06", "duration": "7:37:06",
     "name": "Cyberpunk 2077 #3",
     "date": "2020-12-11",
-    "direct": "https://bsufiles.drhx.ru/streams/833444670.mp4",
     "games": ["cyberpunk-2077"]
   },
   "834647659": {
