@@ -2303,9 +2303,10 @@
     "games": ["wreckfest"]
   },
   "277001302": {
-    "youtube": "82WUFWj-PW4", "official": false, "abs_start": "0:00", "abs_end": "5:09:08", "duration": "5:09:08",
+    "abs_start": "0:00", "abs_end": "5:09:46", "duration": "0:00",
     "name": "Dark Souls: Remastered #2 (со зрителями)",
     "date": "2018-06-24",
+    "direct": "https://bsufiles.drhx.ru/streams/277001302.mp4",
     "games": ["ds-remastered"]
   },
   "277440900": {
