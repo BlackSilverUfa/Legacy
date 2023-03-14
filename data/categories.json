@@ -3,16 +3,16 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "sons-forest", "segment": "1750602082", "name": "Sons of the Forest (с Дашей и Джеком) #1", "start": 0},
       {"id": "sons-forest", "segment": "1751502984", "name": "Sons of the Forest (с Дашей и Джеком) #2", "start": 0},
       {"id": "sons-forest", "segment": "1752454738", "name": "Sons of the Forest (с Дашей и Джеком) #3", "start": 0},
       {"id": "contraband-police", "segment": "1758170289", "name": "Contraband Police - Релиз", "start": 0},
       {"id": "single", "segment": "1759103392", "name": "Подводный роман / Овощи / Парень, который мне нравится? / Jurassic Heart / I Love You, Colonel Sanders! / Hatoful Boyfriend", "start": 0},
       {"id": "first-2023", "segment": "1760013812", "name": "Clash: Artifacts of Chaos", "start": 0},
-      {"id": "re4-remake", "segment": "1760910239", "name": "Resident Evil 4 Remake - Chainsaw Demo #1 / Resident Evil 2 Remake - Survival Horror #1", "start": 0},
+      {"id": "re4-remake", "segment": "1760910239", "name": "Resident Evil 4 Remake - Chainsaw Demo #1 / Resident Evil 2 Remake - Survival Horror #1 (Леон \"А\")", "start": 0},
       {"id": "first-2023", "segment": "1762002968", "name": "Alice: Madness Returns", "start": 0},
       {"id": "single", "segment": "1763033004", "name": "Moth House / Spectral Filter / VHS Slaughter / Anemoiapolis / Jungle Dungeon", "start": 0},
-      {"id": "re4-remake", "segment": "1763934802", "name": "Resident Evil 4 Remake - Chainsaw Demo #2 / Resident Evil 2 Remake - Survival Horror #2", "start": 0}
+      {"id": "re4-remake", "segment": "1763934802", "name": "Resident Evil 4 Remake - Chainsaw Demo #2 / Resident Evil 2 Remake - Survival Horror #2", "start": 0},
+      {"id": "re2r-survival", "segment": "1764847023", "name": "Resident Evil 2 Remake - Survival Horror #3 (Клэр \"B\")", "start": 0}
     ]
   },
   "finished": {
@@ -551,6 +551,7 @@
       {"id": "single", "segment": "1759103392", "name": "Овощи", "start": 4295},
       {"id": "single", "segment": "1759103392", "name": "Парень, который мне нравится?", "start": 5616},
       {"id": "single", "segment": "1759103392", "name": "Jurassic Heart", "start": 6952},
+      {"name": "Resident Evil 2 Remake - Survival Horror", "id": "re2r-survival", "segment": "1760910239"},
       {"id": "single", "segment": "1763033004", "name": "Moth House", "start": 1533},
       {"id": "single", "segment": "1763033004", "name": "Spectral Filter", "start": 4225},
       {"id": "single", "segment": "1763033004", "name": "VHS Slaughter", "start": 8437},
@@ -1105,7 +1106,6 @@
     "games": [
       {"name": "Contraband Police", "id": "contraband-police", "segment": "749640613"},
       {"name": "Yakuza 0", "id": "yakuza-0", "segment": "1598875892"},
-      {"name": "Hogwarts Legacy", "id": "hogwarts", "segment": "1729899835"},
       {"name": "Resident Evil 4 Remake", "id": "re4-remake", "segment": "1760910239"}
     ]
   },
@@ -1294,7 +1294,8 @@
       {"name": "Mirror Forge", "id": "mirror-forge", "segment": "1686763712"},
       {"name": "Sleep Paralysis: The Uncanny Valley", "id": "sleep-paralysis", "segment": "1686763712"},
       {"name": "FAITH", "id": "faith", "segment": "1687663796"},
-      {"id": "trash-horror-2", "segment": "1728992336", "name": "Poop Killer 6", "start": 10202}
+      {"id": "trash-horror-2", "segment": "1728992336", "name": "Poop Killer 6", "start": 10202},
+      {"name": "Hogwarts Legacy", "id": "hogwarts", "segment": "1729899835"}
     ]
   },
   "co-op": {
