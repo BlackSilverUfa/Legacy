@@ -10565,10 +10565,9 @@
     "games": ["single", "first-2023"]
   },
   "1763934802": {
-    "abs_start": "0:00", "abs_end": "7:58:25", "duration": "0:00",
+    "youtube": "ePgCDXqkCfU", "abs_start": "0:00", "abs_end": "7:57:54", "duration": "7:57:54",
     "name": "Resident Evil 4 Remake - Chainsaw Demo #2 / Resident Evil 2 Remake - Survival Horror #2",
     "date": "2023-03-13",
-    "direct": "https://bsufiles.drhx.ru/streams/1763934802.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1763934802.torrent",
     "games": ["re4-remake", "re2-remake"]
   }
