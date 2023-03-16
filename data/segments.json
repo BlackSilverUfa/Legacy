@@ -461,10 +461,9 @@
     "games": ["ds3"]
   },
   "001605240": {
-    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
+    "youtube": "iTIk_i3GHYs", "official": false, "abs_start": "0:00", "abs_end": "5:31:34", "duration": "5:31:34",
     "name": "Dark Souls 3 #5",
     "date": "2016-05-24",
-    "direct": "https://bsufiles.drhx.ru/streams/001605240.mp4",
     "games": ["ds3"]
   },
   "001605270": {
