@@ -920,9 +920,9 @@
         <i class="fas fa-comments"></i> 15629
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=E6biaCiUFfo" target="_blank">
-        <i class="fab fa-youtube"></i> E6biaCiUFfo
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/554432443.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -941,6 +941,7 @@
     <li><a data-value="1742">29:02</a> - <a data-value="1842">30:42</a> — America - A Horse with No Name</li>
     <li><a data-value="8370">2:19:30</a> - <a data-value="8486">2:21:26</a> — Elvis Presley - New Orleans</li>
     <li><a data-value="8641">2:24:01</a> - <a data-value="8744">2:25:44</a> — Toto - Hold the Line</li>
+    <li><a data-value="12624">3:30:24</a> - <a data-value="12637">3:30:37</a> — Depeche Mode - Personal Jesus</li>
     <li><a data-value="19663">5:27:43</a> - <a data-value="21692">6:01:32</a> — Rocky Orchestra - Gonna Fly Now</li>
   </ul>
 
@@ -963,13 +964,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="9" data-hash="554432443" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v554432443.ass" data-name="9" data-youtube="E6biaCiUFfo" />
+  <p class="stream" data-id="9" data-hash="554432443" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v554432443.ass" data-name="9" data-direct="https://bsufiles.drhx.ru/streams/554432443.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v554432443.ass ytdl://E6biaCiUFfo
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v554432443.ass https://bsufiles.drhx.ru/streams/554432443.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v554432443.ass" --player-passthrough hls twitch.tv/videos/554432443 best
 </code></pre>
 </div>
 

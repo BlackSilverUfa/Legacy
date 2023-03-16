@@ -214,9 +214,9 @@
         <i class="fas fa-comments"></i> 23734
       </a>
     </span>
-    <span class="badge badge-success">
-      <a href="https://www.youtube.com/watch?v=v9BSe3vm1vw" target="_blank">
-        <i class="fab fa-youtube"></i> v9BSe3vm1vw
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/1153177731.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -230,19 +230,30 @@
     <li><a data-value="132">2:12</a> - <a data-value="186">3:06</a> — Стримлер</li>
     <li><a data-value="288">4:48</a> — Меню</li>
     <li><a data-value="396">6:36</a> — Игра</li>
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li><a data-value="16943">4:42:23</a> - <a data-value="17016">4:43:36</a> — Keaton Henson - You</li>
+  </ul>
+
   </ul>
 
   </div>
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="1" data-hash="1153177731" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2021@master/v1153177731.ass" data-name="2" data-youtube="v9BSe3vm1vw" />
+  <p class="stream" data-id="1" data-hash="1153177731" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2021@master/v1153177731.ass" data-name="2" data-direct="https://bsufiles.drhx.ru/streams/1153177731.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2021@master/v1153177731.ass ytdl://v9BSe3vm1vw
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2021@master/v1153177731.ass https://bsufiles.drhx.ru/streams/1153177731.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2021@master/v1153177731.ass" --player-passthrough hls twitch.tv/videos/1153177731 best
 </code></pre>
 </div>
 
