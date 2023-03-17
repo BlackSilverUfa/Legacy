@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "sons-forest", "segment": "1752454738", "name": "Sons of the Forest (с Дашей и Джеком) #3", "start": 0},
       {"id": "contraband-police", "segment": "1758170289", "name": "Contraband Police - Релиз", "start": 0},
       {"id": "single", "segment": "1759103392", "name": "Подводный роман / Овощи / Парень, который мне нравится? / Jurassic Heart / I Love You, Colonel Sanders! / Hatoful Boyfriend", "start": 0},
       {"id": "first-2023", "segment": "1760013812", "name": "Clash: Artifacts of Chaos", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "single", "segment": "1763033004", "name": "Moth House / Spectral Filter / VHS Slaughter / Anemoiapolis / Jungle Dungeon", "start": 0},
       {"id": "re4-remake", "segment": "1763934802", "name": "Resident Evil 4 Remake - Chainsaw Demo #2 / Resident Evil 2 Remake - Survival Horror #2", "start": 0},
       {"id": "re2r-survival", "segment": "1764847023", "name": "Resident Evil 2 Remake - Survival Horror #3 (Клэр \"B\")", "start": 0},
-      {"id": "re3-remake", "segment": "1765774833", "name": "Resident Evil 3 Remake - Хардкор", "start": 0}
+      {"id": "re3-remake", "segment": "1765774833", "name": "Resident Evil 3 Remake - Хардкор", "start": 0},
+      {"id": "first-2023", "segment": "1767632642", "name": "Diablo II: Resurrected / Diablo III / Diablo IV", "start": 0}
     ]
   },
   "finished": {
@@ -1098,7 +1098,10 @@
       {"id": "first-2023", "segment": "1759103392", "name": "Hatoful Boyfriend", "start": 8461},
       {"id": "first-2023", "segment": "1760013812", "name": "Clash: Artifacts of Chaos", "start": 3293},
       {"id": "first-2023", "segment": "1762002968", "name": "Alice: Madness Returns", "start": 1611},
-      {"id": "first-2023", "segment": "1763033004", "name": "Anemoiapolis", "start": 11766}
+      {"id": "first-2023", "segment": "1763033004", "name": "Anemoiapolis", "start": 11766},
+      {"id": "first-2023", "segment": "1767632642", "name": "Diablo II: Resurrected", "start": 1819},
+      {"id": "first-2023", "segment": "1767632642", "name": "Diablo III", "start": 5823},
+      {"id": "first-2023", "segment": "1767632642", "name": "Diablo IV", "start": 10991}
     ]
   },
   "ongoing": {

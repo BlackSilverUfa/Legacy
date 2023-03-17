@@ -10588,5 +10588,13 @@
     "date": "2023-03-15",
     "torrent": "https://bsufiles.drhx.ru/streams/1765774833.torrent",
     "games": ["re3-remake"]
+  },
+  "1767632642": {
+    "abs_start": "0:00", "abs_end": "5:33:14", "duration": "0:00",
+    "name": "Diablo II: Resurrected / Diablo III / Diablo IV",
+    "date": "2023-03-17",
+    "direct": "https://bsufiles.drhx.ru/streams/1767632642.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1767632642.torrent",
+    "games": ["first-2023"]
   }
 }
