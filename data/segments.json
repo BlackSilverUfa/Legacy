@@ -5052,9 +5052,10 @@
     "games": ["alien-isolation-ai", "first-2020", "granny-2"]
   },
   "531327327": {
-    "youtube": "XJwNGpxN4Eo", "official": false, "abs_start": "0:00", "abs_end": "5:49:29", "duration": "5:49:29",
+    "abs_start": "0:00", "abs_end": "5:49:38", "duration": "0:00",
     "name": "Spore #3 (заново) / The Sims 4 #1",
     "date": "2020-01-05",
+    "direct": "https://bsufiles.drhx.ru/streams/531327327.mp4",
     "games": ["spore", "sims-4"]
   },
   "532342982": {
@@ -9675,9 +9676,10 @@
     "games": ["retro", "first-2022"]
   },
   "1587098639": {
-    "youtube": "sa4oa_tolxc", "abs_start": "0:00", "abs_end": "5:24:53", "duration": "5:24:53",
+    "abs_start": "0:00", "abs_end": "5:25:12", "duration": "0:00",
     "name": "The Long Drive / Devour #5 / Tricky Towers #33",
     "date": "2022-09-10",
+    "direct": "https://bsufiles.drhx.ru/streams/1587098639.mp4",
     "games": ["co-op", "devour", "tricky-towers"]
   },
   "1588071501": {

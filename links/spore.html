@@ -284,9 +284,9 @@
         <i class="fas fa-comments"></i> 29662
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=XJwNGpxN4Eo" target="_blank">
-        <i class="fab fa-youtube"></i> XJwNGpxN4Eo
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/531327327.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -319,6 +319,7 @@
       <a data-value="12616">3:30:16</a> - <a data-value="12827">3:33:47</a>
       — a-ha - Take On Me
     </li>
+    <li><a data-value="13682">3:48:02</a> - <a data-value="13876">3:51:16</a> — Yoko Takahashi - FLY ME TO THE MOON 2020</li>
     <li><a data-value="17961">4:59:21</a> - <a data-value="18171">5:02:51</a> — Не указано</li>
   </ul>
 
@@ -343,13 +344,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="2" data-hash="531327327" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v531327327.ass" data-name="3 (заново)" data-youtube="XJwNGpxN4Eo" />
+  <p class="stream" data-id="2" data-hash="531327327" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v531327327.ass" data-name="3 (заново)" data-direct="https://bsufiles.drhx.ru/streams/531327327.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v531327327.ass ytdl://XJwNGpxN4Eo
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v531327327.ass https://bsufiles.drhx.ru/streams/531327327.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v531327327.ass" --player-passthrough hls twitch.tv/videos/531327327 best
 </code></pre>
 </div>
 

@@ -3147,9 +3147,9 @@
         <i class="fas fa-comments"></i> 13290
       </a>
     </span>
-    <span class="badge badge-success">
-      <a href="https://www.youtube.com/watch?v=sa4oa_tolxc" target="_blank">
-        <i class="fab fa-youtube"></i> sa4oa_tolxc
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/1587098639.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -3188,6 +3188,11 @@
     <li><a data-value="2936">48:56</a> — Undetected</li>
     <li><a data-value="3018">50:18</a> — Black Adam</li>
     <li><a data-value="4497">1:14:57</a> — Half Dead 3</li>
+  </ul>
+
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li><a data-value="1561">26:01</a> - <a data-value="1608">26:48</a> — Vera Lynn - We'll Meet Again</li>
   </ul>
 
       <li>Нарезки:</li>
@@ -3230,13 +3235,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="32" data-hash="1587098639" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2022@master/v1587098639.ass" data-start="17434" data-name="33" data-youtube="sa4oa_tolxc" />
+  <p class="stream" data-id="32" data-hash="1587098639" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2022@master/v1587098639.ass" data-start="17434" data-name="33" data-direct="https://bsufiles.drhx.ru/streams/1587098639.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2022@master/v1587098639.ass --start=17434 ytdl://sa4oa_tolxc
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2022@master/v1587098639.ass --start=17434 https://bsufiles.drhx.ru/streams/1587098639.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2022@master/v1587098639.ass --start=17434" --player-passthrough hls twitch.tv/videos/1587098639 best
 </code></pre>
 </div>
 
