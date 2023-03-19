@@ -571,10 +571,9 @@
     "games": ["fallout-2"]
   },
   "001610070": {
-    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
+    "youtube": "F8gO0_BcgoU", "official": false, "abs_start": "0:00", "abs_end": "5:56:24", "duration": "5:56:24",
     "name": "Mafia III #1",
     "date": "2016-10-07",
-    "direct": "https://bsufiles.drhx.ru/streams/001610070.mp4",
     "games": ["mafia-3"]
   },
   "001610100": {
