@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "single", "segment": "1759103392", "name": "Подводный роман / Овощи / Парень, который мне нравится? / Jurassic Heart / I Love You, Colonel Sanders! / Hatoful Boyfriend", "start": 0},
       {"id": "first-2023", "segment": "1760013812", "name": "Clash: Artifacts of Chaos", "start": 0},
       {"id": "re4-remake", "segment": "1760910239", "name": "Resident Evil 4 Remake - Chainsaw Demo #1 / Resident Evil 2 Remake - Survival Horror #1 (Леон \"А\")", "start": 0},
       {"id": "alice-mr", "segment": "1762002968", "name": "Alice: Madness Returns #1", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "re2r-survival", "segment": "1764847023", "name": "Resident Evil 2 Remake - Survival Horror #3 (Клэр \"B\")", "start": 0},
       {"id": "re3-remake", "segment": "1765774833", "name": "Resident Evil 3 Remake - Хардкор", "start": 0},
       {"id": "first-2023", "segment": "1767632642", "name": "Diablo II: Resurrected / Diablo III / Diablo IV", "start": 0},
-      {"id": "alice-mr", "segment": "1768648500", "name": "Alice: Madness Returns #2", "start": 0}
+      {"id": "alice-mr", "segment": "1768648500", "name": "Alice: Madness Returns #2", "start": 0},
+      {"id": "single", "segment": "1769643693", "name": "Silent Nights / Anthology of Fear - Релиз / File Destined", "start": 0}
     ]
   },
   "finished": {
@@ -459,8 +459,8 @@
       {"id": "single", "segment": "1619465701", "name": "The Classrooms (демо)", "start": 5232},
       {"id": "single", "segment": "1619465701", "name": "Quo (демо)", "start": 6673},
       {"id": "single", "segment": "1619465701", "name": "Broken Through", "start": 12673},
-      {"id": "single", "segment": "1619465701", "name": "Anthology of Fear (демо)", "start": 18167},
       {"id": "single", "segment": "1619465701", "name": "On One's Own", "start": 20340},
+      {"name": "Anthology of Fear", "id": "anthology-of-fear", "segment": "1619465701"},
       {"name": "The Polaris Incident", "id": "polaris-incident", "segment": "1619465701"},
       {"id": "single", "segment": "1622143449", "name": "Forever Skies (демо)", "start": 10646},
       {"name": "Nancy Drew: Shadow at the Water's Edge (Нэнси Дрю: Тень у воды)", "id": "nancy-drew-satwe", "segment": "1625850313"},
@@ -555,7 +555,9 @@
       {"id": "single", "segment": "1763033004", "name": "Moth House", "start": 1533},
       {"id": "single", "segment": "1763033004", "name": "Spectral Filter", "start": 4225},
       {"id": "single", "segment": "1763033004", "name": "VHS Slaughter", "start": 8437},
-      {"id": "single", "segment": "1763033004", "name": "Jungle Dungeon", "start": 13143}
+      {"id": "single", "segment": "1763033004", "name": "Jungle Dungeon", "start": 13143},
+      {"id": "single", "segment": "1769643693", "name": "Silent Nights", "start": 2598},
+      {"id": "single", "segment": "1769643693", "name": "File Destined", "start": 15016}
     ]
   },
   "first": {

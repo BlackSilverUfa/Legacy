@@ -9774,10 +9774,10 @@
   },
   "1619465701": {
     "youtube": "Hn2loNKBAFQ", "abs_start": "0:00", "abs_end": "6:14:36", "duration": "6:14:05",
-    "name": "Kona II: Brume (демо) / The Classrooms (демо) / Quo (демо) / The Polaris Incident - Первый взгляд / The Polaris Incident - Прохождение / Broken Through / The Chaput's Baby / Anthology of Fear (демо) / On One's Own",
+    "name": "Kona II: Brume (демо) / The Classrooms (демо) / Quo (демо) / The Polaris Incident - Первый взгляд / The Polaris Incident - Прохождение / Broken Through / The Chaput's Baby / Anthology of Fear - Демо / On One's Own",
     "date": "2022-10-09",
     "cuts": [[13924, 13955]],
-    "games": ["single", "polaris-incident", "polaris-incident", "first-2022"]
+    "games": ["single", "polaris-incident", "polaris-incident", "first-2022", "anthology-of-fear"]
   },
   "1622143449": {
     "youtube": "KPgSLnxiL0E", "abs_start": "0:00", "abs_end": "5:24:04", "duration": "5:24:04",
@@ -10594,5 +10594,13 @@
     "direct": "https://bsufiles.drhx.ru/streams/1768648500.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1768648500.torrent",
     "games": ["alice-mr"]
+  },
+  "1769643693": {
+    "abs_start": "0:00", "abs_end": "5:37:35", "duration": "0:00",
+    "name": "Silent Nights / Anthology of Fear - Релиз / File Destined",
+    "date": "2023-03-19",
+    "direct": "https://bsufiles.drhx.ru/streams/1769643693.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1769643693.torrent",
+    "games": ["single", "anthology-of-fear"]
   }
 }
