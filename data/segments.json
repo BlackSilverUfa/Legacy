@@ -2300,10 +2300,9 @@
     "games": ["wreckfest"]
   },
   "277001302": {
-    "abs_start": "0:00", "abs_end": "5:09:46", "duration": "0:00",
+    "youtube": "3Oi8NA-gd6k", "official": false, "abs_start": "0:00", "abs_end": "5:09:08", "duration": "5:09:08",
     "name": "Dark Souls: Remastered #2 (со зрителями)",
     "date": "2018-06-24",
-    "direct": "https://bsufiles.drhx.ru/streams/277001302.mp4",
     "games": ["ds-remastered"]
   },
   "277440900": {
@@ -5252,10 +5251,9 @@
     "games": ["dreams"]
   },
   "554432443": {
-    "abs_start": "0:00", "abs_end": "6:03:56", "duration": "0:00",
+    "youtube": "0QyD51N2gH8", "official": false, "abs_start": "0:00", "abs_end": "6:03:35", "duration": "6:03:35",
     "name": "Grand Theft Auto: San Andreas #9",
     "date": "2020-02-19",
-    "direct": "https://bsufiles.drhx.ru/streams/554432443.mp4",
     "games": ["gta-san-andreas"]
   },
   "555473037": {
