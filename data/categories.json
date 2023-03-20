@@ -1109,7 +1109,6 @@
     "name": "Активные",
     "games": [
       {"name": "Contraband Police", "id": "contraband-police", "segment": "749640613"},
-      {"name": "Yakuza 0", "id": "yakuza-0", "segment": "1598875892"},
       {"name": "Resident Evil 4 Remake", "id": "re4-remake", "segment": "1760910239"},
       {"name": "Alice: Madness Returns", "id": "alice-mr", "segment": "1762002968"}
     ]
@@ -1290,6 +1289,7 @@
       {"name": "Peepo Island", "id": "peepo-island", "segment": "1542254440"},
       {"id": "trash-horror-2", "segment": "1596223040", "name": "We Are Not Alone", "start": 11785},
       {"id": "trash-horror-2", "segment": "1596223040", "name": "The House of Rats", "start": 13670},
+      {"name": "Yakuza 0", "id": "yakuza-0", "segment": "1598875892"},
       {"id": "trash-horror-2", "segment": "1603602197", "name": "Poop Killer 4", "start": 16874},
       {"name": "Unusual Findings", "id": "unusual-findings", "segment": "1618459269"},
       {"id": "trash-horror-2", "segment": "1642266888,1642407202", "name": "Poop Killer: Origins", "start": 5301},
