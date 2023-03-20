@@ -10595,10 +10595,9 @@
     "games": ["alice-mr"]
   },
   "1769643693": {
-    "abs_start": "0:00", "abs_end": "5:37:35", "duration": "0:00",
+    "youtube": "Nk-KGDoVw1w", "abs_start": "0:00", "abs_end": "5:37:31", "duration": "5:37:31",
     "name": "Silent Nights / Anthology of Fear - Релиз / File Destined",
     "date": "2023-03-19",
-    "direct": "https://bsufiles.drhx.ru/streams/1769643693.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1769643693.torrent",
     "games": ["single", "anthology-of-fear"]
   }
