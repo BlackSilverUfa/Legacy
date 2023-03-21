@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "first-2023", "segment": "1760013812", "name": "Clash: Artifacts of Chaos", "start": 0},
       {"id": "re4-remake", "segment": "1760910239", "name": "Resident Evil 4 Remake - Chainsaw Demo #1 / Resident Evil 2 Remake - Survival Horror #1 (Леон \"А\")", "start": 0},
       {"id": "alice-mr", "segment": "1762002968", "name": "Alice: Madness Returns #1", "start": 0},
       {"id": "single", "segment": "1763033004", "name": "Moth House / Spectral Filter / VHS Slaughter / Anemoiapolis / Jungle Dungeon", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "re3-remake", "segment": "1765774833", "name": "Resident Evil 3 Remake - Хардкор", "start": 0},
       {"id": "first-2023", "segment": "1767632642", "name": "Diablo II: Resurrected / Diablo III / Diablo IV", "start": 0},
       {"id": "alice-mr", "segment": "1768648500", "name": "Alice: Madness Returns #2", "start": 0},
-      {"id": "single", "segment": "1769643693", "name": "Silent Nights / Anthology of Fear - Релиз / File Destined", "start": 0}
+      {"id": "single", "segment": "1769643693", "name": "Silent Nights / Anthology of Fear - Релиз / File Destined", "start": 0},
+      {"id": "chivalry-2", "segment": "1771503128", "name": "Chivalry 2 #7", "start": 0}
     ]
   },
   "finished": {
