@@ -10602,10 +10602,9 @@
     "games": ["single", "anthology-of-fear"]
   },
   "1771503128": {
-    "abs_start": "0:00", "abs_end": "5:26:06", "duration": "0:00",
+    "youtube": "hIaKzL2bL_w", "abs_start": "0:00", "abs_end": "5:25:34", "duration": "5:25:34",
     "name": "Chivalry 2 #7",
     "date": "2023-03-21",
-    "direct": "https://bsufiles.drhx.ru/streams/1771503128.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1771503128.torrent",
     "games": ["chivalry-2"]
   }
