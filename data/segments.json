@@ -10607,5 +10607,21 @@
     "date": "2023-03-21",
     "torrent": "https://bsufiles.drhx.ru/streams/1771503128.torrent",
     "games": ["chivalry-2"]
+  },
+  "1772343378": {
+    "abs_start": "0:00", "abs_end": "4:25:20", "duration": "0:00",
+    "name": "Resident Evil Village #1 (заново, Жуткая деревня)",
+    "date": "2023-03-22",
+    "direct": "https://bsufiles.drhx.ru/streams/1772343378.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1772343378.torrent",
+    "games": ["re8"]
+  },
+  "1772504839": {
+    "abs_start": "0:00", "abs_end": "2:28:31", "duration": "0:00",
+    "name": "Chivalry 2 #8",
+    "date": "2023-03-22",
+    "direct": "https://bsufiles.drhx.ru/streams/1772504839.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1772504839.torrent",
+    "games": ["chivalry-2"]
   }
 }
