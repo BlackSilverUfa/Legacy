@@ -10624,5 +10624,13 @@
     "direct": "https://bsufiles.drhx.ru/streams/1772504839.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1772504839.torrent",
     "games": ["chivalry-2"]
+  },
+  "1773155387": {
+    "abs_start": "0:00", "abs_end": "10:15:13", "duration": "0:00",
+    "name": "Resident Evil 4 - Перед Remake / Resident Evil 4 Remake #1",
+    "date": "2023-03-23",
+    "direct": "https://bsufiles.drhx.ru/streams/1773155387.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1773155387.torrent",
+    "games": ["re4", "re4-remake"]
   }
 }
