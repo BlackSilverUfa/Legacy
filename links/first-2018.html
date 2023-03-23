@@ -1009,9 +1009,9 @@
         <i class="fas fa-comments"></i> 37071
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=ups4e0wPdvY" target="_blank">
-        <i class="fab fa-youtube"></i> ups4e0wPdvY
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/268900992.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -1030,6 +1030,7 @@
       <li>Проблемы с правообладателями:</li>
   <ul>
     <li><a data-value="6118">1:41:58</a> - <a data-value="6274">1:44:34</a> — Не указано</li>
+    <li><a data-value="10178">2:49:38</a> - <a data-value="10437">2:53:57</a> — Hadouken! - Mecha Love</li>
     <li><a data-value="11674">3:14:34</a> - <a data-value="11874">3:17:54</a> — Cage The Elephant - Always Something</li>
     <li><a data-value="13854">3:50:54</a> - <a data-value="14226">3:57:06</a> — Type O Negative - Black No. 1 (Little Miss Scare -All)</li>
   </ul>
@@ -1043,13 +1044,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="16" data-hash="268900992" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v268900992.ass" data-start="10848" data-name="Choice Chamber" data-youtube="ups4e0wPdvY" />
+  <p class="stream" data-id="16" data-hash="268900992" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v268900992.ass" data-start="10848" data-name="Choice Chamber" data-direct="https://bsufiles.drhx.ru/streams/268900992.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v268900992.ass --start=10848 ytdl://ups4e0wPdvY
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v268900992.ass --start=10848 https://bsufiles.drhx.ru/streams/268900992.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2018@master/v268900992.ass --start=10848" --player-passthrough hls twitch.tv/videos/268900992 best
 </code></pre>
 </div>
 
