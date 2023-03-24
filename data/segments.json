@@ -10631,5 +10631,13 @@
     "direct": "https://bsufiles.drhx.ru/streams/1773155387.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1773155387.torrent",
     "games": ["re4", "re4-remake"]
+  },
+  "1774067090": {
+    "abs_start": "0:00", "abs_end": "9:31:52", "duration": "0:00",
+    "name": "Resident Evil 4 Remake #2",
+    "date": "2023-03-24",
+    "direct": "https://bsufiles.drhx.ru/streams/1774067090.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1774067090.torrent",
+    "games": ["re4-remake"]
   }
 }
