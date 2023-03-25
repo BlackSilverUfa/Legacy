@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "re2r-survival", "segment": "1764847023", "name": "Resident Evil 2 Remake - Survival Horror #3 (Клэр \"B\")", "start": 0},
       {"id": "re3-remake", "segment": "1765774833", "name": "Resident Evil 3 Remake - Хардкор", "start": 0},
       {"id": "first-2023", "segment": "1767632642", "name": "Diablo II: Resurrected / Diablo III / Diablo IV", "start": 0},
       {"id": "alice-mr", "segment": "1768648500", "name": "Alice: Madness Returns #2", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "re8", "segment": "1772343378", "name": "Resident Evil Village #1 (заново, Жуткая деревня)", "start": 0},
       {"id": "chivalry-2", "segment": "1772504839", "name": "Chivalry 2 #8", "start": 0},
       {"id": "re4", "segment": "1773155387", "name": "Resident Evil 4 - Перед Remake / Resident Evil 4 Remake #1", "start": 0},
-      {"id": "re4-remake", "segment": "1774067090", "name": "Resident Evil 4 Remake #2", "start": 0}
+      {"id": "re4-remake", "segment": "1774067090", "name": "Resident Evil 4 Remake #2", "start": 0},
+      {"id": "re4-remake", "segment": "1775088934", "name": "Resident Evil 4 Remake #3", "start": 0}
     ]
   },
   "finished": {
@@ -551,6 +551,7 @@
       {"id": "single", "segment": "1759103392", "name": "Овощи", "start": 4295},
       {"id": "single", "segment": "1759103392", "name": "Парень, который мне нравится?", "start": 5616},
       {"id": "single", "segment": "1759103392", "name": "Jurassic Heart", "start": 6952},
+      {"name": "Resident Evil 4 Remake", "id": "re4-remake", "segment": "1760910239"},
       {"name": "Resident Evil 2 Remake - Survival Horror", "id": "re2r-survival", "segment": "1760910239"},
       {"id": "single", "segment": "1763033004", "name": "Moth House", "start": 1533},
       {"id": "single", "segment": "1763033004", "name": "Spectral Filter", "start": 4225},
@@ -1109,7 +1110,6 @@
     "name": "Активные",
     "games": [
       {"name": "Contraband Police", "id": "contraband-police", "segment": "749640613"},
-      {"name": "Resident Evil 4 Remake", "id": "re4-remake", "segment": "1760910239"},
       {"name": "Alice: Madness Returns", "id": "alice-mr", "segment": "1762002968"}
     ]
   },
