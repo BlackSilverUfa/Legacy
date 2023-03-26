@@ -10627,18 +10627,16 @@
     "games": ["re4", "re4-remake"]
   },
   "1774067090": {
-    "abs_start": "0:00", "abs_end": "9:31:52", "duration": "0:00",
+    "youtube": "WSxXdlA9Fls", "abs_start": "0:00", "abs_end": "9:31:46", "duration": "9:31:46",
     "name": "Resident Evil 4 Remake #2",
     "date": "2023-03-24",
-    "direct": "https://bsufiles.drhx.ru/streams/1774067090.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1774067090.torrent",
     "games": ["re4-remake"]
   },
   "1775088934": {
-    "abs_start": "0:00", "abs_end": "8:19:35", "duration": "0:00",
+    "youtube": "ArPKy9BC3dc", "abs_start": "0:54", "abs_end": "8:19:14", "duration": "8:16:40",
     "name": "Resident Evil 4 Remake #3",
     "date": "2023-03-25",
-    "direct": "https://bsufiles.drhx.ru/streams/1775088934.mp4",
     "cuts": [[0, 72], [8021, 8049]],
     "games": ["re4-remake"]
   }
