@@ -10613,18 +10613,16 @@
     "games": ["re8"]
   },
   "1772504839": {
-    "abs_start": "0:00", "abs_end": "2:28:31", "duration": "0:00",
+    "youtube": "9JhHLy3EZro", "abs_start": "0:00", "abs_end": "2:28:18", "duration": "2:28:18",
     "name": "Chivalry 2 #8",
     "date": "2023-03-22",
-    "direct": "https://bsufiles.drhx.ru/streams/1772504839.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1772504839.torrent",
     "games": ["chivalry-2"]
   },
   "1773155387": {
-    "abs_start": "0:00", "abs_end": "10:15:13", "duration": "0:00",
+    "youtube": "IUREHKFmmjM", "abs_start": "0:00", "abs_end": "10:14:47", "duration": "10:14:47",
     "name": "Resident Evil 4 - Перед Remake / Resident Evil 4 Remake #1",
     "date": "2023-03-23",
-    "direct": "https://bsufiles.drhx.ru/streams/1773155387.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1773155387.torrent",
     "games": ["re4", "re4-remake"]
   },
