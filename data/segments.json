@@ -10418,7 +10418,6 @@
     "name": "Driftwood (демо) / Pneumata (демо) / Route 66 Simulator (демо) / DUCK: Dangerous Ultimate Cartridge Kidnapper / Shadows of Doubt (демо) / I Am Future (демо)",
     "date": "2023-02-16",
     "cuts": [[15296, 15328], [20340, 20420]],
-    "torrent": "https://bsufiles.drhx.ru/streams/1739787468.torrent",
     "games": ["first-2023", "single"]
   },
   "1740746666": {
@@ -10643,5 +10642,13 @@
     "date": "2023-03-27",
     "torrent": "https://bsufiles.drhx.ru/streams/1777132427.torrent",
     "games": ["re8", "first-2023"]
+  },
+  "1778016938": {
+    "abs_start": "0:00", "abs_end": "7:17:35", "duration": "0:00",
+    "name": "UNFOLLOW / Polaris Outpost (демо) / Dredge / Crime Boss: Rockay City",
+    "date": "2023-03-28",
+    "direct": "https://bsufiles.drhx.ru/streams/1778016938.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1778016938.torrent",
+    "games": ["single", "first-2023", "co-op"]
   }
 }
