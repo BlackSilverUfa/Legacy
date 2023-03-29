@@ -10424,7 +10424,6 @@
     "youtube": "qOheX-0_Q50", "abs_start": "0:00", "abs_end": "6:17:16", "duration": "6:17:16",
     "name": "Like a Dragon: Ishin! (демо) / Yakuza 0 #8",
     "date": "2023-02-17",
-    "torrent": "https://bsufiles.drhx.ru/streams/1740746666.torrent",
     "games": ["single", "yakuza-0"]
   },
   "1741779316": {
@@ -10645,9 +10644,17 @@
   },
   "1778016938": {
     "youtube": "4EsaSITBGXY", "abs_start": "0:00", "abs_end": "7:17:17", "duration": "7:17:17",
-    "name": "UNFOLLOW / Polaris Outpost (демо) / Dredge / Crime Boss: Rockay City",
+    "name": "UNFOLLOW / Polaris Outpost (демо) / Dredge / Crime Boss: Rockay City #1 (4D)",
     "date": "2023-03-28",
     "torrent": "https://bsufiles.drhx.ru/streams/1778016938.torrent",
-    "games": ["single", "first-2023", "co-op"]
+    "games": ["single", "first-2023", "crime-boss-4d"]
+  },
+  "1778887686": {
+    "abs_start": "0:00", "abs_end": "8:01:39", "duration": "0:00",
+    "name": "Crime Boss: Rockay City - Соло / Apocalyptic Vibes / Crime Boss: Rockay City #2 (4D) / Devour #6",
+    "date": "2023-03-29",
+    "direct": "https://bsufiles.drhx.ru/streams/1778887686.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1778887686.torrent",
+    "games": ["crime-boss-4d", "first-2023", "devour"]
   }
 }

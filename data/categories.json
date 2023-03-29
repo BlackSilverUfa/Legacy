@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "alice-mr", "segment": "1768648500", "name": "Alice: Madness Returns #2", "start": 0},
       {"id": "single", "segment": "1769643693", "name": "Silent Nights / Anthology of Fear - Релиз / File Destined", "start": 0},
       {"id": "chivalry-2", "segment": "1771503128", "name": "Chivalry 2 #7", "start": 0},
       {"id": "re8", "segment": "1772343378", "name": "Resident Evil Village #1 (заново, Жуткая деревня)", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "re4-remake", "segment": "1774067090", "name": "Resident Evil 4 Remake #2", "start": 0},
       {"id": "re4-remake", "segment": "1775088934", "name": "Resident Evil 4 Remake #3", "start": 0},
       {"id": "re8", "segment": "1777132427", "name": "Resident Evil Village #2 (Жуткая деревня) / Demonologist (демо)", "start": 0},
-      {"id": "single", "segment": "1778016938", "name": "UNFOLLOW / Polaris Outpost (демо) / Dredge / Crime Boss: Rockay City", "start": 0}
+      {"id": "single", "segment": "1778016938", "name": "UNFOLLOW / Polaris Outpost (демо) / Dredge / Crime Boss: Rockay City #1 (4D)", "start": 0},
+      {"id": "crime-boss-4d", "segment": "1778887686", "name": "Crime Boss: Rockay City - Соло / Apocalyptic Vibes / Crime Boss: Rockay City #2 (4D) / Devour #6", "start": 0}
     ]
   },
   "finished": {
@@ -1108,7 +1108,8 @@
       {"id": "first-2023", "segment": "1767632642", "name": "Diablo IV", "start": 10991},
       {"id": "first-2023", "segment": "1777132427", "name": "Demonologist (демо)", "start": 5586},
       {"id": "first-2023", "segment": "1778016938", "name": "Polaris Outpost (демо)", "start": 6995},
-      {"id": "first-2023", "segment": "1778016938", "name": "Dredge", "start": 8170}
+      {"id": "first-2023", "segment": "1778016938", "name": "Dredge", "start": 8170},
+      {"id": "first-2023", "segment": "1778887686", "name": "Apocalyptic Vibes", "start": 12052}
     ]
   },
   "ongoing": {
@@ -1515,7 +1516,7 @@
       {"name": "Escape Memoirs: Mini Stories", "id": "escape-memoirs", "segment": "1618459269"},
       {"id": "co-op", "segment": "1623036890", "name": "Overwatch 2", "start": 3251},
       {"id": "co-op", "segment": "1624846104", "name": "Ghostbusters: Spirits Unleashed", "start": 16061},
-      {"id": "co-op", "segment": "1778016938", "name": "Crime Boss: Rockay City", "start": 15444}
+      {"name": "Crime Boss: Rockay City", "id": "crime-boss-4d", "segment": "1778016938"}
     ]
   },
   "other": {
