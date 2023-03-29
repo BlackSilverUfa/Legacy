@@ -10644,10 +10644,9 @@
     "games": ["re8", "first-2023"]
   },
   "1778016938": {
-    "abs_start": "0:00", "abs_end": "7:17:35", "duration": "0:00",
+    "youtube": "4EsaSITBGXY", "abs_start": "0:00", "abs_end": "7:17:17", "duration": "7:17:17",
     "name": "UNFOLLOW / Polaris Outpost (демо) / Dredge / Crime Boss: Rockay City",
     "date": "2023-03-28",
-    "direct": "https://bsufiles.drhx.ru/streams/1778016938.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1778016938.torrent",
     "games": ["single", "first-2023", "co-op"]
   }
