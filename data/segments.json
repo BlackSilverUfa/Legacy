@@ -10436,7 +10436,6 @@
     "youtube": "ac1Fiw0Xbp0", "abs_start": "0:00", "abs_end": "8:50:50", "duration": "8:50:50",
     "name": "Atomic Heart #1",
     "date": "2023-02-20",
-    "torrent": "https://bsufiles.drhx.ru/streams/1743703656.torrent",
     "games": ["atomic-heart"]
   },
   "1744660246": {
@@ -10662,5 +10661,13 @@
     "direct": "https://bsufiles.drhx.ru/streams/1780702580.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1780702580.torrent",
     "games": ["alice-mr"]
+  },
+  "1781609483": {
+    "abs_start": "0:00", "abs_end": "6:01:56", "duration": "0:00",
+    "name": "The Last of Us: Part I - PC (заново) / Phasmophobia #17 (с Куплиновым и Дангаром)",
+    "date": "2023-04-01",
+    "direct": "https://bsufiles.drhx.ru/streams/1781609483.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1781609483.torrent",
+    "games": ["tlou", "phasmophobia"]
   }
 }

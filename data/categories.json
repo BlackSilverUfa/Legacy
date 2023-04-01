@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "chivalry-2", "segment": "1771503128", "name": "Chivalry 2 #7", "start": 0},
       {"id": "re8", "segment": "1772343378", "name": "Resident Evil Village #1 (заново, Жуткая деревня)", "start": 0},
       {"id": "chivalry-2", "segment": "1772504839", "name": "Chivalry 2 #8", "start": 0},
       {"id": "re4", "segment": "1773155387", "name": "Resident Evil 4 - Перед Remake / Resident Evil 4 Remake #1", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "re8", "segment": "1777132427", "name": "Resident Evil Village #2 (Жуткая деревня) / Demonologist (демо)", "start": 0},
       {"id": "single", "segment": "1778016938", "name": "UNFOLLOW / Polaris Outpost (демо) / Dredge - Релиз / Crime Boss: Rockay City #1 (4D)", "start": 0},
       {"id": "crime-boss-4d", "segment": "1778887686", "name": "Crime Boss: Rockay City - Соло / Apocalyptic Vibes / Crime Boss: Rockay City #2 (4D) / Devour #6", "start": 0},
-      {"id": "alice-mr", "segment": "1780702580", "name": "Alice: Madness Returns #3", "start": 0}
+      {"id": "alice-mr", "segment": "1780702580", "name": "Alice: Madness Returns #3", "start": 0},
+      {"id": "tlou", "segment": "1781609483", "name": "The Last of Us: Part I - PC (заново) / Phasmophobia #17 (с Куплиновым и Дангаром)", "start": 0}
     ]
   },
   "finished": {
