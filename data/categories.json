@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "re8", "segment": "1772343378", "name": "Resident Evil Village #1 (заново, Жуткая деревня)", "start": 0},
       {"id": "chivalry-2", "segment": "1772504839", "name": "Chivalry 2 #8", "start": 0},
       {"id": "re4", "segment": "1773155387", "name": "Resident Evil 4 - Перед Remake / Resident Evil 4 Remake #1", "start": 0},
       {"id": "re4-remake", "segment": "1774067090", "name": "Resident Evil 4 Remake #2", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "single", "segment": "1778016938", "name": "UNFOLLOW / Polaris Outpost (демо) / Dredge - Релиз / Crime Boss: Rockay City #1 (4D)", "start": 0},
       {"id": "crime-boss-4d", "segment": "1778887686", "name": "Crime Boss: Rockay City - Соло / Apocalyptic Vibes / Crime Boss: Rockay City #2 (4D) / Devour #6", "start": 0},
       {"id": "alice-mr", "segment": "1780702580", "name": "Alice: Madness Returns #3", "start": 0},
-      {"id": "tlou", "segment": "1781609483", "name": "The Last of Us: Part I - PC (заново) / Phasmophobia #17 (с Куплиновым и Дангаром)", "start": 0}
+      {"id": "tlou", "segment": "1781609483", "name": "The Last of Us: Part I - PC (заново) / Phasmophobia #17 (с Куплиновым и Дангаром)", "start": 0},
+      {"id": "first-2023", "segment": "1782635771", "name": "Reclusive / The Touch / Alpen Ghoul: Prologue / The Portraits / The Renovator: Origins / see no FEAR / Manacle / Cry of the Mermaid", "start": 0}
     ]
   },
   "finished": {
@@ -560,7 +560,14 @@
       {"id": "single", "segment": "1769643693", "name": "Silent Nights", "start": 2598},
       {"id": "single", "segment": "1769643693", "name": "File Destined", "start": 15016},
       {"id": "single", "segment": "1778016938", "name": "UNFOLLOW", "start": 2479},
-      {"id": "single", "segment": "1778016938", "name": "UNFOLLOW (продолжение)", "start": 5236}
+      {"id": "single", "segment": "1778016938", "name": "UNFOLLOW (продолжение)", "start": 5236},
+      {"id": "single", "segment": "1782635771", "name": "The Touch", "start": 3065},
+      {"id": "single", "segment": "1782635771", "name": "Alpen Ghoul: Prologue", "start": 3714},
+      {"id": "single", "segment": "1782635771", "name": "The Portraits", "start": 9101},
+      {"id": "single", "segment": "1782635771", "name": "The Renovator: Origins", "start": 10369},
+      {"id": "single", "segment": "1782635771", "name": "see no FEAR", "start": 12436},
+      {"id": "single", "segment": "1782635771", "name": "Manacle", "start": 13153},
+      {"id": "single", "segment": "1782635771", "name": "Cry of the Mermaid", "start": 16956}
     ]
   },
   "first": {
@@ -1107,7 +1114,8 @@
       {"id": "first-2023", "segment": "1767632642", "name": "Diablo IV", "start": 10991},
       {"id": "first-2023", "segment": "1777132427", "name": "Demonologist (демо)", "start": 5586},
       {"id": "first-2023", "segment": "1778016938", "name": "Polaris Outpost (демо)", "start": 6995},
-      {"id": "first-2023", "segment": "1778887686", "name": "Apocalyptic Vibes", "start": 12052}
+      {"id": "first-2023", "segment": "1778887686", "name": "Apocalyptic Vibes", "start": 12052},
+      {"id": "first-2023", "segment": "1782635771", "name": "Reclusive", "start": 1569}
     ]
   },
   "ongoing": {
