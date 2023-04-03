@@ -3,16 +3,16 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "chivalry-2", "segment": "1772504839", "name": "Chivalry 2 #8", "start": 0},
       {"id": "re4", "segment": "1773155387", "name": "Resident Evil 4 - Перед Remake / Resident Evil 4 Remake #1", "start": 0},
       {"id": "re4-remake", "segment": "1774067090", "name": "Resident Evil 4 Remake #2", "start": 0},
       {"id": "re4-remake", "segment": "1775088934", "name": "Resident Evil 4 Remake #3", "start": 0},
-      {"id": "re8", "segment": "1777132427", "name": "Resident Evil Village #2 (Жуткая деревня) / Demonologist (демо)", "start": 0},
+      {"id": "re8", "segment": "1777132427", "name": "Resident Evil Village #2 (Жуткая деревня) / Demonologist - Демо", "start": 0},
       {"id": "single", "segment": "1778016938", "name": "UNFOLLOW / Polaris Outpost (демо) / Dredge - Релиз / Crime Boss: Rockay City #1 (4D)", "start": 0},
       {"id": "crime-boss-4d", "segment": "1778887686", "name": "Crime Boss: Rockay City - Соло / Apocalyptic Vibes / Crime Boss: Rockay City #2 (4D) / Devour #6", "start": 0},
       {"id": "alice-mr", "segment": "1780702580", "name": "Alice: Madness Returns #3", "start": 0},
       {"id": "tlou", "segment": "1781609483", "name": "The Last of Us: Part I - PC (заново) / Phasmophobia #17 (с Куплиновым и Дангаром)", "start": 0},
-      {"id": "first-2023", "segment": "1782635771", "name": "Reclusive / The Touch / Alpen Ghoul: Prologue / The Portraits / The Renovator: Origins / see no FEAR / Manacle / Cry of the Mermaid", "start": 0}
+      {"id": "first-2023", "segment": "1782635771", "name": "Reclusive / The Touch / Alpen Ghoul: Prologue / The Portraits / The Renovator: Origins / see no FEAR / Manacle / Cry of the Mermaid", "start": 0},
+      {"id": "alice-mr", "segment": "1783494144", "name": "Alice: Madness Returns #4 / Demonologist #1 (с Дашей и Джеком)", "start": 0}
     ]
   },
   "finished": {
@@ -553,6 +553,7 @@
       {"id": "single", "segment": "1759103392", "name": "Jurassic Heart", "start": 6952},
       {"name": "Resident Evil 4 Remake", "id": "re4-remake", "segment": "1760910239"},
       {"name": "Resident Evil 2 Remake - Survival Horror", "id": "re2r-survival", "segment": "1760910239"},
+      {"name": "Alice: Madness Returns", "id": "alice-mr", "segment": "1762002968"},
       {"id": "single", "segment": "1763033004", "name": "Moth House", "start": 1533},
       {"id": "single", "segment": "1763033004", "name": "Spectral Filter", "start": 4225},
       {"id": "single", "segment": "1763033004", "name": "VHS Slaughter", "start": 8437},
@@ -1112,7 +1113,6 @@
       {"id": "first-2023", "segment": "1767632642", "name": "Diablo II: Resurrected", "start": 1819},
       {"id": "first-2023", "segment": "1767632642", "name": "Diablo III", "start": 5823},
       {"id": "first-2023", "segment": "1767632642", "name": "Diablo IV", "start": 10991},
-      {"id": "first-2023", "segment": "1777132427", "name": "Demonologist (демо)", "start": 5586},
       {"id": "first-2023", "segment": "1778016938", "name": "Polaris Outpost (демо)", "start": 6995},
       {"id": "first-2023", "segment": "1778887686", "name": "Apocalyptic Vibes", "start": 12052},
       {"id": "first-2023", "segment": "1782635771", "name": "Reclusive", "start": 1569}
@@ -1122,8 +1122,7 @@
     "name": "Активные",
     "games": [
       {"name": "Contraband Police", "id": "contraband-police", "segment": "749640613"},
-      {"name": "Dredge", "id": "dredge", "segment": "1618459269"},
-      {"name": "Alice: Madness Returns", "id": "alice-mr", "segment": "1762002968"}
+      {"name": "Dredge", "id": "dredge", "segment": "1618459269"}
     ]
   },
   "infinite": {
@@ -1523,6 +1522,7 @@
       {"name": "Escape Memoirs: Mini Stories", "id": "escape-memoirs", "segment": "1618459269"},
       {"id": "co-op", "segment": "1623036890", "name": "Overwatch 2", "start": 3251},
       {"id": "co-op", "segment": "1624846104", "name": "Ghostbusters: Spirits Unleashed", "start": 16061},
+      {"name": "Demonologist", "id": "demonologist", "segment": "1777132427"},
       {"name": "Crime Boss: Rockay City", "id": "crime-boss-4d", "segment": "1778016938"}
     ]
   },
