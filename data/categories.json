@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "re4", "segment": "1773155387", "name": "Resident Evil 4 - Перед Remake / Resident Evil 4 Remake #1", "start": 0},
       {"id": "re4-remake", "segment": "1774067090", "name": "Resident Evil 4 Remake #2", "start": 0},
       {"id": "re4-remake", "segment": "1775088934", "name": "Resident Evil 4 Remake #3", "start": 0},
       {"id": "re8", "segment": "1777132427", "name": "Resident Evil Village #2 (Жуткая деревня) / Demonologist - Демо", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "alice-mr", "segment": "1780702580", "name": "Alice: Madness Returns #3", "start": 0},
       {"id": "tlou", "segment": "1781609483", "name": "The Last of Us: Part I - PC (заново) / Phasmophobia #17 (с Куплиновым и Дангаром)", "start": 0},
       {"id": "first-2023", "segment": "1782635771", "name": "Reclusive / The Touch / Alpen Ghoul: Prologue / The Portraits / The Renovator: Origins / see no FEAR / Manacle / Cry of the Mermaid", "start": 0},
-      {"id": "alice-mr", "segment": "1783494144", "name": "Alice: Madness Returns #4 / Demonologist #1 (с Дашей и Джеком)", "start": 0}
+      {"id": "alice-mr", "segment": "1783494144", "name": "Alice: Madness Returns #4 / Demonologist #1 (с Дашей и Джеком)", "start": 0},
+      {"id": "kujlevka", "segment": "1785306187", "name": "Кужлёвка #1 / Chivalry 2 #9", "start": 0}
     ]
   },
   "finished": {
@@ -210,7 +210,6 @@
       {"id": "single", "segment": "767249770", "name": "Xuan-Yuan Sword VII (демо)", "start": 0},
       {"id": "single", "segment": "775167526,776153173", "name": "Amnesia: Rebirth", "start": 0},
       {"id": "single", "segment": "779201810", "name": "Harry Potter and the Sorcerer's Stone", "start": 0},
-      {"id": "single", "segment": "785416056", "name": "Кужлёвка (демо)", "start": 0},
       {"id": "single", "segment": "785524800", "name": "Paranormal Entities", "start": 0},
       {"id": "single", "segment": "791632745", "name": "Metal Gear Solid V: Ground Zeroes", "start": 0},
       {"name": "Call of Duty: Black Ops Cold War (сюжет)", "id": "cod-bo-cw", "segment": "801377729.1"},
@@ -1122,6 +1121,7 @@
     "name": "Активные",
     "games": [
       {"name": "Contraband Police", "id": "contraband-police", "segment": "749640613"},
+      {"name": "Кужлёвка", "id": "kujlevka", "segment": "785416056"},
       {"name": "Dredge", "id": "dredge", "segment": "1618459269"}
     ]
   },
