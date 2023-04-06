@@ -3,16 +3,16 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "re4-remake", "segment": "1774067090", "name": "Resident Evil 4 Remake #2", "start": 0},
       {"id": "re4-remake", "segment": "1775088934", "name": "Resident Evil 4 Remake #3", "start": 0},
       {"id": "re8", "segment": "1777132427", "name": "Resident Evil Village #2 (Жуткая деревня) / Demonologist - Демо", "start": 0},
-      {"id": "single", "segment": "1778016938", "name": "UNFOLLOW / Polaris Outpost (демо) / Dredge - Релиз / Crime Boss: Rockay City #1 (4D)", "start": 0},
+      {"id": "single", "segment": "1778016938", "name": "UNFOLLOW / Polaris Outpost (демо) / Dredge #1 / Crime Boss: Rockay City #1 (4D)", "start": 0},
       {"id": "crime-boss-4d", "segment": "1778887686", "name": "Crime Boss: Rockay City - Соло / Apocalyptic Vibes / Crime Boss: Rockay City #2 (4D) / Devour #6", "start": 0},
       {"id": "alice-mr", "segment": "1780702580", "name": "Alice: Madness Returns #3", "start": 0},
       {"id": "tlou", "segment": "1781609483", "name": "The Last of Us: Part I - PC (заново) / Phasmophobia #17 (с Куплиновым и Дангаром)", "start": 0},
       {"id": "first-2023", "segment": "1782635771", "name": "Reclusive / The Touch / Alpen Ghoul: Prologue / The Portraits / The Renovator: Origins / see no FEAR / Manacle / Cry of the Mermaid", "start": 0},
       {"id": "alice-mr", "segment": "1783494144", "name": "Alice: Madness Returns #4 / Demonologist #1 (с Дашей и Джеком)", "start": 0},
-      {"id": "kujlevka", "segment": "1785306187", "name": "Кужлёвка #1 / Chivalry 2 #9", "start": 0}
+      {"id": "kujlevka", "segment": "1785306187", "name": "Кужлёвка #1 / Chivalry 2 #9", "start": 0},
+      {"id": "kujlevka", "segment": "1786204138", "name": "Кужлёвка #2 / Eggcelerate! to the Tropics / Wall World / Dredge #2 / Barotrauma #1", "start": 0}
     ]
   },
   "finished": {
@@ -210,6 +210,7 @@
       {"id": "single", "segment": "767249770", "name": "Xuan-Yuan Sword VII (демо)", "start": 0},
       {"id": "single", "segment": "775167526,776153173", "name": "Amnesia: Rebirth", "start": 0},
       {"id": "single", "segment": "779201810", "name": "Harry Potter and the Sorcerer's Stone", "start": 0},
+      {"name": "Кужлёвка", "id": "kujlevka", "segment": "785416056"},
       {"id": "single", "segment": "785524800", "name": "Paranormal Entities", "start": 0},
       {"id": "single", "segment": "791632745", "name": "Metal Gear Solid V: Ground Zeroes", "start": 0},
       {"name": "Call of Duty: Black Ops Cold War (сюжет)", "id": "cod-bo-cw", "segment": "801377729.1"},
@@ -1114,14 +1115,14 @@
       {"id": "first-2023", "segment": "1767632642", "name": "Diablo IV", "start": 10991},
       {"id": "first-2023", "segment": "1778016938", "name": "Polaris Outpost (демо)", "start": 6995},
       {"id": "first-2023", "segment": "1778887686", "name": "Apocalyptic Vibes", "start": 12052},
-      {"id": "first-2023", "segment": "1782635771", "name": "Reclusive", "start": 1569}
+      {"id": "first-2023", "segment": "1782635771", "name": "Reclusive", "start": 1569},
+      {"id": "first-2023", "segment": "1786204138", "name": "Eggcelerate! to the Tropics", "start": 5875},
+      {"id": "first-2023", "segment": "1786204138", "name": "Wall World", "start": 8348}
     ]
   },
   "ongoing": {
     "name": "Активные",
     "games": [
-      {"name": "Contraband Police", "id": "contraband-police", "segment": "749640613"},
-      {"name": "Кужлёвка", "id": "kujlevka", "segment": "785416056"},
       {"name": "Dredge", "id": "dredge", "segment": "1618459269"}
     ]
   },
@@ -1251,6 +1252,7 @@
       {"name": "Hellpoint", "id": "hellpoint", "segment": "695209589"},
       {"name": "UnMetal", "id": "unmetal", "segment": "700057034"},
       {"name": "World of Warcraft", "id": "wow", "segment": "728015486"},
+      {"name": "Contraband Police", "id": "contraband-police", "segment": "749640613"},
       {"name": "Crash Bandicoot 4: It's About Time", "id": "crash-bandicoot-4", "segment": "759389769"},
       {"name": "Webbed", "id": "webbed", "segment": "767249770"},
       {"name": "Watch Dogs: Legion", "id": "watch-dogs", "segment": "782383170"},
@@ -1408,7 +1410,7 @@
       {"name": "Overwatch", "id": "overwatch", "segment": "428271249"},
       {"id": "co-op", "segment": "430120134.1", "name": "We Were Here", "start": 0},
       {"id": "co-op", "segment": "430120134.1", "name": "We Were Here Too", "start": 12597},
-      {"id": "co-op", "segment": "435683759", "name": "Barotrauma", "start": 0},
+      {"name": "Barotrauma", "id": "barotrauma", "segment": "435683759"},
       {"name": "Havocado", "id": "havocado", "segment": "439860739"},
       {"name": "Minecraft (кооп)", "id": "minecraft-coop", "segment": "443118072"},
       {"id": "co-op", "segment": "449465888", "name": "DayZ на PS4 с Джеком", "start": 0},
