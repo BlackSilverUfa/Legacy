@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "re4-remake", "segment": "1775088934", "name": "Resident Evil 4 Remake #3", "start": 0},
       {"id": "re8", "segment": "1777132427", "name": "Resident Evil Village #2 (Жуткая деревня) / Demonologist - Демо", "start": 0},
       {"id": "single", "segment": "1778016938", "name": "UNFOLLOW / Polaris Outpost (демо) / Dredge #1 / Crime Boss: Rockay City #1 (4D)", "start": 0},
       {"id": "crime-boss-4d", "segment": "1778887686", "name": "Crime Boss: Rockay City - Соло / Apocalyptic Vibes / Crime Boss: Rockay City #2 (4D) / Devour #6", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "first-2023", "segment": "1782635771", "name": "Reclusive / The Touch / Alpen Ghoul: Prologue / The Portraits / The Renovator: Origins / see no FEAR / Manacle / Cry of the Mermaid", "start": 0},
       {"id": "alice-mr", "segment": "1783494144", "name": "Alice: Madness Returns #4 / Demonologist #1 (с Дашей и Джеком)", "start": 0},
       {"id": "kujlevka", "segment": "1785306187", "name": "Кужлёвка #1 / Chivalry 2 #9", "start": 0},
-      {"id": "kujlevka", "segment": "1786204138", "name": "Кужлёвка #2 / Eggcelerate! to the Tropics / Wall World / Dredge #2 / Barotrauma #1", "start": 0}
+      {"id": "kujlevka", "segment": "1786204138", "name": "Кужлёвка #2 / Eggcelerate! to the Tropics / Wall World / Dredge #2 / Barotrauma #1", "start": 0},
+      {"id": "single", "segment": "1787128234", "name": "Road 96: Mile 0", "start": 0}
     ]
   },
   "finished": {
@@ -568,7 +568,8 @@
       {"id": "single", "segment": "1782635771", "name": "The Renovator: Origins", "start": 10369},
       {"id": "single", "segment": "1782635771", "name": "see no FEAR", "start": 12436},
       {"id": "single", "segment": "1782635771", "name": "Manacle", "start": 13153},
-      {"id": "single", "segment": "1782635771", "name": "Cry of the Mermaid", "start": 16956}
+      {"id": "single", "segment": "1782635771", "name": "Cry of the Mermaid", "start": 16956},
+      {"id": "single", "segment": "1787128234", "name": "Road 96: Mile 0", "start": 1652}
     ]
   },
   "first": {

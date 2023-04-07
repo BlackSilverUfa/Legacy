@@ -10461,8 +10461,6 @@
     "abs_start": "0:00", "abs_end": "1:40:47", "duration": "0:00",
     "name": "",
     "date": "2023-02-23",
-    "direct": "https://bsufiles.drhx.ru/streams/1746871491.mp4",
-    "torrent": "https://bsufiles.drhx.ru/streams/1746871491.torrent",
     "games": []
   },
   "1746607463,1746871491": {
@@ -10470,7 +10468,6 @@
     "name": "Atomic Heart #4",
     "date": "2023-02-23",
     "offsets": [0, 26314],
-    "torrent": "https://bsufiles.drhx.ru/streams/1746607463,1746871491.torrent",
     "games": ["atomic-heart"]
   },
   "1748670859": {
@@ -10691,5 +10688,13 @@
     "date": "2023-04-06",
     "torrent": "https://bsufiles.drhx.ru/streams/1786204138.torrent",
     "games": ["kujlevka", "first-2023", "dredge", "barotrauma"]
+  },
+  "1787128234": {
+    "abs_start": "0:00", "abs_end": "6:31:53", "duration": "0:00",
+    "name": "Road 96: Mile 0",
+    "date": "2023-04-07",
+    "direct": "https://bsufiles.drhx.ru/streams/1787128234.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1787128234.torrent",
+    "games": ["single"]
   }
 }
