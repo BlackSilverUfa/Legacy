@@ -10686,10 +10686,9 @@
     "games": ["kujlevka", "chivalry-2"]
   },
   "1786204138": {
-    "abs_start": "0:00", "abs_end": "7:31:44", "duration": "0:00",
+    "youtube": "uJsk8rPfBUY", "abs_start": "0:00", "abs_end": "7:31:17", "duration": "7:31:17",
     "name": "Кужлёвка #2 / Eggcelerate! to the Tropics / Wall World / Dredge #2 / Barotrauma #1",
     "date": "2023-04-06",
-    "direct": "https://bsufiles.drhx.ru/streams/1786204138.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1786204138.torrent",
     "games": ["kujlevka", "first-2023", "dredge", "barotrauma"]
   }
