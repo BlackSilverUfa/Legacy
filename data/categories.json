@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "re8", "segment": "1777132427", "name": "Resident Evil Village #2 (Жуткая деревня) / Demonologist - Демо", "start": 0},
       {"id": "single", "segment": "1778016938", "name": "UNFOLLOW / Polaris Outpost (демо) / Dredge #1 / Crime Boss: Rockay City #1 (4D)", "start": 0},
       {"id": "crime-boss-4d", "segment": "1778887686", "name": "Crime Boss: Rockay City - Соло / Apocalyptic Vibes / Crime Boss: Rockay City #2 (4D) / Devour #6", "start": 0},
       {"id": "alice-mr", "segment": "1780702580", "name": "Alice: Madness Returns #3", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "alice-mr", "segment": "1783494144", "name": "Alice: Madness Returns #4 / Demonologist #1 (с Дашей и Джеком)", "start": 0},
       {"id": "kujlevka", "segment": "1785306187", "name": "Кужлёвка #1 / Chivalry 2 #9", "start": 0},
       {"id": "kujlevka", "segment": "1786204138", "name": "Кужлёвка #2 / Eggcelerate! to the Tropics / Wall World / Dredge #2 / Barotrauma #1", "start": 0},
-      {"id": "single", "segment": "1787128234", "name": "Road 96: Mile 0", "start": 0}
+      {"id": "single", "segment": "1787128234", "name": "Road 96: Mile 0", "start": 0},
+      {"id": "everspace-2", "segment": "1788074071", "name": "Everspace 2 - Релиз / Demonologist #2 (с Куплиновым и Дангаром)", "start": 0}
     ]
   },
   "finished": {
