@@ -10707,5 +10707,13 @@
     "date": "2023-04-09",
     "torrent": "https://bsufiles.drhx.ru/streams/1789025191.torrent",
     "games": ["single", "first-2023"]
+  },
+  "1796157455": {
+    "abs_start": "0:00", "abs_end": "6:21:30", "duration": "0:00",
+    "name": "Suffer the Night",
+    "date": "2023-04-17",
+    "direct": "https://bsufiles.drhx.ru/streams/1796157455.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1796157455.torrent",
+    "games": ["first-2023"]
   }
 }
