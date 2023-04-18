@@ -9836,9 +9836,9 @@
   },
   "1634888055": {
     "youtube": "Z_AmuSRHkh4", "abs_start": "0:00", "abs_end": "5:44:16", "duration": "5:44:16",
-    "name": "Suffer The Night (демо) / Please Don't Litter / Endoparasitic / Death Relives (демо) / The Trench / Stay Out of the House",
+    "name": "Suffer the Night - Демо / Please Don't Litter / Endoparasitic / Death Relives (демо) / The Trench / Stay Out of the House",
     "date": "2022-10-26",
-    "games": ["single", "first-2022"]
+    "games": ["suffer-the-night", "single", "first-2022"]
   },
   "1635763389": {
     "youtube": "N1jNVlcFp2s", "abs_start": "0:00", "abs_end": "5:25:00", "duration": "5:25:00",
@@ -10486,7 +10486,6 @@
     "youtube": "ze9kVliaz6w", "abs_start": "0:00", "abs_end": "9:29:42", "duration": "9:29:42",
     "name": "Sons of the Forest (с Дашей и Джеком) #2",
     "date": "2023-02-28",
-    "torrent": "https://bsufiles.drhx.ru/streams/1751502984.torrent",
     "games": ["sons-forest"]
   },
   "1752454738": {
@@ -10710,10 +10709,19 @@
   },
   "1796157455": {
     "abs_start": "0:00", "abs_end": "6:21:30", "duration": "0:00",
-    "name": "Suffer the Night",
+    "name": "Suffer the Night #1",
     "date": "2023-04-17",
     "direct": "https://bsufiles.drhx.ru/streams/1796157455.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1796157455.torrent",
-    "games": ["first-2023"]
+    "games": ["suffer-the-night"]
+  },
+  "1797061764": {
+    "abs_start": "0:00", "abs_end": "4:43:49", "duration": "0:00",
+    "name": "GhostWire: Tokyo - Spider's Thread / Suffer the Night #2",
+    "date": "2023-04-18",
+    "direct": "https://bsufiles.drhx.ru/streams/1797061764.mp4",
+    "cuts": [[12965, 13019]],
+    "torrent": "https://bsufiles.drhx.ru/streams/1797061764.torrent",
+    "games": ["ghostwire", "suffer-the-night"]
   }
 }
