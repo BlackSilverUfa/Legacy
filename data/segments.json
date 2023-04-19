@@ -10715,10 +10715,9 @@
     "games": ["suffer-the-night"]
   },
   "1797061764": {
-    "abs_start": "0:00", "abs_end": "4:43:49", "duration": "0:00",
+    "youtube": "VPF6ZfyZolM", "abs_start": "0:00", "abs_end": "4:43:43", "duration": "4:42:49",
     "name": "GhostWire: Tokyo - Spider's Thread / Suffer the Night #2",
     "date": "2023-04-18",
-    "direct": "https://bsufiles.drhx.ru/streams/1797061764.mp4",
     "cuts": [[12965, 13019]],
     "torrent": "https://bsufiles.drhx.ru/streams/1797061764.torrent",
     "games": ["ghostwire", "suffer-the-night"]
