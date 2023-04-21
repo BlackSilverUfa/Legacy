@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "alice-mr", "segment": "1783494144", "name": "Alice: Madness Returns #4 / Demonologist #1 (с Дашей и Джеком)", "start": 0},
       {"id": "kujlevka", "segment": "1785306187", "name": "Кужлёвка #1 / Chivalry 2 #9", "start": 0},
       {"id": "kujlevka", "segment": "1786204138", "name": "Кужлёвка #2 / Eggcelerate! to the Tropics / Wall World / Dredge #2 / Barotrauma #1", "start": 0},
       {"id": "single", "segment": "1787128234", "name": "Road 96: Mile 0", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "suffer-the-night", "segment": "1796157455", "name": "Suffer the Night #1", "start": 0},
       {"id": "ghostwire", "segment": "1797061764", "name": "GhostWire: Tokyo - Spider's Thread / Suffer the Night #2", "start": 0},
       {"id": "confabulation", "segment": "1797918117", "name": "Confabulation #2 / Horror Tale / The Closing Shift", "start": 0},
-      {"id": "first-2023", "segment": "1798664242", "name": "Dead Island / Dead Island 2", "start": 0}
+      {"id": "first-2023", "segment": "1798664242", "name": "Dead Island / Dead Island 2 #1", "start": 0},
+      {"id": "dead-island-2", "segment": "1799517574", "name": "Dead Island 2 #2", "start": 0}
     ]
   },
   "finished": {
@@ -1130,14 +1130,14 @@
       {"id": "first-2023", "segment": "1786204138", "name": "Wall World", "start": 8348},
       {"id": "first-2023", "segment": "1789025191", "name": "The Voidness (демо)", "start": 2721},
       {"id": "first-2023", "segment": "1797918117", "name": "Horror Tale", "start": 6092},
-      {"id": "first-2023", "segment": "1798664242", "name": "Dead Island", "start": 2034},
-      {"id": "first-2023", "segment": "1798664242", "name": "Dead Island 2", "start": 7311}
+      {"id": "first-2023", "segment": "1798664242", "name": "Dead Island", "start": 2034}
     ]
   },
   "ongoing": {
     "name": "Активные",
     "games": [
-      {"name": "Dredge", "id": "dredge", "segment": "1618459269"}
+      {"name": "Dredge", "id": "dredge", "segment": "1618459269"},
+      {"name": "Dead Island 2", "id": "dead-island-2", "segment": "1798664242"}
     ]
   },
   "infinite": {
