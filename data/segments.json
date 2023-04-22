@@ -10518,7 +10518,6 @@
     "youtube": "H86hcC9w9Kc", "abs_start": "0:00", "abs_end": "7:12:36", "duration": "7:12:36",
     "name": "Resident Evil 4 Remake - Chainsaw Demo #1 / Resident Evil 2 Remake - Survival Horror #1 (Леон \"А\")",
     "date": "2023-03-10",
-    "torrent": "https://bsufiles.drhx.ru/streams/1760910239.torrent",
     "games": ["re4-remake", "re2r-survival"]
   },
   "1762002968": {
@@ -10737,6 +10736,15 @@
     "name": "Dead Island 2 #2",
     "date": "2023-04-21",
     "torrent": "https://bsufiles.drhx.ru/streams/1799517574.torrent",
+    "games": ["dead-island-2"]
+  },
+  "1800438364": {
+    "abs_start": "0:00", "abs_end": "7:48:40", "duration": "0:00",
+    "name": "Dead Island 2 #3",
+    "date": "2023-04-22",
+    "direct": "https://bsufiles.drhx.ru/streams/1800438364.mp4",
+    "cuts": [[15437, 15478]],
+    "torrent": "https://bsufiles.drhx.ru/streams/1800438364.torrent",
     "games": ["dead-island-2"]
   }
 }
