@@ -10726,18 +10726,16 @@
     "games": ["confabulation", "first-2023", "single"]
   },
   "1798664242": {
-    "abs_start": "0:00", "abs_end": "9:06:40", "duration": "0:00",
+    "youtube": "LSGyVE88we4", "abs_start": "0:00", "abs_end": "9:06:37", "duration": "9:06:37",
     "name": "Dead Island / Dead Island 2 #1",
     "date": "2023-04-20",
-    "direct": "https://bsufiles.drhx.ru/streams/1798664242.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1798664242.torrent",
     "games": ["first-2023", "dead-island-2"]
   },
   "1799517574": {
-    "abs_start": "0:00", "abs_end": "9:14:36", "duration": "0:00",
+    "youtube": "upQLV_tf0HY", "abs_start": "0:00", "abs_end": "9:14:19", "duration": "9:14:19",
     "name": "Dead Island 2 #2",
     "date": "2023-04-21",
-    "direct": "https://bsufiles.drhx.ru/streams/1799517574.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1799517574.torrent",
     "games": ["dead-island-2"]
   }
