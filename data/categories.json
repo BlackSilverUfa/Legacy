@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "kujlevka", "segment": "1786204138", "name": "Кужлёвка #2 / Eggcelerate! to the Tropics / Wall World / Dredge #2 / Barotrauma #1", "start": 0},
       {"id": "single", "segment": "1787128234", "name": "Road 96: Mile 0", "start": 0},
       {"id": "everspace-2", "segment": "1788074071", "name": "Everspace 2 - Релиз / Demonologist #2 (с Куплиновым и Дангаром)", "start": 0},
       {"id": "single", "segment": "1789025191", "name": "Rootman: Bodycam Horror Footage (демо) / The Voidness (демо) / Timberlodge Inn / Disappearance / Bio Evil 4 / Confabulation #1 / My Strange Attic / The Lacerator (демо) / Materna (демо) / Lucid Dreams", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "confabulation", "segment": "1797918117", "name": "Confabulation #2 / Horror Tale / The Closing Shift", "start": 0},
       {"id": "first-2023", "segment": "1798664242", "name": "Dead Island / Dead Island 2 #1", "start": 0},
       {"id": "dead-island-2", "segment": "1799517574", "name": "Dead Island 2 #2", "start": 0},
-      {"id": "dead-island-2", "segment": "1800438364", "name": "Dead Island 2 #3", "start": 0}
+      {"id": "dead-island-2", "segment": "1800438364", "name": "Dead Island 2 #3", "start": 0},
+      {"id": "single", "segment": "1803169573", "name": "The Microwave Paradox / Subject / Evil is Back / The Wish Machine (Машина желаний) / Dead Space Demake / Lost Alone: Ultimate - The Day Before (демо) / Future Racer 2000", "start": 0}
     ]
   },
   "finished": {
@@ -579,7 +579,12 @@
       {"id": "single", "segment": "1789025191", "name": "Materna (демо)", "start": 19373},
       {"id": "single", "segment": "1789025191", "name": "Lucid Dreams", "start": 19893},
       {"id": "single", "segment": "1797918117", "name": "The Closing Shift", "start": 6969},
-      {"name": "Dead Island 2", "id": "dead-island-2", "segment": "1798664242"}
+      {"name": "Dead Island 2", "id": "dead-island-2", "segment": "1798664242"},
+      {"id": "single", "segment": "1803169573", "name": "The Microwave Paradox", "start": 4163},
+      {"id": "single", "segment": "1803169573", "name": "Subject", "start": 5078},
+      {"id": "single", "segment": "1803169573", "name": "Evil is Back", "start": 7677},
+      {"id": "single", "segment": "1803169573", "name": "The Wish Machine (Машина желаний)", "start": 11897},
+      {"id": "single", "segment": "1803169573", "name": "Lost Alone: Ultimate - The Day Before (демо)", "start": 15975}
     ]
   },
   "first": {
@@ -1131,7 +1136,9 @@
       {"id": "first-2023", "segment": "1786204138", "name": "Wall World", "start": 8348},
       {"id": "first-2023", "segment": "1789025191", "name": "The Voidness (демо)", "start": 2721},
       {"id": "first-2023", "segment": "1797918117", "name": "Horror Tale", "start": 6092},
-      {"id": "first-2023", "segment": "1798664242", "name": "Dead Island", "start": 2034}
+      {"id": "first-2023", "segment": "1798664242", "name": "Dead Island", "start": 2034},
+      {"id": "first-2023", "segment": "1803169573", "name": "Dead Space Demake", "start": 14626},
+      {"id": "first-2023", "segment": "1803169573", "name": "Future Racer 2000", "start": 17527}
     ]
   },
   "ongoing": {
