@@ -10524,7 +10524,6 @@
     "youtube": "wNJrg3PF0W0", "abs_start": "0:00", "abs_end": "6:02:52", "duration": "6:02:52",
     "name": "Alice: Madness Returns #1",
     "date": "2023-03-11",
-    "torrent": "https://bsufiles.drhx.ru/streams/1762002968.torrent",
     "games": ["alice-mr"]
   },
   "1763033004": {
@@ -10748,10 +10747,18 @@
   },
   "1803169573": {
     "youtube": "yPNlbemK-k4", "abs_start": "0:00", "abs_end": "5:30:44", "duration": "5:31:11",
-    "name": "The Microwave Paradox / Subject / Evil is Back / The Wish Machine (Машина желаний) / Dead Space Demake / Lost Alone: Ultimate - The Day Before (демо) / Future Racer 2000",
+    "name": "The Microwave Paradox / [Subject] / Evil is Back / The Wish Machine (Машина желаний) / Dead Space Demake / Lost Alone: Ultimate - The Day Before (демо) / Future Racer 2000",
     "date": "2023-04-25",
     "cuts": [[4555, 4528]],
     "torrent": "https://bsufiles.drhx.ru/streams/1803169573.torrent",
     "games": ["single", "first-2023"]
+  },
+  "1804032922": {
+    "abs_start": "0:00", "abs_end": "5:41:05", "duration": "0:00",
+    "name": "The Gap / Future Racer 2000 / Family Curse / The Arrowhead Incident / 911: Cannibal",
+    "date": "2023-04-26",
+    "direct": "https://bsufiles.drhx.ru/streams/1804032922.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1804032922.torrent",
+    "games": ["single"]
   }
 }
