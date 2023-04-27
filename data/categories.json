@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "everspace-2", "segment": "1788074071", "name": "Everspace 2 - Релиз / Demonologist #2 (с Куплиновым и Дангаром)", "start": 0},
       {"id": "single", "segment": "1789025191", "name": "Rootman: Bodycam Horror Footage (демо) / The Voidness (демо) / Timberlodge Inn / Disappearance / Bio Evil 4 / Confabulation #1 / My Strange Attic / The Lacerator (демо) / Materna (демо) / Lucid Dreams", "start": 0},
       {"id": "suffer-the-night", "segment": "1796157455", "name": "Suffer the Night #1", "start": 0},
       {"id": "ghostwire", "segment": "1797061764", "name": "GhostWire: Tokyo - Spider's Thread / Suffer the Night #2", "start": 0},
@@ -11,8 +10,9 @@
       {"id": "first-2023", "segment": "1798664242", "name": "Dead Island / Dead Island 2 #1", "start": 0},
       {"id": "dead-island-2", "segment": "1799517574", "name": "Dead Island 2 #2", "start": 0},
       {"id": "dead-island-2", "segment": "1800438364", "name": "Dead Island 2 #3", "start": 0},
-      {"id": "single", "segment": "1803169573", "name": "The Microwave Paradox / [Subject] / Evil is Back / The Wish Machine (Машина желаний) / Dead Space Demake / Lost Alone: Ultimate - The Day Before (демо) / Future Racer 2000", "start": 0},
-      {"id": "single", "segment": "1804032922", "name": "The Gap / Future Racer 2000 / Family Curse / The Arrowhead Incident / 911: Cannibal", "start": 0}
+      {"id": "single", "segment": "1803169573", "name": "The Microwave Paradox / [Subject] / Evil is Back / The Wish Machine (Машина желаний) / Dead Space Demake / Lost Alone: Ultimate - The Day Before (демо) / Future Racer 2000 #1", "start": 0},
+      {"id": "single", "segment": "1804032922", "name": "The Gap / Future Racer 2000 #2 / Family Curse / The Arrowhead Incident / 911: Cannibal", "start": 0},
+      {"id": "first-2023", "segment": "1804882802", "name": "Survival: Fountain of Youth / Inout / Occult #3 / DEVOUR #7", "start": 0}
     ]
   },
   "finished": {
@@ -585,8 +585,8 @@
       {"id": "single", "segment": "1803169573", "name": "Evil is Back", "start": 7677},
       {"id": "single", "segment": "1803169573", "name": "The Wish Machine (Машина желаний)", "start": 11897},
       {"id": "single", "segment": "1803169573", "name": "Lost Alone: Ultimate - The Day Before (демо)", "start": 15975},
+      {"name": "Future Racer 2000", "id": "fr-2000", "segment": "1803169573"},
       {"id": "single", "segment": "1804032922", "name": "The Gap", "start": 2008},
-      {"id": "single", "segment": "1804032922", "name": "Future Racer 2000", "start": 4667},
       {"id": "single", "segment": "1804032922", "name": "Family Curse", "start": 7948},
       {"id": "single", "segment": "1804032922", "name": "The Arrowhead Incident", "start": 12666},
       {"id": "single", "segment": "1804032922", "name": "911: Cannibal", "start": 14236}
@@ -1143,7 +1143,7 @@
       {"id": "first-2023", "segment": "1797918117", "name": "Horror Tale", "start": 6092},
       {"id": "first-2023", "segment": "1798664242", "name": "Dead Island", "start": 2034},
       {"id": "first-2023", "segment": "1803169573", "name": "Dead Space Demake", "start": 14626},
-      {"id": "first-2023", "segment": "1803169573", "name": "Future Racer 2000", "start": 17527}
+      {"id": "first-2023", "segment": "1804882802", "name": "Survival: Fountain of Youth", "start": 614}
     ]
   },
   "ongoing": {
@@ -1502,7 +1502,7 @@
       {"id": "co-op", "segment": "855161482", "name": "Granny Simulator", "start": 5284},
       {"name": "Gartic Phone", "id": "gartic-phone", "segment": "877211836"},
       {"id": "co-op", "segment": "895496717", "name": "Hand Simulator: Horror", "start": 4891},
-      {"name": "Devour", "id": "devour", "segment": "895496717"},
+      {"name": "DEVOUR", "id": "devour", "segment": "895496717"},
       {"name": "Valheim (с Дашей и Джеком)", "id": "valheim", "segment": "915004866"},
       {"id": "co-op", "segment": "957785419", "name": "Draw & Guess", "start": 0},
       {"id": "co-op", "segment": "957785419", "name": "Unlasting Horror", "start": 7396},
@@ -1552,7 +1552,8 @@
       {"id": "co-op", "segment": "1623036890", "name": "Overwatch 2", "start": 3251},
       {"id": "co-op", "segment": "1624846104", "name": "Ghostbusters: Spirits Unleashed", "start": 16061},
       {"name": "Demonologist", "id": "demonologist", "segment": "1777132427"},
-      {"name": "Crime Boss: Rockay City", "id": "crime-boss-4d", "segment": "1778016938"}
+      {"name": "Crime Boss: Rockay City", "id": "crime-boss-4d", "segment": "1778016938"},
+      {"id": "co-op", "segment": "1804882802", "name": "Inout", "start": 7486}
     ]
   },
   "other": {

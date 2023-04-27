@@ -6884,7 +6884,7 @@
   },
   "895496717": {
     "youtube": "fsQ7Y38AW1Y", "abs_start": "0:00", "abs_end": "4:35:13", "duration": "4:35:13",
-    "name": "Devour #1 / Hand Simulator: Horror / Tricky Towers #28",
+    "name": "DEVOUR #1 / Hand Simulator: Horror / Tricky Towers #28",
     "date": "2021-01-31",
     "games": ["devour", "co-op", "tricky-towers"]
   },
@@ -7355,7 +7355,7 @@
   },
   "1000457538": {
     "youtube": "m4pu3_6AA4Q", "official": false, "abs_start": "0:00", "abs_end": "4:45:02", "duration": "4:45:02",
-    "name": "Chivalry 2 #1 / Resident Evil Village - Замок (демо) / Devour #2",
+    "name": "Chivalry 2 #1 / Resident Evil Village - Замок (демо) / DEVOUR #2",
     "date": "2021-04-25",
     "games": ["chivalry-2", "re8", "devour"]
   },
@@ -8269,7 +8269,7 @@
   },
   "1175536520": {
     "youtube": "EoEVqukfi48", "abs_start": "0:00", "abs_end": "5:34:56", "duration": "5:34:56",
-    "name": "Metroid Dread #2 / Devour #3 / Back 4 Blood #5",
+    "name": "Metroid Dread #2 / DEVOUR #3 / Back 4 Blood #5",
     "date": "2021-10-13",
     "games": ["metroid-dread", "devour", "b4b"]
   },
@@ -9417,7 +9417,7 @@
   },
   "1533471620": {
     "youtube": "vKGh9VR8rT0", "abs_start": "0:00", "abs_end": "4:57:23", "duration": "4:57:23",
-    "name": "Devour #4 / Occult #2 / Tricky Towers #32",
+    "name": "DEVOUR #4 / Occult #2 / Tricky Towers #32",
     "date": "2022-07-16",
     "games": ["devour", "occult", "tricky-towers"]
   },
@@ -9667,7 +9667,7 @@
   },
   "1587098639": {
     "youtube": "sa4oa_tolxc", "abs_start": "0:00", "abs_end": "5:24:53", "duration": "5:24:53",
-    "name": "The Long Drive / Devour #5 / Tricky Towers #33",
+    "name": "The Long Drive / DEVOUR #5 / Tricky Towers #33",
     "date": "2022-09-10",
     "games": ["co-op", "devour", "tricky-towers"]
   },
@@ -10530,14 +10530,12 @@
     "youtube": "AbDdPR2_LrQ", "abs_start": "0:00", "abs_end": "4:09:12", "duration": "4:09:12",
     "name": "Moth House / Spectral Filter / VHS Slaughter / Anemoiapolis / Jungle Dungeon",
     "date": "2023-03-12",
-    "torrent": "https://bsufiles.drhx.ru/streams/1763033004.torrent",
     "games": ["single", "first-2023"]
   },
   "1763934802": {
     "youtube": "ePgCDXqkCfU", "abs_start": "0:00", "abs_end": "7:57:54", "duration": "7:57:54",
     "name": "Resident Evil 4 Remake - Chainsaw Demo #2 / Resident Evil 2 Remake - Survival Horror #2",
     "date": "2023-03-13",
-    "torrent": "https://bsufiles.drhx.ru/streams/1763934802.torrent",
     "games": ["re4-remake", "re2r-survival"]
   },
   "1764847023": {
@@ -10633,7 +10631,7 @@
   },
   "1778887686": {
     "youtube": "10g8hGkyMfY", "abs_start": "0:00", "abs_end": "8:01:23", "duration": "8:01:23",
-    "name": "Crime Boss: Rockay City - Соло / Apocalyptic Vibes / Crime Boss: Rockay City #2 (4D) / Devour #6",
+    "name": "Crime Boss: Rockay City - Соло / Apocalyptic Vibes / Crime Boss: Rockay City #2 (4D) / DEVOUR #6",
     "date": "2023-03-29",
     "torrent": "https://bsufiles.drhx.ru/streams/1778887686.torrent",
     "games": ["crime-boss-4d", "first-2023", "devour"]
@@ -10747,17 +10745,25 @@
   },
   "1803169573": {
     "youtube": "yPNlbemK-k4", "abs_start": "0:00", "abs_end": "5:30:44", "duration": "5:31:11",
-    "name": "The Microwave Paradox / [Subject] / Evil is Back / The Wish Machine (Машина желаний) / Dead Space Demake / Lost Alone: Ultimate - The Day Before (демо) / Future Racer 2000",
+    "name": "The Microwave Paradox / [Subject] / Evil is Back / The Wish Machine (Машина желаний) / Dead Space Demake / Lost Alone: Ultimate - The Day Before (демо) / Future Racer 2000 #1",
     "date": "2023-04-25",
     "cuts": [[4555, 4528]],
     "torrent": "https://bsufiles.drhx.ru/streams/1803169573.torrent",
-    "games": ["single", "first-2023"]
+    "games": ["single", "first-2023", "fr-2000"]
   },
   "1804032922": {
     "youtube": "aoeu9stx0MQ", "abs_start": "0:00", "abs_end": "5:41:01", "duration": "5:41:01",
-    "name": "The Gap / Future Racer 2000 / Family Curse / The Arrowhead Incident / 911: Cannibal",
+    "name": "The Gap / Future Racer 2000 #2 / Family Curse / The Arrowhead Incident / 911: Cannibal",
     "date": "2023-04-26",
     "torrent": "https://bsufiles.drhx.ru/streams/1804032922.torrent",
-    "games": ["single"]
+    "games": ["single", "fr-2000"]
+  },
+  "1804882802": {
+    "abs_start": "0:00", "abs_end": "6:08:16", "duration": "0:00",
+    "name": "Survival: Fountain of Youth / Inout / Occult #3 / DEVOUR #7",
+    "date": "2023-04-27",
+    "direct": "https://bsufiles.drhx.ru/streams/1804882802.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1804882802.torrent",
+    "games": ["first-2023", "co-op", "occult", "devour"]
   }
 }
