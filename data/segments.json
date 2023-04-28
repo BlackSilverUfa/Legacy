@@ -10759,10 +10759,9 @@
     "games": ["single", "fr-2000"]
   },
   "1804882802": {
-    "abs_start": "0:00", "abs_end": "6:08:16", "duration": "0:00",
+    "youtube": "B8YPpOZ2b28", "abs_start": "0:00", "abs_end": "6:07:52", "duration": "6:07:52",
     "name": "Survival: Fountain of Youth / Inout / Occult #3 / DEVOUR #7",
     "date": "2023-04-27",
-    "direct": "https://bsufiles.drhx.ru/streams/1804882802.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1804882802.torrent",
     "games": ["first-2023", "co-op", "occult", "devour"]
   }
