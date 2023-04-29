@@ -10765,10 +10765,9 @@
     "games": ["survival-foy", "co-op", "occult", "devour"]
   },
   "1805668013": {
-    "abs_start": "0:00", "abs_end": "8:56:44", "duration": "0:00",
+    "youtube": "IhP-ItOALOE", "abs_start": "0:00", "abs_end": "8:56:19", "duration": "8:56:19",
     "name": "Star Wars Jedi: Survivor",
     "date": "2023-04-28",
-    "direct": "https://bsufiles.drhx.ru/streams/1805668013.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1805668013.torrent",
     "games": ["first-2023"]
   }
