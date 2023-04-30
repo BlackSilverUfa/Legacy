@@ -10548,7 +10548,6 @@
     "youtube": "CDXVLalFoAY", "abs_start": "0:00", "abs_end": "8:26:21", "duration": "8:26:21",
     "name": "Resident Evil 3 Remake - Хардкор",
     "date": "2023-03-15",
-    "torrent": "https://bsufiles.drhx.ru/streams/1765774833.torrent",
     "games": ["re3-remake"]
   },
   "1767632642": {
@@ -10776,6 +10775,14 @@
     "name": "Star Wars Jedi: Survivor #2",
     "date": "2023-04-29",
     "torrent": "https://bsufiles.drhx.ru/streams/1806660511.torrent",
+    "games": ["swj-survivor"]
+  },
+  "1807590761": {
+    "abs_start": "0:00", "abs_end": "9:50:20", "duration": "0:00",
+    "name": "Star Wars Jedi: Survivor #3",
+    "date": "2023-04-30",
+    "direct": "https://bsufiles.drhx.ru/streams/1807590761.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1807590761.torrent",
     "games": ["swj-survivor"]
   }
 }
