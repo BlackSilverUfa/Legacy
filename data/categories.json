@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "confabulation", "segment": "1797918117", "name": "Confabulation #2 / Horror Tale / The Closing Shift", "start": 0},
       {"id": "first-2023", "segment": "1798664242", "name": "Dead Island / Dead Island 2 #1", "start": 0},
       {"id": "dead-island-2", "segment": "1799517574", "name": "Dead Island 2 #2", "start": 0},
       {"id": "dead-island-2", "segment": "1800438364", "name": "Dead Island 2 #3", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "survival-foy", "segment": "1804882802", "name": "Survival: Fountain of Youth - Релиз / Inout / Occult #3 / DEVOUR #7", "start": 0},
       {"id": "swj-survivor", "segment": "1805668013", "name": "Star Wars Jedi: Survivor #1", "start": 0},
       {"id": "swj-survivor", "segment": "1806660511", "name": "Star Wars Jedi: Survivor #2", "start": 0},
-      {"id": "swj-survivor", "segment": "1807590761", "name": "Star Wars Jedi: Survivor #3", "start": 0}
+      {"id": "swj-survivor", "segment": "1807590761", "name": "Star Wars Jedi: Survivor #3", "start": 0},
+      {"id": "first-2023", "segment": "1809409736", "name": "The Last Case of Benedict Fox / Redfall (с Куплиновым и Дангаром)", "start": 0}
     ]
   },
   "finished": {
@@ -1142,7 +1142,8 @@
       {"id": "first-2023", "segment": "1789025191", "name": "The Voidness (демо)", "start": 2721},
       {"id": "first-2023", "segment": "1797918117", "name": "Horror Tale", "start": 6092},
       {"id": "first-2023", "segment": "1798664242", "name": "Dead Island", "start": 2034},
-      {"id": "first-2023", "segment": "1803169573", "name": "Dead Space Demake", "start": 14626}
+      {"id": "first-2023", "segment": "1803169573", "name": "Dead Space Demake", "start": 14626},
+      {"id": "first-2023", "segment": "1809409736", "name": "The Last Case of Benedict Fox", "start": 2222}
     ]
   },
   "ongoing": {
@@ -1553,7 +1554,8 @@
       {"id": "co-op", "segment": "1624846104", "name": "Ghostbusters: Spirits Unleashed", "start": 16061},
       {"name": "Demonologist", "id": "demonologist", "segment": "1777132427"},
       {"name": "Crime Boss: Rockay City", "id": "crime-boss-4d", "segment": "1778016938"},
-      {"id": "co-op", "segment": "1804882802", "name": "Inout", "start": 7486}
+      {"id": "co-op", "segment": "1804882802", "name": "Inout", "start": 7486},
+      {"id": "co-op", "segment": "1809409736", "name": "Redfall (с Куплиновым и Дангаром)", "start": 14821}
     ]
   },
   "other": {

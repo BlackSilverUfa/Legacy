@@ -10783,5 +10783,13 @@
     "date": "2023-04-30",
     "torrent": "https://bsufiles.drhx.ru/streams/1807590761.torrent",
     "games": ["swj-survivor"]
+  },
+  "1809409736": {
+    "abs_start": "0:00", "abs_end": "6:33:24", "duration": "0:00",
+    "name": "The Last Case of Benedict Fox / Redfall (с Куплиновым и Дангаром)",
+    "date": "2023-05-02",
+    "direct": "https://bsufiles.drhx.ru/streams/1809409736.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1809409736.torrent",
+    "games": ["first-2023", "co-op"]
   }
 }
