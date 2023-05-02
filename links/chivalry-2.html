@@ -1178,11 +1178,6 @@
         <i class="fas fa-comments"></i> 18326
       </a>
     </span>
-    <span class="badge badge-success">
-      <a href="https://www.youtube.com/watch?v=XfufcGV5WyI" target="_blank">
-        <i class="fab fa-youtube"></i> XfufcGV5WyI
-      </a>
-    </span>
     <span class="badge badge-danger">
       <a href="https://bsufiles.drhx.ru/streams/1785306187.torrent">
         <i class="fas fa-download"></i> торрент
@@ -1233,6 +1228,11 @@
     <li><a data-value="3886">1:04:46</a> — Remnant 2 - The World of Yaesha</li>
   </ul>
 
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li><a data-value="2099">34:59</a> - <a data-value="2222">37:02</a> — The Black Keys - Lonely Boy</li>
+  </ul>
+
       <li>Кужлёвка:</li>
   <ul>
     <li><a data-value="4040">1:07:20</a> — Меню</li>
@@ -1255,13 +1255,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="9" data-hash="1785306187" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2023@master/v1785306187.ass" data-start="14880" data-name="9" data-youtube="XfufcGV5WyI" />
+  <p class="stream" data-id="9" data-hash="1785306187" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2023@master/v1785306187.ass" data-start="14880" data-name="9" data-direct="https://bsufiles.drhx.ru/streams/1785306187.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2023@master/v1785306187.ass --start=14880 ytdl://XfufcGV5WyI
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2023@master/v1785306187.ass --start=14880 https://bsufiles.drhx.ru/streams/1785306187.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2023@master/v1785306187.ass --start=14880" --player-passthrough hls twitch.tv/videos/1785306187 best
 </code></pre>
 </div>
 

@@ -325,9 +325,9 @@
         <i class="fas fa-comments"></i> 15863
       </a>
     </span>
-    <span class="badge badge-success">
-      <a href="https://www.youtube.com/watch?v=7xTnK3PRI60" target="_blank">
-        <i class="fab fa-youtube"></i> 7xTnK3PRI60
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/1718922216.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -358,6 +358,11 @@
 
     <li><a data-value="3542">59:02</a> — Меню</li>
     <li><a data-value="3683">1:01:23</a> — Интро</li>
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li><a data-value="3743">1:02:23</a> - <a data-value="3895">1:04:55</a> — The Black Keys - Lonely Boy</li>
+  </ul>
+
     <li><a data-value="3983">1:06:23</a> - <a data-value="4003">1:06:43</a> — Игра</li>
     <li><a data-value="7700">2:08:20</a> — Упс...</li>
   </ul>
@@ -366,13 +371,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="2" data-hash="1718922216" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2023@master/v1718922216.ass" data-start="3542" data-name="Hi-Fi Rush" data-youtube="7xTnK3PRI60" />
+  <p class="stream" data-id="2" data-hash="1718922216" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2023@master/v1718922216.ass" data-start="3542" data-name="Hi-Fi Rush" data-direct="https://bsufiles.drhx.ru/streams/1718922216.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2023@master/v1718922216.ass --start=3542 ytdl://7xTnK3PRI60
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2023@master/v1718922216.ass --start=3542 https://bsufiles.drhx.ru/streams/1718922216.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2023@master/v1718922216.ass --start=3542" --player-passthrough hls twitch.tv/videos/1718922216 best
 </code></pre>
 </div>
 
@@ -1361,11 +1372,6 @@
     <span class="badge badge-success">
       <a href="https://www.youtube.com/watch?v=BuwKWEraP1k" target="_blank">
         <i class="fab fa-youtube"></i> BuwKWEraP1k
-      </a>
-    </span>
-    <span class="badge badge-danger">
-      <a href="https://bsufiles.drhx.ru/streams/1767632642.torrent">
-        <i class="fas fa-download"></i> торрент
       </a>
     </span>
   </div>

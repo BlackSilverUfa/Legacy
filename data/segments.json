@@ -10292,9 +10292,10 @@
     "games": ["forspoken"]
   },
   "1718922216": {
-    "youtube": "7xTnK3PRI60", "abs_start": "0:00", "abs_end": "6:16:17", "duration": "6:16:17",
+    "abs_start": "0:00", "abs_end": "6:16:31", "duration": "0:00",
     "name": "Hi-Fi Rush",
     "date": "2023-01-26",
+    "direct": "https://bsufiles.drhx.ru/streams/1718922216.mp4",
     "games": ["first-2023"]
   },
   "1719885871": {
@@ -10554,14 +10555,12 @@
     "youtube": "BuwKWEraP1k", "abs_start": "0:00", "abs_end": "5:33:08", "duration": "5:33:08",
     "name": "Diablo II: Resurrected / Diablo III / Diablo IV",
     "date": "2023-03-17",
-    "torrent": "https://bsufiles.drhx.ru/streams/1767632642.torrent",
     "games": ["first-2023"]
   },
   "1768648500": {
     "youtube": "icBqFLq1W_U", "abs_start": "0:00", "abs_end": "6:05:02", "duration": "6:05:02",
     "name": "Alice: Madness Returns #2",
     "date": "2023-03-18",
-    "torrent": "https://bsufiles.drhx.ru/streams/1768648500.torrent",
     "games": ["alice-mr"]
   },
   "1769643693": {
@@ -10663,9 +10662,10 @@
     "games": ["alice-mr", "demonologist"]
   },
   "1785306187": {
-    "youtube": "XfufcGV5WyI", "abs_start": "0:00", "abs_end": "6:30:46", "duration": "6:30:46",
+    "abs_start": "0:00", "abs_end": "6:31:40", "duration": "0:00",
     "name": "Кужлёвка #1 / Chivalry 2 #9",
     "date": "2023-04-05",
+    "direct": "https://bsufiles.drhx.ru/streams/1785306187.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1785306187.torrent",
     "games": ["kujlevka", "chivalry-2"]
   },
