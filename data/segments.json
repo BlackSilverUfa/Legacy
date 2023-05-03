@@ -10786,9 +10786,25 @@
   },
   "1809409736": {
     "youtube": "BcrP0PHvL74", "abs_start": "0:00", "abs_end": "6:33:27", "duration": "6:33:27",
-    "name": "The Last Case of Benedict Fox / Redfall (с Куплиновым и Дангаром)",
+    "name": "The Last Case of Benedict Fox / Redfall #1 (с Куплиновым и Дангаром)",
     "date": "2023-05-02",
     "torrent": "https://bsufiles.drhx.ru/streams/1809409736.torrent",
-    "games": ["first-2023", "co-op"]
+    "games": ["first-2023", "redfall"]
+  },
+  "1810272609": {
+    "abs_start": "0:00", "abs_end": "1:24:26", "duration": "0:00",
+    "name": "Redfall #2 (соло)",
+    "date": "2023-05-03",
+    "direct": "https://bsufiles.drhx.ru/streams/1810272609.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1810272609.torrent",
+    "games": ["redfall"]
+  },
+  "1810311520": {
+    "abs_start": "0:00", "abs_end": "5:10:17", "duration": "0:00",
+    "name": "Bramble: The Mountain King",
+    "date": "2023-05-03",
+    "direct": "https://bsufiles.drhx.ru/streams/1810311520.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1810311520.torrent",
+    "games": ["single"]
   }
 }

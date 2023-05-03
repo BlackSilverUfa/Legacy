@@ -3,8 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "first-2023", "segment": "1798664242", "name": "Dead Island / Dead Island 2 #1", "start": 0},
-      {"id": "dead-island-2", "segment": "1799517574", "name": "Dead Island 2 #2", "start": 0},
       {"id": "dead-island-2", "segment": "1800438364", "name": "Dead Island 2 #3", "start": 0},
       {"id": "single", "segment": "1803169573", "name": "The Microwave Paradox / [Subject] / Evil is Back / The Wish Machine (Машина желаний) / Dead Space Demake / Lost Alone: Ultimate - The Day Before (демо) / Future Racer 2000 #1", "start": 0},
       {"id": "single", "segment": "1804032922", "name": "The Gap / Future Racer 2000 #2 / Family Curse / The Arrowhead Incident / 911: Cannibal", "start": 0},
@@ -12,7 +10,9 @@
       {"id": "swj-survivor", "segment": "1805668013", "name": "Star Wars Jedi: Survivor #1", "start": 0},
       {"id": "swj-survivor", "segment": "1806660511", "name": "Star Wars Jedi: Survivor #2", "start": 0},
       {"id": "swj-survivor", "segment": "1807590761", "name": "Star Wars Jedi: Survivor #3", "start": 0},
-      {"id": "first-2023", "segment": "1809409736", "name": "The Last Case of Benedict Fox / Redfall (с Куплиновым и Дангаром)", "start": 0}
+      {"id": "first-2023", "segment": "1809409736", "name": "The Last Case of Benedict Fox / Redfall #1 (с Куплиновым и Дангаром)", "start": 0},
+      {"id": "redfall", "segment": "1810272609", "name": "Redfall #2 (соло)", "start": 0},
+      {"id": "single", "segment": "1810311520", "name": "Bramble: The Mountain King", "start": 0}
     ]
   },
   "finished": {
@@ -590,7 +590,8 @@
       {"id": "single", "segment": "1804032922", "name": "Family Curse", "start": 7948},
       {"id": "single", "segment": "1804032922", "name": "The Arrowhead Incident", "start": 12666},
       {"id": "single", "segment": "1804032922", "name": "911: Cannibal", "start": 14236},
-      {"name": "Star Wars Jedi: Survivor", "id": "swj-survivor", "segment": "1805668013"}
+      {"name": "Star Wars Jedi: Survivor", "id": "swj-survivor", "segment": "1805668013"},
+      {"id": "single", "segment": "1810311520", "name": "Bramble: The Mountain King", "start": 1290}
     ]
   },
   "first": {
@@ -1150,7 +1151,8 @@
     "name": "Активные",
     "games": [
       {"name": "Survival: Fountain of Youth", "id": "survival-foy", "segment": "1547156682"},
-      {"name": "Dredge", "id": "dredge", "segment": "1618459269"}
+      {"name": "Dredge", "id": "dredge", "segment": "1618459269"},
+      {"name": "Redfall", "id": "redfall", "segment": "1809409736"}
     ]
   },
   "infinite": {
@@ -1554,8 +1556,7 @@
       {"id": "co-op", "segment": "1624846104", "name": "Ghostbusters: Spirits Unleashed", "start": 16061},
       {"name": "Demonologist", "id": "demonologist", "segment": "1777132427"},
       {"name": "Crime Boss: Rockay City", "id": "crime-boss-4d", "segment": "1778016938"},
-      {"id": "co-op", "segment": "1804882802", "name": "Inout", "start": 7486},
-      {"id": "co-op", "segment": "1809409736", "name": "Redfall (с Куплиновым и Дангаром)", "start": 14821}
+      {"id": "co-op", "segment": "1804882802", "name": "Inout", "start": 7486}
     ]
   },
   "other": {
