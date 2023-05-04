@@ -10791,10 +10791,9 @@
     "games": ["first-2023", "redfall"]
   },
   "1810272609": {
-    "abs_start": "0:00", "abs_end": "1:24:26", "duration": "0:00",
+    "youtube": "MQmtEu47DYA", "abs_start": "0:00", "abs_end": "1:24:05", "duration": "1:24:05",
     "name": "Redfall #2 (соло)",
     "date": "2023-05-03",
-    "direct": "https://bsufiles.drhx.ru/streams/1810272609.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1810272609.torrent",
     "games": ["redfall"]
   },
