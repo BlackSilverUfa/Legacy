@@ -9496,10 +9496,9 @@
     "games": ["single", "trash-horror", "first-2022", "iron-lung"]
   },
   "1550107736": {
-    "abs_start": "0:00", "abs_end": "5:04:20", "duration": "0:00",
+    "youtube": "uBrd76US5dA", "official": false, "abs_start": "0:00", "abs_end": "5:03:57", "duration": "5:03:57",
     "name": "The Mortuary Assistant #1",
     "date": "2022-08-02",
-    "direct": "https://bsufiles.drhx.ru/streams/1550107736.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1550107736.torrent",
     "games": ["mortuary-assistant"]
   },
