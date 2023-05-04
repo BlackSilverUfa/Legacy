@@ -2413,10 +2413,9 @@
     "games": ["depth", "friday-13th", "co-op", "tricky-towers", "golf-it"]
   },
   "284560594": {
-    "abs_start": "-0:06", "abs_end": "5:11:51", "duration": "0:00",
+    "youtube": "sw4BuNNVoio", "official": false, "abs_start": "0:00", "abs_end": "5:10:58", "duration": "5:10:58",
     "name": "S.T.A.L.K.E.R.: Shadow of Chernobyl #2 / Persona 5 #12",
     "date": "2018-07-14",
-    "direct": "https://bsufiles.drhx.ru/streams/284560594.mp4",
     "games": ["stalker-soc", "persona_5"]
   },
   "284955107": {
