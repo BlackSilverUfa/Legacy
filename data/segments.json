@@ -10798,10 +10798,9 @@
     "games": ["redfall"]
   },
   "1810311520": {
-    "abs_start": "0:00", "abs_end": "5:10:17", "duration": "0:00",
+    "youtube": "-301xSayk9I", "abs_start": "0:00", "abs_end": "5:09:52", "duration": "5:09:52",
     "name": "Bramble: The Mountain King",
     "date": "2023-05-03",
-    "direct": "https://bsufiles.drhx.ru/streams/1810311520.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1810311520.torrent",
     "games": ["single"]
   }
