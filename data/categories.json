@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "dead-island-2", "segment": "1800438364", "name": "Dead Island 2 #3", "start": 0},
       {"id": "single", "segment": "1803169573", "name": "The Microwave Paradox / [Subject] / Evil is Back / The Wish Machine (Машина желаний) / Dead Space Demake / Lost Alone: Ultimate - The Day Before (демо) / Future Racer 2000 #1", "start": 0},
       {"id": "single", "segment": "1804032922", "name": "The Gap / Future Racer 2000 #2 / Family Curse / The Arrowhead Incident / 911: Cannibal", "start": 0},
       {"id": "survival-foy", "segment": "1804882802", "name": "Survival: Fountain of Youth - Релиз / Inout / Occult #3 / DEVOUR #7", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "swj-survivor", "segment": "1807590761", "name": "Star Wars Jedi: Survivor #3", "start": 0},
       {"id": "first-2023", "segment": "1809409736", "name": "The Last Case of Benedict Fox / Redfall #1 (с Куплиновым и Дангаром)", "start": 0},
       {"id": "redfall", "segment": "1810272609", "name": "Redfall #2 (соло)", "start": 0},
-      {"id": "single", "segment": "1810311520", "name": "Bramble: The Mountain King", "start": 0}
+      {"id": "single", "segment": "1810311520", "name": "Bramble: The Mountain King", "start": 0},
+      {"id": "single", "segment": "1811995960", "name": "The Invincible (демо) / I Know This Place..? - Chapter 1 / Frozen Shelter / Rewind or Die", "start": 0}
     ]
   },
   "finished": {
@@ -591,7 +591,9 @@
       {"id": "single", "segment": "1804032922", "name": "The Arrowhead Incident", "start": 12666},
       {"id": "single", "segment": "1804032922", "name": "911: Cannibal", "start": 14236},
       {"name": "Star Wars Jedi: Survivor", "id": "swj-survivor", "segment": "1805668013"},
-      {"id": "single", "segment": "1810311520", "name": "Bramble: The Mountain King", "start": 1290}
+      {"id": "single", "segment": "1810311520", "name": "Bramble: The Mountain King", "start": 1290},
+      {"id": "single", "segment": "1811995960", "name": "The Invincible (демо)", "start": 5213},
+      {"id": "single", "segment": "1811995960", "name": "I Know This Place..? - Chapter 1", "start": 7563}
     ]
   },
   "first": {
@@ -1144,7 +1146,9 @@
       {"id": "first-2023", "segment": "1797918117", "name": "Horror Tale", "start": 6092},
       {"id": "first-2023", "segment": "1798664242", "name": "Dead Island", "start": 2034},
       {"id": "first-2023", "segment": "1803169573", "name": "Dead Space Demake", "start": 14626},
-      {"id": "first-2023", "segment": "1809409736", "name": "The Last Case of Benedict Fox", "start": 2222}
+      {"id": "first-2023", "segment": "1809409736", "name": "The Last Case of Benedict Fox", "start": 2222},
+      {"id": "first-2023", "segment": "1811995960", "name": "Frozen Shelter", "start": 9939},
+      {"id": "first-2023", "segment": "1811995960", "name": "Rewind or Die", "start": 12326}
     ]
   },
   "ongoing": {
