@@ -9498,7 +9498,6 @@
     "youtube": "uBrd76US5dA", "official": false, "abs_start": "0:00", "abs_end": "5:03:57", "duration": "5:03:57",
     "name": "The Mortuary Assistant #1",
     "date": "2022-08-02",
-    "torrent": "https://bsufiles.drhx.ru/streams/1550107736.torrent",
     "games": ["mortuary-assistant"]
   },
   "1551976425": {
@@ -10807,5 +10806,13 @@
     "direct": "https://bsufiles.drhx.ru/streams/1811995960.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1811995960.torrent",
     "games": ["single", "first-2023"]
+  },
+  "1812854556": {
+    "abs_start": "0:00", "abs_end": "5:40:21", "duration": "0:00",
+    "name": "Dawn of Hell / On the Other Side (демо) / Cave Crawler / Amanda the Adventurer / The Pier House - Episode 1 / The Witch of Sherdorne Forest",
+    "date": "2023-05-06",
+    "direct": "https://bsufiles.drhx.ru/streams/1812854556.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1812854556.torrent",
+    "games": ["first-2023", "single"]
   }
 }
