@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "single", "segment": "1804032922", "name": "The Gap / Future Racer 2000 #2 / Family Curse / The Arrowhead Incident / 911: Cannibal", "start": 0},
       {"id": "survival-foy", "segment": "1804882802", "name": "Survival: Fountain of Youth - Релиз / Inout / Occult #3 / DEVOUR #7", "start": 0},
       {"id": "swj-survivor", "segment": "1805668013", "name": "Star Wars Jedi: Survivor #1", "start": 0},
       {"id": "swj-survivor", "segment": "1806660511", "name": "Star Wars Jedi: Survivor #2", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "redfall", "segment": "1810272609", "name": "Redfall #2 (соло)", "start": 0},
       {"id": "single", "segment": "1810311520", "name": "Bramble: The Mountain King", "start": 0},
       {"id": "single", "segment": "1811995960", "name": "The Invincible (демо) / I Know This Place..? - Chapter 1 / Frozen Shelter / Rewind or Die", "start": 0},
-      {"id": "first-2023", "segment": "1812854556", "name": "Dawn of Hell / On the Other Side (демо) / Cave Crawler / Amanda the Adventurer / The Pier House - Episode 1 / The Witch of Sherdorne Forest", "start": 0}
+      {"id": "first-2023", "segment": "1812854556", "name": "Dawn of Hell / On the Other Side (демо) / Cave Crawler / Amanda the Adventurer / The Pier House - Episode 1 / The Witch of Sherdorne Forest", "start": 0},
+      {"id": "first-2023", "segment": "1813790886", "name": "Nancy Drew: The White Wolf of Icicle Creek (Нэнси Дрю. Белый волк Ледяного ущелья)", "start": 0}
     ]
   },
   "finished": {
@@ -1154,7 +1154,8 @@
       {"id": "first-2023", "segment": "1809409736", "name": "The Last Case of Benedict Fox", "start": 2222},
       {"id": "first-2023", "segment": "1811995960", "name": "Frozen Shelter", "start": 9939},
       {"id": "first-2023", "segment": "1811995960", "name": "Rewind or Die", "start": 12326},
-      {"id": "first-2023", "segment": "1812854556", "name": "Dawn of Hell", "start": 2528}
+      {"id": "first-2023", "segment": "1812854556", "name": "Dawn of Hell", "start": 2528},
+      {"id": "first-2023", "segment": "1813790886", "name": "Nancy Drew: The White Wolf of Icicle Creek (Нэнси Дрю. Белый волк Ледяного ущелья)", "start": 850}
     ]
   },
   "ongoing": {
