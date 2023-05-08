@@ -10814,10 +10814,9 @@
     "games": ["first-2023", "single"]
   },
   "1813790886": {
-    "abs_start": "0:00", "abs_end": "5:15:24", "duration": "0:00",
+    "youtube": "cG7GrgNo6CI", "abs_start": "0:00", "abs_end": "5:14:37", "duration": "5:14:37",
     "name": "Nancy Drew: The White Wolf of Icicle Creek (Нэнси Дрю. Белый волк Ледяного ущелья)",
     "date": "2023-05-07",
-    "direct": "https://bsufiles.drhx.ru/streams/1813790886.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1813790886.torrent",
     "games": ["first-2023"]
   }
