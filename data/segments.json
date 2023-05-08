@@ -10561,7 +10561,6 @@
     "youtube": "Nk-KGDoVw1w", "abs_start": "0:00", "abs_end": "5:37:31", "duration": "5:37:31",
     "name": "Silent Nights / Anthology of Fear - Релиз / File Destined",
     "date": "2023-03-19",
-    "torrent": "https://bsufiles.drhx.ru/streams/1769643693.torrent",
     "games": ["single", "anthology-of-fear"]
   },
   "1771503128": {
@@ -10751,7 +10750,7 @@
   },
   "1804882802": {
     "youtube": "B8YPpOZ2b28", "abs_start": "0:00", "abs_end": "6:07:52", "duration": "6:07:52",
-    "name": "Survival: Fountain of Youth - Релиз / Inout / Occult #3 / DEVOUR #7",
+    "name": "Survival: Fountain of Youth #1 (релиз) / Inout / Occult #3 / DEVOUR #7",
     "date": "2023-04-27",
     "torrent": "https://bsufiles.drhx.ru/streams/1804882802.torrent",
     "games": ["survival-foy", "co-op", "occult", "devour"]
@@ -10779,10 +10778,10 @@
   },
   "1809409736": {
     "youtube": "BcrP0PHvL74", "abs_start": "0:00", "abs_end": "6:33:27", "duration": "6:33:27",
-    "name": "The Last Case of Benedict Fox / Redfall #1 (с Куплиновым и Дангаром)",
+    "name": "The Last Case of Benedict Fox #1 / Redfall #1 (с Куплиновым и Дангаром)",
     "date": "2023-05-02",
     "torrent": "https://bsufiles.drhx.ru/streams/1809409736.torrent",
-    "games": ["first-2023", "redfall"]
+    "games": ["benedict-fox", "redfall"]
   },
   "1810272609": {
     "youtube": "MQmtEu47DYA", "abs_start": "0:00", "abs_end": "1:24:05", "duration": "1:24:05",
@@ -10819,5 +10818,13 @@
     "date": "2023-05-07",
     "torrent": "https://bsufiles.drhx.ru/streams/1813790886.torrent",
     "games": ["first-2023"]
+  },
+  "1814566379": {
+    "abs_start": "0:00", "abs_end": "6:02:46", "duration": "0:00",
+    "name": "The Last Case of Benedict Fox #2 / Survival: Fountain of Youth #2",
+    "date": "2023-05-08",
+    "direct": "https://bsufiles.drhx.ru/streams/1814566379.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1814566379.torrent",
+    "games": ["benedict-fox", "survival-foy"]
   }
 }
