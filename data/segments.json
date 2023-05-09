@@ -10820,10 +10820,9 @@
     "games": ["first-2023"]
   },
   "1814566379": {
-    "abs_start": "0:00", "abs_end": "6:02:46", "duration": "0:00",
+    "youtube": "kYbhBY2lMpI", "abs_start": "0:00", "abs_end": "6:02:21", "duration": "6:02:21",
     "name": "The Last Case of Benedict Fox #2 / Survival: Fountain of Youth #2",
     "date": "2023-05-08",
-    "direct": "https://bsufiles.drhx.ru/streams/1814566379.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1814566379.torrent",
     "games": ["benedict-fox", "survival-foy"]
   }
