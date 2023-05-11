@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "swj-survivor", "segment": "1805668013", "name": "Star Wars Jedi: Survivor #1", "start": 0},
       {"id": "swj-survivor", "segment": "1806660511", "name": "Star Wars Jedi: Survivor #2", "start": 0},
       {"id": "swj-survivor", "segment": "1807590761", "name": "Star Wars Jedi: Survivor #3", "start": 0},
       {"id": "benedict-fox", "segment": "1809409736", "name": "The Last Case of Benedict Fox #1 / Redfall #1 (с Куплиновым и Дангаром)", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "single", "segment": "1811995960", "name": "The Invincible (демо) / I Know This Place..? - Chapter 1 / Frozen Shelter / Rewind or Die", "start": 0},
       {"id": "first-2023", "segment": "1812854556", "name": "Dawn of Hell / On the Other Side (демо) / Cave Crawler / Amanda the Adventurer / The Pier House - Episode 1 / The Witch of Sherdorne Forest", "start": 0},
       {"id": "first-2023", "segment": "1813790886", "name": "Nancy Drew: The White Wolf of Icicle Creek (Нэнси Дрю. Белый волк Ледяного ущелья)", "start": 0},
-      {"id": "benedict-fox", "segment": "1814566379", "name": "The Last Case of Benedict Fox #2 / Survival: Fountain of Youth #2", "start": 0}
+      {"id": "benedict-fox", "segment": "1814566379", "name": "The Last Case of Benedict Fox #2 / Survival: Fountain of Youth #2", "start": 0},
+      {"id": "tloz_botw", "segment": "1817065976", "name": "The Legend of Zelda: Breath of the Wild #22 - перед TotK", "start": 0}
     ]
   },
   "finished": {
