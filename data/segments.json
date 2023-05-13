@@ -10585,7 +10585,6 @@
     "youtube": "IUREHKFmmjM", "abs_start": "0:00", "abs_end": "10:14:47", "duration": "10:14:47",
     "name": "Resident Evil 4 - Перед Remake / Resident Evil 4 Remake #1",
     "date": "2023-03-23",
-    "torrent": "https://bsufiles.drhx.ru/streams/1773155387.torrent",
     "games": ["re4", "re4-remake"]
   },
   "1774067090": {
@@ -10835,6 +10834,15 @@
     "date": "2023-05-12",
     "direct": "https://bsufiles.drhx.ru/streams/1817831979.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1817831979.torrent",
+    "games": ["tloz_totk"]
+  },
+  "1818750640": {
+    "abs_start": "0:00", "abs_end": "9:20:56", "duration": "0:00",
+    "name": "The Legend of Zelda: Tears of the Kingdom #2",
+    "date": "2023-05-13",
+    "direct": "https://bsufiles.drhx.ru/streams/1818750640.mp4",
+    "cuts": [[32049, 32096]],
+    "torrent": "https://bsufiles.drhx.ru/streams/1818750640.torrent",
     "games": ["tloz_totk"]
   }
 }
