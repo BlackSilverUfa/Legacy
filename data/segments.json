@@ -10591,7 +10591,6 @@
     "youtube": "GDRlXYXH_X8", "abs_start": "0:02", "abs_end": "9:31:49", "duration": "9:31:47",
     "name": "Resident Evil 4 Remake #2",
     "date": "2023-03-24",
-    "torrent": "https://bsufiles.drhx.ru/streams/1774067090.torrent",
     "games": ["re4-remake"]
   },
   "1775088934": {
@@ -10842,6 +10841,14 @@
     "direct": "https://bsufiles.drhx.ru/streams/1818750640.mp4",
     "cuts": [[32049, 32096]],
     "torrent": "https://bsufiles.drhx.ru/streams/1818750640.torrent",
+    "games": ["tloz_totk"]
+  },
+  "1819655760": {
+    "abs_start": "0:00", "abs_end": "8:39:01", "duration": "0:00",
+    "name": "The Legend of Zelda: Tears of the Kingdom #3",
+    "date": "2023-05-14",
+    "direct": "https://bsufiles.drhx.ru/streams/1819655760.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1819655760.torrent",
     "games": ["tloz_totk"]
   }
 }

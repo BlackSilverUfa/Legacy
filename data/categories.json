@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "benedict-fox", "segment": "1809409736", "name": "The Last Case of Benedict Fox #1 / Redfall #1 (с Куплиновым и Дангаром)", "start": 0},
       {"id": "redfall", "segment": "1810272609", "name": "Redfall #2 (соло)", "start": 0},
       {"id": "single", "segment": "1810311520", "name": "Bramble: The Mountain King", "start": 0},
       {"id": "single", "segment": "1811995960", "name": "The Invincible (демо) / I Know This Place..? - Chapter 1 / Frozen Shelter / Rewind or Die", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "benedict-fox", "segment": "1814566379", "name": "The Last Case of Benedict Fox #2 / Survival: Fountain of Youth #2", "start": 0},
       {"id": "tloz_botw", "segment": "1817065976", "name": "The Legend of Zelda: Breath of the Wild #22 - перед TotK", "start": 0},
       {"id": "tloz_totk", "segment": "1817831979", "name": "The Legend of Zelda: Tears of the Kingdom #1", "start": 0},
-      {"id": "tloz_totk", "segment": "1818750640", "name": "The Legend of Zelda: Tears of the Kingdom #2", "start": 0}
+      {"id": "tloz_totk", "segment": "1818750640", "name": "The Legend of Zelda: Tears of the Kingdom #2", "start": 0},
+      {"id": "tloz_totk", "segment": "1819655760", "name": "The Legend of Zelda: Tears of the Kingdom #3", "start": 0}
     ]
   },
   "finished": {
