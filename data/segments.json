@@ -10835,10 +10835,9 @@
     "games": ["tloz_totk"]
   },
   "1818750640": {
-    "abs_start": "0:00", "abs_end": "9:20:56", "duration": "0:00",
+    "youtube": "VdXH8epAiEM", "abs_start": "0:00", "abs_end": "9:21:00", "duration": "9:20:13",
     "name": "The Legend of Zelda: Tears of the Kingdom #2",
     "date": "2023-05-13",
-    "direct": "https://bsufiles.drhx.ru/streams/1818750640.mp4",
     "cuts": [[32049, 32096]],
     "torrent": "https://bsufiles.drhx.ru/streams/1818750640.torrent",
     "games": ["tloz_totk"]
