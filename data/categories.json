@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "redfall", "segment": "1810272609", "name": "Redfall #2 (соло)", "start": 0},
       {"id": "single", "segment": "1810311520", "name": "Bramble: The Mountain King", "start": 0},
       {"id": "single", "segment": "1811995960", "name": "The Invincible (демо) / I Know This Place..? - Chapter 1 / Frozen Shelter / Rewind or Die", "start": 0},
       {"id": "first-2023", "segment": "1812854556", "name": "Dawn of Hell / On the Other Side (демо) / Cave Crawler / Amanda the Adventurer / The Pier House - Episode 1 / The Witch of Sherdorne Forest", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "tloz_botw", "segment": "1817065976", "name": "The Legend of Zelda: Breath of the Wild #22 - перед TotK", "start": 0},
       {"id": "tloz_totk", "segment": "1817831979", "name": "The Legend of Zelda: Tears of the Kingdom #1", "start": 0},
       {"id": "tloz_totk", "segment": "1818750640", "name": "The Legend of Zelda: Tears of the Kingdom #2", "start": 0},
-      {"id": "tloz_totk", "segment": "1819655760", "name": "The Legend of Zelda: Tears of the Kingdom #3", "start": 0}
+      {"id": "tloz_totk", "segment": "1819655760", "name": "The Legend of Zelda: Tears of the Kingdom #3", "start": 0},
+      {"id": "single", "segment": "1823827495", "name": "Layers of Fear (демо)", "start": 0}
     ]
   },
   "finished": {
@@ -598,7 +598,8 @@
       {"id": "single", "segment": "1812854556", "name": "Cave Crawler", "start": 7858},
       {"id": "single", "segment": "1812854556", "name": "Amanda the Adventurer", "start": 9852},
       {"id": "single", "segment": "1812854556", "name": "The Pier House - Episode 1", "start": 18308},
-      {"id": "single", "segment": "1812854556", "name": "The Witch of Sherdorne Forest", "start": 19035}
+      {"id": "single", "segment": "1812854556", "name": "The Witch of Sherdorne Forest", "start": 19035},
+      {"id": "single", "segment": "1823827495", "name": "Layers of Fear (демо)", "start": 7910}
     ]
   },
   "first": {
