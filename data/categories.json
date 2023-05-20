@@ -3,16 +3,16 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "single", "segment": "1810311520", "name": "Bramble: The Mountain King", "start": 0},
       {"id": "single", "segment": "1811995960", "name": "The Invincible (демо) / I Know This Place..? - Chapter 1 / Frozen Shelter / Rewind or Die", "start": 0},
       {"id": "first-2023", "segment": "1812854556", "name": "Dawn of Hell / On the Other Side (демо) / Cave Crawler / Amanda the Adventurer / The Pier House - Episode 1 / The Witch of Sherdorne Forest", "start": 0},
-      {"id": "first-2023", "segment": "1813790886", "name": "Nancy Drew: The White Wolf of Icicle Creek (Нэнси Дрю. Белый волк Ледяного ущелья)", "start": 0},
+      {"id": "nancy-drew-wwoic", "segment": "1813790886", "name": "Nancy Drew: The White Wolf of Icicle Creek (Нэнси Дрю. Белый волк Ледяного ущелья) #1", "start": 0},
       {"id": "benedict-fox", "segment": "1814566379", "name": "The Last Case of Benedict Fox #2 / Survival: Fountain of Youth #2", "start": 0},
       {"id": "tloz_botw", "segment": "1817065976", "name": "The Legend of Zelda: Breath of the Wild #22 - перед TotK", "start": 0},
       {"id": "tloz_totk", "segment": "1817831979", "name": "The Legend of Zelda: Tears of the Kingdom #1", "start": 0},
       {"id": "tloz_totk", "segment": "1818750640", "name": "The Legend of Zelda: Tears of the Kingdom #2", "start": 0},
       {"id": "tloz_totk", "segment": "1819655760", "name": "The Legend of Zelda: Tears of the Kingdom #3", "start": 0},
-      {"id": "single", "segment": "1823827495", "name": "Layers of Fear (демо)", "start": 0}
+      {"id": "single", "segment": "1823827495", "name": "Layers of Fear (демо)", "start": 0},
+      {"id": "nancy-drew-wwoic", "segment": "1824716509", "name": "Nancy Drew: The White Wolf of Icicle Creek (Нэнси Дрю. Белый волк Ледяного ущелья) #2", "start": 0}
     ]
   },
   "finished": {
@@ -1154,8 +1154,7 @@
       {"id": "first-2023", "segment": "1803169573", "name": "Dead Space Demake", "start": 14626},
       {"id": "first-2023", "segment": "1811995960", "name": "Frozen Shelter", "start": 9939},
       {"id": "first-2023", "segment": "1811995960", "name": "Rewind or Die", "start": 12326},
-      {"id": "first-2023", "segment": "1812854556", "name": "Dawn of Hell", "start": 2528},
-      {"id": "first-2023", "segment": "1813790886", "name": "Nancy Drew: The White Wolf of Icicle Creek (Нэнси Дрю. Белый волк Ледяного ущелья)", "start": 850}
+      {"id": "first-2023", "segment": "1812854556", "name": "Dawn of Hell", "start": 2528}
     ]
   },
   "ongoing": {
@@ -1164,6 +1163,7 @@
       {"name": "Survival: Fountain of Youth", "id": "survival-foy", "segment": "1547156682"},
       {"name": "Redfall", "id": "redfall", "segment": "1809409736"},
       {"name": "The Last Case of Benedict Fox", "id": "benedict-fox", "segment": "1809409736"},
+      {"name": "Nancy Drew: The White Wolf of Icicle Creek (Нэнси Дрю. Белый волк Ледяного ущелья)", "id": "nancy-drew-wwoic", "segment": "1813790886"},
       {"name": "The Legend of Zelda: Tears of the Kingdom", "id": "tloz_totk", "segment": "1817831979"}
     ]
   },
