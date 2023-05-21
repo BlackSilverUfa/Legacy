@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "single", "segment": "1811995960", "name": "The Invincible (демо) / I Know This Place..? - Chapter 1 / Frozen Shelter / Rewind or Die", "start": 0},
       {"id": "first-2023", "segment": "1812854556", "name": "Dawn of Hell / On the Other Side (демо) / Cave Crawler / Amanda the Adventurer / The Pier House - Episode 1 / The Witch of Sherdorne Forest", "start": 0},
       {"id": "nancy-drew-wwoic", "segment": "1813790886", "name": "Nancy Drew: The White Wolf of Icicle Creek (Нэнси Дрю. Белый волк Ледяного ущелья) #1", "start": 0},
       {"id": "benedict-fox", "segment": "1814566379", "name": "The Last Case of Benedict Fox #2 / Survival: Fountain of Youth #2", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "tloz_totk", "segment": "1818750640", "name": "The Legend of Zelda: Tears of the Kingdom #2", "start": 0},
       {"id": "tloz_totk", "segment": "1819655760", "name": "The Legend of Zelda: Tears of the Kingdom #3", "start": 0},
       {"id": "single", "segment": "1823827495", "name": "Layers of Fear (демо)", "start": 0},
-      {"id": "nancy-drew-wwoic", "segment": "1824716509", "name": "Nancy Drew: The White Wolf of Icicle Creek (Нэнси Дрю. Белый волк Ледяного ущелья) #2", "start": 0}
+      {"id": "nancy-drew-wwoic", "segment": "1824716509", "name": "Nancy Drew: The White Wolf of Icicle Creek (Нэнси Дрю. Белый волк Ледяного ущелья) #2", "start": 0},
+      {"id": "tloz_totk", "segment": "1825542254", "name": "The Legend of Zelda: Tears of the Kingdom #4", "start": 0}
     ]
   },
   "finished": {
