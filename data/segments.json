@@ -10870,10 +10870,10 @@
   },
   "1826440973": {
     "abs_start": "0:00", "abs_end": "2:41:24", "duration": "0:00",
-    "name": "The Outlast Trials / Deppart Prototype / Daymare: 1994 Sandcastle",
+    "name": "The Outlast Trials / Deppart Prototype / Daymare: 1994 Sandcastle #3",
     "date": "2023-05-22",
     "direct": "https://bsufiles.drhx.ru/streams/1826440973.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1826440973.torrent",
-    "games": ["first-2023", "single"]
+    "games": ["first-2023", "single", "daymare-1994-sc"]
   }
 }

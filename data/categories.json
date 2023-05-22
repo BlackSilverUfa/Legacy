@@ -12,7 +12,7 @@
       {"id": "single", "segment": "1823827495", "name": "Layers of Fear (демо)", "start": 0},
       {"id": "nancy-drew-wwoic", "segment": "1824716509", "name": "Nancy Drew: The White Wolf of Icicle Creek (Нэнси Дрю. Белый волк Ледяного ущелья) #2", "start": 0},
       {"id": "tloz_totk", "segment": "1825542254", "name": "The Legend of Zelda: Tears of the Kingdom #4", "start": 0},
-      {"id": "first-2023", "segment": "1826440973", "name": "The Outlast Trials / Deppart Prototype / Daymare: 1994 Sandcastle", "start": 0}
+      {"id": "first-2023", "segment": "1826440973", "name": "The Outlast Trials / Deppart Prototype / Daymare: 1994 Sandcastle #3", "start": 0}
     ]
   },
   "finished": {
@@ -1156,8 +1156,7 @@
       {"id": "first-2023", "segment": "1811995960", "name": "Frozen Shelter", "start": 9939},
       {"id": "first-2023", "segment": "1811995960", "name": "Rewind or Die", "start": 12326},
       {"id": "first-2023", "segment": "1812854556", "name": "Dawn of Hell", "start": 2528},
-      {"id": "first-2023", "segment": "1826440973", "name": "The Outlast Trials", "start": 279},
-      {"id": "first-2023", "segment": "1826440973", "name": "Daymare: 1994 Sandcastle", "start": 5837}
+      {"id": "first-2023", "segment": "1826440973", "name": "The Outlast Trials", "start": 279}
     ]
   },
   "ongoing": {
