@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "nancy-drew-wwoic", "segment": "1813790886", "name": "Nancy Drew: The White Wolf of Icicle Creek (Нэнси Дрю. Белый волк Ледяного ущелья) #1", "start": 0},
       {"id": "benedict-fox", "segment": "1814566379", "name": "The Last Case of Benedict Fox #2 / Survival: Fountain of Youth #2", "start": 0},
       {"id": "tloz_botw", "segment": "1817065976", "name": "The Legend of Zelda: Breath of the Wild #22 - перед TotK", "start": 0},
       {"id": "tloz_totk", "segment": "1817831979", "name": "The Legend of Zelda: Tears of the Kingdom #1", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "single", "segment": "1823827495", "name": "Layers of Fear (демо)", "start": 0},
       {"id": "nancy-drew-wwoic", "segment": "1824716509", "name": "Nancy Drew: The White Wolf of Icicle Creek (Нэнси Дрю. Белый волк Ледяного ущелья) #2", "start": 0},
       {"id": "tloz_totk", "segment": "1825542254", "name": "The Legend of Zelda: Tears of the Kingdom #4", "start": 0},
-      {"id": "first-2023", "segment": "1826440973", "name": "The Outlast Trials / Deppart Prototype / Daymare: 1994 Sandcastle #3", "start": 0}
+      {"id": "outlast-trials", "segment": "1826440973", "name": "The Outlast Trials #1 (соло) / Deppart Prototype / Daymare: 1994 Sandcastle #3", "start": 0},
+      {"id": "first-2023", "segment": "1827232465,1827360298,1827371582,1827392675", "name": "Amnesia: The Bunker (демо) / Horror Exp+ / The Outlast Trials #2 (с Куплиновым и Дангаром) / Haunted Horror Stories: Gone With The Wind", "start": 0}
     ]
   },
   "finished": {
@@ -1156,7 +1156,9 @@
       {"id": "first-2023", "segment": "1811995960", "name": "Frozen Shelter", "start": 9939},
       {"id": "first-2023", "segment": "1811995960", "name": "Rewind or Die", "start": 12326},
       {"id": "first-2023", "segment": "1812854556", "name": "Dawn of Hell", "start": 2528},
-      {"id": "first-2023", "segment": "1826440973", "name": "The Outlast Trials", "start": 279}
+      {"id": "first-2023", "segment": "1827232465,1827360298,1827371582,1827392675", "name": "Amnesia: The Bunker (демо)", "start": 2019},
+      {"id": "first-2023", "segment": "1827232465,1827360298,1827371582,1827392675", "name": "Horror Exp+", "start": 7963},
+      {"id": "first-2023", "segment": "1827232465,1827360298,1827371582,1827392675", "name": "Haunted Horror Stories: Gone With The Wind", "start": 15939}
     ]
   },
   "ongoing": {
@@ -1571,7 +1573,8 @@
       {"id": "co-op", "segment": "1624846104", "name": "Ghostbusters: Spirits Unleashed", "start": 16061},
       {"name": "Demonologist", "id": "demonologist", "segment": "1777132427"},
       {"name": "Crime Boss: Rockay City", "id": "crime-boss-4d", "segment": "1778016938"},
-      {"id": "co-op", "segment": "1804882802", "name": "Inout", "start": 7486}
+      {"id": "co-op", "segment": "1804882802", "name": "Inout", "start": 7486},
+      {"name": "The Outlast Trials", "id": "outlast-trials", "segment": "1826440973"}
     ]
   },
   "other": {

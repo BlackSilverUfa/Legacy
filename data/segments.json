@@ -10617,7 +10617,6 @@
     "youtube": "10g8hGkyMfY", "abs_start": "0:00", "abs_end": "8:01:23", "duration": "8:01:23",
     "name": "Crime Boss: Rockay City - Соло / Apocalyptic Vibes / Crime Boss: Rockay City #2 (4D) / DEVOUR #6",
     "date": "2023-03-29",
-    "torrent": "https://bsufiles.drhx.ru/streams/1778887686.torrent",
     "games": ["crime-boss-4d", "first-2023", "devour"]
   },
   "1780702580": {
@@ -10871,10 +10870,51 @@
   },
   "1826440973": {
     "abs_start": "0:00", "abs_end": "2:41:24", "duration": "0:00",
-    "name": "The Outlast Trials / Deppart Prototype / Daymare: 1994 Sandcastle #3",
+    "name": "The Outlast Trials #1 (соло) / Deppart Prototype / Daymare: 1994 Sandcastle #3",
     "date": "2023-05-22",
     "direct": "https://bsufiles.drhx.ru/streams/1826440973.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1826440973.torrent",
-    "games": ["first-2023", "single", "daymare-1994-sc"]
+    "games": ["outlast-trials", "single", "daymare-1994-sc"]
+  },
+  "1827232465": {
+    "abs_start": "0:00", "abs_end": "3:39:38", "duration": "0:00",
+    "name": "",
+    "date": "2023-05-23",
+    "direct": "https://bsufiles.drhx.ru/streams/1827232465.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1827232465.torrent",
+    "games": []
+  },
+  "1827360298": {
+    "abs_start": "0:00", "abs_end": "16:47", "duration": "0:00",
+    "name": "",
+    "date": "2023-05-23",
+    "direct": "https://bsufiles.drhx.ru/streams/1827360298.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1827360298.torrent",
+    "games": []
+  },
+  "1827371582": {
+    "abs_start": "0:00", "abs_end": "20:37", "duration": "0:00",
+    "name": "",
+    "date": "2023-05-23",
+    "direct": "https://bsufiles.drhx.ru/streams/1827371582.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1827371582.torrent",
+    "games": []
+  },
+  "1827392675": {
+    "abs_start": "0:00", "abs_end": "8:33", "duration": "0:00",
+    "name": "",
+    "date": "2023-05-23",
+    "direct": "https://bsufiles.drhx.ru/streams/1827392675.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1827392675.torrent",
+    "games": []
+  },
+  "1827232465,1827360298,1827371582,1827392675": {
+    "abs_start": "0:00", "abs_end": "4:25:35", "duration": "0:00",
+    "name": "Amnesia: The Bunker (демо) / Horror Exp+ / The Outlast Trials #2 (с Куплиновым и Дангаром) / Haunted Horror Stories: Gone With The Wind",
+    "date": "2023-05-23",
+    "direct": "https://bsufiles.drhx.ru/streams/1827232465,1827360298,1827371582,1827392675.mp4",
+    "offsets": [0, 13145, 14144, 15375],
+    "torrent": "https://bsufiles.drhx.ru/streams/1827232465,1827360298,1827371582,1827392675.torrent",
+    "games": ["first-2023", "outlast-trials"]
   }
 }
