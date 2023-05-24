@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "tloz_botw", "segment": "1817065976", "name": "The Legend of Zelda: Breath of the Wild #22 - перед TotK", "start": 0},
       {"id": "tloz_totk", "segment": "1817831979", "name": "The Legend of Zelda: Tears of the Kingdom #1", "start": 0},
       {"id": "tloz_totk", "segment": "1818750640", "name": "The Legend of Zelda: Tears of the Kingdom #2", "start": 0},
       {"id": "tloz_totk", "segment": "1819655760", "name": "The Legend of Zelda: Tears of the Kingdom #3", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "tloz_totk", "segment": "1825542254", "name": "The Legend of Zelda: Tears of the Kingdom #4", "start": 0},
       {"id": "outlast-trials", "segment": "1826440973", "name": "The Outlast Trials #1 (соло) / Deppart Prototype / Daymare: 1994 Sandcastle #3", "start": 0},
       {"id": "first-2023", "segment": "1827232465,1827360298,1827371582,1827392675", "name": "Amnesia: The Bunker (демо) / Horror Exp+ / The Outlast Trials #2 (с Куплиновым и Дангаром) / Haunted Horror Stories: Gone With The Wind", "start": 0},
-      {"id": "tloz_totk", "segment": "1828030256,1828157473,1828245817", "name": "The Legend of Zelda: Tears of the Kingdom #5", "start": 0}
+      {"id": "tloz_totk", "segment": "1828030256,1828157473,1828245817", "name": "The Legend of Zelda: Tears of the Kingdom #5", "start": 0},
+      {"id": "ps-showcase", "segment": "1828339885", "name": "PlayStation Showcase #2023", "start": 0}
     ]
   },
   "finished": {
@@ -1638,7 +1638,7 @@
       {"id": "expos", "segment": "1081385499,1081403044", "name": "WitcherCon", "start": 14495},
       {"name": "Gamescom 2021", "id": "gamescom-21", "segment": "1127979772"},
       {"id": "expos", "segment": "1134934289", "name": "Dead Space Remake Dev Stream", "start": 14246},
-      {"id": "expos", "segment": "1143525237", "name": "PlayStation Showcase 2021", "start": 24906},
+      {"name": "PlayStation Showcase", "id": "ps-showcase", "segment": "1143525237"},
       {"name": "Summer Game Fest 2022", "id": "sgf-22", "segment": "1494292107"}
     ]
   },

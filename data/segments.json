@@ -8108,9 +8108,9 @@
   },
   "1143525237": {
     "youtube": "E1grG3nfoDI", "abs_start": "0:00", "abs_end": "8:03:05", "duration": "8:03:05",
-    "name": "Tales of Arise / Life is Strange: True Colors #1 / PlayStation Showcase 2021",
+    "name": "Tales of Arise / Life is Strange: True Colors #1 / PlayStation Showcase #2021",
     "date": "2021-09-09",
-    "games": ["first-2021", "life-is-strange-3", "expos"]
+    "games": ["first-2021", "life-is-strange-3", "ps-showcase"]
   },
   "1145536174": {
     "youtube": "OhblOpX0qRg", "abs_start": "0:00", "abs_end": "3:14:14", "duration": "3:14:14",
@@ -10946,5 +10946,13 @@
     "cuts": [[15530, 15772]],
     "torrent": "https://bsufiles.drhx.ru/streams/1828030256,1828157473,1828245817.torrent",
     "games": ["tloz_totk"]
+  },
+  "1828339885": {
+    "abs_start": "0:00", "abs_end": "1:48:11", "duration": "0:00",
+    "name": "PlayStation Showcase #2023",
+    "date": "2023-05-25",
+    "direct": "https://bsufiles.drhx.ru/streams/1828339885.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1828339885.torrent",
+    "games": ["ps-showcase"]
   }
 }
