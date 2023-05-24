@@ -3,6 +3,7 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
+      {"id": "benedict-fox", "segment": "1814566379", "name": "The Last Case of Benedict Fox #2 / Survival: Fountain of Youth #2", "start": 0},
       {"id": "tloz_botw", "segment": "1817065976", "name": "The Legend of Zelda: Breath of the Wild #22 - перед TotK", "start": 0},
       {"id": "tloz_totk", "segment": "1817831979", "name": "The Legend of Zelda: Tears of the Kingdom #1", "start": 0},
       {"id": "tloz_totk", "segment": "1818750640", "name": "The Legend of Zelda: Tears of the Kingdom #2", "start": 0},
@@ -11,8 +12,7 @@
       {"id": "nancy-drew-wwoic", "segment": "1824716509", "name": "Nancy Drew: The White Wolf of Icicle Creek (Нэнси Дрю. Белый волк Ледяного ущелья) #2", "start": 0},
       {"id": "tloz_totk", "segment": "1825542254", "name": "The Legend of Zelda: Tears of the Kingdom #4", "start": 0},
       {"id": "outlast-trials", "segment": "1826440973", "name": "The Outlast Trials #1 (соло) / Deppart Prototype / Daymare: 1994 Sandcastle #3", "start": 0},
-      {"id": "first-2023", "segment": "1827232465,1827360298,1827371582,1827392675.1", "name": "Haunted Horror Stories: Gone With The Wind", "start": 0},
-      {"id": "first-2023", "segment": "1827232465,1827360298,1827371582,1827392675", "name": "Amnesia: The Bunker (демо) / Horror Exp+ / The Outlast Trials #2 (с Куплиновым и Дангаром)", "start": 0}
+      {"id": "first-2023", "segment": "1827232465,1827360298,1827371582,1827392675", "name": "Amnesia: The Bunker (демо) / Horror Exp+ / The Outlast Trials #2 (с Куплиновым и Дангаром) / Haunted Horror Stories: Gone With The Wind", "start": 0}
     ]
   },
   "finished": {
@@ -1158,7 +1158,7 @@
       {"id": "first-2023", "segment": "1812854556", "name": "Dawn of Hell", "start": 2528},
       {"id": "first-2023", "segment": "1827232465,1827360298,1827371582,1827392675", "name": "Amnesia: The Bunker (демо)", "start": 2019},
       {"id": "first-2023", "segment": "1827232465,1827360298,1827371582,1827392675", "name": "Horror Exp+", "start": 7963},
-      {"id": "first-2023", "segment": "1827232465,1827360298,1827371582,1827392675.1", "name": "Haunted Horror Stories: Gone With The Wind", "start": 15939}
+      {"id": "first-2023", "segment": "1827232465,1827360298,1827371582,1827392675", "name": "Haunted Horror Stories: Gone With The Wind", "start": 15939}
     ]
   },
   "ongoing": {

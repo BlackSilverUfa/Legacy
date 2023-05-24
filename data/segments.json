@@ -10909,19 +10909,10 @@
   },
   "1827232465,1827360298,1827371582,1827392675": {
     "youtube": "Ouk7FqZ-T30", "abs_start": "0:00", "abs_end": "4:24:22", "duration": "4:24:22",
-    "name": "Amnesia: The Bunker (демо) / Horror Exp+ / The Outlast Trials #2 (с Куплиновым и Дангаром)",
+    "name": "Amnesia: The Bunker (демо) / Horror Exp+ / The Outlast Trials #2 (с Куплиновым и Дангаром) / Haunted Horror Stories: Gone With The Wind",
     "date": "2023-05-23",
-    "offsets": [],
-    "torrent": "https://bsufiles.drhx.ru/streams/1827232465,1827360298,1827371582,1827392675.torrent",
-    "games": ["first-2023", "outlast-trials"]
-  },
-  "1827232465,1827360298,1827371582,1827392675.1": {
-    "abs_start": "0:00", "abs_end": "4:25:35", "duration": "0:00",
-    "name": "Haunted Horror Stories: Gone With The Wind",
-    "date": "2023-05-23",
-    "direct": "https://bsufiles.drhx.ru/streams/1827232465,1827360298,1827371582,1827392675.mp4",
     "offsets": [0, 13145, 14144, 15375],
     "torrent": "https://bsufiles.drhx.ru/streams/1827232465,1827360298,1827371582,1827392675.torrent",
-    "games": ["first-2023"]
+    "games": ["first-2023", "outlast-trials", "first-2023"]
   }
 }
