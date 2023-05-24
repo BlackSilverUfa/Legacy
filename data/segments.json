@@ -10869,10 +10869,9 @@
     "games": ["tloz_totk"]
   },
   "1826440973": {
-    "abs_start": "0:00", "abs_end": "2:41:24", "duration": "0:00",
+    "youtube": "ZD_8bg-sxJY", "abs_start": "0:00", "abs_end": "2:41:17", "duration": "2:41:17",
     "name": "The Outlast Trials #1 (соло) / Deppart Prototype / Daymare: 1994 Sandcastle #3",
     "date": "2023-05-22",
-    "direct": "https://bsufiles.drhx.ru/streams/1826440973.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1826440973.torrent",
     "games": ["outlast-trials", "single", "daymare-1994-sc"]
   },
