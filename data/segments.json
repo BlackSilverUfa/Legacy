@@ -10938,20 +10938,18 @@
     "games": []
   },
   "1828030256,1828157473,1828245817": {
-    "abs_start": "0:00", "abs_end": "7:15:09", "duration": "0:00",
+    "youtube": "fX16upyXu2w", "abs_start": "0:00", "abs_end": "7:18:14", "duration": "7:14:12",
     "name": "The Legend of Zelda: Tears of the Kingdom #5",
     "date": "2023-05-24",
-    "direct": "https://bsufiles.drhx.ru/streams/1828030256,1828157473,1828245817.mp4",
     "offsets": [0, 14340, 21439],
     "cuts": [[15530, 15772]],
     "torrent": "https://bsufiles.drhx.ru/streams/1828030256,1828157473,1828245817.torrent",
     "games": ["tloz_totk"]
   },
   "1828339885": {
-    "abs_start": "0:00", "abs_end": "1:48:11", "duration": "0:00",
+    "youtube": "DoVWKZ-GEbM", "abs_start": "0:00", "abs_end": "1:47:48", "duration": "1:47:48",
     "name": "PlayStation Showcase #2023",
     "date": "2023-05-25",
-    "direct": "https://bsufiles.drhx.ru/streams/1828339885.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1828339885.torrent",
     "games": ["ps-showcase"]
   }
