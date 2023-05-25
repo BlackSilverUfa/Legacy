@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "tloz_totk", "segment": "1817831979", "name": "The Legend of Zelda: Tears of the Kingdom #1", "start": 0},
       {"id": "tloz_totk", "segment": "1818750640", "name": "The Legend of Zelda: Tears of the Kingdom #2", "start": 0},
       {"id": "tloz_totk", "segment": "1819655760", "name": "The Legend of Zelda: Tears of the Kingdom #3", "start": 0},
       {"id": "single", "segment": "1823827495", "name": "Layers of Fear (демо)", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "outlast-trials", "segment": "1826440973", "name": "The Outlast Trials #1 (соло) / Deppart Prototype / Daymare: 1994 Sandcastle #3", "start": 0},
       {"id": "first-2023", "segment": "1827232465,1827360298,1827371582,1827392675", "name": "Amnesia: The Bunker (демо) / Horror Exp+ / The Outlast Trials #2 (с Куплиновым и Дангаром) / Haunted Horror Stories: Gone With The Wind", "start": 0},
       {"id": "tloz_totk", "segment": "1828030256,1828157473,1828245817", "name": "The Legend of Zelda: Tears of the Kingdom #5", "start": 0},
-      {"id": "ps-showcase", "segment": "1828339885", "name": "PlayStation Showcase #2023", "start": 0}
+      {"id": "ps-showcase", "segment": "1828339885", "name": "PlayStation Showcase #2023", "start": 0},
+      {"id": "first-2023", "segment": "1828848663", "name": "The Lord of the Rings: Gollum / Warhammer 40,000: Boltgun / Planet of Lana", "start": 0}
     ]
   },
   "finished": {
@@ -1158,7 +1158,10 @@
       {"id": "first-2023", "segment": "1812854556", "name": "Dawn of Hell", "start": 2528},
       {"id": "first-2023", "segment": "1827232465,1827360298,1827371582,1827392675", "name": "Amnesia: The Bunker (демо)", "start": 2019},
       {"id": "first-2023", "segment": "1827232465,1827360298,1827371582,1827392675", "name": "Horror Exp+", "start": 7963},
-      {"id": "first-2023", "segment": "1827232465,1827360298,1827371582,1827392675", "name": "Haunted Horror Stories: Gone With The Wind", "start": 15939}
+      {"id": "first-2023", "segment": "1827232465,1827360298,1827371582,1827392675", "name": "Haunted Horror Stories: Gone With The Wind", "start": 15939},
+      {"id": "first-2023", "segment": "1828848663", "name": "The Lord of the Rings: Gollum", "start": 1241},
+      {"id": "first-2023", "segment": "1828848663", "name": "Warhammer 40,000: Boltgun", "start": 7868},
+      {"id": "first-2023", "segment": "1828848663", "name": "Planet of Lana", "start": 11386}
     ]
   },
   "ongoing": {
