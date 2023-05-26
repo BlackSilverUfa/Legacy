@@ -10953,10 +10953,9 @@
     "games": ["ps-showcase"]
   },
   "1828848663": {
-    "abs_start": "0:00", "abs_end": "5:05:04", "duration": "0:00",
+    "youtube": "LmtlJNg5ip4", "abs_start": "0:00", "abs_end": "5:04:47", "duration": "5:04:47",
     "name": "The Lord of the Rings: Gollum / Warhammer 40,000: Boltgun / Planet of Lana",
     "date": "2023-05-25",
-    "direct": "https://bsufiles.drhx.ru/streams/1828848663.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1828848663.torrent",
     "games": ["first-2023"]
   }
