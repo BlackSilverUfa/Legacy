@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "tloz_totk", "segment": "1819655760", "name": "The Legend of Zelda: Tears of the Kingdom #3", "start": 0},
       {"id": "single", "segment": "1823827495", "name": "Layers of Fear (демо)", "start": 0},
       {"id": "nancy-drew-wwoic", "segment": "1824716509", "name": "Nancy Drew: The White Wolf of Icicle Creek (Нэнси Дрю. Белый волк Ледяного ущелья) #2", "start": 0},
       {"id": "tloz_totk", "segment": "1825542254", "name": "The Legend of Zelda: Tears of the Kingdom #4", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "tloz_totk", "segment": "1828030256,1828157473,1828245817", "name": "The Legend of Zelda: Tears of the Kingdom #5", "start": 0},
       {"id": "ps-showcase", "segment": "1828339885", "name": "PlayStation Showcase #2023", "start": 0},
       {"id": "first-2023", "segment": "1828848663", "name": "The Lord of the Rings: Gollum / Warhammer 40,000: Boltgun / Planet of Lana", "start": 0},
-      {"id": "single", "segment": "1830612078", "name": "Alone in the Dark: Prologue / Presences: Dark Awakening (демо) / The Wailer / BloodWaters (Кровавые воды) / The Outlast Trials #3 (с Куплиновым и Дангаром) / Movie Night / Water Wheel / My Eyes Deceive", "start": 0}
+      {"id": "single", "segment": "1830612078", "name": "Alone in the Dark: Prologue / Presences: Dark Awakening (демо) / The Wailer / BloodWaters (Кровавые воды) / The Outlast Trials #3 (с Куплиновым и Дангаром) / Movie Night / Water Wheel / My Eyes Deceive", "start": 0},
+      {"id": "nancy-drew-wwoic", "segment": "1831475865", "name": "Nancy Drew: The White Wolf of Icicle Creek (Нэнси Дрю. Белый волк Ледяного ущелья) #3", "start": 0}
     ]
   },
   "finished": {
@@ -599,6 +599,7 @@
       {"id": "single", "segment": "1812854556", "name": "Amanda the Adventurer", "start": 9852},
       {"id": "single", "segment": "1812854556", "name": "The Pier House - Episode 1", "start": 18308},
       {"id": "single", "segment": "1812854556", "name": "The Witch of Sherdorne Forest", "start": 19035},
+      {"name": "Nancy Drew: The White Wolf of Icicle Creek (Нэнси Дрю. Белый волк Ледяного ущелья)", "id": "nancy-drew-wwoic", "segment": "1813790886"},
       {"id": "single", "segment": "1823827495", "name": "Layers of Fear (демо)", "start": 7910},
       {"id": "single", "segment": "1826440973", "name": "Deppart Prototype", "start": 4288},
       {"id": "single", "segment": "1830612078", "name": "Alone in the Dark: Prologue", "start": 1369},
@@ -1177,7 +1178,6 @@
       {"name": "Survival: Fountain of Youth", "id": "survival-foy", "segment": "1547156682"},
       {"name": "Redfall", "id": "redfall", "segment": "1809409736"},
       {"name": "The Last Case of Benedict Fox", "id": "benedict-fox", "segment": "1809409736"},
-      {"name": "Nancy Drew: The White Wolf of Icicle Creek (Нэнси Дрю. Белый волк Ледяного ущелья)", "id": "nancy-drew-wwoic", "segment": "1813790886"},
       {"name": "The Legend of Zelda: Tears of the Kingdom", "id": "tloz_totk", "segment": "1817831979"}
     ]
   },
