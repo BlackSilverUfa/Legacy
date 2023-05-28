@@ -10051,9 +10051,10 @@
     "games": ["hello-neighbor-2", "ixion"]
   },
   "1674396025": {
-    "youtube": "RdKsS8Wu9kM", "abs_start": "0:00", "abs_end": "4:06:21", "duration": "4:06:21",
+    "abs_start": "0:00", "abs_end": "4:06:31", "duration": "0:00",
     "name": "The Game Awards #2022 (обзор) / Forspoken - Демо",
     "date": "2022-12-09",
+    "direct": "https://bsufiles.drhx.ru/streams/1674396025.mp4",
     "games": ["tga", "forspoken"]
   },
   "1675304239": {

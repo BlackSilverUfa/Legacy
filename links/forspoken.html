@@ -94,9 +94,9 @@
         <i class="fas fa-comments"></i> 17385
       </a>
     </span>
-    <span class="badge badge-success">
-      <a href="https://www.youtube.com/watch?v=RdKsS8Wu9kM" target="_blank">
-        <i class="fab fa-youtube"></i> RdKsS8Wu9kM
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/1674396025.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -173,6 +173,11 @@
     <li><a data-value="9687">2:41:27</a> — Wayfinder</li>
   </ul>
 
+      <li>Проблемы с правообладателями:</li>
+  <ul>
+    <li><a data-value="9596">2:39:56</a> - <a data-value="9653">2:40:53</a> — The Super Mario Bros. Movie (видео)</li>
+  </ul>
+
       <li>Forspoken (демо):</li>
   <ul>
     <li><a data-value="9871">2:44:31</a> — Меню</li>
@@ -187,13 +192,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="0" data-hash="1674396025" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2022@master/v1674396025.ass" data-start="9871" data-name="Демо" data-youtube="RdKsS8Wu9kM" />
+  <p class="stream" data-id="0" data-hash="1674396025" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2022@master/v1674396025.ass" data-start="9871" data-name="Демо" data-direct="https://bsufiles.drhx.ru/streams/1674396025.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2022@master/v1674396025.ass --start=9871 ytdl://RdKsS8Wu9kM
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2022@master/v1674396025.ass --start=9871 https://bsufiles.drhx.ru/streams/1674396025.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2022@master/v1674396025.ass --start=9871" --player-passthrough hls twitch.tv/videos/1674396025 best
 </code></pre>
 </div>
 
