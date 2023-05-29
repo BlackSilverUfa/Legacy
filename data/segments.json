@@ -10974,9 +10974,10 @@
   },
   "1832232698": {
     "abs_start": "0:00", "abs_end": "9:20:20", "duration": "0:00",
-    "name": "The Legend of Zelda: Tears of the Kingdom #6 (не оформлено)",
+    "name": "The Legend of Zelda: Tears of the Kingdom #6",
     "date": "2023-05-29",
     "direct": "https://bsufiles.drhx.ru/streams/1832232698.mp4",
+    "cuts": [[27976, 28019]],
     "torrent": "https://bsufiles.drhx.ru/streams/1832232698.torrent",
     "games": ["tloz_totk"]
   }
