@@ -10647,14 +10647,12 @@
     "youtube": "bzIzidXlWEs", "official": false, "abs_start": "0:00", "abs_end": "6:30:46", "duration": "6:30:46",
     "name": "Кужлёвка #1 / Chivalry 2 #9",
     "date": "2023-04-05",
-    "torrent": "https://bsufiles.drhx.ru/streams/1785306187.torrent",
     "games": ["kujlevka", "chivalry-2"]
   },
   "1786204138": {
     "youtube": "uJsk8rPfBUY", "abs_start": "0:00", "abs_end": "7:31:17", "duration": "7:31:17",
     "name": "Кужлёвка #2 / Eggcelerate! to the Tropics / Wall World / Dredge #2 / Barotrauma #1",
     "date": "2023-04-06",
-    "torrent": "https://bsufiles.drhx.ru/streams/1786204138.torrent",
     "games": ["kujlevka", "first-2023", "dredge", "barotrauma"]
   },
   "1787128234": {
@@ -10973,5 +10971,13 @@
     "direct": "https://bsufiles.drhx.ru/streams/1831475865.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1831475865.torrent",
     "games": ["nancy-drew-wwoic"]
+  },
+  "1832232698": {
+    "abs_start": "0:00", "abs_end": "9:20:20", "duration": "0:00",
+    "name": "The Legend of Zelda: Tears of the Kingdom #6 (не оформлено)",
+    "date": "2023-05-29",
+    "direct": "https://bsufiles.drhx.ru/streams/1832232698.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1832232698.torrent",
+    "games": ["tloz_totk"]
   }
 }
