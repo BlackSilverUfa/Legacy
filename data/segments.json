@@ -7051,9 +7051,9 @@
   },
   "928993182": {
     "youtube": "TUgjIYuIzq0", "abs_start": "0:00", "abs_end": "6:02:45", "duration": "6:02:45",
-    "name": "System Shock (демо) / Outriders #1 (демо) / Breathedge #2",
+    "name": "System Shock - Демо / Outriders #1 (демо) / Breathedge #2",
     "date": "2021-02-26",
-    "games": ["first-2021", "outriders", "breathedge"]
+    "games": ["system-shock", "outriders", "breathedge"]
   },
   "929556422": {
     "youtube": "tTvQHxfvnfg", "abs_start": "0:00", "abs_end": "2:38:45", "duration": "2:38:45",
@@ -10659,7 +10659,6 @@
     "youtube": "ZyG46ukI8NM", "abs_start": "0:00", "abs_end": "6:31:40", "duration": "6:31:40",
     "name": "Road 96: Mile 0",
     "date": "2023-04-07",
-    "torrent": "https://bsufiles.drhx.ru/streams/1787128234.torrent",
     "games": ["single"]
   },
   "1788074071": {
@@ -10978,5 +10977,13 @@
     "cuts": [[27976, 28019]],
     "torrent": "https://bsufiles.drhx.ru/streams/1832232698.torrent",
     "games": ["tloz_totk"]
+  },
+  "1833150878": {
+    "abs_start": "0:00", "abs_end": "5:49:16", "duration": "0:00",
+    "name": "Shame Legacy / System Shock - Релиз",
+    "date": "2023-05-30",
+    "direct": "https://bsufiles.drhx.ru/streams/1833150878.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1833150878.torrent",
+    "games": ["first-2023", "system-shock"]
   }
 }
