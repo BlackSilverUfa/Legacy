@@ -10978,10 +10978,9 @@
     "games": ["tloz_totk"]
   },
   "1833150878": {
-    "abs_start": "0:00", "abs_end": "5:49:16", "duration": "0:00",
+    "youtube": "SWPqHHH6P2c", "abs_start": "0:00", "abs_end": "5:48:55", "duration": "5:48:55",
     "name": "Shame Legacy / System Shock - Релиз",
     "date": "2023-05-30",
-    "direct": "https://bsufiles.drhx.ru/streams/1833150878.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1833150878.torrent",
     "games": ["first-2023", "system-shock"]
   }
