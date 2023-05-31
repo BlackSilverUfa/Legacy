@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "tloz_totk", "segment": "1825542254", "name": "The Legend of Zelda: Tears of the Kingdom #4", "start": 0},
       {"id": "outlast-trials", "segment": "1826440973", "name": "The Outlast Trials #1 (соло) / Deppart Prototype / Daymare: 1994 Sandcastle #3", "start": 0},
       {"id": "first-2023", "segment": "1827232465,1827360298,1827371582,1827392675", "name": "Amnesia: The Bunker (демо) / Horror Exp+ / The Outlast Trials #2 (с Куплиновым и Дангаром) / Haunted Horror Stories: Gone With The Wind", "start": 0},
       {"id": "tloz_totk", "segment": "1828030256,1828157473,1828245817", "name": "The Legend of Zelda: Tears of the Kingdom #5", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "single", "segment": "1830612078", "name": "Alone in the Dark: Prologue / Presences: Dark Awakening (демо) / The Wailer / BloodWaters (Кровавые воды) / The Outlast Trials #3 (с Куплиновым и Дангаром) / Movie Night / Water Wheel / My Eyes Deceive", "start": 0},
       {"id": "nancy-drew-wwoic", "segment": "1831475865", "name": "Nancy Drew: The White Wolf of Icicle Creek (Нэнси Дрю. Белый волк Ледяного ущелья) #3", "start": 0},
       {"id": "tloz_totk", "segment": "1832232698", "name": "The Legend of Zelda: Tears of the Kingdom #6", "start": 0},
-      {"id": "first-2023", "segment": "1833150878", "name": "Shame Legacy / System Shock - Релиз", "start": 0}
+      {"id": "first-2023", "segment": "1833150878", "name": "Shame Legacy / System Shock - Релиз", "start": 0},
+      {"id": "tiny-bunny", "segment": "1833989886,1834110105", "name": "Зайчик (Tiny Bunny) - Эпизод 4 / MyHouse.wad / Stasis: Bone Totem - Релиз", "start": 0}
     ]
   },
   "finished": {
@@ -218,7 +218,6 @@
       {"name": "Demon's Souls Remake", "id": "demons-souls-remake", "segment": "806256296"},
       {"name": "Bugsnax", "id": "bugsnax", "segment": "812974689"},
       {"id": "single", "segment": "820741630", "name": "Boogerman: A Pick and Flick Adventure", "start": 0},
-      {"id": "single", "segment": "828815728", "name": "Stasis: Bone Totem (демо)", "start": 11262},
       {"id": "single", "segment": "828815728", "name": "DARQ: Complete Edition", "start": 17032},
       {"name": "Cyberpunk 2077", "id": "cyberpunk-2077", "segment": "830961978"},
       {"id": "single", "segment": "838158299", "name": "Call of the Sea", "start": 7236},
@@ -605,7 +604,8 @@
       {"id": "single", "segment": "1830612078", "name": "Alone in the Dark: Prologue", "start": 1369},
       {"id": "single", "segment": "1830612078", "name": "Presences: Dark Awakening (демо)", "start": 2700},
       {"id": "single", "segment": "1830612078", "name": "Water Wheel", "start": 15790},
-      {"id": "single", "segment": "1830612078", "name": "My Eyes Deceive", "start": 17248}
+      {"id": "single", "segment": "1830612078", "name": "My Eyes Deceive", "start": 17248},
+      {"id": "single", "segment": "1833989886,1834110105", "name": "MyHouse.wad", "start": 6723}
     ]
   },
   "first": {
@@ -1175,6 +1175,7 @@
   "ongoing": {
     "name": "Активные",
     "games": [
+      {"name": "Stasis: Bone Totem", "id": "stasis-bt", "segment": "828815728"},
       {"name": "System Shock", "id": "system-shock", "segment": "928993182"},
       {"name": "Survival: Fountain of Youth", "id": "survival-foy", "segment": "1547156682"},
       {"name": "Redfall", "id": "redfall", "segment": "1809409736"},
