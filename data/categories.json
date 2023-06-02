@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "first-2023", "segment": "1827232465,1827360298,1827371582,1827392675", "name": "Amnesia: The Bunker (демо) / Horror Exp+ / The Outlast Trials #2 (с Куплиновым и Дангаром) / Haunted Horror Stories: Gone With The Wind", "start": 0},
       {"id": "tloz_totk", "segment": "1828030256,1828157473,1828245817", "name": "The Legend of Zelda: Tears of the Kingdom #5", "start": 0},
       {"id": "ps-showcase", "segment": "1828339885", "name": "PlayStation Showcase #2023", "start": 0},
       {"id": "first-2023", "segment": "1828848663", "name": "The Lord of the Rings: Gollum / Warhammer 40,000: Boltgun / Planet of Lana", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "tloz_totk", "segment": "1832232698", "name": "The Legend of Zelda: Tears of the Kingdom #6", "start": 0},
       {"id": "first-2023", "segment": "1833150878", "name": "Shame Legacy / System Shock - Релиз", "start": 0},
       {"id": "tiny-bunny", "segment": "1833989886,1834110105", "name": "Зайчик (Tiny Bunny) - Эпизод 4 / MyHouse.wad / Stasis: Bone Totem - Релиз", "start": 0},
-      {"id": "tloz_totk", "segment": "1834756368", "name": "The Legend of Zelda: Tears of the Kingdom #7", "start": 0}
+      {"id": "tloz_totk", "segment": "1834756368", "name": "The Legend of Zelda: Tears of the Kingdom #7", "start": 0},
+      {"id": "first-2023", "segment": "1835656508", "name": "Killer Frequency / Diablo IV #1 (4D)", "start": 0}
     ]
   },
   "finished": {
@@ -1147,7 +1147,6 @@
       {"id": "first-2023", "segment": "1763033004", "name": "Anemoiapolis", "start": 11766},
       {"id": "first-2023", "segment": "1767632642", "name": "Diablo II: Resurrected", "start": 1819},
       {"id": "first-2023", "segment": "1767632642", "name": "Diablo III", "start": 5823},
-      {"id": "first-2023", "segment": "1767632642", "name": "Diablo IV", "start": 10991},
       {"id": "first-2023", "segment": "1778016938", "name": "Polaris Outpost (демо)", "start": 6995},
       {"id": "first-2023", "segment": "1778887686", "name": "Apocalyptic Vibes", "start": 12052},
       {"id": "first-2023", "segment": "1782635771", "name": "Reclusive", "start": 1569},
@@ -1169,7 +1168,8 @@
       {"id": "first-2023", "segment": "1830612078", "name": "The Wailer", "start": 4364},
       {"id": "first-2023", "segment": "1830612078", "name": "BloodWaters (Кровавые воды)", "start": 5862},
       {"id": "first-2023", "segment": "1830612078", "name": "Movie Night", "start": 15052},
-      {"id": "first-2023", "segment": "1833150878", "name": "Shame Legacy", "start": 1727}
+      {"id": "first-2023", "segment": "1833150878", "name": "Shame Legacy", "start": 1727},
+      {"id": "first-2023", "segment": "1835656508", "name": "Killer Frequency", "start": 1443}
     ]
   },
   "ongoing": {
@@ -1178,7 +1178,6 @@
       {"name": "Stasis: Bone Totem", "id": "stasis-bt", "segment": "828815728"},
       {"name": "System Shock", "id": "system-shock", "segment": "928993182"},
       {"name": "Survival: Fountain of Youth", "id": "survival-foy", "segment": "1547156682"},
-      {"name": "Redfall", "id": "redfall", "segment": "1809409736"},
       {"name": "The Last Case of Benedict Fox", "id": "benedict-fox", "segment": "1809409736"},
       {"name": "The Legend of Zelda: Tears of the Kingdom", "id": "tloz_totk", "segment": "1817831979"}
     ]
@@ -1373,7 +1372,8 @@
       {"name": "Sleep Paralysis: The Uncanny Valley", "id": "sleep-paralysis", "segment": "1686763712"},
       {"name": "FAITH", "id": "faith", "segment": "1687663796"},
       {"id": "trash-horror-2", "segment": "1728992336", "name": "Poop Killer 6", "start": 10202},
-      {"name": "Hogwarts Legacy", "id": "hogwarts", "segment": "1729899835"}
+      {"name": "Hogwarts Legacy", "id": "hogwarts", "segment": "1729899835"},
+      {"name": "Redfall", "id": "redfall", "segment": "1809409736"}
     ]
   },
   "co-op": {
@@ -1583,6 +1583,7 @@
       {"name": "Escape Memoirs: Mini Stories", "id": "escape-memoirs", "segment": "1618459269"},
       {"id": "co-op", "segment": "1623036890", "name": "Overwatch 2", "start": 3251},
       {"id": "co-op", "segment": "1624846104", "name": "Ghostbusters: Spirits Unleashed", "start": 16061},
+      {"name": "Diablo IV", "id": "diablo-4", "segment": "1767632642"},
       {"name": "Demonologist", "id": "demonologist", "segment": "1777132427"},
       {"name": "Crime Boss: Rockay City", "id": "crime-boss-4d", "segment": "1778016938"},
       {"id": "co-op", "segment": "1804882802", "name": "Inout", "start": 7486},
