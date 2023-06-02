@@ -11005,10 +11005,9 @@
     "games": ["tiny-bunny", "single", "stasis-bt"]
   },
   "1834756368": {
-    "abs_start": "0:00", "abs_end": "9:03:38", "duration": "0:00",
+    "youtube": "d6rc6LING2w", "abs_start": "0:00", "abs_end": "9:03:02", "duration": "9:02:07",
     "name": "The Legend of Zelda: Tears of the Kingdom #7",
     "date": "2023-06-01",
-    "direct": "https://bsufiles.drhx.ru/streams/1834756368.mp4",
     "cuts": [[27932, 27987]],
     "torrent": "https://bsufiles.drhx.ru/streams/1834756368.torrent",
     "games": ["tloz_totk"]
