@@ -9227,7 +9227,7 @@
     "youtube": "5THZtDba5Tk", "abs_start": "0:00", "abs_end": "5:21:46", "duration": "5:21:46",
     "name": "The Clown's Fun / Under / New Testament (демо) / Arachnophobia / Ouija Rumours / Shadowbringer / Lilith's Curse 1984 (демо) / Puppetmaker / Our Lady of Sorrow / The Abyss Has Walls / Film Morbid / The Heilwald Loophole #2",
     "date": "2022-05-01",
-    "games": ["trash-horror", "first-2022", "single", "heilwald"]
+    "games": ["616-games", "first-2022", "single", "heilwald"]
   },
   "1494292107": {
     "youtube": "a_UUKe7ncQQ", "abs_start": "0:00", "abs_end": "6:00:53", "duration": "6:00:53",
@@ -9491,7 +9491,7 @@
     "youtube": "u4fVjhYxqWU", "abs_start": "0:00", "abs_end": "6:04:15", "duration": "6:04:15",
     "name": "The Pale (демо) / Auver / Control Room Alpha / Cain / Life Beyond / After Midnight / Enter & Survey / Our Lady of the Drowned Lake / Satan's Baby Doll / Good Boy / Stroll Prototype / Hausmeister / One Last Breath (демо) / Iron Lung #1",
     "date": "2022-07-31",
-    "games": ["single", "trash-horror", "first-2022", "iron-lung"]
+    "games": ["single", "616-games", "first-2022", "iron-lung"]
   },
   "1550107736": {
     "youtube": "uBrd76US5dA", "official": false, "abs_start": "0:00", "abs_end": "5:03:57", "duration": "5:03:57",
@@ -9515,7 +9515,7 @@
     "youtube": "JEgx4IhC8aE", "abs_start": "0:00", "abs_end": "6:24:09", "duration": "6:24:09",
     "name": "Divine Frequency / Ghost Watchers #2 (с Куплиновым и Дангаром) / Chimpy Chippa's: The Game / Asleep (демо) / The Apartment / Signal (демо) / The Island Mystery / Endless Days",
     "date": "2022-08-07",
-    "games": ["first-2022", "ghost-watchers", "single", "trash-horror"]
+    "games": ["first-2022", "ghost-watchers", "single", "616-games"]
   },
   "1555820842": {
     "youtube": "gJ_J2O3moXg", "abs_start": "0:00", "abs_end": "7:13:59", "duration": "7:13:59",
@@ -9702,7 +9702,7 @@
     "youtube": "8wpWgFt5cN0", "abs_start": "0:00", "abs_end": "4:22:00", "duration": "4:22:00",
     "name": "MOLD / Poop Killer / Poop Killer 2 / Poop Killer 3 / The Elevator / Night Revenge / Thursday the 12th / We Are Not Alone / The House of Rats",
     "date": "2022-09-20",
-    "games": ["trash-horror", "trash-horror-2"]
+    "games": ["616-games", "616-games"]
   },
   "1598875892": {
     "youtube": "ALEujDzY9OA", "abs_start": "0:00", "abs_end": "7:39:11", "duration": "7:39:11",
@@ -9721,7 +9721,7 @@
     "youtube": "RJd4UBU6yCg", "abs_start": "0:00", "abs_end": "5:08:11", "duration": "5:08:11",
     "name": "The Fridge Is Red - Прохождение / Poop Killer 4",
     "date": "2022-09-28",
-    "games": ["red-bridge", "trash-horror-2"]
+    "games": ["red-bridge", "616-games"]
   },
   "1604386613": {
     "youtube": "Uc5sW9srWzI", "abs_start": "0:00", "abs_end": "4:24:15", "duration": "4:24:15",
@@ -9878,7 +9878,7 @@
     "date": "2022-11-03",
     "offsets": [0, 10902],
     "cuts": [[681, 709], [817, 840], [7654, 7761]],
-    "games": ["single", "trash-horror-2", "first-2022", "blood-west"]
+    "games": ["single", "616-games", "first-2022", "blood-west"]
   },
   "1643172831": {
     "youtube": "5EtrZ3Ei26I", "abs_start": "0:00", "abs_end": "7:49:27", "duration": "7:49:27",
@@ -9988,7 +9988,7 @@
     "youtube": "vCJc61QOklc", "abs_start": "0:00", "abs_end": "5:59:37", "duration": "5:59:37",
     "name": "Help Me! (демо) / The House / Oakwood / Night Signal / Countryside 1999 / Something Nefarious Below / Heartworm / Poop Killer 5",
     "date": "2022-11-26",
-    "games": ["single", "first-2022", "trash-horror-2"]
+    "games": ["single", "first-2022", "616-games"]
   },
   "1664055210": {
     "youtube": "SDLw_0KdGSI", "abs_start": "0:00", "abs_end": "6:05:51", "duration": "6:05:51",
@@ -10340,7 +10340,7 @@
     "youtube": "ZdLty-coTys", "abs_start": "0:00", "abs_end": "5:54:53", "duration": "5:54:53",
     "name": "Chilla's Art Complete Pack - The Karaoke / Interior Worlds (демо) / Holstin (демо) / Poop Killer 6 / In The Mountains / Project Code: Dark (демо) / Cannibal Abduction / Dias Felices",
     "date": "2023-02-05",
-    "games": ["single", "first-2023", "trash-horror-2"]
+    "games": ["single", "first-2023", "616-games"]
   },
   "1729899835": {
     "youtube": "D51vro2KMd4", "abs_start": "0:00", "abs_end": "8:23:21", "duration": "8:22:51",
@@ -11024,6 +11024,6 @@
     "direct": "https://bsufiles.drhx.ru/streams/1837484119.mp4",
     "cuts": [[20668, 20725]],
     "torrent": "https://bsufiles.drhx.ru/streams/1837484119.torrent",
-    "games": ["single", "first-2023"]
+    "games": ["single", "616-games", "first-2023"]
   }
 }
