@@ -570,7 +570,6 @@
       {"name": "Dead Island 2", "id": "dead-island-2", "segment": "1798664242"},
       {"id": "single", "segment": "1803169573", "name": "The Microwave Paradox", "start": 4163},
       {"id": "single", "segment": "1803169573", "name": "[Subject]", "start": 5078},
-      {"id": "single", "segment": "1803169573", "name": "Evil is Back", "start": 7677},
       {"id": "single", "segment": "1803169573", "name": "The Wish Machine (Машина желаний)", "start": 11897},
       {"id": "single", "segment": "1803169573", "name": "Lost Alone: Ultimate - The Day Before (демо)", "start": 15975},
       {"name": "Future Racer 2000", "id": "fr-2000", "segment": "1803169573"},
@@ -1244,12 +1243,13 @@
       {"id": "616-games", "segment": "1596223040", "name": "The House of Rats", "start": 13670},
       {"id": "616-games", "segment": "1603602197", "name": "Poop Killer 4", "start": 16874},
       {"name": "Warhammer 40,000: Darktide", "id": "darktide", "segment": "1624846104"},
-      {"id": "616-games", "segment": "1642266888,1642407202", "name": "Poop Killer: Origins", "start": 5301},
+      {"id": "616-games", "segment": "1642266888,1642407202", "name": "Poop Killer Origins", "start": 5301},
       {"id": "616-games", "segment": "1642266888,1642407202", "name": "Legend Hunters", "start": 9288},
       {"id": "616-games", "segment": "1663155573", "name": "Poop Killer 5", "start": 18375},
       {"name": "Deathwatch", "id": "deathwatch", "segment": "1682351697"},
       {"id": "616-games", "segment": "1728992336", "name": "Poop Killer 6", "start": 10202},
       {"name": "Confabulation", "id": "confabulation", "segment": "1789025191"},
+      {"id": "616-games", "segment": "1803169573", "name": "Evil is Back", "start": 7677},
       {"id": "616-games", "segment": "1837484119", "name": "Poop Killer 7", "start": 10623}
     ]
   },
