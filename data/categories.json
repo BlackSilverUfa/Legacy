@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "ps-showcase", "segment": "1828339885", "name": "PlayStation Showcase #2023", "start": 0},
       {"id": "first-2023", "segment": "1828848663", "name": "The Lord of the Rings: Gollum / Warhammer 40,000: Boltgun / Planet of Lana", "start": 0},
       {"id": "single", "segment": "1830612078", "name": "Alone in the Dark: Prologue / Presences: Dark Awakening (демо) / The Wailer / BloodWaters (Кровавые воды) / The Outlast Trials #3 (с Куплиновым и Дангаром) / Movie Night / Water Wheel / My Eyes Deceive", "start": 0},
       {"id": "nancy-drew-wwoic", "segment": "1831475865", "name": "Nancy Drew: The White Wolf of Icicle Creek (Нэнси Дрю. Белый волк Ледяного ущелья) #3", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "tiny-bunny", "segment": "1833989886,1834110105", "name": "Зайчик (Tiny Bunny) - Эпизод 4 / MyHouse.wad / Stasis: Bone Totem - Релиз", "start": 0},
       {"id": "tloz_totk", "segment": "1834756368", "name": "The Legend of Zelda: Tears of the Kingdom #7", "start": 0},
       {"id": "first-2023", "segment": "1835656508", "name": "Killer Frequency / Diablo IV #1 (4D)", "start": 0},
-      {"id": "single", "segment": "1837484119", "name": "CANINE / Sinking Iron / Last Night / Eerie Enigma / Poop Killer 7 / The Nefarious / The Tartarus Key / There is Something in the Anderghast Mine", "start": 0}
+      {"id": "single", "segment": "1837484119", "name": "CANINE / Sinking Iron / Last Night / Eerie Enigma / Poop Killer 7 / The Nefarious / The Tartarus Key / There is Something in the Anderghast Mine", "start": 0},
+      {"id": "amnesia-bunker", "segment": "1838317678", "name": "Amnesia: The Bunker #1", "start": 0}
     ]
   },
   "finished": {
@@ -1172,7 +1172,6 @@
       {"id": "first-2023", "segment": "1811995960", "name": "Frozen Shelter", "start": 9939},
       {"id": "first-2023", "segment": "1811995960", "name": "Rewind or Die", "start": 12326},
       {"id": "first-2023", "segment": "1812854556", "name": "Dawn of Hell", "start": 2528},
-      {"id": "first-2023", "segment": "1827232465,1827360298,1827371582,1827392675", "name": "Amnesia: The Bunker (демо)", "start": 2019},
       {"id": "first-2023", "segment": "1827232465,1827360298,1827371582,1827392675", "name": "Horror Exp+", "start": 7963},
       {"id": "first-2023", "segment": "1827232465,1827360298,1827371582,1827392675", "name": "Haunted Horror Stories: Gone With The Wind", "start": 15939},
       {"id": "first-2023", "segment": "1828848663", "name": "The Lord of the Rings: Gollum", "start": 1241},
@@ -1194,7 +1193,8 @@
       {"name": "System Shock", "id": "system-shock", "segment": "928993182"},
       {"name": "Survival: Fountain of Youth", "id": "survival-foy", "segment": "1547156682"},
       {"name": "The Last Case of Benedict Fox", "id": "benedict-fox", "segment": "1809409736"},
-      {"name": "The Legend of Zelda: Tears of the Kingdom", "id": "tloz_totk", "segment": "1817831979"}
+      {"name": "The Legend of Zelda: Tears of the Kingdom", "id": "tloz_totk", "segment": "1817831979"},
+      {"name": "Amnesia: The Bunker", "id": "amnesia-bunker", "segment": "1827232465,1827360298,1827371582,1827392675"}
     ]
   },
   "infinite": {
