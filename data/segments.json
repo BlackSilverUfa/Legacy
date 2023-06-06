@@ -11026,10 +11026,9 @@
     "games": ["single", "616-games", "first-2023"]
   },
   "1838317678": {
-    "abs_start": "0:00", "abs_end": "7:33:29", "duration": "0:00",
+    "youtube": "NGtEKt2rqQY", "abs_start": "0:00", "abs_end": "7:33:25", "duration": "7:33:25",
     "name": "Amnesia: The Bunker #1",
     "date": "2023-06-05",
-    "direct": "https://bsufiles.drhx.ru/streams/1838317678.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1838317678.torrent",
     "games": ["amnesia-bunker"]
   }
