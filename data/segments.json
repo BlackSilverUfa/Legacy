@@ -10708,7 +10708,6 @@
     "name": "Dead Island 2 #3",
     "date": "2023-04-22",
     "cuts": [[15437, 15478]],
-    "torrent": "https://bsufiles.drhx.ru/streams/1800438364.torrent",
     "games": ["dead-island-2"]
   },
   "1803169573": {
@@ -11032,10 +11031,9 @@
     "games": ["amnesia-bunker"]
   },
   "1839110969": {
-    "abs_start": "0:00", "abs_end": "7:31:43", "duration": "0:00",
+    "youtube": "8loiBU4M3SA", "abs_start": "0:00", "abs_end": "7:31:38", "duration": "7:31:38",
     "name": "The Legend of Zelda: Tears of the Kingdom #8 / Amnesia: The Bunker #2",
     "date": "2023-06-06",
-    "direct": "https://bsufiles.drhx.ru/streams/1839110969.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1839110969.torrent",
     "games": ["tloz_totk", "amnesia-bunker"]
   }
