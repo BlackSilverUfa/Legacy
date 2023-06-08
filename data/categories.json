@@ -1192,8 +1192,6 @@
     "games": [
       {"name": "Stasis: Bone Totem", "id": "stasis-bt", "segment": "828815728"},
       {"name": "System Shock", "id": "system-shock", "segment": "928993182"},
-      {"name": "Survival: Fountain of Youth", "id": "survival-foy", "segment": "1547156682"},
-      {"name": "The Last Case of Benedict Fox", "id": "benedict-fox", "segment": "1809409736"},
       {"name": "The Legend of Zelda: Tears of the Kingdom", "id": "tloz_totk", "segment": "1817831979"}
     ]
   },
@@ -1373,6 +1371,7 @@
       {"name": "Cult of the Lamb", "id": "cult-ot-lamb", "segment": "1502569152"},
       {"name": "Barbie: Explorer", "id": "barbie-explorer", "segment": "1522102243"},
       {"name": "Peepo Island", "id": "peepo-island", "segment": "1542254440"},
+      {"name": "Survival: Fountain of Youth", "id": "survival-foy", "segment": "1547156682"},
       {"name": "Yakuza 0", "id": "yakuza-0", "segment": "1598875892"},
       {"name": "Unusual Findings", "id": "unusual-findings", "segment": "1618459269"},
       {"name": "Dredge", "id": "dredge", "segment": "1618459269"},
@@ -1381,7 +1380,8 @@
       {"name": "Sleep Paralysis: The Uncanny Valley", "id": "sleep-paralysis", "segment": "1686763712"},
       {"name": "FAITH", "id": "faith", "segment": "1687663796"},
       {"name": "Hogwarts Legacy", "id": "hogwarts", "segment": "1729899835"},
-      {"name": "Redfall", "id": "redfall", "segment": "1809409736"}
+      {"name": "Redfall", "id": "redfall", "segment": "1809409736"},
+      {"name": "The Last Case of Benedict Fox", "id": "benedict-fox", "segment": "1809409736"}
     ]
   },
   "co-op": {
