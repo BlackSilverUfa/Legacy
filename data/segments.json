@@ -10715,7 +10715,6 @@
     "name": "The Microwave Paradox / [Subject] / Evil is Back / The Wish Machine (Машина желаний) / Dead Space Demake / Lost Alone: Ultimate - The Day Before (демо) / Future Racer 2000 #1",
     "date": "2023-04-25",
     "cuts": [[4555, 4528]],
-    "torrent": "https://bsufiles.drhx.ru/streams/1803169573.torrent",
     "games": ["single", "616-games", "first-2023", "fr-2000"]
   },
   "1804032922": {
@@ -11039,10 +11038,19 @@
   },
   "1841766037": {
     "abs_start": "0:00", "abs_end": "6:06:20", "duration": "0:00",
-    "name": "Summer Game Fest 2023 (обзор) / Devolver Direct 2023 / Greyhill Incident",
+    "name": "Summer Game Fest 2023 - Открытие (обзор) / Summer Game Fest 2023 - Devolver Direct (соло) / Greyhill Incident",
     "date": "2023-06-09",
     "direct": "https://bsufiles.drhx.ru/streams/1841766037.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1841766037.torrent",
-    "games": ["expos", "single"]
+    "games": ["sgf-23", "single"]
+  },
+  "1842665393": {
+    "abs_start": "0:00", "abs_end": "5:49:13", "duration": "0:00",
+    "name": "Lies of P (демо) / Summer Game Fest 2023 - Wholesome Direct / Summer Game Fest 2023 - Future Games Show",
+    "date": "2023-06-10",
+    "direct": "https://bsufiles.drhx.ru/streams/1842665393.mp4",
+    "cuts": [[17325, 17366]],
+    "torrent": "https://bsufiles.drhx.ru/streams/1842665393.torrent",
+    "games": ["first-2023", "sgf-23"]
   }
 }
