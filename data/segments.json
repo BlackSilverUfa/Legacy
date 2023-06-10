@@ -5110,10 +5110,9 @@
     "games": ["dead-space"]
   },
   "538458255": {
-    "abs_start": "0:00", "abs_end": "5:42:12", "duration": "0:00",
+    "youtube": "M9_D7ZAwDsQ", "official": false, "abs_start": "0:00", "abs_end": "5:42:08", "duration": "5:42:08",
     "name": "Grand Theft Auto: San Andreas #5 / Grand Theft Auto Online: Crazy LS #6",
     "date": "2020-01-19",
-    "direct": "https://bsufiles.drhx.ru/streams/538458255.mp4",
     "games": ["gta-san-andreas", "crazy-ls"]
   },
   "542106142": {
