@@ -162,9 +162,9 @@
         <i class="fas fa-comments"></i> 15082
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=01iB1puXaMo" target="_blank">
-        <i class="fab fa-youtube"></i> 01iB1puXaMo
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/547176657.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -198,6 +198,7 @@
   <ul>
     <li><a data-value="2357">39:17</a> - <a data-value="2379">39:39</a> — Elvis Presley - New Orleans</li>
     <li><a data-value="3498">58:18</a> - <a data-value="3575">59:35</a> — America - A Horse with No Name</li>
+    <li><a data-value="4743">1:19:03</a> - <a data-value="4827">1:20:27</a> — Soul II Soul, Caron Wheeler - Keep On Movin'</li>
     <li><a data-value="6678">1:51:18</a> - <a data-value="6773">1:52:53</a> — Conway Twitty, Loretta Lynn - Louisiana Woman, Mississippi Man (Single Version)</li>
     <li><a data-value="7190">1:59:50</a> - <a data-value="7402">2:03:22</a> — Toto - Hold the Line</li>
     <li><a data-value="7792">2:09:52</a> - <a data-value="7976">2:12:56</a> — Eddie Money - Two Tickets To Paradise</li>
@@ -223,13 +224,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="1" data-hash="547176657" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v547176657.ass" data-start="10377" data-name="1 (с Triplewipe)" data-youtube="01iB1puXaMo" />
+  <p class="stream" data-id="1" data-hash="547176657" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v547176657.ass" data-start="10377" data-name="1 (с Triplewipe)" data-direct="https://bsufiles.drhx.ru/streams/547176657.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v547176657.ass --start=10377 ytdl://01iB1puXaMo
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v547176657.ass --start=10377 https://bsufiles.drhx.ru/streams/547176657.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2020@master/v547176657.ass --start=10377" --player-passthrough hls twitch.tv/videos/547176657 best
 </code></pre>
 </div>
 
