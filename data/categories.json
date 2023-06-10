@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "single", "segment": "1830612078", "name": "Alone in the Dark: Prologue / Presences: Dark Awakening (демо) / The Wailer / BloodWaters (Кровавые воды) / The Outlast Trials #3 (с Куплиновым и Дангаром) / Movie Night / Water Wheel / My Eyes Deceive", "start": 0},
       {"id": "nancy-drew-wwoic", "segment": "1831475865", "name": "Nancy Drew: The White Wolf of Icicle Creek (Нэнси Дрю. Белый волк Ледяного ущелья) #3", "start": 0},
       {"id": "tloz_totk", "segment": "1832232698", "name": "The Legend of Zelda: Tears of the Kingdom #6", "start": 0},
       {"id": "first-2023", "segment": "1833150878", "name": "Shame Legacy / System Shock - Релиз", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "first-2023", "segment": "1835656508", "name": "Killer Frequency / Diablo IV #1 (4D)", "start": 0},
       {"id": "single", "segment": "1837484119", "name": "CANINE / Sinking Iron / Last Night / Eerie Enigma / Poop Killer 7 / The Nefarious / The Tartarus Key / There is Something in the Anderghast Mine", "start": 0},
       {"id": "amnesia-bunker", "segment": "1838317678", "name": "Amnesia: The Bunker #1", "start": 0},
-      {"id": "tloz_totk", "segment": "1839110969", "name": "The Legend of Zelda: Tears of the Kingdom #8 / Amnesia: The Bunker #2", "start": 0}
+      {"id": "tloz_totk", "segment": "1839110969", "name": "The Legend of Zelda: Tears of the Kingdom #8 / Amnesia: The Bunker #2", "start": 0},
+      {"id": "expos", "segment": "1841766037", "name": "Summer Game Fest 2023 (обзор) / Devolver Direct 2023 / Greyhill Incident", "start": 0}
     ]
   },
   "finished": {
@@ -619,7 +619,8 @@
       {"id": "single", "segment": "1837484119", "name": "Last Night", "start": 7523},
       {"id": "single", "segment": "1837484119", "name": "Eerie Enigma", "start": 8797},
       {"id": "single", "segment": "1837484119", "name": "The Nefarious", "start": 12865},
-      {"id": "616-games", "segment": "1837484119", "name": "Poop Killer 7", "start": 10623}
+      {"id": "616-games", "segment": "1837484119", "name": "Poop Killer 7", "start": 10623},
+      {"id": "single", "segment": "1841766037", "name": "Greyhill Incident", "start": 8136}
     ]
   },
   "first": {
@@ -1660,7 +1661,10 @@
       {"name": "Gamescom 2021", "id": "gamescom-21", "segment": "1127979772"},
       {"id": "expos", "segment": "1134934289", "name": "Dead Space Remake Dev Stream", "start": 14246},
       {"name": "PlayStation Showcase", "id": "ps-showcase", "segment": "1143525237"},
-      {"name": "Summer Game Fest 2022", "id": "sgf-22", "segment": "1494292107"}
+      {"name": "Summer Game Fest 2022", "id": "sgf-22", "segment": "1494292107"},
+      {"id": "expos", "segment": "1841766037", "name": "Summer Game Fest 2023 (обзор)", "start": 1151},
+      {"id": "expos", "segment": "1841766037", "name": "Devolver Direct 2023", "start": 5037},
+      {"id": "expos", "segment": "1841766037", "name": "Summer Game Fest 2023 (обзор, продолжение)", "start": 6459}
     ]
   },
   "unboxing": {
