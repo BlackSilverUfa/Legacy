@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "tloz_totk", "segment": "1832232698", "name": "The Legend of Zelda: Tears of the Kingdom #6", "start": 0},
       {"id": "first-2023", "segment": "1833150878", "name": "Shame Legacy / System Shock - Релиз", "start": 0},
       {"id": "tiny-bunny", "segment": "1833989886,1834110105", "name": "Зайчик (Tiny Bunny) - Эпизод 4 / MyHouse.wad / Stasis: Bone Totem - Релиз", "start": 0},
       {"id": "tloz_totk", "segment": "1834756368", "name": "The Legend of Zelda: Tears of the Kingdom #7", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "amnesia-bunker", "segment": "1838317678", "name": "Amnesia: The Bunker #1", "start": 0},
       {"id": "tloz_totk", "segment": "1839110969", "name": "The Legend of Zelda: Tears of the Kingdom #8 / Amnesia: The Bunker #2", "start": 0},
       {"id": "sgf-23", "segment": "1841766037", "name": "Summer Game Fest 2023 - Открытие (обзор) / Summer Game Fest 2023 - Devolver Direct (соло) / Greyhill Incident", "start": 0},
-      {"id": "first-2023", "segment": "1842665393", "name": "Lies of P (демо) / Summer Game Fest 2023 - Wholesome Direct / Summer Game Fest 2023 - Future Games Show", "start": 0}
+      {"id": "first-2023", "segment": "1842665393", "name": "Lies of P (демо) / Summer Game Fest 2023 - Wholesome Direct / Summer Game Fest 2023 - Future Games Show", "start": 0},
+      {"id": "single", "segment": "1843524831", "name": "The Book Walker: Thief of Tales (демо) / En Garde! (демо) / Sludge Life 2 (демо) / World's Worst Handyman (демо) / Wizard With a Gun (демо) / Summer Game Fest 2023 - Xbox Games Showcase / Summer Game Fest 2023 - Starfield Direct", "start": 0}
     ]
   },
   "finished": {
@@ -620,7 +620,10 @@
       {"id": "single", "segment": "1837484119", "name": "Eerie Enigma", "start": 8797},
       {"id": "single", "segment": "1837484119", "name": "The Nefarious", "start": 12865},
       {"id": "616-games", "segment": "1837484119", "name": "Poop Killer 7", "start": 10623},
-      {"id": "single", "segment": "1841766037", "name": "Greyhill Incident", "start": 8136}
+      {"id": "single", "segment": "1841766037", "name": "Greyhill Incident", "start": 8136},
+      {"id": "single", "segment": "1843524831", "name": "The Book Walker: Thief of Tales (демо)", "start": 1787},
+      {"id": "single", "segment": "1843524831", "name": "En Garde! (демо)", "start": 7362},
+      {"id": "single", "segment": "1843524831", "name": "Sludge Life 2 (демо)", "start": 10287}
     ]
   },
   "first": {
@@ -1186,7 +1189,9 @@
       {"id": "first-2023", "segment": "1835656508", "name": "Killer Frequency", "start": 1443},
       {"id": "first-2023", "segment": "1837484119", "name": "The Tartarus Key", "start": 15505},
       {"id": "first-2023", "segment": "1837484119", "name": "There is Something in the Anderghast Mine", "start": 17066},
-      {"id": "first-2023", "segment": "1842665393", "name": "Lies of P (демо)", "start": 1556}
+      {"id": "first-2023", "segment": "1842665393", "name": "Lies of P (демо)", "start": 1556},
+      {"id": "first-2023", "segment": "1843524831", "name": "World's Worst Handyman (демо)", "start": 11814},
+      {"id": "first-2023", "segment": "1843524831", "name": "Wizard With a Gun (демо)", "start": 12903}
     ]
   },
   "ongoing": {
