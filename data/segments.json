@@ -5165,10 +5165,9 @@
     "games": ["dead-space-2"]
   },
   "547176657": {
-    "abs_start": "0:00", "abs_end": "6:08:43", "duration": "0:00",
+    "youtube": "zZjQyNfpn6w", "official": false, "abs_start": "0:00", "abs_end": "6:08:14", "duration": "6:08:14",
     "name": "Grand Theft Auto: San Andreas #7 / Destiny 2 #1 (с Triplewipe)",
     "date": "2020-02-05",
-    "direct": "https://bsufiles.drhx.ru/streams/547176657.mp4",
     "games": ["gta-san-andreas", "destiny-2"]
   },
   "548170121": {
