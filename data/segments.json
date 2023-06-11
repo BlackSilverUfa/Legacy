@@ -576,7 +576,7 @@
     "games": ["mafia-3"]
   },
   "001610100": {
-    "abs_start": "0:00", "abs_end": "0:00", "duration": "0:00",
+    "youtube": "aMzB3OqCJg4", "official": false, "abs_start": "0:00", "abs_end": "3:22:37", "duration": "3:22:37",
     "name": "Mafia III #2",
     "date": "2016-10-10",
     "games": ["mafia-3"]
@@ -4779,7 +4779,7 @@
     "games": ["mafia-2", "outlast-2"]
   },
   "502940448": {
-    "abs_start": "0:00", "abs_end": "5:14:28", "duration": "0:00",
+    "youtube": "CKJFAXtqNYw", "official": false, "abs_start": "0:00", "abs_end": "5:13:53", "duration": "5:13:53",
     "name": "BlizzCon 2019 (обзор) / Nioh 2 - Бета / Mafia II #2",
     "date": "2019-11-02",
     "games": ["expos", "nioh-2", "mafia-2"]
@@ -5061,9 +5061,10 @@
     "games": ["life-is-strange-2"]
   },
   "533269694": {
-    "youtube": "MYwizAqcdtw", "official": false, "abs_start": "0:00", "abs_end": "5:59:47", "duration": "5:59:47",
+    "abs_start": "0:00", "abs_end": "5:59:58", "duration": "0:00",
     "name": "Grand Theft Auto: San Andreas #1",
     "date": "2020-01-09",
+    "direct": "https://bsufiles.drhx.ru/streams/533269694.mp4",
     "games": ["gta-san-andreas"]
   },
   "533755753": {
@@ -6243,6 +6244,7 @@
     "abs_start": "0:00", "abs_end": "6:52:10", "duration": "0:00",
     "name": "Mafia: City of Lost Heaven #2 / Mafia: Definitive Edition #1",
     "date": "2020-09-24",
+    "direct": "https://bsufiles.drhx.ru/streams/750578050.mp4",
     "games": ["mafia", "mafia-de"]
   },
   "751534901": {
@@ -10720,7 +10722,6 @@
     "youtube": "aoeu9stx0MQ", "abs_start": "0:00", "abs_end": "5:41:01", "duration": "5:41:01",
     "name": "The Gap / Future Racer 2000 #2 / Family Curse / The Arrowhead Incident / 911: Cannibal",
     "date": "2023-04-26",
-    "torrent": "https://bsufiles.drhx.ru/streams/1804032922.torrent",
     "games": ["single", "fr-2000"]
   },
   "1804882802": {
