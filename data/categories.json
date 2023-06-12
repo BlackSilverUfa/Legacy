@@ -3,16 +3,16 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "first-2023", "segment": "1833150878", "name": "Shame Legacy / System Shock - Релиз", "start": 0},
       {"id": "tiny-bunny", "segment": "1833989886,1834110105", "name": "Зайчик (Tiny Bunny) - Эпизод 4 / MyHouse.wad / Stasis: Bone Totem - Релиз", "start": 0},
       {"id": "tloz_totk", "segment": "1834756368", "name": "The Legend of Zelda: Tears of the Kingdom #7", "start": 0},
       {"id": "first-2023", "segment": "1835656508", "name": "Killer Frequency / Diablo IV #1 (4D)", "start": 0},
       {"id": "single", "segment": "1837484119", "name": "CANINE / Sinking Iron / Last Night / Eerie Enigma / Poop Killer 7 / The Nefarious / The Tartarus Key / There is Something in the Anderghast Mine", "start": 0},
       {"id": "amnesia-bunker", "segment": "1838317678", "name": "Amnesia: The Bunker #1", "start": 0},
       {"id": "tloz_totk", "segment": "1839110969", "name": "The Legend of Zelda: Tears of the Kingdom #8 / Amnesia: The Bunker #2", "start": 0},
-      {"id": "sgf-23", "segment": "1841766037", "name": "Summer Game Fest 2023 - Открытие (обзор) / Summer Game Fest 2023 - Devolver Direct (соло) / Greyhill Incident", "start": 0},
-      {"id": "first-2023", "segment": "1842665393", "name": "Lies of P (демо) / Summer Game Fest 2023 - Wholesome Direct / Summer Game Fest 2023 - Future Games Show", "start": 0},
-      {"id": "single", "segment": "1843524831", "name": "The Book Walker: Thief of Tales (демо) / En Garde! (демо) / Sludge Life 2 (демо) / World's Worst Handyman (демо) / Wizard With a Gun (демо) / Summer Game Fest 2023 - Xbox Games Showcase / Summer Game Fest 2023 - Starfield Direct", "start": 0}
+      {"id": "e3-2023", "segment": "1841766037", "name": "неПрофессиональный \"E3\" 2023 - Summer Game Fest (обзор) / неПрофессиональный \"E3\" 2023 - Devolver Direct (соло) / Greyhill Incident", "start": 0},
+      {"id": "first-2023", "segment": "1842665393", "name": "Lies of P (демо) / неПрофессиональный \"E3\" 2023 - Wholesome Direct / неПрофессиональный \"E3\" 2023 - Future Games Show", "start": 0},
+      {"id": "single", "segment": "1843524831", "name": "The Book Walker: Thief of Tales (демо) / En Garde! (демо) / Sludge Life 2 (демо) / World's Worst Handyman (демо) / Wizard With a Gun (демо) / неПрофессиональный \"E3\" 2023 - Xbox Games Showcase / неПрофессиональный \"E3\" 2023 - Starfield Direct", "start": 0},
+      {"id": "first-2023", "segment": "1844321743", "name": "Final Fantasy XVI (демо) / неПрофессиональный \"E3\" 2023 - PC Gaming Show (обзор) / неПрофессиональный \"E3\" 2023 - Ubisoft Forward", "start": 0}
     ]
   },
   "finished": {
@@ -1191,7 +1191,8 @@
       {"id": "first-2023", "segment": "1837484119", "name": "There is Something in the Anderghast Mine", "start": 17066},
       {"id": "first-2023", "segment": "1842665393", "name": "Lies of P (демо)", "start": 1556},
       {"id": "first-2023", "segment": "1843524831", "name": "World's Worst Handyman (демо)", "start": 11814},
-      {"id": "first-2023", "segment": "1843524831", "name": "Wizard With a Gun (демо)", "start": 12903}
+      {"id": "first-2023", "segment": "1843524831", "name": "Wizard With a Gun (демо)", "start": 12903},
+      {"id": "first-2023", "segment": "1844321743", "name": "Final Fantasy XVI (демо)", "start": 1441}
     ]
   },
   "ongoing": {
@@ -1668,7 +1669,7 @@
       {"id": "expos", "segment": "1134934289", "name": "Dead Space Remake Dev Stream", "start": 14246},
       {"name": "PlayStation Showcase", "id": "ps-showcase", "segment": "1143525237"},
       {"name": "Summer Game Fest 2022", "id": "sgf-22", "segment": "1494292107"},
-      {"name": "Summer Game Fest 2023", "id": "sgf-23", "segment": "1841766037"}
+      {"name": "неПрофессиональный \"E3\" 2023", "id": "e3-2023", "segment": "1841766037"}
     ]
   },
   "unboxing": {
