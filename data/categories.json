@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "tloz_totk", "segment": "1834756368", "name": "The Legend of Zelda: Tears of the Kingdom #7", "start": 0},
       {"id": "first-2023", "segment": "1835656508", "name": "Killer Frequency / Diablo IV #1 (4D)", "start": 0},
       {"id": "single", "segment": "1837484119", "name": "CANINE / Sinking Iron / Last Night / Eerie Enigma / Poop Killer 7 / The Nefarious / The Tartarus Key / There is Something in the Anderghast Mine", "start": 0},
       {"id": "amnesia-bunker", "segment": "1838317678", "name": "Amnesia: The Bunker #1", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "first-2023", "segment": "1842665393", "name": "Lies of P (демо) / неПрофессиональный \"E3\" 2023 - Wholesome Direct / неПрофессиональный \"E3\" 2023 - Future Games Show", "start": 0},
       {"id": "single", "segment": "1843524831", "name": "The Book Walker: Thief of Tales (демо) / En Garde! (демо) / Sludge Life 2 (демо) / World's Worst Handyman (демо) / Wizard With a Gun (демо) / неПрофессиональный \"E3\" 2023 - Xbox Games Showcase / неПрофессиональный \"E3\" 2023 - Starfield Direct", "start": 0},
       {"id": "first-2023", "segment": "1844321743", "name": "Final Fantasy XVI (демо) / неПрофессиональный \"E3\" 2023 - PC Gaming Show (обзор) / неПрофессиональный \"E3\" 2023 - Ubisoft Forward", "start": 0},
-      {"id": "tloz_totk", "segment": "1845108311", "name": "The Legend of Zelda: Tears of the Kingdom #9", "start": 0}
+      {"id": "tloz_totk", "segment": "1845108311", "name": "The Legend of Zelda: Tears of the Kingdom #9", "start": 0},
+      {"id": "lof-23", "segment": "1846924247", "name": "Layers of Fear (2023) #1", "start": 0}
     ]
   },
   "finished": {
@@ -606,7 +606,6 @@
       {"id": "single", "segment": "1812854556", "name": "The Pier House - Episode 1", "start": 18308},
       {"id": "single", "segment": "1812854556", "name": "The Witch of Sherdorne Forest", "start": 19035},
       {"name": "Nancy Drew: The White Wolf of Icicle Creek (Нэнси Дрю. Белый волк Ледяного ущелья)", "id": "nancy-drew-wwoic", "segment": "1813790886"},
-      {"id": "single", "segment": "1823827495", "name": "Layers of Fear (демо)", "start": 7910},
       {"id": "single", "segment": "1826440973", "name": "Deppart Prototype", "start": 4288},
       {"name": "Amnesia: The Bunker", "id": "amnesia-bunker", "segment": "1827232465,1827360298,1827371582,1827392675"},
       {"id": "single", "segment": "1830612078", "name": "Alone in the Dark: Prologue", "start": 1369},
@@ -1200,7 +1199,8 @@
     "games": [
       {"name": "Stasis: Bone Totem", "id": "stasis-bt", "segment": "828815728"},
       {"name": "System Shock", "id": "system-shock", "segment": "928993182"},
-      {"name": "The Legend of Zelda: Tears of the Kingdom", "id": "tloz_totk", "segment": "1817831979"}
+      {"name": "The Legend of Zelda: Tears of the Kingdom", "id": "tloz_totk", "segment": "1817831979"},
+      {"name": "Layers of Fear (2023)", "id": "lof-23", "segment": "1823827495"}
     ]
   },
   "infinite": {
