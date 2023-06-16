@@ -10752,7 +10752,6 @@
     "youtube": "BcrP0PHvL74", "abs_start": "0:00", "abs_end": "6:33:27", "duration": "6:33:27",
     "name": "The Last Case of Benedict Fox #1 / Redfall #1 (с Куплиновым и Дангаром)",
     "date": "2023-05-02",
-    "torrent": "https://bsufiles.drhx.ru/streams/1809409736.torrent",
     "games": ["benedict-fox", "redfall"]
   },
   "1810272609": {
@@ -11075,6 +11074,31 @@
     "date": "2023-06-15",
     "direct": "https://bsufiles.drhx.ru/streams/1846924247.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1846924247.torrent",
+    "games": ["lof-23"]
+  },
+  "1847650355": {
+    "abs_start": "0:00", "abs_end": "1:02:43", "duration": "0:00",
+    "name": "",
+    "date": "2023-06-16",
+    "direct": "https://bsufiles.drhx.ru/streams/1847650355.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1847650355.torrent",
+    "games": []
+  },
+  "1847673917": {
+    "abs_start": "0:00", "abs_end": "4:04:47", "duration": "0:00",
+    "name": "",
+    "date": "2023-06-16",
+    "direct": "https://bsufiles.drhx.ru/streams/1847673917.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1847673917.torrent",
+    "games": []
+  },
+  "1847650355,1847673917": {
+    "abs_start": "0:00", "abs_end": "5:07:30", "duration": "0:00",
+    "name": "Layers of Fear (2023) #2",
+    "date": "2023-06-16",
+    "direct": "https://bsufiles.drhx.ru/streams/1847650355,1847673917.mp4",
+    "offsets": [0, 3644],
+    "torrent": "https://bsufiles.drhx.ru/streams/1847650355,1847673917.torrent",
     "games": ["lof-23"]
   }
 }

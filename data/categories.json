@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "first-2023", "segment": "1835656508", "name": "Killer Frequency / Diablo IV #1 (4D)", "start": 0},
       {"id": "single", "segment": "1837484119", "name": "CANINE / Sinking Iron / Last Night / Eerie Enigma / Poop Killer 7 / The Nefarious / The Tartarus Key / There is Something in the Anderghast Mine", "start": 0},
       {"id": "amnesia-bunker", "segment": "1838317678", "name": "Amnesia: The Bunker #1", "start": 0},
       {"id": "tloz_totk", "segment": "1839110969", "name": "The Legend of Zelda: Tears of the Kingdom #8 / Amnesia: The Bunker #2", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "single", "segment": "1843524831", "name": "The Book Walker: Thief of Tales (демо) / En Garde! (демо) / Sludge Life 2 (демо) / World's Worst Handyman (демо) / Wizard With a Gun (демо) / неПрофессиональный \"E3\" 2023 - Xbox Games Showcase / неПрофессиональный \"E3\" 2023 - Starfield Direct", "start": 0},
       {"id": "first-2023", "segment": "1844321743", "name": "Final Fantasy XVI (демо) / неПрофессиональный \"E3\" 2023 - PC Gaming Show (обзор) / неПрофессиональный \"E3\" 2023 - Ubisoft Forward", "start": 0},
       {"id": "tloz_totk", "segment": "1845108311", "name": "The Legend of Zelda: Tears of the Kingdom #9", "start": 0},
-      {"id": "lof-23", "segment": "1846924247", "name": "Layers of Fear (2023) #1", "start": 0}
+      {"id": "lof-23", "segment": "1846924247", "name": "Layers of Fear (2023) #1", "start": 0},
+      {"id": "lof-23", "segment": "1847650355,1847673917", "name": "Layers of Fear (2023) #2", "start": 0}
     ]
   },
   "finished": {
@@ -1199,8 +1199,7 @@
     "games": [
       {"name": "Stasis: Bone Totem", "id": "stasis-bt", "segment": "828815728"},
       {"name": "System Shock", "id": "system-shock", "segment": "928993182"},
-      {"name": "The Legend of Zelda: Tears of the Kingdom", "id": "tloz_totk", "segment": "1817831979"},
-      {"name": "Layers of Fear (2023)", "id": "lof-23", "segment": "1823827495"}
+      {"name": "The Legend of Zelda: Tears of the Kingdom", "id": "tloz_totk", "segment": "1817831979"}
     ]
   },
   "infinite": {
@@ -1389,7 +1388,8 @@
       {"name": "FAITH", "id": "faith", "segment": "1687663796"},
       {"name": "Hogwarts Legacy", "id": "hogwarts", "segment": "1729899835"},
       {"name": "Redfall", "id": "redfall", "segment": "1809409736"},
-      {"name": "The Last Case of Benedict Fox", "id": "benedict-fox", "segment": "1809409736"}
+      {"name": "The Last Case of Benedict Fox", "id": "benedict-fox", "segment": "1809409736"},
+      {"name": "Layers of Fear (2023)", "id": "lof-23", "segment": "1823827495"}
     ]
   },
   "co-op": {
