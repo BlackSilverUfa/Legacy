@@ -5064,6 +5064,7 @@
     "abs_start": "0:00", "abs_end": "5:59:58", "duration": "0:00",
     "name": "Grand Theft Auto: San Andreas #1",
     "date": "2020-01-09",
+    "direct": "https://bsufiles.drhx.ru/streams/533269694.mp4",
     "games": ["gta-san-andreas"]
   },
   "533755753": {
@@ -6243,6 +6244,7 @@
     "abs_start": "0:00", "abs_end": "6:52:10", "duration": "0:00",
     "name": "Mafia: City of Lost Heaven #2 / Mafia: Definitive Edition #1",
     "date": "2020-09-24",
+    "direct": "https://bsufiles.drhx.ru/streams/750578050.mp4",
     "games": ["mafia", "mafia-de"]
   },
   "751534901": {
@@ -10756,48 +10758,56 @@
     "youtube": "MQmtEu47DYA", "abs_start": "0:00", "abs_end": "1:24:05", "duration": "1:24:05",
     "name": "Redfall #2 (соло)",
     "date": "2023-05-03",
+    "torrent": "https://bsufiles.drhx.ru/streams/1810272609.torrent",
     "games": ["redfall"]
   },
   "1810311520": {
     "youtube": "-301xSayk9I", "abs_start": "0:00", "abs_end": "5:09:52", "duration": "5:09:52",
     "name": "Bramble: The Mountain King",
     "date": "2023-05-03",
+    "torrent": "https://bsufiles.drhx.ru/streams/1810311520.torrent",
     "games": ["single"]
   },
   "1811995960": {
     "youtube": "O_FT-QXR5fw", "abs_start": "0:00", "abs_end": "4:32:07", "duration": "4:32:07",
     "name": "The Invincible (демо) / I Know This Place..? - Chapter 1 / Frozen Shelter / Rewind or Die",
     "date": "2023-05-05",
+    "torrent": "https://bsufiles.drhx.ru/streams/1811995960.torrent",
     "games": ["single", "first-2023"]
   },
   "1812854556": {
     "youtube": "Dm-6k9cEF5w", "abs_start": "0:00", "abs_end": "5:39:59", "duration": "5:39:59",
     "name": "Dawn of Hell / On the Other Side (демо) / Cave Crawler / Amanda the Adventurer / The Pier House - Episode 1 / The Witch of Sherdorne Forest",
     "date": "2023-05-06",
+    "torrent": "https://bsufiles.drhx.ru/streams/1812854556.torrent",
     "games": ["first-2023", "single"]
   },
   "1813790886": {
     "youtube": "cG7GrgNo6CI", "abs_start": "0:00", "abs_end": "5:14:37", "duration": "5:14:37",
     "name": "Nancy Drew: The White Wolf of Icicle Creek (Нэнси Дрю. Белый волк Ледяного ущелья) #1",
     "date": "2023-05-07",
+    "torrent": "https://bsufiles.drhx.ru/streams/1813790886.torrent",
     "games": ["nancy-drew-wwoic"]
   },
   "1814566379": {
     "youtube": "kYbhBY2lMpI", "abs_start": "0:00", "abs_end": "6:02:21", "duration": "6:02:21",
     "name": "The Last Case of Benedict Fox #2 / Survival: Fountain of Youth #2",
     "date": "2023-05-08",
+    "torrent": "https://bsufiles.drhx.ru/streams/1814566379.torrent",
     "games": ["benedict-fox", "survival-foy"]
   },
   "1817065976": {
     "youtube": "-HqCsmvpMpc", "abs_start": "0:00", "abs_end": "6:54:09", "duration": "6:54:09",
     "name": "The Legend of Zelda: Breath of the Wild #22 - перед TotK",
     "date": "2023-05-11",
+    "torrent": "https://bsufiles.drhx.ru/streams/1817065976.torrent",
     "games": ["tloz_botw"]
   },
   "1817831979": {
     "youtube": "SUYnbjdP4KU", "abs_start": "0:00", "abs_end": "10:05:36", "duration": "10:05:36",
     "name": "The Legend of Zelda: Tears of the Kingdom #1",
     "date": "2023-05-12",
+    "torrent": "https://bsufiles.drhx.ru/streams/1817831979.torrent",
     "games": ["tloz_totk"]
   },
   "1818750640": {
@@ -10805,60 +10815,74 @@
     "name": "The Legend of Zelda: Tears of the Kingdom #2",
     "date": "2023-05-13",
     "cuts": [[32049, 32096]],
+    "torrent": "https://bsufiles.drhx.ru/streams/1818750640.torrent",
     "games": ["tloz_totk"]
   },
   "1819655760": {
     "youtube": "7R0Dg8sBf8Y", "abs_start": "0:00", "abs_end": "8:38:49", "duration": "8:38:49",
     "name": "The Legend of Zelda: Tears of the Kingdom #3",
     "date": "2023-05-14",
+    "torrent": "https://bsufiles.drhx.ru/streams/1819655760.torrent",
     "games": ["tloz_totk"]
   },
   "1823827495": {
     "youtube": "fUUidegZOTA", "abs_start": "0:00", "abs_end": "3:14:22", "duration": "3:14:22",
     "name": "Layers of Fear (2023) - Демо",
     "date": "2023-05-19",
+    "torrent": "https://bsufiles.drhx.ru/streams/1823827495.torrent",
     "games": ["lof-23"]
   },
   "1824716509": {
     "youtube": "9xZ1aoXslUo", "abs_start": "0:00", "abs_end": "5:01:28", "duration": "5:01:28",
     "name": "Nancy Drew: The White Wolf of Icicle Creek (Нэнси Дрю. Белый волк Ледяного ущелья) #2",
     "date": "2023-05-20",
+    "torrent": "https://bsufiles.drhx.ru/streams/1824716509.torrent",
     "games": ["nancy-drew-wwoic"]
   },
   "1825542254": {
     "youtube": "LHP5jtKnHds", "abs_start": "0:00", "abs_end": "8:19:22", "duration": "8:19:22",
     "name": "The Legend of Zelda: Tears of the Kingdom #4",
     "date": "2023-05-21",
+    "torrent": "https://bsufiles.drhx.ru/streams/1825542254.torrent",
     "games": ["tloz_totk"]
   },
   "1826440973": {
     "youtube": "ZD_8bg-sxJY", "abs_start": "0:00", "abs_end": "2:41:17", "duration": "2:41:17",
     "name": "The Outlast Trials #1 (соло) / Deppart Prototype / Daymare: 1994 Sandcastle #3",
     "date": "2023-05-22",
+    "torrent": "https://bsufiles.drhx.ru/streams/1826440973.torrent",
     "games": ["outlast-trials", "single", "daymare-1994-sc"]
   },
   "1827232465": {
     "abs_start": "0:00", "abs_end": "3:39:38", "duration": "0:00",
     "name": "",
     "date": "2023-05-23",
+    "direct": "https://bsufiles.drhx.ru/streams/1827232465.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1827232465.torrent",
     "games": []
   },
   "1827360298": {
     "abs_start": "0:00", "abs_end": "16:47", "duration": "0:00",
     "name": "",
     "date": "2023-05-23",
+    "direct": "https://bsufiles.drhx.ru/streams/1827360298.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1827360298.torrent",
     "games": []
   },
   "1827371582": {
     "abs_start": "0:00", "abs_end": "20:37", "duration": "0:00",
     "name": "",
     "date": "2023-05-23",
+    "direct": "https://bsufiles.drhx.ru/streams/1827371582.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1827371582.torrent",
     "games": []
   },
   "1827392675": {
     "abs_start": "0:00", "abs_end": "8:33", "duration": "0:00",
     "name": "",
     "date": "2023-05-23",
+    "direct": "https://bsufiles.drhx.ru/streams/1827392675.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1827392675.torrent",
     "games": []
   },
   "1827232465,1827360298,1827371582,1827392675": {
@@ -10866,25 +10890,32 @@
     "name": "Amnesia: The Bunker - Демо / Horror Exp+ / The Outlast Trials #2 (с Куплиновым и Дангаром) / Haunted Horror Stories: Gone With The Wind",
     "date": "2023-05-23",
     "offsets": [0, 13145, 14144, 15375],
+    "torrent": "https://bsufiles.drhx.ru/streams/1827232465,1827360298,1827371582,1827392675.torrent",
     "games": ["amnesia-bunker", "first-2023", "outlast-trials", "first-2023"]
   },
   "1828030256": {
     "abs_start": "0:00", "abs_end": "3:59:15", "duration": "0:00",
     "name": "",
     "date": "2023-05-24",
+    "direct": "https://bsufiles.drhx.ru/streams/1828030256.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1828030256.torrent",
     "games": []
   },
   "1828157473": {
     "abs_start": "0:00", "abs_end": "1:58:41", "duration": "0:00",
     "name": "",
     "date": "2023-05-24",
+    "direct": "https://bsufiles.drhx.ru/streams/1828157473.mp4",
     "cuts": [[1190, 1442]],
+    "torrent": "https://bsufiles.drhx.ru/streams/1828157473.torrent",
     "games": []
   },
   "1828245817": {
     "abs_start": "0:00", "abs_end": "1:17:13", "duration": "0:00",
     "name": "",
     "date": "2023-05-24",
+    "direct": "https://bsufiles.drhx.ru/streams/1828245817.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1828245817.torrent",
     "games": []
   },
   "1828030256,1828157473,1828245817": {
@@ -10893,30 +10924,35 @@
     "date": "2023-05-24",
     "offsets": [0, 14340, 21439],
     "cuts": [[15530, 15782]],
+    "torrent": "https://bsufiles.drhx.ru/streams/1828030256,1828157473,1828245817.torrent",
     "games": ["tloz_totk"]
   },
   "1828339885": {
     "youtube": "DoVWKZ-GEbM", "abs_start": "0:00", "abs_end": "1:47:48", "duration": "1:47:48",
     "name": "PlayStation Showcase #2023",
     "date": "2023-05-25",
+    "torrent": "https://bsufiles.drhx.ru/streams/1828339885.torrent",
     "games": ["ps-showcase"]
   },
   "1828848663": {
     "youtube": "LmtlJNg5ip4", "abs_start": "0:00", "abs_end": "5:04:47", "duration": "5:04:47",
     "name": "The Lord of the Rings: Gollum / Warhammer 40,000: Boltgun / Planet of Lana",
     "date": "2023-05-25",
+    "torrent": "https://bsufiles.drhx.ru/streams/1828848663.torrent",
     "games": ["first-2023"]
   },
   "1830612078": {
     "youtube": "XQ7x_RnotUM", "abs_start": "0:00", "abs_end": "5:38:02", "duration": "5:38:02",
     "name": "Alone in the Dark: Prologue / Presences: Dark Awakening (демо) / The Wailer / BloodWaters (Кровавые воды) / The Outlast Trials #3 (с Куплиновым и Дангаром) / Movie Night / Water Wheel / My Eyes Deceive",
     "date": "2023-05-27",
+    "torrent": "https://bsufiles.drhx.ru/streams/1830612078.torrent",
     "games": ["single", "first-2023", "outlast-trials"]
   },
   "1831475865": {
     "youtube": "Rzn7IhjHhaA", "abs_start": "0:00", "abs_end": "3:13:01", "duration": "3:13:01",
     "name": "Nancy Drew: The White Wolf of Icicle Creek (Нэнси Дрю. Белый волк Ледяного ущелья) #3",
     "date": "2023-05-28",
+    "torrent": "https://bsufiles.drhx.ru/streams/1831475865.torrent",
     "games": ["nancy-drew-wwoic"]
   },
   "1832232698": {
@@ -10924,24 +10960,30 @@
     "name": "The Legend of Zelda: Tears of the Kingdom #6",
     "date": "2023-05-29",
     "cuts": [[27976, 28019]],
+    "torrent": "https://bsufiles.drhx.ru/streams/1832232698.torrent",
     "games": ["tloz_totk"]
   },
   "1833150878": {
     "youtube": "SWPqHHH6P2c", "abs_start": "0:00", "abs_end": "5:48:55", "duration": "5:48:55",
     "name": "Shame Legacy / System Shock - Релиз",
     "date": "2023-05-30",
+    "torrent": "https://bsufiles.drhx.ru/streams/1833150878.torrent",
     "games": ["first-2023", "system-shock"]
   },
   "1833989886": {
     "abs_start": "0:00", "abs_end": "3:25:19", "duration": "0:00",
     "name": "",
     "date": "2023-05-31",
+    "direct": "https://bsufiles.drhx.ru/streams/1833989886.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1833989886.torrent",
     "games": []
   },
   "1834110105": {
     "abs_start": "0:00", "abs_end": "2:07:22", "duration": "0:00",
     "name": "",
     "date": "2023-05-31",
+    "direct": "https://bsufiles.drhx.ru/streams/1834110105.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1834110105.torrent",
     "games": []
   },
   "1833989886,1834110105": {
@@ -10949,6 +10991,7 @@
     "name": "Зайчик (Tiny Bunny) - Эпизод 4 / MyHouse.wad / Stasis: Bone Totem - Релиз",
     "date": "2023-05-31",
     "offsets": [0, 12307],
+    "torrent": "https://bsufiles.drhx.ru/streams/1833989886,1834110105.torrent",
     "games": ["tiny-bunny", "single", "stasis-bt"]
   },
   "1834756368": {
@@ -10956,12 +10999,14 @@
     "name": "The Legend of Zelda: Tears of the Kingdom #7",
     "date": "2023-06-01",
     "cuts": [[27932, 27987]],
+    "torrent": "https://bsufiles.drhx.ru/streams/1834756368.torrent",
     "games": ["tloz_totk"]
   },
   "1835656508": {
     "youtube": "AhNi8anomgo", "abs_start": "0:00", "abs_end": "7:59:24", "duration": "7:59:24",
     "name": "Killer Frequency / Diablo IV #1 (4D)",
     "date": "2023-06-02",
+    "torrent": "https://bsufiles.drhx.ru/streams/1835656508.torrent",
     "games": ["first-2023", "diablo-4"]
   },
   "1837484119": {
@@ -10969,24 +11014,28 @@
     "name": "CANINE / Sinking Iron / Last Night / Eerie Enigma / Poop Killer 7 / The Nefarious / The Tartarus Key / There is Something in the Anderghast Mine",
     "date": "2023-06-04",
     "cuts": [[20668, 20725]],
+    "torrent": "https://bsufiles.drhx.ru/streams/1837484119.torrent",
     "games": ["single", "616-games", "first-2023"]
   },
   "1838317678": {
     "youtube": "NGtEKt2rqQY", "abs_start": "0:00", "abs_end": "7:33:25", "duration": "7:33:25",
     "name": "Amnesia: The Bunker #1",
     "date": "2023-06-05",
+    "torrent": "https://bsufiles.drhx.ru/streams/1838317678.torrent",
     "games": ["amnesia-bunker"]
   },
   "1839110969": {
     "youtube": "8loiBU4M3SA", "abs_start": "0:00", "abs_end": "7:31:38", "duration": "7:31:38",
     "name": "The Legend of Zelda: Tears of the Kingdom #8 / Amnesia: The Bunker #2",
     "date": "2023-06-06",
+    "torrent": "https://bsufiles.drhx.ru/streams/1839110969.torrent",
     "games": ["tloz_totk", "amnesia-bunker"]
   },
   "1841766037": {
     "youtube": "uvprUW1rEYw", "abs_start": "0:00", "abs_end": "6:06:14", "duration": "6:06:14",
     "name": "неПрофессиональный \"E3\" 2023 - Summer Game Fest (обзор) / неПрофессиональный \"E3\" 2023 - Devolver Direct (соло) / Greyhill Incident",
     "date": "2023-06-09",
+    "torrent": "https://bsufiles.drhx.ru/streams/1841766037.torrent",
     "games": ["e3-2023", "single"]
   },
   "1842665393": {
@@ -10994,18 +11043,21 @@
     "name": "Lies of P (демо) / неПрофессиональный \"E3\" 2023 - Wholesome Direct / неПрофессиональный \"E3\" 2023 - Future Games Show",
     "date": "2023-06-10",
     "cuts": [[17325, 17366]],
+    "torrent": "https://bsufiles.drhx.ru/streams/1842665393.torrent",
     "games": ["first-2023", "e3-2023"]
   },
   "1843524831": {
     "youtube": "A2S1vXCbG3I", "abs_start": "0:00", "abs_end": "6:12:40", "duration": "6:12:40",
     "name": "The Book Walker: Thief of Tales (демо) / En Garde! (демо) / Sludge Life 2 (демо) / World's Worst Handyman (демо) / Wizard With a Gun (демо) / неПрофессиональный \"E3\" 2023 - Xbox Games Showcase / неПрофессиональный \"E3\" 2023 - Starfield Direct",
     "date": "2023-06-11",
+    "torrent": "https://bsufiles.drhx.ru/streams/1843524831.torrent",
     "games": ["single", "first-2023", "e3-2023"]
   },
   "1844321743": {
     "youtube": "KDiOOuSm_P4", "abs_start": "0:00", "abs_end": "6:39:26", "duration": "6:39:26",
     "name": "Final Fantasy XVI (демо) / неПрофессиональный \"E3\" 2023 - PC Gaming Show (обзор) / неПрофессиональный \"E3\" 2023 - Ubisoft Forward",
     "date": "2023-06-12",
+    "torrent": "https://bsufiles.drhx.ru/streams/1844321743.torrent",
     "games": ["first-2023", "e3-2023"]
   },
   "1845108311": {
@@ -11013,37 +11065,48 @@
     "name": "The Legend of Zelda: Tears of the Kingdom #9",
     "date": "2023-06-13",
     "cuts": [[27716, 27777]],
+    "torrent": "https://bsufiles.drhx.ru/streams/1845108311.torrent",
     "games": ["tloz_totk"]
   },
   "1846924247": {
     "abs_start": "0:00", "abs_end": "5:20:52", "duration": "0:00",
     "name": "Layers of Fear (2023) #1",
     "date": "2023-06-15",
+    "direct": "https://bsufiles.drhx.ru/streams/1846924247.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1846924247.torrent",
     "games": ["lof-23"]
   },
   "1847650355": {
     "abs_start": "0:00", "abs_end": "1:02:43", "duration": "0:00",
     "name": "",
     "date": "2023-06-16",
+    "direct": "https://bsufiles.drhx.ru/streams/1847650355.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1847650355.torrent",
     "games": []
   },
   "1847673917": {
     "abs_start": "0:00", "abs_end": "4:04:47", "duration": "0:00",
     "name": "",
     "date": "2023-06-16",
+    "direct": "https://bsufiles.drhx.ru/streams/1847673917.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1847673917.torrent",
     "games": []
   },
   "1847650355,1847673917": {
     "abs_start": "0:00", "abs_end": "5:07:30", "duration": "0:00",
     "name": "Layers of Fear (2023) #2",
     "date": "2023-06-16",
+    "direct": "https://bsufiles.drhx.ru/streams/1847650355,1847673917.mp4",
     "offsets": [0, 3644],
+    "torrent": "https://bsufiles.drhx.ru/streams/1847650355,1847673917.torrent",
     "games": ["lof-23"]
   },
   "1847820448": {
     "abs_start": "0:00", "abs_end": "2:34:41", "duration": "0:00",
     "name": "The Legend of Zelda: Tears of the Kingdom #10",
     "date": "2023-06-16",
+    "direct": "https://bsufiles.drhx.ru/streams/1847820448.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1847820448.torrent",
     "games": ["tloz_totk"]
   }
 }
