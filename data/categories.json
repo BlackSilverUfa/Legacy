@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "amnesia-bunker", "segment": "1838317678", "name": "Amnesia: The Bunker #1", "start": 0},
       {"id": "tloz_totk", "segment": "1839110969", "name": "The Legend of Zelda: Tears of the Kingdom #8 / Amnesia: The Bunker #2", "start": 0},
       {"id": "e3-2023", "segment": "1841766037", "name": "неПрофессиональный \"E3\" 2023 - Summer Game Fest (обзор) / неПрофессиональный \"E3\" 2023 - Devolver Direct (соло) / Greyhill Incident", "start": 0},
       {"id": "first-2023", "segment": "1842665393", "name": "Lies of P (демо) / неПрофессиональный \"E3\" 2023 - Wholesome Direct / неПрофессиональный \"E3\" 2023 - Future Games Show", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "tloz_totk", "segment": "1845108311", "name": "The Legend of Zelda: Tears of the Kingdom #9", "start": 0},
       {"id": "lof-23", "segment": "1846924247", "name": "Layers of Fear (2023) #1", "start": 0},
       {"id": "lof-23", "segment": "1847650355,1847673917", "name": "Layers of Fear (2023) #2", "start": 0},
-      {"id": "tloz_totk", "segment": "1847820448", "name": "The Legend of Zelda: Tears of the Kingdom #10", "start": 0}
+      {"id": "tloz_totk", "segment": "1847820448", "name": "The Legend of Zelda: Tears of the Kingdom #10", "start": 0},
+      {"id": "tloz_totk", "segment": "1848514917", "name": "The Legend of Zelda: Tears of the Kingdom #11", "start": 0}
     ]
   },
   "finished": {

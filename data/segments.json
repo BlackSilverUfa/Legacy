@@ -10758,21 +10758,18 @@
     "youtube": "MQmtEu47DYA", "abs_start": "0:00", "abs_end": "1:24:05", "duration": "1:24:05",
     "name": "Redfall #2 (соло)",
     "date": "2023-05-03",
-    "torrent": "https://bsufiles.drhx.ru/streams/1810272609.torrent",
     "games": ["redfall"]
   },
   "1810311520": {
     "youtube": "-301xSayk9I", "abs_start": "0:00", "abs_end": "5:09:52", "duration": "5:09:52",
     "name": "Bramble: The Mountain King",
     "date": "2023-05-03",
-    "torrent": "https://bsufiles.drhx.ru/streams/1810311520.torrent",
     "games": ["single"]
   },
   "1811995960": {
     "youtube": "O_FT-QXR5fw", "abs_start": "0:00", "abs_end": "4:32:07", "duration": "4:32:07",
     "name": "The Invincible (демо) / I Know This Place..? - Chapter 1 / Frozen Shelter / Rewind or Die",
     "date": "2023-05-05",
-    "torrent": "https://bsufiles.drhx.ru/streams/1811995960.torrent",
     "games": ["single", "first-2023"]
   },
   "1812854556": {
@@ -11107,6 +11104,14 @@
     "date": "2023-06-16",
     "direct": "https://bsufiles.drhx.ru/streams/1847820448.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1847820448.torrent",
+    "games": ["tloz_totk"]
+  },
+  "1848514917": {
+    "abs_start": "0:00", "abs_end": "7:32:54", "duration": "0:00",
+    "name": "The Legend of Zelda: Tears of the Kingdom #11",
+    "date": "2023-06-17",
+    "direct": "https://bsufiles.drhx.ru/streams/1848514917.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1848514917.torrent",
     "games": ["tloz_totk"]
   }
 }
