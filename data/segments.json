@@ -11097,18 +11097,16 @@
     "games": ["lof-23"]
   },
   "1847820448": {
-    "abs_start": "0:00", "abs_end": "2:34:41", "duration": "0:00",
+    "youtube": "EcNjkAK_aJU", "abs_start": "0:00", "abs_end": "2:34:39", "duration": "2:34:39",
     "name": "The Legend of Zelda: Tears of the Kingdom #10",
     "date": "2023-06-16",
-    "direct": "https://bsufiles.drhx.ru/streams/1847820448.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1847820448.torrent",
     "games": ["tloz_totk"]
   },
   "1848514917": {
-    "abs_start": "0:00", "abs_end": "7:32:54", "duration": "0:00",
+    "youtube": "C9Z5gOaiMEw", "abs_start": "0:00", "abs_end": "7:32:41", "duration": "7:32:41",
     "name": "The Legend of Zelda: Tears of the Kingdom #11",
     "date": "2023-06-17",
-    "direct": "https://bsufiles.drhx.ru/streams/1848514917.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1848514917.torrent",
     "games": ["tloz_totk"]
   }
