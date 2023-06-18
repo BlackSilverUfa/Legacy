@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "tloz_totk", "segment": "1839110969", "name": "The Legend of Zelda: Tears of the Kingdom #8 / Amnesia: The Bunker #2", "start": 0},
       {"id": "e3-2023", "segment": "1841766037", "name": "неПрофессиональный \"E3\" 2023 - Summer Game Fest (обзор) / неПрофессиональный \"E3\" 2023 - Devolver Direct (соло) / Greyhill Incident", "start": 0},
       {"id": "first-2023", "segment": "1842665393", "name": "Lies of P (демо) / неПрофессиональный \"E3\" 2023 - Wholesome Direct / неПрофессиональный \"E3\" 2023 - Future Games Show", "start": 0},
       {"id": "single", "segment": "1843524831", "name": "The Book Walker: Thief of Tales (демо) / En Garde! (демо) / Sludge Life 2 (демо) / World's Worst Handyman (демо) / Wizard With a Gun (демо) / неПрофессиональный \"E3\" 2023 - Xbox Games Showcase / неПрофессиональный \"E3\" 2023 - Starfield Direct", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "lof-23", "segment": "1846924247", "name": "Layers of Fear (2023) #1", "start": 0},
       {"id": "lof-23", "segment": "1847650355,1847673917", "name": "Layers of Fear (2023) #2", "start": 0},
       {"id": "tloz_totk", "segment": "1847820448", "name": "The Legend of Zelda: Tears of the Kingdom #10", "start": 0},
-      {"id": "tloz_totk", "segment": "1848514917", "name": "The Legend of Zelda: Tears of the Kingdom #11", "start": 0}
+      {"id": "tloz_totk", "segment": "1848514917", "name": "The Legend of Zelda: Tears of the Kingdom #11", "start": 0},
+      {"id": "single", "segment": "1849426857", "name": "Night Security / Unholy / Lazarus / Incident at Grove Lake / The Event (демо) / Scholar's Mate: First Move", "start": 0}
     ]
   },
   "finished": {
@@ -622,7 +622,10 @@
       {"id": "single", "segment": "1841766037", "name": "Greyhill Incident", "start": 8136},
       {"id": "single", "segment": "1843524831", "name": "The Book Walker: Thief of Tales (демо)", "start": 1787},
       {"id": "single", "segment": "1843524831", "name": "En Garde! (демо)", "start": 7362},
-      {"id": "single", "segment": "1843524831", "name": "Sludge Life 2 (демо)", "start": 10287}
+      {"id": "single", "segment": "1843524831", "name": "Sludge Life 2 (демо)", "start": 10287},
+      {"id": "single", "segment": "1849426857", "name": "Night Security", "start": 1333},
+      {"id": "single", "segment": "1849426857", "name": "Lazarus", "start": 12111},
+      {"id": "single", "segment": "1849426857", "name": "Incident at Grove Lake", "start": 13897}
     ]
   },
   "first": {
@@ -1191,7 +1194,10 @@
       {"id": "first-2023", "segment": "1842665393", "name": "Lies of P (демо)", "start": 1556},
       {"id": "first-2023", "segment": "1843524831", "name": "World's Worst Handyman (демо)", "start": 11814},
       {"id": "first-2023", "segment": "1843524831", "name": "Wizard With a Gun (демо)", "start": 12903},
-      {"id": "first-2023", "segment": "1844321743", "name": "Final Fantasy XVI (демо)", "start": 1441}
+      {"id": "first-2023", "segment": "1844321743", "name": "Final Fantasy XVI (демо)", "start": 1441},
+      {"id": "first-2023", "segment": "1849426857", "name": "Unholy", "start": 7487},
+      {"id": "first-2023", "segment": "1849426857", "name": "The Event (демо)", "start": 15474},
+      {"id": "first-2023", "segment": "1849426857", "name": "Scholar's Mate: First Move", "start": 17948}
     ]
   },
   "ongoing": {

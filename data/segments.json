@@ -10776,7 +10776,6 @@
     "youtube": "Dm-6k9cEF5w", "abs_start": "0:00", "abs_end": "5:39:59", "duration": "5:39:59",
     "name": "Dawn of Hell / On the Other Side (демо) / Cave Crawler / Amanda the Adventurer / The Pier House - Episode 1 / The Witch of Sherdorne Forest",
     "date": "2023-05-06",
-    "torrent": "https://bsufiles.drhx.ru/streams/1812854556.torrent",
     "games": ["first-2023", "single"]
   },
   "1813790886": {
@@ -11109,5 +11108,13 @@
     "date": "2023-06-17",
     "torrent": "https://bsufiles.drhx.ru/streams/1848514917.torrent",
     "games": ["tloz_totk"]
+  },
+  "1849426857": {
+    "abs_start": "0:00", "abs_end": "5:29:03", "duration": "0:00",
+    "name": "Night Security / Unholy / Lazarus / Incident at Grove Lake / The Event (демо) / Scholar's Mate: First Move",
+    "date": "2023-06-18",
+    "direct": "https://bsufiles.drhx.ru/streams/1849426857.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1849426857.torrent",
+    "games": ["single", "first-2023"]
   }
 }
