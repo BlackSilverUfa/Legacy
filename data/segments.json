@@ -11089,10 +11089,9 @@
     "games": []
   },
   "1847650355,1847673917": {
-    "abs_start": "0:00", "abs_end": "5:07:30", "duration": "0:00",
+    "youtube": "9Ir2qPyt6Bc", "abs_start": "0:00", "abs_end": "5:05:18", "duration": "5:05:18",
     "name": "Layers of Fear (2023) #2",
     "date": "2023-06-16",
-    "direct": "https://bsufiles.drhx.ru/streams/1847650355,1847673917.mp4",
     "offsets": [0, 3644],
     "torrent": "https://bsufiles.drhx.ru/streams/1847650355,1847673917.torrent",
     "games": ["lof-23"]
