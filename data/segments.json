@@ -10782,7 +10782,6 @@
     "youtube": "cG7GrgNo6CI", "abs_start": "0:00", "abs_end": "5:14:37", "duration": "5:14:37",
     "name": "Nancy Drew: The White Wolf of Icicle Creek (Нэнси Дрю. Белый волк Ледяного ущелья) #1",
     "date": "2023-05-07",
-    "torrent": "https://bsufiles.drhx.ru/streams/1813790886.torrent",
     "games": ["nancy-drew-wwoic"]
   },
   "1814566379": {
@@ -11115,5 +11114,13 @@
     "date": "2023-06-18",
     "torrent": "https://bsufiles.drhx.ru/streams/1849426857.torrent",
     "games": ["single", "first-2023"]
+  },
+  "1851046365": {
+    "abs_start": "0:00", "abs_end": "3:55:31", "duration": "0:00",
+    "name": "Aliens: Dark Descent",
+    "date": "2023-06-20",
+    "direct": "https://bsufiles.drhx.ru/streams/1851046365.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1851046365.torrent",
+    "games": ["first-2023"]
   }
 }
