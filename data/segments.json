@@ -10788,7 +10788,6 @@
     "youtube": "kYbhBY2lMpI", "abs_start": "0:00", "abs_end": "6:02:21", "duration": "6:02:21",
     "name": "The Last Case of Benedict Fox #2 / Survival: Fountain of Youth #2",
     "date": "2023-05-08",
-    "torrent": "https://bsufiles.drhx.ru/streams/1814566379.torrent",
     "games": ["benedict-fox", "survival-foy"]
   },
   "1817065976": {
@@ -11050,10 +11049,10 @@
   },
   "1844321743": {
     "youtube": "KDiOOuSm_P4", "abs_start": "0:00", "abs_end": "6:39:26", "duration": "6:39:26",
-    "name": "Final Fantasy XVI (демо) / неПрофессиональный \"E3\" 2023 - PC Gaming Show (обзор) / неПрофессиональный \"E3\" 2023 - Ubisoft Forward",
+    "name": "Final Fantasy XVI - Демо / неПрофессиональный \"E3\" 2023 - PC Gaming Show (обзор) / неПрофессиональный \"E3\" 2023 - Ubisoft Forward",
     "date": "2023-06-12",
     "torrent": "https://bsufiles.drhx.ru/streams/1844321743.torrent",
-    "games": ["first-2023", "e3-2023"]
+    "games": ["ff-xvi", "e3-2023"]
   },
   "1845108311": {
     "youtube": "BfbjKuyH_KQ", "abs_start": "0:00", "abs_end": "8:12:11", "duration": "8:11:10",
@@ -11122,5 +11121,13 @@
     "direct": "https://bsufiles.drhx.ru/streams/1851046365.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1851046365.torrent",
     "games": ["first-2023"]
+  },
+  "1851883489": {
+    "abs_start": "0:00", "abs_end": "7:26:58", "duration": "0:00",
+    "name": "Final Fantasy XVI #1",
+    "date": "2023-06-21",
+    "direct": "https://bsufiles.drhx.ru/streams/1851883489.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1851883489.torrent",
+    "games": ["ff-xvi"]
   }
 }
