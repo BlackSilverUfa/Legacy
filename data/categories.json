@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "single", "segment": "1843524831", "name": "The Book Walker: Thief of Tales (демо) / En Garde! (демо) / Sludge Life 2 (демо) / World's Worst Handyman (демо) / Wizard With a Gun (демо) / неПрофессиональный \"E3\" 2023 - Xbox Games Showcase / неПрофессиональный \"E3\" 2023 - Starfield Direct", "start": 0},
       {"id": "ff-xvi", "segment": "1844321743", "name": "Final Fantasy XVI - Демо / неПрофессиональный \"E3\" 2023 - PC Gaming Show (обзор) / неПрофессиональный \"E3\" 2023 - Ubisoft Forward", "start": 0},
       {"id": "tloz_totk", "segment": "1845108311", "name": "The Legend of Zelda: Tears of the Kingdom #9", "start": 0},
       {"id": "lof-23", "segment": "1846924247", "name": "Layers of Fear (2023) #1", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "tloz_totk", "segment": "1848514917", "name": "The Legend of Zelda: Tears of the Kingdom #11", "start": 0},
       {"id": "single", "segment": "1849426857", "name": "Night Security / Unholy / Lazarus / Incident at Grove Lake / The Event (демо) / Scholar's Mate: First Move", "start": 0},
       {"id": "first-2023", "segment": "1851046365", "name": "Aliens: Dark Descent", "start": 0},
-      {"id": "ff-xvi", "segment": "1851883489", "name": "Final Fantasy XVI #1", "start": 0}
+      {"id": "ff-xvi", "segment": "1851883489", "name": "Final Fantasy XVI #1", "start": 0},
+      {"id": "ff-xvi", "segment": "1852712395", "name": "Final Fantasy XVI #2", "start": 0}
     ]
   },
   "finished": {
