@@ -11115,18 +11115,16 @@
     "games": ["single", "first-2023"]
   },
   "1851046365": {
-    "abs_start": "0:00", "abs_end": "3:55:31", "duration": "0:00",
+    "youtube": "PYs8krNthrM", "abs_start": "0:00", "abs_end": "3:54:55", "duration": "3:54:55",
     "name": "Aliens: Dark Descent",
     "date": "2023-06-20",
-    "direct": "https://bsufiles.drhx.ru/streams/1851046365.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1851046365.torrent",
     "games": ["first-2023"]
   },
   "1851883489": {
-    "abs_start": "0:00", "abs_end": "7:26:58", "duration": "0:00",
+    "youtube": "5wN-9-e0tLo", "abs_start": "0:00", "abs_end": "7:26:57", "duration": "7:26:57",
     "name": "Final Fantasy XVI #1",
     "date": "2023-06-21",
-    "direct": "https://bsufiles.drhx.ru/streams/1851883489.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1851883489.torrent",
     "games": ["ff-xvi"]
   }
