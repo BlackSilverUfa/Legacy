@@ -6143,9 +6143,9 @@
         <i class="fas fa-comments"></i> 24879
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=HVcDAW3YR_0" target="_blank">
-        <i class="fab fa-youtube"></i> HVcDAW3YR_0
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/1206191026.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -6224,6 +6224,11 @@
       <li>Проблемы с правообладателями:</li>
   <ul>
     <li><a data-value="12216">3:23:36</a> - <a data-value="12287">3:24:47</a> — Mr. Mister - Broken Wings</li>
+    <li>
+      <a data-value="12783">3:33:03</a> - <a data-value="12856">3:34:16</a>,
+      <a data-value="12921">3:35:21</a> - <a data-value="12944">3:35:44</a>
+      — Не указано
+    </li>
     <li><a data-value="12974">3:36:14</a> - <a data-value="12984">3:36:24</a> — RUN DMC - Rock Box</li>
     <li><a data-value="13264">3:41:04</a> - <a data-value="13302">3:41:42</a> — Daryl Hall & John Oates - Out of Touch</li>
     <li><a data-value="15438">4:17:18</a> - <a data-value="15475">4:17:55</a> — David Lee Roth - Yankee Rose</li>
@@ -6245,13 +6250,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="57" data-hash="1206191026" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-generated@master/v1206191026+0.ass" data-name="Grand Theft Auto III - Definitive Edition" data-youtube="HVcDAW3YR_0" />
+  <p class="stream" data-id="57" data-hash="1206191026" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-generated@master/v1206191026+0.ass" data-name="Grand Theft Auto III - Definitive Edition" data-direct="https://bsufiles.drhx.ru/streams/1206191026.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-generated@master/v1206191026+0.ass ytdl://HVcDAW3YR_0
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-generated@master/v1206191026+0.ass https://bsufiles.drhx.ru/streams/1206191026.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-generated@master/v1206191026+0.ass" --player-passthrough hls twitch.tv/videos/1206191026 best
 </code></pre>
 </div>
 
