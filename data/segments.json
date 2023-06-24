@@ -10815,7 +10815,6 @@
     "youtube": "7R0Dg8sBf8Y", "abs_start": "0:00", "abs_end": "8:38:49", "duration": "8:38:49",
     "name": "The Legend of Zelda: Tears of the Kingdom #3",
     "date": "2023-05-14",
-    "torrent": "https://bsufiles.drhx.ru/streams/1819655760.torrent",
     "games": ["tloz_totk"]
   },
   "1823827495": {
@@ -11141,5 +11140,13 @@
     "date": "2023-06-23",
     "torrent": "https://bsufiles.drhx.ru/streams/1853577518.torrent",
     "games": ["ff-xvi"]
+  },
+  "1854535719": {
+    "abs_start": "0:00", "abs_end": "5:05:21", "duration": "0:00",
+    "name": "Viewfinder (демо) / Trepang2 / Daydream: Forgotten Sorrow / Only Up! / Little Kitty, Big City (демо)",
+    "date": "2023-06-24",
+    "direct": "https://bsufiles.drhx.ru/streams/1854535719.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1854535719.torrent",
+    "games": ["first-2023"]
   }
 }

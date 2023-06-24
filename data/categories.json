@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "tloz_totk", "segment": "1845108311", "name": "The Legend of Zelda: Tears of the Kingdom #9", "start": 0},
       {"id": "lof-23", "segment": "1846924247", "name": "Layers of Fear (2023) #1", "start": 0},
       {"id": "lof-23", "segment": "1847650355,1847673917", "name": "Layers of Fear (2023) #2", "start": 0},
       {"id": "tloz_totk", "segment": "1847820448", "name": "The Legend of Zelda: Tears of the Kingdom #10", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "first-2023", "segment": "1851046365", "name": "Aliens: Dark Descent", "start": 0},
       {"id": "ff-xvi", "segment": "1851883489", "name": "Final Fantasy XVI #1", "start": 0},
       {"id": "ff-xvi", "segment": "1852712395", "name": "Final Fantasy XVI #2", "start": 0},
-      {"id": "ff-xvi", "segment": "1853577518", "name": "Final Fantasy XVI #3", "start": 0}
+      {"id": "ff-xvi", "segment": "1853577518", "name": "Final Fantasy XVI #3", "start": 0},
+      {"id": "first-2023", "segment": "1854535719", "name": "Viewfinder (демо) / Trepang2 / Daydream: Forgotten Sorrow / Only Up! / Little Kitty, Big City (демо)", "start": 0}
     ]
   },
   "finished": {
@@ -1197,7 +1197,12 @@
       {"id": "first-2023", "segment": "1849426857", "name": "Unholy", "start": 7487},
       {"id": "first-2023", "segment": "1849426857", "name": "The Event (демо)", "start": 15474},
       {"id": "first-2023", "segment": "1849426857", "name": "Scholar's Mate: First Move", "start": 17948},
-      {"id": "first-2023", "segment": "1851046365", "name": "Aliens: Dark Descent", "start": 1799}
+      {"id": "first-2023", "segment": "1851046365", "name": "Aliens: Dark Descent", "start": 1799},
+      {"id": "first-2023", "segment": "1854535719", "name": "Viewfinder (демо)", "start": 914},
+      {"id": "first-2023", "segment": "1854535719", "name": "Trepang2", "start": 2747},
+      {"id": "first-2023", "segment": "1854535719", "name": "Daydream: Forgotten Sorrow", "start": 6704},
+      {"id": "first-2023", "segment": "1854535719", "name": "Only Up!", "start": 10070},
+      {"id": "first-2023", "segment": "1854535719", "name": "Little Kitty, Big City (демо)", "start": 14083}
     ]
   },
   "ongoing": {
