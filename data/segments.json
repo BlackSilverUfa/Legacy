@@ -11141,10 +11141,9 @@
     "games": ["ff-xvi"]
   },
   "1854535719": {
-    "abs_start": "0:00", "abs_end": "5:05:21", "duration": "0:00",
+    "youtube": "Ol7m6cjgA6M", "abs_start": "0:00", "abs_end": "5:05:01", "duration": "5:05:01",
     "name": "Viewfinder (демо) / Trepang2 - Релиз / Daydream: Forgotten Sorrow / Only Up! / Little Kitty, Big City (демо)",
     "date": "2023-06-24",
-    "direct": "https://bsufiles.drhx.ru/streams/1854535719.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1854535719.torrent",
     "games": ["first-2023", "trepang2"]
   }
