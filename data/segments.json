@@ -4985,9 +4985,9 @@
   },
   "524865260": {
     "youtube": "Do6LKdxoE-k", "abs_start": "-0:05", "abs_end": "6:03:17", "duration": "6:03:22",
-    "name": "Trepang2 (демо) / Suite 776 / The Alien Cube - Демо / The Paperman / Alien: Isolation (Extreme + новый ИИ) #1",
+    "name": "Trepang2 - Демо / Suite 776 / The Alien Cube - Демо / The Paperman / Alien: Isolation (Extreme + новый ИИ) #1",
     "date": "2019-12-22",
-    "games": ["first-2019", "single", "alien-cube", "alien-isolation-ai"]
+    "games": ["trepang2", "single", "alien-cube", "first-2019", "alien-isolation-ai"]
   },
   "525744926": {
     "youtube": "zx1dANJ3KnM", "abs_start": "0:00", "abs_end": "7:44:27", "duration": "7:44:27",
@@ -7694,9 +7694,9 @@
   },
   "1059978031": {
     "youtube": "f_QmR48kHUA", "official": false, "abs_start": "0:00", "abs_end": "6:37:25", "duration": "6:37:25",
-    "name": "The Red Solstice 2: Survivors / Industria (демо) / Greak: Memories of Azur (демо) / Chasing Static - Демо / Song of Iron (демо) / Death Trash (демо) / Undying Symphony (демо) / Bandit Simulator (демо) / Super Bomberman R Online",
+    "name": "The Red Solstice 2: Survivors / Industria - Демо / Greak: Memories of Azur (демо) / Chasing Static - Демо / Song of Iron (демо) / Death Trash (демо) / Undying Symphony (демо) / Bandit Simulator (демо) / Super Bomberman R Online",
     "date": "2021-06-18",
-    "games": ["co-op", "single", "chasing-static", "first-2021"]
+    "games": ["co-op", "industria", "single", "chasing-static", "first-2021"]
   },
   "1061050549": {
     "youtube": "so-xSwlGgLQ", "official": false, "abs_start": "0:00", "abs_end": "6:18:55", "duration": "6:18:55",
@@ -8213,9 +8213,9 @@
   },
   "1164327068": {
     "youtube": "oN6IvU2pjYQ", "abs_start": "0:00", "abs_end": "6:16:02", "duration": "6:16:02",
-    "name": "Industria / The Eternal Cylinder - Релиз",
+    "name": "Industria - Релиз / The Eternal Cylinder - Релиз",
     "date": "2021-10-01",
-    "games": ["single", "eternal-cylinder"]
+    "games": ["industria", "eternal-cylinder"]
   },
   "1166311485": {
     "youtube": "IMu9yLojqKI", "abs_start": "0:00", "abs_end": "4:17:28", "duration": "4:17:28",
@@ -8954,9 +8954,9 @@
   },
   "1307474557": {
     "youtube": "zL1PUTMZk9I", "abs_start": "0:00", "abs_end": "4:48:34", "duration": "4:48:34",
-    "name": "Daymare: 1994 Sandcastle #2 / Little Orpheus - Episode 1 / The Bridge Curse: Road to Salvation (демо) / My Friendly Neighborhood (демо) / SCP: Pandemic (демо) / IXION - Демо",
+    "name": "Daymare: 1994 Sandcastle #2 / Little Orpheus - Episode 1 / The Bridge Curse: Road to Salvation - Демо / My Friendly Neighborhood (демо) / SCP: Pandemic (демо) / IXION - Демо",
     "date": "2022-02-23",
-    "games": ["daymare-1994-sc", "single", "first-2022", "ixion"]
+    "games": ["daymare-1994-sc", "single", "bridge-curse", "first-2022", "ixion"]
   },
   "1312161316": {
     "youtube": "t0uGPdBdHAE", "abs_start": "0:00", "abs_end": "6:08:35", "duration": "6:08:35",
@@ -9575,10 +9575,10 @@
   },
   "1572044648": {
     "youtube": "ONXeGG-FwL8", "abs_start": "0:00", "abs_end": "6:12:40", "duration": "6:12:10",
-    "name": "EXP: War Trauma / Outbreak Island: Pendulum / Soulstice (демо) / Mirror Forge (демо) / Super Catboy",
+    "name": "EXP: War Trauma / Outbreak Island: Pendulum / Soulstice (демо) / Mirror Forge - Демо / Super Catboy",
     "date": "2022-08-25",
     "cuts": [[17799, 17829]],
-    "games": ["single", "first-2022"]
+    "games": ["single", "first-2022", "mirror-forge"]
   },
   "1573052503": {
     "youtube": "qFS4leOWwxM", "abs_start": "0:00", "abs_end": "6:16:24", "duration": "6:16:24",
@@ -9613,9 +9613,9 @@
   },
   "1578740848": {
     "youtube": "8VTlHD1tfXA", "abs_start": "0:00", "abs_end": "6:03:24", "duration": "6:03:24",
-    "name": "Security Booth: Director's Cut / The Bridge Curse: Road To Salvation",
+    "name": "Security Booth: Director's Cut / The Bridge Curse: Road to Salvation - Релиз",
     "date": "2022-09-01",
-    "games": ["single", "first-2022"]
+    "games": ["single", "bridge-curse"]
   },
   "1579576285": {
     "youtube": "Iak_0yOzItE", "abs_start": "0:00", "abs_end": "8:40:27", "duration": "8:40:27",
@@ -9746,10 +9746,10 @@
   },
   "1608110648": {
     "youtube": "rw8-SAr4KBw", "abs_start": "0:00", "abs_end": "6:26:03", "duration": "6:25:33",
-    "name": "Dark Light / Apocalyptic Vibes (демо) / Electrician Simulator / Priest Simulator / The Bathhouse",
+    "name": "Dark Light / Apocalyptic Vibes - Демо / Electrician Simulator / Priest Simulator / The Bathhouse",
     "date": "2022-10-03",
     "cuts": [[17676, 17706]],
-    "games": ["first-2022", "single"]
+    "games": ["first-2022", "apocalyptic-vibes", "single"]
   },
   "1608964216": {
     "youtube": "DvuGUvHAF9k", "abs_start": "0:00", "abs_end": "4:28:03", "duration": "4:28:03",
@@ -10616,9 +10616,9 @@
   },
   "1778887686": {
     "youtube": "10g8hGkyMfY", "abs_start": "0:00", "abs_end": "8:01:23", "duration": "8:01:23",
-    "name": "Crime Boss: Rockay City - Соло / Apocalyptic Vibes / Crime Boss: Rockay City #2 (4D) / DEVOUR #6",
+    "name": "Crime Boss: Rockay City - Соло / Apocalyptic Vibes - Релиз / Crime Boss: Rockay City #2 (4D) / DEVOUR #6",
     "date": "2023-03-29",
-    "games": ["crime-boss-4d", "first-2023", "devour"]
+    "games": ["crime-boss-4d", "apocalyptic-vibes", "devour"]
   },
   "1780702580": {
     "youtube": "UWt07xiprOY", "abs_start": "0:00", "abs_end": "6:06:41", "duration": "6:06:41",
@@ -11142,10 +11142,10 @@
   },
   "1854535719": {
     "abs_start": "0:00", "abs_end": "5:05:21", "duration": "0:00",
-    "name": "Viewfinder (демо) / Trepang2 / Daydream: Forgotten Sorrow / Only Up! / Little Kitty, Big City (демо)",
+    "name": "Viewfinder (демо) / Trepang2 - Релиз / Daydream: Forgotten Sorrow / Only Up! / Little Kitty, Big City (демо)",
     "date": "2023-06-24",
     "direct": "https://bsufiles.drhx.ru/streams/1854535719.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1854535719.torrent",
-    "games": ["first-2023"]
+    "games": ["first-2023", "trepang2"]
   }
 }
