@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "lof-23", "segment": "1846924247", "name": "Layers of Fear (2023) #1", "start": 0},
       {"id": "lof-23", "segment": "1847650355,1847673917", "name": "Layers of Fear (2023) #2", "start": 0},
       {"id": "tloz_totk", "segment": "1847820448", "name": "The Legend of Zelda: Tears of the Kingdom #10", "start": 0},
       {"id": "tloz_totk", "segment": "1848514917", "name": "The Legend of Zelda: Tears of the Kingdom #11", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "ff-xvi", "segment": "1851883489", "name": "Final Fantasy XVI #1", "start": 0},
       {"id": "ff-xvi", "segment": "1852712395", "name": "Final Fantasy XVI #2", "start": 0},
       {"id": "ff-xvi", "segment": "1853577518", "name": "Final Fantasy XVI #3", "start": 0},
-      {"id": "first-2023", "segment": "1854535719", "name": "Viewfinder (демо) / Trepang2 - Релиз / Daydream: Forgotten Sorrow / Only Up! / Little Kitty, Big City (демо)", "start": 0}
+      {"id": "first-2023", "segment": "1854535719", "name": "Viewfinder (демо) / Trepang2 - Релиз / Daydream: Forgotten Sorrow / Only Up! / Little Kitty, Big City (демо)", "start": 0},
+      {"id": "they-are-here", "segment": "1855403959", "name": "They Are Here: Alien Abduction Horror - Демо 2 / Ebola Village (демо) / Stray Souls - Демо 2 / SCP: Observer / Dyer Expedition (демо) / Sniper Killer (демо) / The Diner / The Muller-Powell Principle (демо) / Unknown Memoirs: The Rental / Horror Stories: Harvest Hunt", "start": 0}
     ]
   },
   "finished": {
@@ -259,7 +259,6 @@
       {"id": "single", "segment": "1059978031", "name": "Undying Symphony (демо)", "start": 19486},
       {"name": "Chasing Static", "id": "chasing-static", "segment": "1059978031"},
       {"name": "Industria", "id": "industria", "segment": "1059978031"},
-      {"id": "single", "segment": "1061050549", "name": "They Are Here (демо)", "start": 1547},
       {"id": "single", "segment": "1061050549", "name": "Last Village (демо)", "start": 2959},
       {"id": "single", "segment": "1061050549", "name": "Rocket Stop Incident (демо)", "start": 3877},
       {"id": "single", "segment": "1061050549", "name": "Interference (демо)", "start": 7669},
@@ -623,7 +622,12 @@
       {"id": "single", "segment": "1843524831", "name": "Sludge Life 2 (демо)", "start": 10287},
       {"id": "single", "segment": "1849426857", "name": "Night Security", "start": 1333},
       {"id": "single", "segment": "1849426857", "name": "Lazarus", "start": 12111},
-      {"id": "single", "segment": "1849426857", "name": "Incident at Grove Lake", "start": 13897}
+      {"id": "single", "segment": "1849426857", "name": "Incident at Grove Lake", "start": 13897},
+      {"id": "single", "segment": "1855403959", "name": "Dyer Expedition (демо)", "start": 8360},
+      {"id": "single", "segment": "1855403959", "name": "Sniper Killer (демо)", "start": 9786},
+      {"id": "single", "segment": "1855403959", "name": "The Diner", "start": 13121},
+      {"id": "single", "segment": "1855403959", "name": "The Muller-Powell Principle (демо)", "start": 13754},
+      {"id": "single", "segment": "1855403959", "name": "Unknown Memoirs: The Rental", "start": 16781}
     ]
   },
   "first": {
@@ -974,7 +978,6 @@
       {"id": "first-2021", "segment": "1222726196", "name": "Chorus", "start": 7498},
       {"id": "first-2021", "segment": "1222726196", "name": "Propnight", "start": 16203},
       {"id": "first-2021", "segment": "1223700316", "name": "Icarus", "start": 0},
-      {"id": "first-2021", "segment": "1224807350", "name": "Stray Souls (демо)", "start": 0},
       {"id": "first-2021", "segment": "1224807350", "name": "Sinfeld Remastered (демо)", "start": 9279},
       {"id": "first-2021", "segment": "1229405550", "name": "The Matrix Awakens", "start": 11443},
       {"id": "first-2021", "segment": "1241348243", "name": "Planet Crafter: Prologue", "start": 0},
@@ -1194,7 +1197,10 @@
       {"id": "first-2023", "segment": "1854535719", "name": "Viewfinder (демо)", "start": 914},
       {"id": "first-2023", "segment": "1854535719", "name": "Daydream: Forgotten Sorrow", "start": 6704},
       {"id": "first-2023", "segment": "1854535719", "name": "Only Up!", "start": 10070},
-      {"id": "first-2023", "segment": "1854535719", "name": "Little Kitty, Big City (демо)", "start": 14083}
+      {"id": "first-2023", "segment": "1854535719", "name": "Little Kitty, Big City (демо)", "start": 14083},
+      {"id": "first-2023", "segment": "1855403959", "name": "Ebola Village (демо)", "start": 3879},
+      {"id": "first-2023", "segment": "1855403959", "name": "SCP: Observer", "start": 6838},
+      {"id": "first-2023", "segment": "1855403959", "name": "Horror Stories: Harvest Hunt", "start": 18314}
     ]
   },
   "ongoing": {
@@ -1203,6 +1209,8 @@
       {"name": "Trepang2", "id": "trepang2", "segment": "524865260"},
       {"name": "Stasis: Bone Totem", "id": "stasis-bt", "segment": "828815728"},
       {"name": "System Shock", "id": "system-shock", "segment": "928993182"},
+      {"name": "They Are Here: Alien Abduction Horror", "id": "they-are-here", "segment": "1061050549"},
+      {"name": "Stray Souls", "id": "stray-souls", "segment": "1224807350"},
       {"name": "The Legend of Zelda: Tears of the Kingdom", "id": "tloz_totk", "segment": "1817831979"},
       {"name": "Final Fantasy XVI", "id": "ff-xvi", "segment": "1844321743"}
     ]
