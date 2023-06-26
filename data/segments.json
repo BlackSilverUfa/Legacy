@@ -10820,14 +10820,12 @@
     "youtube": "fUUidegZOTA", "abs_start": "0:00", "abs_end": "3:14:22", "duration": "3:14:22",
     "name": "Layers of Fear (2023) - Демо",
     "date": "2023-05-19",
-    "torrent": "https://bsufiles.drhx.ru/streams/1823827495.torrent",
     "games": ["lof-23"]
   },
   "1824716509": {
     "youtube": "9xZ1aoXslUo", "abs_start": "0:00", "abs_end": "5:01:28", "duration": "5:01:28",
     "name": "Nancy Drew: The White Wolf of Icicle Creek (Нэнси Дрю. Белый волк Ледяного ущелья) #2",
     "date": "2023-05-20",
-    "torrent": "https://bsufiles.drhx.ru/streams/1824716509.torrent",
     "games": ["nancy-drew-wwoic"]
   },
   "1825542254": {
@@ -11154,5 +11152,13 @@
     "direct": "https://bsufiles.drhx.ru/streams/1855403959.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1855403959.torrent",
     "games": ["they-are-here", "first-2023", "stray-souls", "single"]
+  },
+  "1856178461": {
+    "abs_start": "0:00", "abs_end": "7:50:43", "duration": "0:00",
+    "name": "Final Fantasy XVI #4",
+    "date": "2023-06-26",
+    "direct": "https://bsufiles.drhx.ru/streams/1856178461.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1856178461.torrent",
+    "games": ["ff-xvi"]
   }
 }
