@@ -11160,10 +11160,10 @@
   },
   "1857082108": {
     "abs_start": "0:00", "abs_end": "5:52:41", "duration": "0:00",
-    "name": "Не размечено - The Callisto Protocol - DLC Final Transmission",
+    "name": "The Callisto Protocol - DLC: Final Transmission",
     "date": "2023-06-27",
     "direct": "https://bsufiles.drhx.ru/streams/1857082108.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1857082108.torrent",
-    "games": ["todo"]
+    "games": ["callisto-protocol"]
   }
 }

@@ -12,7 +12,7 @@
       {"id": "first-2023", "segment": "1854535719", "name": "Viewfinder (демо) / Trepang2 - Релиз / Daydream: Forgotten Sorrow / Only Up! / Little Kitty, Big City (демо)", "start": 0},
       {"id": "they-are-here", "segment": "1855403959", "name": "They Are Here: Alien Abduction Horror - Демо 2 / Ebola Village (демо) / Stray Souls - Демо 2 / SCP: Observer / Dyer Expedition (демо) / Sniper Killer (демо) / The Diner / The Muller-Powell Principle (демо) / Unknown Memoirs: The Rental / Horror Stories: Harvest Hunt", "start": 0},
       {"id": "ff-xvi", "segment": "1856178461", "name": "Final Fantasy XVI #4", "start": 0},
-      {"id": "todo", "segment": "1857082108", "name": "Не размечено - The Callisto Protocol - DLC Final Transmission", "start": 0}
+      {"id": "callisto-protocol", "segment": "1857082108", "name": "The Callisto Protocol - DLC: Final Transmission", "start": 0}
     ]
   },
   "finished": {
@@ -1656,8 +1656,7 @@
       {"id": "events", "segment": "1134934289", "name": "Розыгрыш Hades", "start": 6676},
       {"id": "events", "segment": "1142576899", "name": "Розыгрыш ROG Zephyrus G14 Alan Walker", "start": 0},
       {"id": "events", "segment": "1193856809", "name": "Розыгрыш ROG Spatha Black USB", "start": 0},
-      {"id": "other", "segment": "1248804713", "name": "Новый год 2022 (подарки, нарезки)", "start": 0},
-      {"name": "Не размечено", "id": "todo", "segment": "1857082108"}
+      {"id": "other", "segment": "1248804713", "name": "Новый год 2022 (подарки, нарезки)", "start": 0}
     ]
   },
   "expos": {
