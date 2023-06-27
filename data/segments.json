@@ -10832,7 +10832,6 @@
     "youtube": "LHP5jtKnHds", "abs_start": "0:00", "abs_end": "8:19:22", "duration": "8:19:22",
     "name": "The Legend of Zelda: Tears of the Kingdom #4",
     "date": "2023-05-21",
-    "torrent": "https://bsufiles.drhx.ru/streams/1825542254.torrent",
     "games": ["tloz_totk"]
   },
   "1826440973": {
@@ -11158,5 +11157,13 @@
     "date": "2023-06-26",
     "torrent": "https://bsufiles.drhx.ru/streams/1856178461.torrent",
     "games": ["ff-xvi"]
+  },
+  "1857082108": {
+    "abs_start": "0:00", "abs_end": "5:52:41", "duration": "0:00",
+    "name": "Не размечено - The Callisto Protocol - DLC Final Transmission",
+    "date": "2023-06-27",
+    "direct": "https://bsufiles.drhx.ru/streams/1857082108.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1857082108.torrent",
+    "games": ["todo"]
   }
 }

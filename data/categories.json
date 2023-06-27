@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "tloz_totk", "segment": "1847820448", "name": "The Legend of Zelda: Tears of the Kingdom #10", "start": 0},
       {"id": "tloz_totk", "segment": "1848514917", "name": "The Legend of Zelda: Tears of the Kingdom #11", "start": 0},
       {"id": "single", "segment": "1849426857", "name": "Night Security / Unholy / Lazarus / Incident at Grove Lake / The Event (демо) / Scholar's Mate: First Move", "start": 0},
       {"id": "first-2023", "segment": "1851046365", "name": "Aliens: Dark Descent", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "ff-xvi", "segment": "1853577518", "name": "Final Fantasy XVI #3", "start": 0},
       {"id": "first-2023", "segment": "1854535719", "name": "Viewfinder (демо) / Trepang2 - Релиз / Daydream: Forgotten Sorrow / Only Up! / Little Kitty, Big City (демо)", "start": 0},
       {"id": "they-are-here", "segment": "1855403959", "name": "They Are Here: Alien Abduction Horror - Демо 2 / Ebola Village (демо) / Stray Souls - Демо 2 / SCP: Observer / Dyer Expedition (демо) / Sniper Killer (демо) / The Diner / The Muller-Powell Principle (демо) / Unknown Memoirs: The Rental / Horror Stories: Harvest Hunt", "start": 0},
-      {"id": "ff-xvi", "segment": "1856178461", "name": "Final Fantasy XVI #4", "start": 0}
+      {"id": "ff-xvi", "segment": "1856178461", "name": "Final Fantasy XVI #4", "start": 0},
+      {"id": "todo", "segment": "1857082108", "name": "Не размечено - The Callisto Protocol - DLC Final Transmission", "start": 0}
     ]
   },
   "finished": {
@@ -1656,7 +1656,8 @@
       {"id": "events", "segment": "1134934289", "name": "Розыгрыш Hades", "start": 6676},
       {"id": "events", "segment": "1142576899", "name": "Розыгрыш ROG Zephyrus G14 Alan Walker", "start": 0},
       {"id": "events", "segment": "1193856809", "name": "Розыгрыш ROG Spatha Black USB", "start": 0},
-      {"id": "other", "segment": "1248804713", "name": "Новый год 2022 (подарки, нарезки)", "start": 0}
+      {"id": "other", "segment": "1248804713", "name": "Новый год 2022 (подарки, нарезки)", "start": 0},
+      {"name": "Не размечено", "id": "todo", "segment": "1857082108"}
     ]
   },
   "expos": {
