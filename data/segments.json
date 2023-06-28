@@ -10838,15 +10838,12 @@
     "youtube": "ZD_8bg-sxJY", "abs_start": "0:00", "abs_end": "2:41:17", "duration": "2:41:17",
     "name": "The Outlast Trials #1 (соло) / Deppart Prototype / Daymare: 1994 Sandcastle #3",
     "date": "2023-05-22",
-    "torrent": "https://bsufiles.drhx.ru/streams/1826440973.torrent",
     "games": ["outlast-trials", "single", "daymare-1994-sc"]
   },
   "1827232465": {
     "abs_start": "0:00", "abs_end": "3:39:38", "duration": "0:00",
     "name": "",
     "date": "2023-05-23",
-    "direct": "https://bsufiles.drhx.ru/streams/1827232465.mp4",
-    "torrent": "https://bsufiles.drhx.ru/streams/1827232465.torrent",
     "games": []
   },
   "1827360298": {
@@ -11164,5 +11161,14 @@
     "date": "2023-06-27",
     "torrent": "https://bsufiles.drhx.ru/streams/1857082108.torrent",
     "games": ["callisto-protocol"]
+  },
+  "1857876199": {
+    "abs_start": "0:00", "abs_end": "8:44:06", "duration": "0:00",
+    "name": "Final Fantasy XVI #5",
+    "date": "2023-06-28",
+    "direct": "https://bsufiles.drhx.ru/streams/1857876199.mp4",
+    "cuts": [[5788, 5848]],
+    "torrent": "https://bsufiles.drhx.ru/streams/1857876199.torrent",
+    "games": ["ff-xvi"]
   }
 }
