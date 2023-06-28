@@ -11159,10 +11159,9 @@
     "games": ["ff-xvi"]
   },
   "1857082108": {
-    "abs_start": "0:00", "abs_end": "5:52:41", "duration": "0:00",
+    "youtube": "ibmSIPSZp_k", "abs_start": "0:00", "abs_end": "5:52:19", "duration": "5:52:19",
     "name": "The Callisto Protocol - DLC: Final Transmission",
     "date": "2023-06-27",
-    "direct": "https://bsufiles.drhx.ru/streams/1857082108.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1857082108.torrent",
     "games": ["callisto-protocol"]
   }
