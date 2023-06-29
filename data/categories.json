@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "single", "segment": "1849426857", "name": "Night Security / Unholy / Lazarus / Incident at Grove Lake / The Event (демо) / Scholar's Mate: First Move", "start": 0},
       {"id": "first-2023", "segment": "1851046365", "name": "Aliens: Dark Descent", "start": 0},
       {"id": "ff-xvi", "segment": "1851883489", "name": "Final Fantasy XVI #1", "start": 0},
       {"id": "ff-xvi", "segment": "1852712395", "name": "Final Fantasy XVI #2", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "they-are-here", "segment": "1855403959", "name": "They Are Here: Alien Abduction Horror - Демо 2 / Ebola Village (демо) / Stray Souls - Демо 2 / SCP: Observer / Dyer Expedition (демо) / Sniper Killer (демо) / The Diner / The Muller-Powell Principle (демо) / Unknown Memoirs: The Rental / Horror Stories: Harvest Hunt", "start": 0},
       {"id": "ff-xvi", "segment": "1856178461", "name": "Final Fantasy XVI #4", "start": 0},
       {"id": "callisto-protocol", "segment": "1857082108", "name": "The Callisto Protocol - DLC: Final Transmission", "start": 0},
-      {"id": "ff-xvi", "segment": "1857876199", "name": "Final Fantasy XVI #5", "start": 0}
+      {"id": "ff-xvi", "segment": "1857876199", "name": "Final Fantasy XVI #5", "start": 0},
+      {"id": "ff-xvi", "segment": "1858764516", "name": "Final Fantasy XVI #6", "start": 0}
     ]
   },
   "finished": {
@@ -620,6 +620,7 @@
       {"id": "single", "segment": "1843524831", "name": "The Book Walker: Thief of Tales (демо)", "start": 1787},
       {"id": "single", "segment": "1843524831", "name": "En Garde! (демо)", "start": 7362},
       {"id": "single", "segment": "1843524831", "name": "Sludge Life 2 (демо)", "start": 10287},
+      {"name": "Final Fantasy XVI", "id": "ff-xvi", "segment": "1844321743"},
       {"id": "single", "segment": "1849426857", "name": "Night Security", "start": 1333},
       {"id": "single", "segment": "1849426857", "name": "Lazarus", "start": 12111},
       {"id": "single", "segment": "1849426857", "name": "Incident at Grove Lake", "start": 13897},
@@ -1211,8 +1212,7 @@
       {"name": "System Shock", "id": "system-shock", "segment": "928993182"},
       {"name": "They Are Here: Alien Abduction Horror", "id": "they-are-here", "segment": "1061050549"},
       {"name": "Stray Souls", "id": "stray-souls", "segment": "1224807350"},
-      {"name": "The Legend of Zelda: Tears of the Kingdom", "id": "tloz_totk", "segment": "1817831979"},
-      {"name": "Final Fantasy XVI", "id": "ff-xvi", "segment": "1844321743"}
+      {"name": "The Legend of Zelda: Tears of the Kingdom", "id": "tloz_totk", "segment": "1817831979"}
     ]
   },
   "infinite": {
