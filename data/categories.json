@@ -1209,7 +1209,6 @@
     "games": [
       {"name": "Trepang2", "id": "trepang2", "segment": "524865260"},
       {"name": "Stasis: Bone Totem", "id": "stasis-bt", "segment": "828815728"},
-      {"name": "System Shock", "id": "system-shock", "segment": "928993182"},
       {"name": "They Are Here: Alien Abduction Horror", "id": "they-are-here", "segment": "1061050549"},
       {"name": "Stray Souls", "id": "stray-souls", "segment": "1224807350"},
       {"name": "The Legend of Zelda: Tears of the Kingdom", "id": "tloz_totk", "segment": "1817831979"}
@@ -1361,6 +1360,7 @@
       {"name": "Loop Hero", "id": "loop-hero", "segment": "926537203"},
       {"name": "Breathedge", "id": "breathedge", "segment": "927781155"},
       {"name": "Outriders", "id": "outriders", "segment": "928993182"},
+      {"name": "System Shock", "id": "system-shock", "segment": "928993182"},
       {"name": "The Eternal Cylinder", "id": "eternal-cylinder", "segment": "958844668"},
       {"name": "Silent Hill 4: The Room", "id": "sh4", "segment": "987111954"},
       {"name": "Зайчик (Tiny Bunny)", "id": "tiny-bunny", "segment": "990810001"},
