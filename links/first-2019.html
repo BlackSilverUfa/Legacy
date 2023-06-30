@@ -2810,9 +2810,9 @@
         <i class="fas fa-comments"></i> 20433
       </a>
     </span>
-    <span class="badge badge-success">
-      <a href="https://www.youtube.com/watch?v=Ag8LclImehU" target="_blank">
-        <i class="fab fa-youtube"></i> Ag8LclImehU
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/504672487.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -2857,6 +2857,7 @@
 
       <li>Проблемы с правообладателями:</li>
   <ul>
+    <li><a data-value="5862">1:37:42</a> - <a data-value="5882">1:38:02</a> — Little Richard and His Band - Long Tall Sally</li>
     <li><a data-value="10535">2:55:35</a> - <a data-value="10601">2:56:41</a> — Cab Calloway - Everybody Eats When they come to my House</li>
     <li><a data-value="10910">3:01:50</a> - <a data-value="10991">3:03:11</a> — Al Hirt - Java</li>
   </ul>
@@ -2876,13 +2877,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="34" data-hash="504672487" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v504672487.ass" data-start="13824" data-name="Planet Zoo" data-youtube="Ag8LclImehU" />
+  <p class="stream" data-id="34" data-hash="504672487" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v504672487.ass" data-start="13824" data-name="Planet Zoo" data-direct="https://bsufiles.drhx.ru/streams/504672487.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v504672487.ass --start=13824 ytdl://Ag8LclImehU
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v504672487.ass --start=13824 https://bsufiles.drhx.ru/streams/504672487.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v504672487.ass --start=13824" --player-passthrough hls twitch.tv/videos/504672487 best
 </code></pre>
 </div>
 

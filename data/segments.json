@@ -2016,9 +2016,10 @@
     "games": ["first-2018", "ds-remastered"]
   },
   "260957900": {
-    "youtube": "iELyHG4xwzg", "official": false, "abs_start": "0:00", "abs_end": "3:56:14", "duration": "3:56:14",
+    "abs_start": "0:00", "abs_end": "3:57:19", "duration": "0:00",
     "name": "Dark Souls 2: Scholar of the First Sin #1",
     "date": "2018-05-13",
+    "direct": "https://bsufiles.drhx.ru/streams/260957900.mp4",
     "games": ["ds2-scholar"]
   },
   "262352362": {
@@ -4797,9 +4798,10 @@
     "games": ["first-2019", "mafia-2"]
   },
   "504672487": {
-    "youtube": "Ag8LclImehU", "abs_start": "0:00", "abs_end": "5:08:53", "duration": "5:08:53",
+    "abs_start": "0:00", "abs_end": "5:09:41", "duration": "0:00",
     "name": "Mafia II #5 / Planet Zoo",
     "date": "2019-11-06",
+    "direct": "https://bsufiles.drhx.ru/streams/504672487.mp4",
     "games": ["mafia-2", "first-2019"]
   },
   "505477026": {
@@ -10875,25 +10877,19 @@
     "abs_start": "0:00", "abs_end": "3:59:15", "duration": "0:00",
     "name": "",
     "date": "2023-05-24",
-    "direct": "https://bsufiles.drhx.ru/streams/1828030256.mp4",
-    "torrent": "https://bsufiles.drhx.ru/streams/1828030256.torrent",
     "games": []
   },
   "1828157473": {
     "abs_start": "0:00", "abs_end": "1:58:41", "duration": "0:00",
     "name": "",
     "date": "2023-05-24",
-    "direct": "https://bsufiles.drhx.ru/streams/1828157473.mp4",
     "cuts": [[1190, 1442]],
-    "torrent": "https://bsufiles.drhx.ru/streams/1828157473.torrent",
     "games": []
   },
   "1828245817": {
     "abs_start": "0:00", "abs_end": "1:17:13", "duration": "0:00",
     "name": "",
     "date": "2023-05-24",
-    "direct": "https://bsufiles.drhx.ru/streams/1828245817.mp4",
-    "torrent": "https://bsufiles.drhx.ru/streams/1828245817.torrent",
     "games": []
   },
   "1828030256,1828157473,1828245817": {

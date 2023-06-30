@@ -1208,7 +1208,6 @@
     "name": "Активные",
     "games": [
       {"name": "Trepang2", "id": "trepang2", "segment": "524865260"},
-      {"name": "Stasis: Bone Totem", "id": "stasis-bt", "segment": "828815728"},
       {"name": "They Are Here: Alien Abduction Horror", "id": "they-are-here", "segment": "1061050549"},
       {"name": "Stray Souls", "id": "stray-souls", "segment": "1224807350"},
       {"name": "The Legend of Zelda: Tears of the Kingdom", "id": "tloz_totk", "segment": "1817831979"}
@@ -1349,6 +1348,7 @@
       {"name": "Assassin's Creed: Valhalla", "id": "ac-valhalla", "segment": "793751031"},
       {"name": "Gears 5", "id": "gears-5", "segment": "793751031"},
       {"name": "Immortals Fenyx Rising", "id": "immortals-fr", "segment": "817321307"},
+      {"name": "Stasis: Bone Totem", "id": "stasis-bt", "segment": "828815728"},
       {"name": "Clive Barker's Undying", "id": "cb-undying", "segment": "846191668"},
       {"name": "SCP: Janitorial Work", "id": "scp-janitor", "segment": "851535429"},
       {"name": "Hidden Deep", "id": "hidden-deep", "segment": "860924750"},
