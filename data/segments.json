@@ -11156,10 +11156,9 @@
     "games": ["callisto-protocol"]
   },
   "1857876199": {
-    "abs_start": "0:00", "abs_end": "8:44:06", "duration": "0:00",
+    "youtube": "ziKwZz5djxU", "abs_start": "0:00", "abs_end": "8:44:19", "duration": "8:43:19",
     "name": "Final Fantasy XVI #5",
     "date": "2023-06-28",
-    "direct": "https://bsufiles.drhx.ru/streams/1857876199.mp4",
     "cuts": [[5788, 5848]],
     "torrent": "https://bsufiles.drhx.ru/streams/1857876199.torrent",
     "games": ["ff-xvi"]
