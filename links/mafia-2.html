@@ -318,9 +318,9 @@
         <i class="fas fa-comments"></i> 19189
       </a>
     </span>
-    <span class="badge badge-warning">
-      <a href="https://www.youtube.com/watch?v=elAc4C4lg2A" target="_blank">
-        <i class="fab fa-youtube"></i> elAc4C4lg2A
+    <span class="badge badge-danger">
+      <a href="https://bsufiles.drhx.ru/streams/503413959.mp4">
+        <i class="fas fa-download"></i> скачать
       </a>
     </span>
   </div>
@@ -358,6 +358,7 @@
       <a data-value="9510">2:38:30</a> - <a data-value="9597">2:39:57</a>
       — Roy Hamilton - Don't Let Go
     </li>
+    <li><a data-value="5727">1:35:27</a> - <a data-value="5851">1:37:31</a> — Little Richard and His Band - Long Tall Sally</li>
     <li><a data-value="9392">2:36:32</a> - <a data-value="9453">2:37:33</a> — Eddie Cochran - Summertime Blues</li>
     <li>
       <a data-value="13292">3:41:32</a> - <a data-value="13422">3:43:42</a>,
@@ -387,13 +388,19 @@
 </ul>
 
 <div class="video-row d-flex justify-content-center">
-  <p class="stream" data-id="2" data-hash="503413959" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v503413959.ass" data-name="3" data-youtube="elAc4C4lg2A" />
+  <p class="stream" data-id="2" data-hash="503413959" data-subtitles="https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v503413959.ass" data-name="3" data-direct="https://bsufiles.drhx.ru/streams/503413959.mp4" />
 </div>
 
 
 
 <div class="highlighter-rouge">
-  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v503413959.ass ytdl://elAc4C4lg2A
+  <pre class="highlight"><code>mpv --sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v503413959.ass https://bsufiles.drhx.ru/streams/503413959.mp4
+</code></pre>
+</div>
+
+
+<div class="highlighter-rouge">
+  <pre class="highlight"><code>streamlink -p mpv -a "--sub-file=https://cdn.jsdelivr.net/gh/BlackSilverUfa/chats-2019@master/v503413959.ass" --player-passthrough hls twitch.tv/videos/503413959 best
 </code></pre>
 </div>
 
