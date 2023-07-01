@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "first-2023", "segment": "1851046365", "name": "Aliens: Dark Descent", "start": 0},
       {"id": "ff-xvi", "segment": "1851883489", "name": "Final Fantasy XVI #1", "start": 0},
       {"id": "ff-xvi", "segment": "1852712395", "name": "Final Fantasy XVI #2", "start": 0},
       {"id": "ff-xvi", "segment": "1853577518", "name": "Final Fantasy XVI #3", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "ff-xvi", "segment": "1856178461", "name": "Final Fantasy XVI #4", "start": 0},
       {"id": "callisto-protocol", "segment": "1857082108", "name": "The Callisto Protocol - DLC: Final Transmission", "start": 0},
       {"id": "ff-xvi", "segment": "1857876199", "name": "Final Fantasy XVI #5", "start": 0},
-      {"id": "ff-xvi", "segment": "1858764516", "name": "Final Fantasy XVI #6", "start": 0}
+      {"id": "ff-xvi", "segment": "1858764516", "name": "Final Fantasy XVI #6", "start": 0},
+      {"id": "todo", "segment": "1860536794", "name": "Не размечено - Disney's Tarzan / Не размечено - Chessmaster II / Не размечено - Looney Tunes: Sheep Raider", "start": 0}
     ]
   },
   "finished": {
@@ -1656,7 +1656,8 @@
       {"id": "events", "segment": "1134934289", "name": "Розыгрыш Hades", "start": 6676},
       {"id": "events", "segment": "1142576899", "name": "Розыгрыш ROG Zephyrus G14 Alan Walker", "start": 0},
       {"id": "events", "segment": "1193856809", "name": "Розыгрыш ROG Spatha Black USB", "start": 0},
-      {"id": "other", "segment": "1248804713", "name": "Новый год 2022 (подарки, нарезки)", "start": 0}
+      {"id": "other", "segment": "1248804713", "name": "Новый год 2022 (подарки, нарезки)", "start": 0},
+      {"name": "Не размечено", "id": "todo", "segment": "1860536794"}
     ]
   },
   "expos": {
