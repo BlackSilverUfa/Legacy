@@ -4785,10 +4785,9 @@
     "games": ["expos", "nioh-2", "mafia-2"]
   },
   "503413959": {
-    "abs_start": "0:00", "abs_end": "5:15:05", "duration": "0:00",
+    "youtube": "y_i2qnRp0HU", "official": false, "abs_start": "0:00", "abs_end": "5:14:17", "duration": "5:14:17",
     "name": "Mafia II #3",
     "date": "2019-11-03",
-    "direct": "https://bsufiles.drhx.ru/streams/503413959.mp4",
     "games": ["mafia-2"]
   },
   "504248004": {
