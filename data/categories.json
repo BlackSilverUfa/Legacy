@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "ff-xvi", "segment": "1853577518", "name": "Final Fantasy XVI #3", "start": 0},
       {"id": "first-2023", "segment": "1854535719", "name": "Viewfinder (демо) / Trepang2 - Релиз / Daydream: Forgotten Sorrow / Only Up! / Little Kitty, Big City (демо)", "start": 0},
       {"id": "they-are-here", "segment": "1855403959", "name": "They Are Here: Alien Abduction Horror - Демо 2 / Ebola Village (демо) / Stray Souls - Демо 2 / SCP: Observer / Dyer Expedition (демо) / Sniper Killer (демо) / The Diner / The Muller-Powell Principle (демо) / Unknown Memoirs: The Rental / Horror Stories: Harvest Hunt", "start": 0},
       {"id": "ff-xvi", "segment": "1856178461", "name": "Final Fantasy XVI #4", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "ff-xvi", "segment": "1858764516", "name": "Final Fantasy XVI #6", "start": 0},
       {"id": "todo", "segment": "1860536794", "name": "Не размечено - Disney's Tarzan / Не размечено - Chessmaster II / Не размечено - Looney Tunes: Sheep Raider", "start": 0},
       {"id": "todo", "segment": "1861382266", "name": "Не размечено - Bratz: Rock Angelz / Не размечено - Bratz: Girlz Really Rock", "start": 0},
-      {"id": "todo", "segment": "1866511537", "name": "Не размечено - Super Bunny Man / SnowRunner #21", "start": 0}
+      {"id": "todo", "segment": "1866511537", "name": "Не размечено - Super Bunny Man / SnowRunner #21", "start": 0},
+      {"id": "todo", "segment": "1867374437", "name": "Не размечено - Страшно и точка / Не размечено - Ouija / Не размечено - The Hole / Не размечено - The Pizza / Не размечено - The Apartment Next Door / Не размечено - Survival & Horror: Mortanis Prisoners / Не размечено - The Horror Within / Не размечено - Decadence / Не размечено - Miside / Не размечено - Other Side / Не размечено - Chosen Who / Не размечено - Cryptid / Не размечено - Call of the fire / Не размечено - Mannequin / Не размечено - Wendigo", "start": 0}
     ]
   },
   "finished": {
