@@ -10931,7 +10931,6 @@
     "youtube": "SWPqHHH6P2c", "abs_start": "0:00", "abs_end": "5:48:55", "duration": "5:48:55",
     "name": "Shame Legacy / System Shock - Релиз",
     "date": "2023-05-30",
-    "torrent": "https://bsufiles.drhx.ru/streams/1833150878.torrent",
     "games": ["first-2023", "system-shock"]
   },
   "1833989886": {
@@ -11210,6 +11209,14 @@
     "name": "Не размечено - Gylt",
     "date": "2023-07-13",
     "torrent": "https://bsufiles.drhx.ru/streams/1870792843.torrent",
+    "games": ["todo"]
+  },
+  "1871657339": {
+    "abs_start": "0:00", "abs_end": "5:26:21", "duration": "0:00",
+    "name": "Не размечено - Voidtrain",
+    "date": "2023-07-14",
+    "direct": "https://bsufiles.drhx.ru/streams/1871657339.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1871657339.torrent",
     "games": ["todo"]
   }
 }
