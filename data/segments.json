@@ -10937,16 +10937,12 @@
     "abs_start": "0:00", "abs_end": "3:25:19", "duration": "0:00",
     "name": "",
     "date": "2023-05-31",
-    "direct": "https://bsufiles.drhx.ru/streams/1833989886.mp4",
-    "torrent": "https://bsufiles.drhx.ru/streams/1833989886.torrent",
     "games": []
   },
   "1834110105": {
     "abs_start": "0:00", "abs_end": "2:07:22", "duration": "0:00",
     "name": "",
     "date": "2023-05-31",
-    "direct": "https://bsufiles.drhx.ru/streams/1834110105.mp4",
-    "torrent": "https://bsufiles.drhx.ru/streams/1834110105.torrent",
     "games": []
   },
   "1833989886,1834110105": {
@@ -11223,6 +11219,14 @@
     "name": "Не размечено - Jagged Alliance 3",
     "date": "2023-07-15",
     "torrent": "https://bsufiles.drhx.ru/streams/1872459569.torrent",
+    "games": ["todo"]
+  },
+  "1873395096": {
+    "abs_start": "0:00", "abs_end": "6:00:18", "duration": "0:00",
+    "name": "Не размечено - Abandoned Souls / Не размечено - Schwarzwald / Не размечено - Backrooms: Realm of Shadows / Не размечено - The Tunnel / Не размечено - Fear Underground / Не размечено - Endless Suburbia / Не размечено - ABEL / Не размечено - Blood Field / Не размечено - Paranormal Observation / Не размечено - Vorax",
+    "date": "2023-07-16",
+    "direct": "https://bsufiles.drhx.ru/streams/1873395096.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1873395096.torrent",
     "games": ["todo"]
   }
 }
