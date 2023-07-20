@@ -10950,7 +10950,6 @@
     "name": "Зайчик (Tiny Bunny) - Эпизод 4 / MyHouse.wad / Stasis: Bone Totem - Релиз",
     "date": "2023-05-31",
     "offsets": [0, 12307],
-    "torrent": "https://bsufiles.drhx.ru/streams/1833989886,1834110105.torrent",
     "games": ["tiny-bunny", "single", "stasis-bt"]
   },
   "1834756368": {
@@ -10958,7 +10957,6 @@
     "name": "The Legend of Zelda: Tears of the Kingdom #7",
     "date": "2023-06-01",
     "cuts": [[27932, 27987]],
-    "torrent": "https://bsufiles.drhx.ru/streams/1834756368.torrent",
     "games": ["tloz_totk"]
   },
   "1835656508": {
@@ -11227,5 +11225,13 @@
     "date": "2023-07-16",
     "torrent": "https://bsufiles.drhx.ru/streams/1873395096.torrent",
     "games": ["todo"]
+  },
+  "1876874955": {
+    "abs_start": "0:00", "abs_end": "6:13:20", "duration": "0:00",
+    "name": "Не размечено - Please, Forgive Me / Не размечено - Unholy / The Mortuary Assistant #3",
+    "date": "2023-07-20",
+    "direct": "https://bsufiles.drhx.ru/streams/1876874955.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1876874955.torrent",
+    "games": ["todo", "mortuary-assistant"]
   }
 }

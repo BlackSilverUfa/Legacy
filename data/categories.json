@@ -3,7 +3,6 @@
     "name": "Недавние стримы",
     "search": false,
     "games": [
-      {"id": "todo", "segment": "1861382266", "name": "Не размечено - Bratz: Rock Angelz / Не размечено - Bratz: Girlz Really Rock", "start": 0},
       {"id": "todo", "segment": "1866511537", "name": "Не размечено - Super Bunny Man / SnowRunner #21", "start": 0},
       {"id": "todo", "segment": "1867374437", "name": "Не размечено - Страшно и точка / Не размечено - Ouija / Не размечено - The Hole / Не размечено - The Pizza / Не размечено - The Apartment Next Door / Не размечено - Survival & Horror: Mortanis Prisoners / Не размечено - The Horror Within / Не размечено - Decadence / Не размечено - Miside / Не размечено - Other Side / Не размечено - Chosen Who / Не размечено - Cryptid / Не размечено - Call of the fire / Не размечено - Mannequin / Не размечено - Wendigo", "start": 0},
       {"id": "tloz_totk", "segment": "1868119767", "name": "The Legend of Zelda: Tears of the Kingdom #12", "start": 0},
@@ -12,7 +11,8 @@
       {"id": "todo", "segment": "1870792843", "name": "Не размечено - Gylt", "start": 0},
       {"id": "todo", "segment": "1871657339", "name": "Не размечено - Voidtrain", "start": 0},
       {"id": "todo", "segment": "1872459569", "name": "Не размечено - Jagged Alliance 3", "start": 0},
-      {"id": "todo", "segment": "1873395096", "name": "Не размечено - Abandoned Souls / Не размечено - Schwarzwald / Не размечено - Backrooms: Realm of Shadows / Не размечено - The Tunnel / Не размечено - Fear Underground / Не размечено - Endless Suburbia / Не размечено - ABEL / Не размечено - Blood Field / Не размечено - Paranormal Observation / Не размечено - Vorax", "start": 0}
+      {"id": "todo", "segment": "1873395096", "name": "Не размечено - Abandoned Souls / Не размечено - Schwarzwald / Не размечено - Backrooms: Realm of Shadows / Не размечено - The Tunnel / Не размечено - Fear Underground / Не размечено - Endless Suburbia / Не размечено - ABEL / Не размечено - Blood Field / Не размечено - Paranormal Observation / Не размечено - Vorax", "start": 0},
+      {"id": "todo", "segment": "1876874955", "name": "Не размечено - Please, Forgive Me / Не размечено - Unholy / The Mortuary Assistant #3", "start": 0}
     ]
   },
   "finished": {
