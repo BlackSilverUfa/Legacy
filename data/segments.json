@@ -11233,5 +11233,13 @@
     "direct": "https://bsufiles.drhx.ru/streams/1876874955.mp4",
     "torrent": "https://bsufiles.drhx.ru/streams/1876874955.torrent",
     "games": ["todo", "mortuary-assistant"]
+  },
+  "1877734451": {
+    "abs_start": "0:00", "abs_end": "2:30:03", "duration": "0:00",
+    "name": "Не размечено - Exoprimal",
+    "date": "2023-07-21",
+    "direct": "https://bsufiles.drhx.ru/streams/1877734451.mp4",
+    "torrent": "https://bsufiles.drhx.ru/streams/1877734451.torrent",
+    "games": ["todo"]
   }
 }
